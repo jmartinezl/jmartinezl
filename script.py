@@ -1,12 +1,6 @@
 import requests
+from wordcloud import WordCloud
 
-def get_base_readme():
-
-    file = open("./BASE.md", "r")
-    data = str(file.read())
-    file.close()
-
-    return data
 
 def main():
 
@@ -14,8 +8,6 @@ def main():
 
     # Sort by karma.
     data.sort(reverse=True)
-    print(data)
-    
 
     markdown = "![Wordcloud](./cloud.png)\n\n# Top 10 posts of r/DevOps in the last day\n\n| Title | Author | Score |\n|:---|:---|:---|\n"
 
@@ -25,9 +17,17 @@ def main():
 
     base_readme = get_base_readme()
 
-    markdown = base_readme + "<br />" + markdown
+    markdown = base_readme + "\n\n" + markdown
 
     open("./README.md", "w", encoding="utf-8").write(markdown)
+
+    plot_cloud(data)
+
+
+def get_base_readme():
+
+    with open("./BASE.md", "r", encoding="utf-8") as file:
+        return file.read()
 
 
 def get_data():
@@ -50,6 +50,21 @@ def get_data():
             submission_data.append([score, title, author, permalink])
 
     return submission_data
+
+
+def plot_cloud(data):
+
+    stopwords = open("./stopwords.txt", "r",
+                     encoding="utf-8").read().splitlines()
+
+    text = str()
+
+    for item in data:
+        text += item[1]
+
+    wc = WordCloud(width=900, height=600, stopwords=stopwords,
+                   background_color="rgba(255, 255, 255, 0)", mode="RGBA").generate(text)
+    wc.to_file("./cloud.png")
 
 
 if __name__ == "__main__":
