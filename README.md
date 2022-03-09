@@ -45,12 +45,12 @@ Here are some ideas to get you started:
 | Title | Author | Score |
 |:---|:---|:---|
 | [How you would consider your current job as a devops to be different from a pure "programmer" or "sysadmin" or "network (cisco)" job right now ?](https://www.reddit.com/r/devops/comments/ta7aqg/how_you_would_consider_your_current_job_as_a/) | Cloud_Strifeeee | 42 |
-| [M1 Mac with base 64 images](https://www.reddit.com/r/devops/comments/ta6v7p/m1_mac_with_base_64_images/) | zerocoldx911 | 15 |
-| [PM to support a Git hybrid cloud setup](https://www.reddit.com/r/devops/comments/ta2k1h/pm_to_support_a_git_hybrid_cloud_setup/) | Tenelia | 12 |
-| [Git strategy for some complicated projects](https://www.reddit.com/r/devops/comments/ta3hph/git_strategy_for_some_complicated_projects/) | ThisIsntMyId | 9 |
-| [Need guidance on starting devops career](https://www.reddit.com/r/devops/comments/ta5zu4/need_guidance_on_starting_devops_career/) | NikhilSarna | 7 |
-| [HashiCorp Certified Vault Associate Review Notes](https://www.reddit.com/r/devops/comments/t9z5t0/hashicorp_certified_vault_associate_review_notes/) | dasCooDawg | 7 |
-| [Terraform Exam](https://www.reddit.com/r/devops/comments/taawdq/terraform_exam/) | savetheQ | 6 |
-| [Do you use build caches in your CI/CD pipelines?](https://www.reddit.com/r/devops/comments/ta6vfn/do_you_use_build_caches_in_your_cicd_pipelines/) | seanballais | 6 |
-| [What validations do you need in K8s?](https://www.reddit.com/r/devops/comments/t9s71s/what_validations_do_you_need_in_k8s/) | rubenhak | 3 |
+| [M1 Mac with base 64 images](https://www.reddit.com/r/devops/comments/ta6v7p/m1_mac_with_base_64_images/) | zerocoldx911 | 17 |
+| [PM to support a Git hybrid cloud setup](https://www.reddit.com/r/devops/comments/ta2k1h/pm_to_support_a_git_hybrid_cloud_setup/) | Tenelia | 11 |
+| [Git strategy for some complicated projects](https://www.reddit.com/r/devops/comments/ta3hph/git_strategy_for_some_complicated_projects/) | ThisIsntMyId | 11 |
+| [Need guidance on starting devops career](https://www.reddit.com/r/devops/comments/ta5zu4/need_guidance_on_starting_devops_career/) | NikhilSarna | 8 |
+| [HashiCorp Certified Vault Associate Review Notes](https://www.reddit.com/r/devops/comments/t9z5t0/hashicorp_certified_vault_associate_review_notes/) | dasCooDawg | 8 |
+| [Do you use build caches in your CI/CD pipelines?](https://www.reddit.com/r/devops/comments/ta6vfn/do_you_use_build_caches_in_your_cicd_pipelines/) | seanballais | 7 |
+| [What validations do you need in K8s?](https://www.reddit.com/r/devops/comments/t9s71s/what_validations_do_you_need_in_k8s/) | rubenhak | 5 |
+| [Terraform Exam](https://www.reddit.com/r/devops/comments/taawdq/terraform_exam/) | savetheQ | 5 |
 | [ECS Task with two containers](https://www.reddit.com/r/devops/comments/ta9ye7/ecs_task_with_two_containers/) | MrDragonNicaze | 3 |
