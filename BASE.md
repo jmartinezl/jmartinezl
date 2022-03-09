@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p><em>Python Developer and Cloud Specialist
 </em></p>
 
-**👆 You can contact me on [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-martinez-2b7b10104/)**
+**👆 You can contact me on [Linkedin](https://www.linkedin.com/in/jes%C3%BAs-martinez-2b7b10104/) or [email me](mailto:jesus.mtz.lorenzo@gmail.com)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
