@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How you would consider your current job as a devops to be different from a pure "programmer" or "sysadmin" or "network (cisco)" job right now ?](https://www.reddit.com/r/devops/comments/ta7aqg/how_you_would_consider_your_current_job_as_a/) | Cloud_Strifeeee | 42 |
-| [M1 Mac with base 64 images](https://www.reddit.com/r/devops/comments/ta6v7p/m1_mac_with_base_64_images/) | zerocoldx911 | 17 |
-| [PM to support a Git hybrid cloud setup](https://www.reddit.com/r/devops/comments/ta2k1h/pm_to_support_a_git_hybrid_cloud_setup/) | Tenelia | 11 |
-| [Git strategy for some complicated projects](https://www.reddit.com/r/devops/comments/ta3hph/git_strategy_for_some_complicated_projects/) | ThisIsntMyId | 11 |
-| [Need guidance on starting devops career](https://www.reddit.com/r/devops/comments/ta5zu4/need_guidance_on_starting_devops_career/) | NikhilSarna | 8 |
-| [HashiCorp Certified Vault Associate Review Notes](https://www.reddit.com/r/devops/comments/t9z5t0/hashicorp_certified_vault_associate_review_notes/) | dasCooDawg | 8 |
-| [Do you use build caches in your CI/CD pipelines?](https://www.reddit.com/r/devops/comments/ta6vfn/do_you_use_build_caches_in_your_cicd_pipelines/) | seanballais | 7 |
-| [What validations do you need in K8s?](https://www.reddit.com/r/devops/comments/t9s71s/what_validations_do_you_need_in_k8s/) | rubenhak | 5 |
-| [Terraform Exam](https://www.reddit.com/r/devops/comments/taawdq/terraform_exam/) | savetheQ | 5 |
-| [ECS Task with two containers](https://www.reddit.com/r/devops/comments/ta9ye7/ecs_task_with_two_containers/) | MrDragonNicaze | 3 |
+| [How you would consider your current job as a devops to be different from a pure "programmer" or "sysadmin" or "network (cisco)" job right now ?](https://www.reddit.com/r/devops/comments/ta7aqg/how_you_would_consider_your_current_job_as_a/) | Cloud_Strifeeee | 77 |
+| [What books would you recommend someone switching from a sysadmin role to devops? (On the topics of processes, planning &amp; best-practices)](https://www.reddit.com/r/devops/comments/tarod3/what_books_would_you_recommend_someone_switching/) | AemonXVI | 31 |
+| [What time of day do you do releases to production?](https://www.reddit.com/r/devops/comments/ta9sfa/what_time_of_day_do_you_do_releases_to_production/) | pribnow | 29 |
+| [M1 Mac with base 64 images](https://www.reddit.com/r/devops/comments/ta6v7p/m1_mac_with_base_64_images/) | zerocoldx911 | 26 |
+| [Pipelines as code](https://www.reddit.com/r/devops/comments/tah7r4/pipelines_as_code/) | TheCouncelor | 13 |
+| [Do you use build caches in your CI/CD pipelines?](https://www.reddit.com/r/devops/comments/ta6vfn/do_you_use_build_caches_in_your_cicd_pipelines/) | seanballais | 10 |
+| [Terraform Exam](https://www.reddit.com/r/devops/comments/taawdq/terraform_exam/) | savetheQ | 6 |
+| [ECS Task with two containers](https://www.reddit.com/r/devops/comments/ta9ye7/ecs_task_with_two_containers/) | MrDragonNicaze | 5 |
+| [Am I misunderstanding something or does the majority of industry has CI/CD completely wrong?](https://www.reddit.com/r/devops/comments/tarp8j/am_i_misunderstanding_something_or_does_the/) | Stock-Buddy2992 | 5 |
+| [Would you give sudo access to your cicd pipeline user?](https://www.reddit.com/r/devops/comments/tafzyz/would_you_give_sudo_access_to_your_cicd_pipeline/) | ThisIsntMyId | 3 |
