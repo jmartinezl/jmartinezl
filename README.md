@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How you would consider your current job as a devops to be different from a pure "programmer" or "sysadmin" or "network (cisco)" job right now ?](https://www.reddit.com/r/devops/comments/ta7aqg/how_you_would_consider_your_current_job_as_a/) | Cloud_Strifeeee | 77 |
-| [What books would you recommend someone switching from a sysadmin role to devops? (On the topics of processes, planning &amp; best-practices)](https://www.reddit.com/r/devops/comments/tarod3/what_books_would_you_recommend_someone_switching/) | AemonXVI | 31 |
-| [What time of day do you do releases to production?](https://www.reddit.com/r/devops/comments/ta9sfa/what_time_of_day_do_you_do_releases_to_production/) | pribnow | 29 |
-| [M1 Mac with base 64 images](https://www.reddit.com/r/devops/comments/ta6v7p/m1_mac_with_base_64_images/) | zerocoldx911 | 26 |
-| [Pipelines as code](https://www.reddit.com/r/devops/comments/tah7r4/pipelines_as_code/) | TheCouncelor | 13 |
-| [Do you use build caches in your CI/CD pipelines?](https://www.reddit.com/r/devops/comments/ta6vfn/do_you_use_build_caches_in_your_cicd_pipelines/) | seanballais | 10 |
-| [Terraform Exam](https://www.reddit.com/r/devops/comments/taawdq/terraform_exam/) | savetheQ | 6 |
-| [ECS Task with two containers](https://www.reddit.com/r/devops/comments/ta9ye7/ecs_task_with_two_containers/) | MrDragonNicaze | 5 |
-| [Am I misunderstanding something or does the majority of industry has CI/CD completely wrong?](https://www.reddit.com/r/devops/comments/tarp8j/am_i_misunderstanding_something_or_does_the/) | Stock-Buddy2992 | 5 |
-| [Would you give sudo access to your cicd pipeline user?](https://www.reddit.com/r/devops/comments/tafzyz/would_you_give_sudo_access_to_your_cicd_pipeline/) | ThisIsntMyId | 3 |
+| [What branch do you deploy to production?](https://www.reddit.com/r/devops/comments/tb77ri/what_branch_do_you_deploy_to_production/) | mrtsm | 39 |
+| [Need BOok Recommendations - Devops with focus of Infra as Code and k8s](https://www.reddit.com/r/devops/comments/tb8nbb/need_book_recommendations_devops_with_focus_of/) | paradox870 | 34 |
+| [A podcast about DevOps!](https://www.reddit.com/r/devops/comments/tbgkxq/a_podcast_about_devops/) | GetYourShitT0gether | 34 |
+| [Getting into DevOps Certs vs projects](https://www.reddit.com/r/devops/comments/tb33z9/getting_into_devops_certs_vs_projects/) | tomMcTomers | 15 |
+| [Do you consider DevOps closer to a software dev or sys admin?](https://www.reddit.com/r/devops/comments/tbk22l/do_you_consider_devops_closer_to_a_software_dev/) | ExtensionResearcher2 | 14 |
+| [Is there a name for this storage 'anti-pattern' ?](https://www.reddit.com/r/devops/comments/tbhpqr/is_there_a_name_for_this_storage_antipattern/) | locusofself | 8 |
+| [Is this a stupid load balancer/ app server design?](https://www.reddit.com/r/devops/comments/tb1jnf/is_this_a_stupid_load_balancer_app_server_design/) | bodhi_mind | 5 |
+| [Postgres pods connection refused after enable Istio](https://www.reddit.com/r/devops/comments/tazdh1/postgres_pods_connection_refused_after_enable/) | Sillygirl2520 | 1 |
+| [Imposter Syndrome for SRE role](https://www.reddit.com/r/devops/comments/tbh5dn/imposter_syndrome_for_sre_role/) | the_eager_beaver | 1 |
+| [How are you handling SOC2?](https://www.reddit.com/r/devops/comments/tbbmfn/how_are_you_handling_soc2/) | AnarchisticPunk | 1 |
