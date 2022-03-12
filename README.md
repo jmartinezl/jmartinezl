@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What branch do you deploy to production?](https://www.reddit.com/r/devops/comments/tb77ri/what_branch_do_you_deploy_to_production/) | mrtsm | 39 |
-| [Need BOok Recommendations - Devops with focus of Infra as Code and k8s](https://www.reddit.com/r/devops/comments/tb8nbb/need_book_recommendations_devops_with_focus_of/) | paradox870 | 34 |
-| [A podcast about DevOps!](https://www.reddit.com/r/devops/comments/tbgkxq/a_podcast_about_devops/) | GetYourShitT0gether | 34 |
-| [Getting into DevOps Certs vs projects](https://www.reddit.com/r/devops/comments/tb33z9/getting_into_devops_certs_vs_projects/) | tomMcTomers | 15 |
-| [Do you consider DevOps closer to a software dev or sys admin?](https://www.reddit.com/r/devops/comments/tbk22l/do_you_consider_devops_closer_to_a_software_dev/) | ExtensionResearcher2 | 14 |
-| [Is there a name for this storage 'anti-pattern' ?](https://www.reddit.com/r/devops/comments/tbhpqr/is_there_a_name_for_this_storage_antipattern/) | locusofself | 8 |
-| [Is this a stupid load balancer/ app server design?](https://www.reddit.com/r/devops/comments/tb1jnf/is_this_a_stupid_load_balancer_app_server_design/) | bodhi_mind | 5 |
-| [Postgres pods connection refused after enable Istio](https://www.reddit.com/r/devops/comments/tazdh1/postgres_pods_connection_refused_after_enable/) | Sillygirl2520 | 1 |
-| [Imposter Syndrome for SRE role](https://www.reddit.com/r/devops/comments/tbh5dn/imposter_syndrome_for_sre_role/) | the_eager_beaver | 1 |
-| [How are you handling SOC2?](https://www.reddit.com/r/devops/comments/tbbmfn/how_are_you_handling_soc2/) | AnarchisticPunk | 1 |
+| [How to mentor people entering the field of DevOps?](https://www.reddit.com/r/devops/comments/tbv3nj/how_to_mentor_people_entering_the_field_of_devops/) | ThisIsntMyId | 65 |
+| [What is your process to learn any new upcoming technology?](https://www.reddit.com/r/devops/comments/tbuyaa/what_is_your_process_to_learn_any_new_upcoming/) | ThisIsntMyId | 23 |
+| [AWS ECS pipeline CI/CD help (Beginner)](https://www.reddit.com/r/devops/comments/tc285m/aws_ecs_pipeline_cicd_help_beginner/) | SometimesImPondering | 10 |
+| [How to bring on Dev Ops Specialist while keeping API Keys Secret?](https://www.reddit.com/r/devops/comments/tbtzbt/how_to_bring_on_dev_ops_specialist_while_keeping/) | On3non1y | 8 |
+| [[Terraform] Inherited "create_before_destroy" persists after clearing it](https://www.reddit.com/r/devops/comments/tccs6x/terraform_inherited_create_before_destroy/) | dr-yd | 1 |
+| [Tmate not working, what is the alternative?](https://www.reddit.com/r/devops/comments/tbxamh/tmate_not_working_what_is_the_alternative/) | SuperCall5 | 1 |
+| [Securing Developer Tools: Package Managers](https://www.reddit.com/r/devops/comments/tcdrx1/securing_developer_tools_package_managers/) | CharlieDeltaBravo27 | 1 |
+| [Jenkins - Is there a plugin which enables adding users to Google Auth using group mail?](https://www.reddit.com/r/devops/comments/tbr1qn/jenkins_is_there_a_plugin_which_enables_adding/) | azertykitty | 1 |
+| [Help with Heroku](https://www.reddit.com/r/devops/comments/tbwojm/help_with_heroku/) | zacktaylor12359 | 1 |
+| [Fluentd as a docker container](https://www.reddit.com/r/devops/comments/tbq8bf/fluentd_as_a_docker_container/) | zu7qd | 1 |
