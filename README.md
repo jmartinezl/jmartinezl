@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How to mentor people entering the field of DevOps?](https://www.reddit.com/r/devops/comments/tbv3nj/how_to_mentor_people_entering_the_field_of_devops/) | ThisIsntMyId | 65 |
-| [What is your process to learn any new upcoming technology?](https://www.reddit.com/r/devops/comments/tbuyaa/what_is_your_process_to_learn_any_new_upcoming/) | ThisIsntMyId | 23 |
-| [AWS ECS pipeline CI/CD help (Beginner)](https://www.reddit.com/r/devops/comments/tc285m/aws_ecs_pipeline_cicd_help_beginner/) | SometimesImPondering | 10 |
-| [How to bring on Dev Ops Specialist while keeping API Keys Secret?](https://www.reddit.com/r/devops/comments/tbtzbt/how_to_bring_on_dev_ops_specialist_while_keeping/) | On3non1y | 8 |
-| [[Terraform] Inherited "create_before_destroy" persists after clearing it](https://www.reddit.com/r/devops/comments/tccs6x/terraform_inherited_create_before_destroy/) | dr-yd | 1 |
-| [Tmate not working, what is the alternative?](https://www.reddit.com/r/devops/comments/tbxamh/tmate_not_working_what_is_the_alternative/) | SuperCall5 | 1 |
-| [Securing Developer Tools: Package Managers](https://www.reddit.com/r/devops/comments/tcdrx1/securing_developer_tools_package_managers/) | CharlieDeltaBravo27 | 1 |
-| [Jenkins - Is there a plugin which enables adding users to Google Auth using group mail?](https://www.reddit.com/r/devops/comments/tbr1qn/jenkins_is_there_a_plugin_which_enables_adding/) | azertykitty | 1 |
-| [Help with Heroku](https://www.reddit.com/r/devops/comments/tbwojm/help_with_heroku/) | zacktaylor12359 | 1 |
-| [Fluentd as a docker container](https://www.reddit.com/r/devops/comments/tbq8bf/fluentd_as_a_docker_container/) | zu7qd | 1 |
+| [Packer/Terraform strategy](https://www.reddit.com/r/devops/comments/tcv03f/packerterraform_strategy/) | kcouture0827 | 39 |
+| [Are the Azure certifications worth it?](https://www.reddit.com/r/devops/comments/tcg9qn/are_the_azure_certifications_worth_it/) | patbateman8 | 19 |
+| [Live replication from Postgres RDS to Redshift](https://www.reddit.com/r/devops/comments/tcnk5q/live_replication_from_postgres_rds_to_redshift/) | mrtsm | 16 |
+| [Specify URL target through newman CLI](https://www.reddit.com/r/devops/comments/tcjgw2/specify_url_target_through_newman_cli/) | HeadTea | 2 |
+| [Fuzz testing in the SDLC](https://www.reddit.com/r/devops/comments/td32i5/fuzz_testing_in_the_sdlc/) | phuckphuckety | 2 |
+| [Suggestions for our use case](https://www.reddit.com/r/devops/comments/tcopol/suggestions_for_our_use_case/) | CRK0116 | 0 |
