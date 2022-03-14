@@ -44,9 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Packer/Terraform strategy](https://www.reddit.com/r/devops/comments/tcv03f/packerterraform_strategy/) | kcouture0827 | 39 |
-| [Are the Azure certifications worth it?](https://www.reddit.com/r/devops/comments/tcg9qn/are_the_azure_certifications_worth_it/) | patbateman8 | 19 |
-| [Live replication from Postgres RDS to Redshift](https://www.reddit.com/r/devops/comments/tcnk5q/live_replication_from_postgres_rds_to_redshift/) | mrtsm | 16 |
-| [Specify URL target through newman CLI](https://www.reddit.com/r/devops/comments/tcjgw2/specify_url_target_through_newman_cli/) | HeadTea | 2 |
-| [Fuzz testing in the SDLC](https://www.reddit.com/r/devops/comments/td32i5/fuzz_testing_in_the_sdlc/) | phuckphuckety | 2 |
-| [Suggestions for our use case](https://www.reddit.com/r/devops/comments/tcopol/suggestions_for_our_use_case/) | CRK0116 | 0 |
+| [Anyone else ever get stuck in a slump where everything you touch just turns into a blocker?](https://www.reddit.com/r/devops/comments/tdfhqi/anyone_else_ever_get_stuck_in_a_slump_where/) | sansoo22 | 120 |
+| [kafka vs rabbitmq](https://www.reddit.com/r/devops/comments/tdcvq5/kafka_vs_rabbitmq/) | veromex123 | 43 |
+| [Laptop Suggestions](https://www.reddit.com/r/devops/comments/td9g68/laptop_suggestions/) | i-gaijn | 11 |
+| [Deployments for static content](https://www.reddit.com/r/devops/comments/tdprxu/deployments_for_static_content/) | Drakeskywing | 5 |
+| [K8s subdomain based routing on minikube using K8s Nginx Ingress Controller](https://www.reddit.com/r/devops/comments/tddsn4/k8s_subdomain_based_routing_on_minikube_using_k8s/) | golfvictor115 | 3 |
+| [How are you handling multiple environments with ArgoCD?](https://www.reddit.com/r/devops/comments/tdjbng/how_are_you_handling_multiple_environments_with/) | blurotype | 3 |
+| [Market Share of CI Software/Tools](https://www.reddit.com/r/devops/comments/td6404/market_share_of_ci_softwaretools/) | feel__ | 2 |
+| [Help with endpoint for querying Datadog metrics with tags + caching scheme?](https://www.reddit.com/r/devops/comments/tda7bi/help_with_endpoint_for_querying_datadog_metrics/) | the-questions-guy | 2 |
+| [Building up a team](https://www.reddit.com/r/devops/comments/tdlr0i/building_up_a_team/) | black_anarchy | 2 |
+| [query over content trust](https://www.reddit.com/r/devops/comments/tddbkl/query_over_content_trust/) | d3v3ndra | 1 |
