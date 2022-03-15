@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Anyone else ever get stuck in a slump where everything you touch just turns into a blocker?](https://www.reddit.com/r/devops/comments/tdfhqi/anyone_else_ever_get_stuck_in_a_slump_where/) | sansoo22 | 120 |
-| [kafka vs rabbitmq](https://www.reddit.com/r/devops/comments/tdcvq5/kafka_vs_rabbitmq/) | veromex123 | 43 |
-| [Laptop Suggestions](https://www.reddit.com/r/devops/comments/td9g68/laptop_suggestions/) | i-gaijn | 11 |
-| [Deployments for static content](https://www.reddit.com/r/devops/comments/tdprxu/deployments_for_static_content/) | Drakeskywing | 5 |
-| [K8s subdomain based routing on minikube using K8s Nginx Ingress Controller](https://www.reddit.com/r/devops/comments/tddsn4/k8s_subdomain_based_routing_on_minikube_using_k8s/) | golfvictor115 | 3 |
-| [How are you handling multiple environments with ArgoCD?](https://www.reddit.com/r/devops/comments/tdjbng/how_are_you_handling_multiple_environments_with/) | blurotype | 3 |
-| [Market Share of CI Software/Tools](https://www.reddit.com/r/devops/comments/td6404/market_share_of_ci_softwaretools/) | feel__ | 2 |
-| [Help with endpoint for querying Datadog metrics with tags + caching scheme?](https://www.reddit.com/r/devops/comments/tda7bi/help_with_endpoint_for_querying_datadog_metrics/) | the-questions-guy | 2 |
-| [Building up a team](https://www.reddit.com/r/devops/comments/tdlr0i/building_up_a_team/) | black_anarchy | 2 |
-| [query over content trust](https://www.reddit.com/r/devops/comments/tddbkl/query_over_content_trust/) | d3v3ndra | 1 |
+| [Anyone still use a physical notebook for note taking in this field?](https://www.reddit.com/r/devops/comments/te9w2t/anyone_still_use_a_physical_notebook_for_note/) | 808trowaway | 69 |
+| [AWS spot instances for CI jobs](https://www.reddit.com/r/devops/comments/te0fy2/aws_spot_instances_for_ci_jobs/) | LordLandis | 45 |
+| [Salary Offer and Seeking Advice](https://www.reddit.com/r/devops/comments/te3va9/salary_offer_and_seeking_advice/) | _classname__spam | 29 |
+| [Sharing code challenge](https://www.reddit.com/r/devops/comments/tei05f/sharing_code_challenge/) | dampersand | 12 |
+| [Managing healthcheck "spam" when you have recursive dependencies](https://www.reddit.com/r/devops/comments/te8xxm/managing_healthcheck_spam_when_you_have_recursive/) | Seref15 | 6 |
+| [How to use AWS WAF to ban an IP based on traffic pattern?](https://www.reddit.com/r/devops/comments/teb72y/how_to_use_aws_waf_to_ban_an_ip_based_on_traffic/) | Toast42 | 6 |
+| [New blog post about makefiles being used in modern development. Link is listed below in case you wanted to check it out.](https://www.reddit.com/r/devops/comments/te3pry/new_blog_post_about_makefiles_being_used_in/) | EphemeralEnvs | 4 |
+| [search for candidates - is Interview as a Service a thing?](https://www.reddit.com/r/devops/comments/tdy7jh/search_for_candidates_is_interview_as_a_service_a/) | TowARow | 3 |
+| [Images being updated in Git but ArgoCD is not picking up the changes](https://www.reddit.com/r/devops/comments/te9s1v/images_being_updated_in_git_but_argocd_is_not/) | anonymousmonkey339 | 3 |
+| [Cloud Native Buildpacks Vs. Containers](https://www.reddit.com/r/devops/comments/tdzi17/cloud_native_buildpacks_vs_containers/) | RamConnoisseur | 3 |
