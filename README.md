@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps Bulletin Newsletter - Issue 42](https://www.reddit.com/r/devops/comments/term52/devops_bulletin_newsletter_issue_42/) | labouardy | 55 |
-| [Show r/devops: Sailor - a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS.](https://www.reddit.com/r/devops/comments/tfbdvj/show_rdevops_sailor_a_tiny_paas_to_install_on/) | mardix | 30 |
-| [Caching messages when RabbitMQ is not available](https://www.reddit.com/r/devops/comments/tesrws/caching_messages_when_rabbitmq_is_not_available/) | dominik-braun | 26 |
-| [Ruby on Whales: Dockerizing Ruby and Rails development](https://www.reddit.com/r/devops/comments/teurms/ruby_on_whales_dockerizing_ruby_and_rails/) | Travis-Turner | 10 |
-| [How are you tracking cycle time?](https://www.reddit.com/r/devops/comments/tenjmj/how_are_you_tracking_cycle_time/) | whoknowsforreal | 6 |
-| [Creating a MySQL solution in K8s](https://www.reddit.com/r/devops/comments/teppea/creating_a_mysql_solution_in_k8s/) | JMcglock | 5 |
-| [Automation consultants?](https://www.reddit.com/r/devops/comments/tetcvf/automation_consultants/) | sm21375 | 5 |
-| [Got my first job as a DevOps engineer...What to expect?](https://www.reddit.com/r/devops/comments/tezxw0/got_my_first_job_as_a_devops_engineerwhat_to/) | blueismyfriendeh | 3 |
-| [Tool based knowledge or Scripting?](https://www.reddit.com/r/devops/comments/tf8426/tool_based_knowledge_or_scripting/) | AsherFromThe6 | 1 |
-| [Need help with the final round of interview](https://www.reddit.com/r/devops/comments/tff7kb/need_help_with_the_final_round_of_interview/) | HoloceneGuy | 1 |
+| [What makes a good platform team?](https://www.reddit.com/r/devops/comments/tfhafl/what_makes_a_good_platform_team/) | maria-micro | 70 |
+| [Career question, Devops or SRE/Infra?](https://www.reddit.com/r/devops/comments/tfum9b/career_question_devops_or_sreinfra/) | Cythrex | 37 |
+| [Absolute noob here - CMDB recommendations](https://www.reddit.com/r/devops/comments/tfxfx5/absolute_noob_here_cmdb_recommendations/) | Amoxidal500 | 34 |
+| [Ephemeral... data?](https://www.reddit.com/r/devops/comments/tg07fb/ephemeral_data/) | dampersand | 33 |
+| [Portainer's latest release - new GitOps functionality](https://www.reddit.com/r/devops/comments/tfreig/portainers_latest_release_new_gitops_functionality/) | DiHannay | 26 |
+| [8+ years in IT; signs pointing to a switch to DevOps](https://www.reddit.com/r/devops/comments/tfqbr3/8_years_in_it_signs_pointing_to_a_switch_to_devops/) | buckaroo_2351 | 5 |
+| [Rook vs K8s local Storage class](https://www.reddit.com/r/devops/comments/tg6vt5/rook_vs_k8s_local_storage_class/) | golfvictor115 | 3 |
+| [Question related to using WSL2](https://www.reddit.com/r/devops/comments/tfyn6t/question_related_to_using_wsl2/) | VirgilVanArnold | 2 |
+| [Deploying dockerised app using Microsoft Intune](https://www.reddit.com/r/devops/comments/tfn76t/deploying_dockerised_app_using_microsoft_intune/) | derp2014 | 2 |
+| [What to use for a lightweight unifying Intranet type framework for some live forms and scripts?](https://www.reddit.com/r/devops/comments/tftyj7/what_to_use_for_a_lightweight_unifying_intranet/) | Finagles_Law | 1 |
