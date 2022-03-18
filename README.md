@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What makes a good platform team?](https://www.reddit.com/r/devops/comments/tfhafl/what_makes_a_good_platform_team/) | maria-micro | 70 |
-| [Career question, Devops or SRE/Infra?](https://www.reddit.com/r/devops/comments/tfum9b/career_question_devops_or_sreinfra/) | Cythrex | 37 |
-| [Absolute noob here - CMDB recommendations](https://www.reddit.com/r/devops/comments/tfxfx5/absolute_noob_here_cmdb_recommendations/) | Amoxidal500 | 34 |
-| [Ephemeral... data?](https://www.reddit.com/r/devops/comments/tg07fb/ephemeral_data/) | dampersand | 33 |
-| [Portainer's latest release - new GitOps functionality](https://www.reddit.com/r/devops/comments/tfreig/portainers_latest_release_new_gitops_functionality/) | DiHannay | 26 |
-| [8+ years in IT; signs pointing to a switch to DevOps](https://www.reddit.com/r/devops/comments/tfqbr3/8_years_in_it_signs_pointing_to_a_switch_to_devops/) | buckaroo_2351 | 5 |
-| [Rook vs K8s local Storage class](https://www.reddit.com/r/devops/comments/tg6vt5/rook_vs_k8s_local_storage_class/) | golfvictor115 | 3 |
-| [Question related to using WSL2](https://www.reddit.com/r/devops/comments/tfyn6t/question_related_to_using_wsl2/) | VirgilVanArnold | 2 |
-| [Deploying dockerised app using Microsoft Intune](https://www.reddit.com/r/devops/comments/tfn76t/deploying_dockerised_app_using_microsoft_intune/) | derp2014 | 2 |
-| [What to use for a lightweight unifying Intranet type framework for some live forms and scripts?](https://www.reddit.com/r/devops/comments/tftyj7/what_to_use_for_a_lightweight_unifying_intranet/) | Finagles_Law | 1 |
+| [[whining] I've lost interest in IT](https://www.reddit.com/r/devops/comments/tgjxmh/whining_ive_lost_interest_in_it/) | kingindanord | 123 |
+| [Hyperion - An Opensource tool to deploy, manage &amp; debug Helm applications on Multiple Kubernetes Clusters.](https://www.reddit.com/r/devops/comments/tgbxgz/hyperion_an_opensource_tool_to_deploy_manage/) | pghildiy | 44 |
+| [Github Degraded](https://www.reddit.com/r/devops/comments/tgbjwo/github_degraded/) | Snojo | 12 |
+| [Just moved from principal to manager, how can I improve the lives of my team?](https://www.reddit.com/r/devops/comments/tgozzx/just_moved_from_principal_to_manager_how_can_i/) | laujac | 10 |
+| [Does anyone have a case *against* Platform Teams? Or are we all on board?](https://www.reddit.com/r/devops/comments/tge5q0/does_anyone_have_a_case_against_platform_teams_or/) | piedpiperpivot | 3 |
+| [What Type of Python Scripts do you Create?](https://www.reddit.com/r/devops/comments/tgokmz/what_type_of_python_scripts_do_you_create/) | mofayew | 2 |
+| [How do I Use My Organization's Subscription](https://www.reddit.com/r/devops/comments/tgr4df/how_do_i_use_my_organizations_subscription/) | PrinceN71 | 2 |
+| [infrastructure as code](https://www.reddit.com/r/devops/comments/tgwrdq/infrastructure_as_code/) | zelenadinja | 1 |
+| [[Question] Is there a way to attach arbitrary metadata to GitHub repos?](https://www.reddit.com/r/devops/comments/tgpxr8/question_is_there_a_way_to_attach_arbitrary/) | ibylich | 1 |
+| [Questions About Setting Up Pipelines](https://www.reddit.com/r/devops/comments/tgpmb6/questions_about_setting_up_pipelines/) | PrinceN71 | 1 |
