@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [[whining] I've lost interest in IT](https://www.reddit.com/r/devops/comments/tgjxmh/whining_ive_lost_interest_in_it/) | kingindanord | 123 |
-| [Hyperion - An Opensource tool to deploy, manage &amp; debug Helm applications on Multiple Kubernetes Clusters.](https://www.reddit.com/r/devops/comments/tgbxgz/hyperion_an_opensource_tool_to_deploy_manage/) | pghildiy | 44 |
-| [Github Degraded](https://www.reddit.com/r/devops/comments/tgbjwo/github_degraded/) | Snojo | 12 |
-| [Just moved from principal to manager, how can I improve the lives of my team?](https://www.reddit.com/r/devops/comments/tgozzx/just_moved_from_principal_to_manager_how_can_i/) | laujac | 10 |
-| [Does anyone have a case *against* Platform Teams? Or are we all on board?](https://www.reddit.com/r/devops/comments/tge5q0/does_anyone_have_a_case_against_platform_teams_or/) | piedpiperpivot | 3 |
-| [What Type of Python Scripts do you Create?](https://www.reddit.com/r/devops/comments/tgokmz/what_type_of_python_scripts_do_you_create/) | mofayew | 2 |
-| [How do I Use My Organization's Subscription](https://www.reddit.com/r/devops/comments/tgr4df/how_do_i_use_my_organizations_subscription/) | PrinceN71 | 2 |
-| [infrastructure as code](https://www.reddit.com/r/devops/comments/tgwrdq/infrastructure_as_code/) | zelenadinja | 1 |
-| [[Question] Is there a way to attach arbitrary metadata to GitHub repos?](https://www.reddit.com/r/devops/comments/tgpxr8/question_is_there_a_way_to_attach_arbitrary/) | ibylich | 1 |
-| [Questions About Setting Up Pipelines](https://www.reddit.com/r/devops/comments/tgpmb6/questions_about_setting_up_pipelines/) | PrinceN71 | 1 |
+| [[Ask Devops] Whats a problem you solved at work or any personal project that you're proud of?](https://www.reddit.com/r/devops/comments/thcak0/ask_devops_whats_a_problem_you_solved_at_work_or/) | tall_and_funny | 67 |
+| [How hard is for DevOps to transfer from working on a private cloud to a public cloud](https://www.reddit.com/r/devops/comments/th1b6g/how_hard_is_for_devops_to_transfer_from_working/) | ofeeki | 43 |
+| [Which SIEM software do you prefer in an Enterprise](https://www.reddit.com/r/devops/comments/thc1t7/which_siem_software_do_you_prefer_in_an_enterprise/) | PeachyOG | 38 |
+| [Anyone actually fluent in YAML?](https://www.reddit.com/r/devops/comments/th8hz6/anyone_actually_fluent_in_yaml/) | Aretosteles | 11 |
+| [Questioning your own experience / knowledge](https://www.reddit.com/r/devops/comments/th1in6/questioning_your_own_experience_knowledge/) | xTheLastUchihax | 10 |
+| [Kubernetes Ingress, which one is the "best" and why?](https://www.reddit.com/r/devops/comments/tht229/kubernetes_ingress_which_one_is_the_best_and_why/) | k6rvitsamees | 2 |
+| [nginx: how to pass origin header?](https://www.reddit.com/r/devops/comments/thrx3z/nginx_how_to_pass_origin_header/) | domanpanda | 1 |
+| [SOC2 - Database Access Control (using RDS)](https://www.reddit.com/r/devops/comments/th26yx/soc2_database_access_control_using_rds/) | WolfPusssy | 1 |
+| [Octopus Deploy for the IT team?](https://www.reddit.com/r/devops/comments/th59ao/octopus_deploy_for_the_it_team/) | gpowersr | 1 |
+| [Azure Virtual Desktop with Azure AD Join and Enroll in Intune](https://www.reddit.com/r/devops/comments/th4zzl/azure_virtual_desktop_with_azure_ad_join_and/) | RampageUT | 1 |
