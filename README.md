@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [[Ask Devops] Whats a problem you solved at work or any personal project that you're proud of?](https://www.reddit.com/r/devops/comments/thcak0/ask_devops_whats_a_problem_you_solved_at_work_or/) | tall_and_funny | 67 |
-| [How hard is for DevOps to transfer from working on a private cloud to a public cloud](https://www.reddit.com/r/devops/comments/th1b6g/how_hard_is_for_devops_to_transfer_from_working/) | ofeeki | 43 |
-| [Which SIEM software do you prefer in an Enterprise](https://www.reddit.com/r/devops/comments/thc1t7/which_siem_software_do_you_prefer_in_an_enterprise/) | PeachyOG | 38 |
-| [Anyone actually fluent in YAML?](https://www.reddit.com/r/devops/comments/th8hz6/anyone_actually_fluent_in_yaml/) | Aretosteles | 11 |
-| [Questioning your own experience / knowledge](https://www.reddit.com/r/devops/comments/th1in6/questioning_your_own_experience_knowledge/) | xTheLastUchihax | 10 |
-| [Kubernetes Ingress, which one is the "best" and why?](https://www.reddit.com/r/devops/comments/tht229/kubernetes_ingress_which_one_is_the_best_and_why/) | k6rvitsamees | 2 |
-| [nginx: how to pass origin header?](https://www.reddit.com/r/devops/comments/thrx3z/nginx_how_to_pass_origin_header/) | domanpanda | 1 |
-| [SOC2 - Database Access Control (using RDS)](https://www.reddit.com/r/devops/comments/th26yx/soc2_database_access_control_using_rds/) | WolfPusssy | 1 |
-| [Octopus Deploy for the IT team?](https://www.reddit.com/r/devops/comments/th59ao/octopus_deploy_for_the_it_team/) | gpowersr | 1 |
-| [Azure Virtual Desktop with Azure AD Join and Enroll in Intune](https://www.reddit.com/r/devops/comments/th4zzl/azure_virtual_desktop_with_azure_ad_join_and/) | RampageUT | 1 |
+| [Is it normal to have this level of tooling/process in a DevOps env?](https://www.reddit.com/r/devops/comments/ti2ssp/is_it_normal_to_have_this_level_of_toolingprocess/) | accordioncobblerr | 45 |
+| [SREs -- what's your on-call schedule like?](https://www.reddit.com/r/devops/comments/tie5an/sres_whats_your_oncall_schedule_like/) | RealityOk8234 | 28 |
+| [Useful Tools and Programs list for eBPF](https://www.reddit.com/r/devops/comments/ti2b5x/useful_tools_and_programs_list_for_ebpf/) | Khaotic_Kernel | 22 |
+| [Secrets Management: Azure Key Vault Alternatives?](https://www.reddit.com/r/devops/comments/thuhv9/secrets_management_azure_key_vault_alternatives/) | AMGraduate564 | 12 |
+| [DevOps Project](https://www.reddit.com/r/devops/comments/tihoyi/devops_project/) | expotus | 6 |
+| [ArgoCD and Hardcoded configuration](https://www.reddit.com/r/devops/comments/ti9z1f/argocd_and_hardcoded_configuration/) | BAWRussell | 6 |
+| [Noob question, in what use case do I need Packer?](https://www.reddit.com/r/devops/comments/tii84t/noob_question_in_what_use_case_do_i_need_packer/) | No-Wallaby6514 | 3 |
+| [How I learned a programming language, and how I wrote a popular microservice framework.](https://www.reddit.com/r/devops/comments/tiiv8z/how_i_learned_a_programming_language_and_how_i/) | go-zero | 2 |
+| [Bootcamps?](https://www.reddit.com/r/devops/comments/thw5k2/bootcamps/) | cleverusername_9 | 1 |
+| [Inisghts for a beginner who wants to start](https://www.reddit.com/r/devops/comments/tiapmy/inisghts_for_a_beginner_who_wants_to_start/) | Theanimetatsu | 0 |
