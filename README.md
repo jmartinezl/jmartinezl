@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is it normal to have this level of tooling/process in a DevOps env?](https://www.reddit.com/r/devops/comments/ti2ssp/is_it_normal_to_have_this_level_of_toolingprocess/) | accordioncobblerr | 45 |
-| [SREs -- what's your on-call schedule like?](https://www.reddit.com/r/devops/comments/tie5an/sres_whats_your_oncall_schedule_like/) | RealityOk8234 | 28 |
-| [Useful Tools and Programs list for eBPF](https://www.reddit.com/r/devops/comments/ti2b5x/useful_tools_and_programs_list_for_ebpf/) | Khaotic_Kernel | 22 |
-| [Secrets Management: Azure Key Vault Alternatives?](https://www.reddit.com/r/devops/comments/thuhv9/secrets_management_azure_key_vault_alternatives/) | AMGraduate564 | 12 |
-| [DevOps Project](https://www.reddit.com/r/devops/comments/tihoyi/devops_project/) | expotus | 6 |
-| [ArgoCD and Hardcoded configuration](https://www.reddit.com/r/devops/comments/ti9z1f/argocd_and_hardcoded_configuration/) | BAWRussell | 6 |
-| [Noob question, in what use case do I need Packer?](https://www.reddit.com/r/devops/comments/tii84t/noob_question_in_what_use_case_do_i_need_packer/) | No-Wallaby6514 | 3 |
-| [How I learned a programming language, and how I wrote a popular microservice framework.](https://www.reddit.com/r/devops/comments/tiiv8z/how_i_learned_a_programming_language_and_how_i/) | go-zero | 2 |
-| [Bootcamps?](https://www.reddit.com/r/devops/comments/thw5k2/bootcamps/) | cleverusername_9 | 1 |
-| [Inisghts for a beginner who wants to start](https://www.reddit.com/r/devops/comments/tiapmy/inisghts_for_a_beginner_who_wants_to_start/) | Theanimetatsu | 0 |
+| [what are some "at-home" projects you'd suggest for someone trying to get familiar with some devops tooling/processes?](https://www.reddit.com/r/devops/comments/tio0h6/what_are_some_athome_projects_youd_suggest_for/) | V3Qn117x0UFQ | 128 |
+| [In your job do you feel that traditional sysadmin tasks/work is all going to the devops team or being automated in the Cloud with services (Azure, Aws) ? Where the lines between devops and sysadmin are getting blurry, for examples with Serverless, IAC, CI/CD Pipelines, kubernetes etc ?](https://www.reddit.com/r/devops/comments/tj7sh8/in_your_job_do_you_feel_that_traditional_sysadmin/) | Cloud_Strifeeee | 23 |
+| ["offline" or air gaped devops work](https://www.reddit.com/r/devops/comments/tixtds/offline_or_air_gaped_devops_work/) | asdfwink | 13 |
+| [is it possible to use placeholder variables in a cloud-init file which are then replaced by environment variable for customizing Ubuntu 20.04 Vagrant Box?](https://www.reddit.com/r/devops/comments/tikw2o/is_it_possible_to_use_placeholder_variables_in_a/) | dugindeep | 5 |
+| [How’s your work life balance?](https://www.reddit.com/r/devops/comments/tio9e6/hows_your_work_life_balance/) | mofayew | 4 |
+| [Serverless lambda multi page site?](https://www.reddit.com/r/devops/comments/tiupqf/serverless_lambda_multi_page_site/) | Putrid_Acanthaceae | 3 |
+| [Getting advice for multi-container Environments](https://www.reddit.com/r/devops/comments/tj8kcx/getting_advice_for_multicontainer_environments/) | nevotheless | 3 |
+| [Best practice for structuring terraform configs - did I screw this up?](https://www.reddit.com/r/devops/comments/tj0n3z/best_practice_for_structuring_terraform_configs/) | jameskoo87 | 3 |
+| [[Automated Testing] I just released version 4 of my Python Screenplay Pattern automated testing framework, ScreenPy!](https://www.reddit.com/r/devops/comments/tj5cwo/automated_testing_i_just_released_version_4_of_my/) | AnActor_named | 1 |
+| [Testing network config changes with dev environment](https://www.reddit.com/r/devops/comments/tisi52/testing_network_config_changes_with_dev/) | forward-bat-8326 | 1 |
