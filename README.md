@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [what are some "at-home" projects you'd suggest for someone trying to get familiar with some devops tooling/processes?](https://www.reddit.com/r/devops/comments/tio0h6/what_are_some_athome_projects_youd_suggest_for/) | V3Qn117x0UFQ | 128 |
-| [In your job do you feel that traditional sysadmin tasks/work is all going to the devops team or being automated in the Cloud with services (Azure, Aws) ? Where the lines between devops and sysadmin are getting blurry, for examples with Serverless, IAC, CI/CD Pipelines, kubernetes etc ?](https://www.reddit.com/r/devops/comments/tj7sh8/in_your_job_do_you_feel_that_traditional_sysadmin/) | Cloud_Strifeeee | 23 |
-| ["offline" or air gaped devops work](https://www.reddit.com/r/devops/comments/tixtds/offline_or_air_gaped_devops_work/) | asdfwink | 13 |
-| [is it possible to use placeholder variables in a cloud-init file which are then replaced by environment variable for customizing Ubuntu 20.04 Vagrant Box?](https://www.reddit.com/r/devops/comments/tikw2o/is_it_possible_to_use_placeholder_variables_in_a/) | dugindeep | 5 |
-| [How’s your work life balance?](https://www.reddit.com/r/devops/comments/tio9e6/hows_your_work_life_balance/) | mofayew | 4 |
-| [Serverless lambda multi page site?](https://www.reddit.com/r/devops/comments/tiupqf/serverless_lambda_multi_page_site/) | Putrid_Acanthaceae | 3 |
-| [Getting advice for multi-container Environments](https://www.reddit.com/r/devops/comments/tj8kcx/getting_advice_for_multicontainer_environments/) | nevotheless | 3 |
-| [Best practice for structuring terraform configs - did I screw this up?](https://www.reddit.com/r/devops/comments/tj0n3z/best_practice_for_structuring_terraform_configs/) | jameskoo87 | 3 |
-| [[Automated Testing] I just released version 4 of my Python Screenplay Pattern automated testing framework, ScreenPy!](https://www.reddit.com/r/devops/comments/tj5cwo/automated_testing_i_just_released_version_4_of_my/) | AnActor_named | 1 |
-| [Testing network config changes with dev environment](https://www.reddit.com/r/devops/comments/tisi52/testing_network_config_changes_with_dev/) | forward-bat-8326 | 1 |
+| [How painful was Log4j for you?](https://www.reddit.com/r/devops/comments/tjqnij/how_painful_was_log4j_for_you/) | fundkitco | 90 |
+| [What metrics do you use to make decisions?](https://www.reddit.com/r/devops/comments/tjbx51/what_metrics_do_you_use_to_make_decisions/) | Dooley28 | 30 |
+| [Interview with Rona Hirsch, DevOps Engineer at Komodor on ValidKube, Female DevOps engineers and women in tech](https://www.reddit.com/r/devops/comments/tjk4jp/interview_with_rona_hirsch_devops_engineer_at/) | madjani000 | 27 |
+| [How to safely allow people to collaborate on TF code?](https://www.reddit.com/r/devops/comments/tjaqcj/how_to_safely_allow_people_to_collaborate_on_tf/) | flamingo_as_service | 17 |
+| [Azure PaaS networking cheat sheet](https://www.reddit.com/r/devops/comments/tjab62/azure_paas_networking_cheat_sheet/) | groovy-sky | 12 |
+| [What format do you use to send resumes out in?](https://www.reddit.com/r/devops/comments/tjqan7/what_format_do_you_use_to_send_resumes_out_in/) | DanceLikeItsOuchy | 10 |
+| [DevOps Bulletin Newsletter - Issue 43](https://www.reddit.com/r/devops/comments/tjcmwf/devops_bulletin_newsletter_issue_43/) | labouardy | 5 |
+| [Seeking advice about contract-to-hire offer I am considering.](https://www.reddit.com/r/devops/comments/tjsxjv/seeking_advice_about_contracttohire_offer_i_am/) | locusofself | 2 |
+| [Manage semver versions across environments](https://www.reddit.com/r/devops/comments/tjtxf9/manage_semver_versions_across_environments/) | TiDuNguyen | 2 |
+| [Cloud deployment](https://www.reddit.com/r/devops/comments/tjckgf/cloud_deployment/) | Straight-Night-2973 | 2 |
