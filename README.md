@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How painful was Log4j for you?](https://www.reddit.com/r/devops/comments/tjqnij/how_painful_was_log4j_for_you/) | fundkitco | 90 |
-| [What metrics do you use to make decisions?](https://www.reddit.com/r/devops/comments/tjbx51/what_metrics_do_you_use_to_make_decisions/) | Dooley28 | 30 |
-| [Interview with Rona Hirsch, DevOps Engineer at Komodor on ValidKube, Female DevOps engineers and women in tech](https://www.reddit.com/r/devops/comments/tjk4jp/interview_with_rona_hirsch_devops_engineer_at/) | madjani000 | 27 |
-| [How to safely allow people to collaborate on TF code?](https://www.reddit.com/r/devops/comments/tjaqcj/how_to_safely_allow_people_to_collaborate_on_tf/) | flamingo_as_service | 17 |
-| [Azure PaaS networking cheat sheet](https://www.reddit.com/r/devops/comments/tjab62/azure_paas_networking_cheat_sheet/) | groovy-sky | 12 |
-| [What format do you use to send resumes out in?](https://www.reddit.com/r/devops/comments/tjqan7/what_format_do_you_use_to_send_resumes_out_in/) | DanceLikeItsOuchy | 10 |
-| [DevOps Bulletin Newsletter - Issue 43](https://www.reddit.com/r/devops/comments/tjcmwf/devops_bulletin_newsletter_issue_43/) | labouardy | 5 |
-| [Seeking advice about contract-to-hire offer I am considering.](https://www.reddit.com/r/devops/comments/tjsxjv/seeking_advice_about_contracttohire_offer_i_am/) | locusofself | 2 |
-| [Manage semver versions across environments](https://www.reddit.com/r/devops/comments/tjtxf9/manage_semver_versions_across_environments/) | TiDuNguyen | 2 |
-| [Cloud deployment](https://www.reddit.com/r/devops/comments/tjckgf/cloud_deployment/) | Straight-Night-2973 | 2 |
+| [Has anyone left Devops to go back to just being a Dev?](https://www.reddit.com/r/devops/comments/tk2z7u/has_anyone_left_devops_to_go_back_to_just_being_a/) | ExtensionResearcher2 | 120 |
+| [What's a fair compensation for being on-call?](https://www.reddit.com/r/devops/comments/tk51oa/whats_a_fair_compensation_for_being_oncall/) | shared_ptr | 40 |
+| [Security in CICD / DevSecOps](https://www.reddit.com/r/devops/comments/tk8zls/security_in_cicd_devsecops/) | ThenChoice2 | 20 |
+| [GitHub outage again](https://www.reddit.com/r/devops/comments/tk65lv/github_outage_again/) | abakedcarrot | 19 |
+| [Best practices on secrets sharing and storing](https://www.reddit.com/r/devops/comments/tkb7es/best_practices_on_secrets_sharing_and_storing/) | Zer0B1t | 10 |
+| [TeamCity audit build help](https://www.reddit.com/r/devops/comments/tknbxw/teamcity_audit_build_help/) | RomanGuard | 7 |
+| [Use Helm to create cloud resources](https://www.reddit.com/r/devops/comments/tkrp1c/use_helm_to_create_cloud_resources/) | SoulmanIqbal | 4 |
+| [Build vs Buy your development platform? Which option do you choose &amp; why?](https://www.reddit.com/r/devops/comments/tkru1n/build_vs_buy_your_development_platform_which/) | Nicole_Bunnyshell | 4 |
+| [Self healing alerts in prometheus?](https://www.reddit.com/r/devops/comments/tkna8o/self_healing_alerts_in_prometheus/) | GetFit_Messi | 2 |
+| [How to deal with a CI/CD pipeline for Terrraform in a monorepo?](https://www.reddit.com/r/devops/comments/tk7yse/how_to_deal_with_a_cicd_pipeline_for_terrraform/) | flamingo_as_service | 2 |
