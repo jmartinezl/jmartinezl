@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Has anyone left Devops to go back to just being a Dev?](https://www.reddit.com/r/devops/comments/tk2z7u/has_anyone_left_devops_to_go_back_to_just_being_a/) | ExtensionResearcher2 | 120 |
-| [What's a fair compensation for being on-call?](https://www.reddit.com/r/devops/comments/tk51oa/whats_a_fair_compensation_for_being_oncall/) | shared_ptr | 40 |
-| [Security in CICD / DevSecOps](https://www.reddit.com/r/devops/comments/tk8zls/security_in_cicd_devsecops/) | ThenChoice2 | 20 |
-| [GitHub outage again](https://www.reddit.com/r/devops/comments/tk65lv/github_outage_again/) | abakedcarrot | 19 |
-| [Best practices on secrets sharing and storing](https://www.reddit.com/r/devops/comments/tkb7es/best_practices_on_secrets_sharing_and_storing/) | Zer0B1t | 10 |
-| [TeamCity audit build help](https://www.reddit.com/r/devops/comments/tknbxw/teamcity_audit_build_help/) | RomanGuard | 7 |
-| [Use Helm to create cloud resources](https://www.reddit.com/r/devops/comments/tkrp1c/use_helm_to_create_cloud_resources/) | SoulmanIqbal | 4 |
-| [Build vs Buy your development platform? Which option do you choose &amp; why?](https://www.reddit.com/r/devops/comments/tkru1n/build_vs_buy_your_development_platform_which/) | Nicole_Bunnyshell | 4 |
-| [Self healing alerts in prometheus?](https://www.reddit.com/r/devops/comments/tkna8o/self_healing_alerts_in_prometheus/) | GetFit_Messi | 2 |
-| [How to deal with a CI/CD pipeline for Terrraform in a monorepo?](https://www.reddit.com/r/devops/comments/tk7yse/how_to_deal_with_a_cicd_pipeline_for_terrraform/) | flamingo_as_service | 2 |
+| [GitHub's services are having another outage](https://www.reddit.com/r/devops/comments/tkvywr/githubs_services_are_having_another_outage/) | AlverezYari | 111 |
+| [Recent GitHub outages](https://www.reddit.com/r/devops/comments/tlfphj/recent_github_outages/) | chillysurfer | 51 |
+| [Made an agreement for immediate hire. They are pulling the rug out from under me and trying to make me a long term contractor. What do?](https://www.reddit.com/r/devops/comments/tkw9n4/made_an_agreement_for_immediate_hire_they_are/) | IndieDiscovery | 18 |
+| [Its Always Sunny in us-east-1: The gang does business continuity](https://www.reddit.com/r/devops/comments/tm3wf5/its_always_sunny_in_useast1_the_gang_does/) | doitdoitdoit | 14 |
+| [Cloud Engineer promoted to…? Pick your title!](https://www.reddit.com/r/devops/comments/tlkti3/cloud_engineer_promoted_to_pick_your_title/) | techhealer | 12 |
+| [Lots of ideas for architectures but nothing to build on top of them](https://www.reddit.com/r/devops/comments/tloyvh/lots_of_ideas_for_architectures_but_nothing_to/) | hnnsSI | 11 |
+| [What happened to Rook Minio Object Store?](https://www.reddit.com/r/devops/comments/tm0sev/what_happened_to_rook_minio_object_store/) | golfvictor115 | 5 |
+| [Ansible vs Terraform - NSX-T IaC](https://www.reddit.com/r/devops/comments/tlyp4f/ansible_vs_terraform_nsxt_iac/) | 0b3erver | 5 |
+| [Time tracking tools (and report generation) that integrates into Azure DevOps](https://www.reddit.com/r/devops/comments/tm2qq4/time_tracking_tools_and_report_generation_that/) | GiveMe-Steam-Keys | 3 |
+| [Redis Docker image with the toolset included](https://www.reddit.com/r/devops/comments/tm3s19/redis_docker_image_with_the_toolset_included/) | Bluxmit | 3 |
