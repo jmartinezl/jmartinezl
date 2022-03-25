@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [GitHub's services are having another outage](https://www.reddit.com/r/devops/comments/tkvywr/githubs_services_are_having_another_outage/) | AlverezYari | 111 |
-| [Recent GitHub outages](https://www.reddit.com/r/devops/comments/tlfphj/recent_github_outages/) | chillysurfer | 51 |
-| [Made an agreement for immediate hire. They are pulling the rug out from under me and trying to make me a long term contractor. What do?](https://www.reddit.com/r/devops/comments/tkw9n4/made_an_agreement_for_immediate_hire_they_are/) | IndieDiscovery | 18 |
-| [Its Always Sunny in us-east-1: The gang does business continuity](https://www.reddit.com/r/devops/comments/tm3wf5/its_always_sunny_in_useast1_the_gang_does/) | doitdoitdoit | 14 |
-| [Cloud Engineer promoted to…? Pick your title!](https://www.reddit.com/r/devops/comments/tlkti3/cloud_engineer_promoted_to_pick_your_title/) | techhealer | 12 |
-| [Lots of ideas for architectures but nothing to build on top of them](https://www.reddit.com/r/devops/comments/tloyvh/lots_of_ideas_for_architectures_but_nothing_to/) | hnnsSI | 11 |
-| [What happened to Rook Minio Object Store?](https://www.reddit.com/r/devops/comments/tm0sev/what_happened_to_rook_minio_object_store/) | golfvictor115 | 5 |
-| [Ansible vs Terraform - NSX-T IaC](https://www.reddit.com/r/devops/comments/tlyp4f/ansible_vs_terraform_nsxt_iac/) | 0b3erver | 5 |
-| [Time tracking tools (and report generation) that integrates into Azure DevOps](https://www.reddit.com/r/devops/comments/tm2qq4/time_tracking_tools_and_report_generation_that/) | GiveMe-Steam-Keys | 3 |
-| [Redis Docker image with the toolset included](https://www.reddit.com/r/devops/comments/tm3s19/redis_docker_image_with_the_toolset_included/) | Bluxmit | 3 |
+| [Learning Python Boto3 and Terraform at Home?](https://www.reddit.com/r/devops/comments/tnbwfd/learning_python_boto3_and_terraform_at_home/) | HappyUnicorns789 | 25 |
+| [Running Postgres 10 in production. Should I just upgrade to 11, or use the maintenance window to jump to 12/13/14?](https://www.reddit.com/r/devops/comments/tn1tr9/running_postgres_10_in_production_should_i_just/) | kristianwindsor | 21 |
+| [How do you manage your terraform library?](https://www.reddit.com/r/devops/comments/tn2um5/how_do_you_manage_your_terraform_library/) | I_FUCK_WHORES_ | 16 |
+| [Kubernetes, Helm and automated deployments that read the kubernetes status](https://www.reddit.com/r/devops/comments/tnh4fq/kubernetes_helm_and_automated_deployments_that/) | pier4r | 15 |
+| [is it just me or there is no sonarqube equivalent in azure DevOps?](https://www.reddit.com/r/devops/comments/tna3bx/is_it_just_me_or_there_is_no_sonarqube_equivalent/) | Traxell | 9 |
+| [Do you keep IAC code with application code?](https://www.reddit.com/r/devops/comments/tm8kop/do_you_keep_iac_code_with_application_code/) | SelfhostedPro | 6 |
+| [Data center migration due to geopolitics](https://www.reddit.com/r/devops/comments/tniy2n/data_center_migration_due_to_geopolitics/) | ncubez | 5 |
+| [Public key management across many servers, how do you guys do it?](https://www.reddit.com/r/devops/comments/tmd4jg/public_key_management_across_many_servers_how_do/) | NetInfused | 3 |
+| [What projects do I need to get an Intern?](https://www.reddit.com/r/devops/comments/tne0fc/what_projects_do_i_need_to_get_an_intern/) | MHBlue98 | 2 |
+| [Interviewing help](https://www.reddit.com/r/devops/comments/tmd7qt/interviewing_help/) | madridista521 | 2 |
