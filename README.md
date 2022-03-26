@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Learning Python Boto3 and Terraform at Home?](https://www.reddit.com/r/devops/comments/tnbwfd/learning_python_boto3_and_terraform_at_home/) | HappyUnicorns789 | 25 |
-| [Running Postgres 10 in production. Should I just upgrade to 11, or use the maintenance window to jump to 12/13/14?](https://www.reddit.com/r/devops/comments/tn1tr9/running_postgres_10_in_production_should_i_just/) | kristianwindsor | 21 |
-| [How do you manage your terraform library?](https://www.reddit.com/r/devops/comments/tn2um5/how_do_you_manage_your_terraform_library/) | I_FUCK_WHORES_ | 16 |
-| [Kubernetes, Helm and automated deployments that read the kubernetes status](https://www.reddit.com/r/devops/comments/tnh4fq/kubernetes_helm_and_automated_deployments_that/) | pier4r | 15 |
-| [is it just me or there is no sonarqube equivalent in azure DevOps?](https://www.reddit.com/r/devops/comments/tna3bx/is_it_just_me_or_there_is_no_sonarqube_equivalent/) | Traxell | 9 |
-| [Do you keep IAC code with application code?](https://www.reddit.com/r/devops/comments/tm8kop/do_you_keep_iac_code_with_application_code/) | SelfhostedPro | 6 |
-| [Data center migration due to geopolitics](https://www.reddit.com/r/devops/comments/tniy2n/data_center_migration_due_to_geopolitics/) | ncubez | 5 |
-| [Public key management across many servers, how do you guys do it?](https://www.reddit.com/r/devops/comments/tmd4jg/public_key_management_across_many_servers_how_do/) | NetInfused | 3 |
-| [What projects do I need to get an Intern?](https://www.reddit.com/r/devops/comments/tne0fc/what_projects_do_i_need_to_get_an_intern/) | MHBlue98 | 2 |
-| [Interviewing help](https://www.reddit.com/r/devops/comments/tmd7qt/interviewing_help/) | madridista521 | 2 |
+| [I got tired with AWS status pages. So I built my own](https://www.reddit.com/r/devops/comments/tnoln3/i_got_tired_with_aws_status_pages_so_i_built_my/) | austin__pena | 168 |
+| [How do you send secrets to other people](https://www.reddit.com/r/devops/comments/tofkfs/how_do_you_send_secrets_to_other_people/) | Seattle1638 | 13 |
+| [What is a good way to manage 100-300+ microservices on multiple environments?](https://www.reddit.com/r/devops/comments/tnkwtd/what_is_a_good_way_to_manage_100300_microservices/) | jumperabg | 11 |
+| [Discussion: Who Should write the ci/cd pipEline (e.g. jenkinsfile)](https://www.reddit.com/r/devops/comments/tnwh2k/discussion_who_should_write_the_cicd_pipeline_eg/) | adevhasnoname | 4 |
+| [Podman 4 still unusable on macOS](https://www.reddit.com/r/devops/comments/tnncir/podman_4_still_unusable_on_macos/) | __Enrico_Palazzo__ | 3 |
+| [How do you test your Terraform+Python Code?](https://www.reddit.com/r/devops/comments/toe5i5/how_do_you_test_your_terraformpython_code/) | HappyUnicorns789 | 3 |
+| [Good programmatic ways to get assets out of a Docker image](https://www.reddit.com/r/devops/comments/tnv69b/good_programmatic_ways_to_get_assets_out_of_a/) | structurefall | 2 |
+| [lifecycle policies for s3](https://www.reddit.com/r/devops/comments/tnxe5q/lifecycle_policies_for_s3/) | legendarypegasus | 1 |
+| [devops newbie here and could use perspective on estimating the work of hosting testing infrastructure](https://www.reddit.com/r/devops/comments/tnygb5/devops_newbie_here_and_could_use_perspective_on/) | ForSpareParts | 1 |
+| [What is the best open source software for Managed File Transfer?](https://www.reddit.com/r/devops/comments/tnrk8y/what_is_the_best_open_source_software_for_managed/) | Quollum | 1 |
