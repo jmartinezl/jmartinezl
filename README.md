@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I got tired with AWS status pages. So I built my own](https://www.reddit.com/r/devops/comments/tnoln3/i_got_tired_with_aws_status_pages_so_i_built_my/) | austin__pena | 168 |
-| [How do you send secrets to other people](https://www.reddit.com/r/devops/comments/tofkfs/how_do_you_send_secrets_to_other_people/) | Seattle1638 | 13 |
-| [What is a good way to manage 100-300+ microservices on multiple environments?](https://www.reddit.com/r/devops/comments/tnkwtd/what_is_a_good_way_to_manage_100300_microservices/) | jumperabg | 11 |
-| [Discussion: Who Should write the ci/cd pipEline (e.g. jenkinsfile)](https://www.reddit.com/r/devops/comments/tnwh2k/discussion_who_should_write_the_cicd_pipeline_eg/) | adevhasnoname | 4 |
-| [Podman 4 still unusable on macOS](https://www.reddit.com/r/devops/comments/tnncir/podman_4_still_unusable_on_macos/) | __Enrico_Palazzo__ | 3 |
-| [How do you test your Terraform+Python Code?](https://www.reddit.com/r/devops/comments/toe5i5/how_do_you_test_your_terraformpython_code/) | HappyUnicorns789 | 3 |
-| [Good programmatic ways to get assets out of a Docker image](https://www.reddit.com/r/devops/comments/tnv69b/good_programmatic_ways_to_get_assets_out_of_a/) | structurefall | 2 |
-| [lifecycle policies for s3](https://www.reddit.com/r/devops/comments/tnxe5q/lifecycle_policies_for_s3/) | legendarypegasus | 1 |
-| [devops newbie here and could use perspective on estimating the work of hosting testing infrastructure](https://www.reddit.com/r/devops/comments/tnygb5/devops_newbie_here_and_could_use_perspective_on/) | ForSpareParts | 1 |
-| [What is the best open source software for Managed File Transfer?](https://www.reddit.com/r/devops/comments/tnrk8y/what_is_the_best_open_source_software_for_managed/) | Quollum | 1 |
+| [Creating a Grafana dashboard for a PoC](https://www.reddit.com/r/devops/comments/tot028/creating_a_grafana_dashboard_for_a_poc/) | pirbodx | 48 |
+| [Wait4X allows you to wait for a port or a service to enter the requested state](https://www.reddit.com/r/devops/comments/tpecix/wait4x_allows_you_to_wait_for_a_port_or_a_service/) | atkrad | 21 |
+| [Typical tasks you do at your job?](https://www.reddit.com/r/devops/comments/tp2da1/typical_tasks_you_do_at_your_job/) | HappyUnicorns789 | 16 |
+| [How much does a recruiter or their company get to place an FTE SWE, SRE etc?](https://www.reddit.com/r/devops/comments/tp6cp8/how_much_does_a_recruiter_or_their_company_get_to/) | locusofself | 11 |
+| [Wait4X allows you to wait for a port or a service to enter the requested state](https://www.reddit.com/r/devops/comments/tpg090/wait4x_allows_you_to_wait_for_a_port_or_a_service/) | k6rvitsamees | 2 |
+| [Expectations for a terraform interview test](https://www.reddit.com/r/devops/comments/tphaeq/expectations_for_a_terraform_interview_test/) | DanceLikeItsOuchy | 2 |
+| [CI/CD Pipeline From Scratch](https://www.reddit.com/r/devops/comments/tphscq/cicd_pipeline_from_scratch/) | the-opensourcegeek | 2 |
+| [Questions about getting into DevOps.](https://www.reddit.com/r/devops/comments/tp8p2d/questions_about_getting_into_devops/) | thecuriousstowaway | 0 |
+| [Is there a way to simulate scenarios that someone from dev ops would have to deal with?](https://www.reddit.com/r/devops/comments/toyvlz/is_there_a_way_to_simulate_scenarios_that_someone/) | Guilty_Serve | 0 |
+| [Beginner at Devops. Need help](https://www.reddit.com/r/devops/comments/totavq/beginner_at_devops_need_help/) | aliahsantech | 0 |
