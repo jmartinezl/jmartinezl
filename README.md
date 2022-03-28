@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Creating a Grafana dashboard for a PoC](https://www.reddit.com/r/devops/comments/tot028/creating_a_grafana_dashboard_for_a_poc/) | pirbodx | 48 |
-| [Wait4X allows you to wait for a port or a service to enter the requested state](https://www.reddit.com/r/devops/comments/tpecix/wait4x_allows_you_to_wait_for_a_port_or_a_service/) | atkrad | 21 |
-| [Typical tasks you do at your job?](https://www.reddit.com/r/devops/comments/tp2da1/typical_tasks_you_do_at_your_job/) | HappyUnicorns789 | 16 |
-| [How much does a recruiter or their company get to place an FTE SWE, SRE etc?](https://www.reddit.com/r/devops/comments/tp6cp8/how_much_does_a_recruiter_or_their_company_get_to/) | locusofself | 11 |
-| [Wait4X allows you to wait for a port or a service to enter the requested state](https://www.reddit.com/r/devops/comments/tpg090/wait4x_allows_you_to_wait_for_a_port_or_a_service/) | k6rvitsamees | 2 |
-| [Expectations for a terraform interview test](https://www.reddit.com/r/devops/comments/tphaeq/expectations_for_a_terraform_interview_test/) | DanceLikeItsOuchy | 2 |
-| [CI/CD Pipeline From Scratch](https://www.reddit.com/r/devops/comments/tphscq/cicd_pipeline_from_scratch/) | the-opensourcegeek | 2 |
-| [Questions about getting into DevOps.](https://www.reddit.com/r/devops/comments/tp8p2d/questions_about_getting_into_devops/) | thecuriousstowaway | 0 |
-| [Is there a way to simulate scenarios that someone from dev ops would have to deal with?](https://www.reddit.com/r/devops/comments/toyvlz/is_there_a_way_to_simulate_scenarios_that_someone/) | Guilty_Serve | 0 |
-| [Beginner at Devops. Need help](https://www.reddit.com/r/devops/comments/totavq/beginner_at_devops_need_help/) | aliahsantech | 0 |
+| [How to find out a company is working in real devops culture](https://www.reddit.com/r/devops/comments/tpmhtg/how_to_find_out_a_company_is_working_in_real/) | Dr_Pills | 106 |
+| [What should a "Senior" DevOps Engineer know how to do?](https://www.reddit.com/r/devops/comments/tpxr3g/what_should_a_senior_devops_engineer_know_how_to/) | DrZoidbrrrg | 86 |
+| [I created a guide on how to build custom Windows 11 "golden" images for Azure Virtual Desktop using Packer. The build is automated by using a scheduled GitHub Actions workflow to check daily for new Windows releases and create a new image as soon as it's published](https://www.reddit.com/r/devops/comments/tpscvi/i_created_a_guide_on_how_to_build_custom_windows/) | schnerring | 46 |
+| [Reminder to work each week a bit on toil and automate your tasks in a sustainable future proof way](https://www.reddit.com/r/devops/comments/tq567p/reminder_to_work_each_week_a_bit_on_toil_and/) | Manuelraa | 10 |
+| [Where do you all look to find remote jobs worth applying for](https://www.reddit.com/r/devops/comments/tpsve4/where_do_you_all_look_to_find_remote_jobs_worth/) | modern_medicine_isnt | 9 |
+| [Static Code Analysis of a large code base in a Gitlab CI/CD pipeline](https://www.reddit.com/r/devops/comments/tpoi49/static_code_analysis_of_a_large_code_base_in_a/) | sijafa | 4 |
+| [Docker Swarm Network Overlay and Traefik](https://www.reddit.com/r/devops/comments/tplqve/docker_swarm_network_overlay_and_traefik/) | coldpluto | 4 |
+| [Project ideas for learning networking](https://www.reddit.com/r/devops/comments/tpnk7s/project_ideas_for_learning_networking/) | chrisdaaz | 3 |
+| [Jenkins - Continue script on failure](https://www.reddit.com/r/devops/comments/tq756b/jenkins_continue_script_on_failure/) | HeadTea | 3 |
+| [Native containerization on windows server](https://www.reddit.com/r/devops/comments/tprqsv/native_containerization_on_windows_server/) | proboardslolv5 | 2 |
