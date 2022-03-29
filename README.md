@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How to find out a company is working in real devops culture](https://www.reddit.com/r/devops/comments/tpmhtg/how_to_find_out_a_company_is_working_in_real/) | Dr_Pills | 106 |
-| [What should a "Senior" DevOps Engineer know how to do?](https://www.reddit.com/r/devops/comments/tpxr3g/what_should_a_senior_devops_engineer_know_how_to/) | DrZoidbrrrg | 86 |
-| [I created a guide on how to build custom Windows 11 "golden" images for Azure Virtual Desktop using Packer. The build is automated by using a scheduled GitHub Actions workflow to check daily for new Windows releases and create a new image as soon as it's published](https://www.reddit.com/r/devops/comments/tpscvi/i_created_a_guide_on_how_to_build_custom_windows/) | schnerring | 46 |
-| [Reminder to work each week a bit on toil and automate your tasks in a sustainable future proof way](https://www.reddit.com/r/devops/comments/tq567p/reminder_to_work_each_week_a_bit_on_toil_and/) | Manuelraa | 10 |
-| [Where do you all look to find remote jobs worth applying for](https://www.reddit.com/r/devops/comments/tpsve4/where_do_you_all_look_to_find_remote_jobs_worth/) | modern_medicine_isnt | 9 |
-| [Static Code Analysis of a large code base in a Gitlab CI/CD pipeline](https://www.reddit.com/r/devops/comments/tpoi49/static_code_analysis_of_a_large_code_base_in_a/) | sijafa | 4 |
-| [Docker Swarm Network Overlay and Traefik](https://www.reddit.com/r/devops/comments/tplqve/docker_swarm_network_overlay_and_traefik/) | coldpluto | 4 |
-| [Project ideas for learning networking](https://www.reddit.com/r/devops/comments/tpnk7s/project_ideas_for_learning_networking/) | chrisdaaz | 3 |
-| [Jenkins - Continue script on failure](https://www.reddit.com/r/devops/comments/tq756b/jenkins_continue_script_on_failure/) | HeadTea | 3 |
-| [Native containerization on windows server](https://www.reddit.com/r/devops/comments/tprqsv/native_containerization_on_windows_server/) | proboardslolv5 | 2 |
+| [Job has 0 Infrastructure and I don't know where to start](https://www.reddit.com/r/devops/comments/tq9qjz/job_has_0_infrastructure_and_i_dont_know_where_to/) | NotTagg | 215 |
+| [Manual Approval in a GitHub Actions Workflow (without environments or GitHub Enterprise)](https://www.reddit.com/r/devops/comments/tq7xot/manual_approval_in_a_github_actions_workflow/) | chillysurfer | 26 |
+| [Does Azure DevOps feels overwhelming compared to GitHub or GitLab?](https://www.reddit.com/r/devops/comments/tqvmsf/does_azure_devops_feels_overwhelming_compared_to/) | AMGraduate564 | 13 |
+| [Canary Release on Kubernetes with Knative and Tekton](https://www.reddit.com/r/devops/comments/tqulza/canary_release_on_kubernetes_with_knative_and/) | piotr_minkowski | 9 |
+| [Not Devops, but been tasked with setting up our CI/cd pipeline](https://www.reddit.com/r/devops/comments/tqvq4y/not_devops_but_been_tasked_with_setting_up_our/) | MinMorts | 8 |
+| [Immutable Infrastructure with Ansible, Packer and Terraform on Azure (Blog)](https://www.reddit.com/r/devops/comments/tqmjhl/immutable_infrastructure_with_ansible_packer_and/) | shenzuken | 6 |
+| [Help me understand security updates in k8s context](https://www.reddit.com/r/devops/comments/tqa8yd/help_me_understand_security_updates_in_k8s_context/) | sock_templar | 6 |
+| [is it possible for developer to create a build job and then run it instead of running it when the changes merge to main branch?](https://www.reddit.com/r/devops/comments/tqq1m9/is_it_possible_for_developer_to_create_a_build/) | mickeyprime1 | 3 |
+| [How do you determine kubernetes resource requirements](https://www.reddit.com/r/devops/comments/tqiivx/how_do_you_determine_kubernetes_resource/) | DensePineapple | 2 |
+| [Yak Shaving - the origins](https://www.reddit.com/r/devops/comments/tqwoi4/yak_shaving_the_origins/) | DanceLikeItsOuchy | 1 |
