@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What is the difference between SRE and Platform Engineer?](https://www.reddit.com/r/devops/comments/tresrf/what_is_the_difference_between_sre_and_platform/) | devoopseng | 32 |
-| [Performance testing in CI/CD pipeline?](https://www.reddit.com/r/devops/comments/tr64tj/performance_testing_in_cicd_pipeline/) | jaydub | 25 |
-| [yojenkins — A User-Friendly Command Line Interface Tool for Jenkins](https://www.reddit.com/r/devops/comments/trv00w/yojenkins_a_userfriendly_command_line_interface/) | dasCooDawg | 24 |
-| [multiple deployments of the same app on kubernetes?](https://www.reddit.com/r/devops/comments/ts04xs/multiple_deployments_of_the_same_app_on_kubernetes/) | zbaczanpower | 12 |
-| [Manage cross technology/tool CICD pipelines](https://www.reddit.com/r/devops/comments/trv07w/manage_cross_technologytool_cicd_pipelines/) | 1NobodyPeople | 12 |
-| [When trying to automate your infrastructure with Terraform…has there been times where you had no idea how to write the script?](https://www.reddit.com/r/devops/comments/trwqgk/when_trying_to_automate_your_infrastructure_with/) | HappyUnicorns789 | 10 |
-| [Software inventory tool?](https://www.reddit.com/r/devops/comments/tqz7te/software_inventory_tool/) | gex80 | 9 |
-| [Not able to create index management policy on opensearch for logs, any ideas?](https://www.reddit.com/r/devops/comments/tralv4/not_able_to_create_index_management_policy_on/) | justabeeinspace | 6 |
-| [PlatformCon is live!](https://www.reddit.com/r/devops/comments/tqzszz/platformcon_is_live/) | matgalt | 5 |
-| [Trigger Jenkins job with specific commit message](https://www.reddit.com/r/devops/comments/ts3ere/trigger_jenkins_job_with_specific_commit_message/) | linuxshots | 3 |
+| [So Many Unqualified Candidates](https://www.reddit.com/r/devops/comments/tskutn/so_many_unqualified_candidates/) | floppy_panoos | 48 |
+| [DevOp Jobs that pay 200k TC in gov contracting](https://www.reddit.com/r/devops/comments/tsmuq8/devop_jobs_that_pay_200k_tc_in_gov_contracting/) | spyman1037 | 43 |
+| [How can I see mTLS traffic in a K8s cluster that also uses Istio?](https://www.reddit.com/r/devops/comments/tsabu2/how_can_i_see_mtls_traffic_in_a_k8s_cluster_that/) | sasko12 | 32 |
+| [Enterprise IaC Examples?](https://www.reddit.com/r/devops/comments/tshm8i/enterprise_iac_examples/) | Kumpass_Skater | 16 |
+| [Sudo rules when using SSH certificates](https://www.reddit.com/r/devops/comments/ts51j5/sudo_rules_when_using_ssh_certificates/) | flxptrs | 15 |
+| [Which Reverse Proxy for Kubernetes.](https://www.reddit.com/r/devops/comments/tshn98/which_reverse_proxy_for_kubernetes/) | Chronomuim_RSA | 5 |
+| [What all Linux commands/ Linux knowledge would you expect an entry level Devops engineer to have or at least demonstrate during the interview process?](https://www.reddit.com/r/devops/comments/tso3sf/what_all_linux_commands_linux_knowledge_would_you/) | Spare-Stick69 | 5 |
+| [Representing "if not exists" shared resources](https://www.reddit.com/r/devops/comments/tsw6tq/representing_if_not_exists_shared_resources/) | macca321 | 4 |
+| [Best way to host GL Runners on AWS](https://www.reddit.com/r/devops/comments/tsvol7/best_way_to_host_gl_runners_on_aws/) | da3mon_01 | 3 |
+| [Thoughts on CircleCI vs BBCloud Pipelines](https://www.reddit.com/r/devops/comments/tsf8rn/thoughts_on_circleci_vs_bbcloud_pipelines/) | bretonics | 2 |
