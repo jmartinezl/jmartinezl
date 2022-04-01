@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [So Many Unqualified Candidates](https://www.reddit.com/r/devops/comments/tskutn/so_many_unqualified_candidates/) | floppy_panoos | 48 |
-| [DevOp Jobs that pay 200k TC in gov contracting](https://www.reddit.com/r/devops/comments/tsmuq8/devop_jobs_that_pay_200k_tc_in_gov_contracting/) | spyman1037 | 43 |
-| [How can I see mTLS traffic in a K8s cluster that also uses Istio?](https://www.reddit.com/r/devops/comments/tsabu2/how_can_i_see_mtls_traffic_in_a_k8s_cluster_that/) | sasko12 | 32 |
-| [Enterprise IaC Examples?](https://www.reddit.com/r/devops/comments/tshm8i/enterprise_iac_examples/) | Kumpass_Skater | 16 |
-| [Sudo rules when using SSH certificates](https://www.reddit.com/r/devops/comments/ts51j5/sudo_rules_when_using_ssh_certificates/) | flxptrs | 15 |
-| [Which Reverse Proxy for Kubernetes.](https://www.reddit.com/r/devops/comments/tshn98/which_reverse_proxy_for_kubernetes/) | Chronomuim_RSA | 5 |
-| [What all Linux commands/ Linux knowledge would you expect an entry level Devops engineer to have or at least demonstrate during the interview process?](https://www.reddit.com/r/devops/comments/tso3sf/what_all_linux_commands_linux_knowledge_would_you/) | Spare-Stick69 | 5 |
-| [Representing "if not exists" shared resources](https://www.reddit.com/r/devops/comments/tsw6tq/representing_if_not_exists_shared_resources/) | macca321 | 4 |
-| [Best way to host GL Runners on AWS](https://www.reddit.com/r/devops/comments/tsvol7/best_way_to_host_gl_runners_on_aws/) | da3mon_01 | 3 |
-| [Thoughts on CircleCI vs BBCloud Pipelines](https://www.reddit.com/r/devops/comments/tsf8rn/thoughts_on_circleci_vs_bbcloud_pipelines/) | bretonics | 2 |
+| [#90DaysOfDevOps](https://www.reddit.com/r/devops/comments/tt89nk/90daysofdevops/) | MichaelCade | 203 |
+| [Best lab environment for practicing Ansible / automation?](https://www.reddit.com/r/devops/comments/tsyi8x/best_lab_environment_for_practicing_ansible/) | aScottishBoat | 48 |
+| [Just started using Argo-CD... BRUH](https://www.reddit.com/r/devops/comments/tt4oc5/just_started_using_argocd_bruh/) | JMcglock | 21 |
+| [Download a file from S3 using ansible](https://www.reddit.com/r/devops/comments/tt6tr5/download_a_file_from_s3_using_ansible/) | cephear | 16 |
+| [Does this group provide 📌 articles?](https://www.reddit.com/r/devops/comments/tsz90f/does_this_group_provide_articles/) | slowclicker | 4 |
+| [how you have v1 and v2 of apps running in k8s using helm](https://www.reddit.com/r/devops/comments/ttna8y/how_you_have_v1_and_v2_of_apps_running_in_k8s/) | theconfusingone | 3 |
+| [Web testing after deployments for standard use cases (e.g. sign-up / sign-in flow)](https://www.reddit.com/r/devops/comments/tt1hd4/web_testing_after_deployments_for_standard_use/) | koalex96 | 3 |
+| [🚀 Tekton CI/CD simple start ✌️](https://www.reddit.com/r/devops/comments/ttnwfn/tekton_cicd_simple_start/) | rombak | 2 |
+| [RFC for Breeze--a structure Cloud-As-Code language](https://www.reddit.com/r/devops/comments/tt8ysw/rfc_for_breezea_structure_cloudascode_language/) | sunshowerjoe | 2 |
+| [Oauth2 token concurrency?](https://www.reddit.com/r/devops/comments/tt5x9o/oauth2_token_concurrency/) | threecheeseopera | 2 |
