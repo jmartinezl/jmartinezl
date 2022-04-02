@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [#90DaysOfDevOps](https://www.reddit.com/r/devops/comments/tt89nk/90daysofdevops/) | MichaelCade | 203 |
-| [Best lab environment for practicing Ansible / automation?](https://www.reddit.com/r/devops/comments/tsyi8x/best_lab_environment_for_practicing_ansible/) | aScottishBoat | 48 |
-| [Just started using Argo-CD... BRUH](https://www.reddit.com/r/devops/comments/tt4oc5/just_started_using_argocd_bruh/) | JMcglock | 21 |
-| [Download a file from S3 using ansible](https://www.reddit.com/r/devops/comments/tt6tr5/download_a_file_from_s3_using_ansible/) | cephear | 16 |
-| [Does this group provide 📌 articles?](https://www.reddit.com/r/devops/comments/tsz90f/does_this_group_provide_articles/) | slowclicker | 4 |
-| [how you have v1 and v2 of apps running in k8s using helm](https://www.reddit.com/r/devops/comments/ttna8y/how_you_have_v1_and_v2_of_apps_running_in_k8s/) | theconfusingone | 3 |
-| [Web testing after deployments for standard use cases (e.g. sign-up / sign-in flow)](https://www.reddit.com/r/devops/comments/tt1hd4/web_testing_after_deployments_for_standard_use/) | koalex96 | 3 |
-| [🚀 Tekton CI/CD simple start ✌️](https://www.reddit.com/r/devops/comments/ttnwfn/tekton_cicd_simple_start/) | rombak | 2 |
-| [RFC for Breeze--a structure Cloud-As-Code language](https://www.reddit.com/r/devops/comments/tt8ysw/rfc_for_breezea_structure_cloudascode_language/) | sunshowerjoe | 2 |
-| [Oauth2 token concurrency?](https://www.reddit.com/r/devops/comments/tt5x9o/oauth2_token_concurrency/) | threecheeseopera | 2 |
+| [What tools did you discover that made your work so much easier for DevOps &amp; SRE](https://www.reddit.com/r/devops/comments/tu6gvm/what_tools_did_you_discover_that_made_your_work/) | zerotwo21 | 84 |
+| [I was unexpectedly offered a senior role](https://www.reddit.com/r/devops/comments/ttsby9/i_was_unexpectedly_offered_a_senior_role/) | remuff | 78 |
+| [do devops folks hate ruby for ci/CD? Also, is nodejs or Python more preferable than the other?](https://www.reddit.com/r/devops/comments/tu181y/do_devops_folks_hate_ruby_for_cicd_also_is_nodejs/) | babbagack | 7 |
+| [Need Help](https://www.reddit.com/r/devops/comments/ttw6gh/need_help/) | ekamol | 6 |
+| [Multiple roles](https://www.reddit.com/r/devops/comments/tu8w63/multiple_roles/) | sudo-wudo | 5 |
+| [Linux migration project to RHEL 8 recommendations](https://www.reddit.com/r/devops/comments/tu5k75/linux_migration_project_to_rhel_8_recommendations/) | sudo_96 | 5 |
+| [Packer build an ami that can mount efs in a private subnet?](https://www.reddit.com/r/devops/comments/ttv7ct/packer_build_an_ami_that_can_mount_efs_in_a/) | hongky1998 | 2 |
+| [Elastic beanstalk failing to install requirements all of a sudden](https://www.reddit.com/r/devops/comments/tucp6w/elastic_beanstalk_failing_to_install_requirements/) | throwawaycoder12 | 2 |
+| [Do you have to put the certificate inside the container when mounting the volume if you do this?](https://www.reddit.com/r/devops/comments/tu4cgi/do_you_have_to_put_the_certificate_inside_the/) | sharpbranches | 2 |
+| [AWS Backup Clean up](https://www.reddit.com/r/devops/comments/ttvgb0/aws_backup_clean_up/) | lilamar31 | 2 |
