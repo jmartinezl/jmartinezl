@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What tools did you discover that made your work so much easier for DevOps &amp; SRE](https://www.reddit.com/r/devops/comments/tu6gvm/what_tools_did_you_discover_that_made_your_work/) | zerotwo21 | 84 |
-| [I was unexpectedly offered a senior role](https://www.reddit.com/r/devops/comments/ttsby9/i_was_unexpectedly_offered_a_senior_role/) | remuff | 78 |
-| [do devops folks hate ruby for ci/CD? Also, is nodejs or Python more preferable than the other?](https://www.reddit.com/r/devops/comments/tu181y/do_devops_folks_hate_ruby_for_cicd_also_is_nodejs/) | babbagack | 7 |
-| [Need Help](https://www.reddit.com/r/devops/comments/ttw6gh/need_help/) | ekamol | 6 |
-| [Multiple roles](https://www.reddit.com/r/devops/comments/tu8w63/multiple_roles/) | sudo-wudo | 5 |
-| [Linux migration project to RHEL 8 recommendations](https://www.reddit.com/r/devops/comments/tu5k75/linux_migration_project_to_rhel_8_recommendations/) | sudo_96 | 5 |
-| [Packer build an ami that can mount efs in a private subnet?](https://www.reddit.com/r/devops/comments/ttv7ct/packer_build_an_ami_that_can_mount_efs_in_a/) | hongky1998 | 2 |
-| [Elastic beanstalk failing to install requirements all of a sudden](https://www.reddit.com/r/devops/comments/tucp6w/elastic_beanstalk_failing_to_install_requirements/) | throwawaycoder12 | 2 |
-| [Do you have to put the certificate inside the container when mounting the volume if you do this?](https://www.reddit.com/r/devops/comments/tu4cgi/do_you_have_to_put_the_certificate_inside_the/) | sharpbranches | 2 |
-| [AWS Backup Clean up](https://www.reddit.com/r/devops/comments/ttvgb0/aws_backup_clean_up/) | lilamar31 | 2 |
+| [Logging/Monitoring/Alerting Tool Recommendation](https://www.reddit.com/r/devops/comments/tuwmis/loggingmonitoringalerting_tool_recommendation/) | eric1320 | 30 |
+| [how to automate updating docker containers with jenkins (if it's possible)](https://www.reddit.com/r/devops/comments/tuhjc5/how_to_automate_updating_docker_containers_with/) | codehunter-py | 10 |
+| [Am I just being overly protective of the environment I work in or does the rest of my team just have things wrong?](https://www.reddit.com/r/devops/comments/tuvsl5/am_i_just_being_overly_protective_of_the/) | ATXRedBeard | 10 |
+| [🚀 Your Tekton CI/CD or OpenShift Pipelines experiences? ✌️](https://www.reddit.com/r/devops/comments/tv5dse/your_tekton_cicd_or_openshift_pipelines/) | rombak | 9 |
+| [Monthly 'Getting into DevOps' thread - 2022/03](https://www.reddit.com/r/devops/comments/tv01vk/monthly_getting_into_devops_thread_202203/) | mthode | 6 |
+| [Become a DevOps Engineer on Linkedin learning: is it a good course for a beginner trying to break into the world of devops?](https://www.reddit.com/r/devops/comments/tv3org/become_a_devops_engineer_on_linkedin_learning_is/) | hellraiser97 | 5 |
+| [Negotiate Salary?](https://www.reddit.com/r/devops/comments/tv4ftk/negotiate_salary/) | quaileggbenedict | 4 |
+| [Public metrics review](https://www.reddit.com/r/devops/comments/tv5cgn/public_metrics_review/) | gdullus | 2 |
+| [Monthly 'Shameless Self Promotion' thread - 2022/04](https://www.reddit.com/r/devops/comments/tv00l5/monthly_shameless_self_promotion_thread_202204/) | mthode | 1 |
+| [Issues deploying Postgres onto K3s](https://www.reddit.com/r/devops/comments/tuxaak/issues_deploying_postgres_onto_k3s/) | Drakeskywing | 1 |
