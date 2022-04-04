@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Logging/Monitoring/Alerting Tool Recommendation](https://www.reddit.com/r/devops/comments/tuwmis/loggingmonitoringalerting_tool_recommendation/) | eric1320 | 30 |
-| [how to automate updating docker containers with jenkins (if it's possible)](https://www.reddit.com/r/devops/comments/tuhjc5/how_to_automate_updating_docker_containers_with/) | codehunter-py | 10 |
-| [Am I just being overly protective of the environment I work in or does the rest of my team just have things wrong?](https://www.reddit.com/r/devops/comments/tuvsl5/am_i_just_being_overly_protective_of_the/) | ATXRedBeard | 10 |
-| [🚀 Your Tekton CI/CD or OpenShift Pipelines experiences? ✌️](https://www.reddit.com/r/devops/comments/tv5dse/your_tekton_cicd_or_openshift_pipelines/) | rombak | 9 |
-| [Monthly 'Getting into DevOps' thread - 2022/03](https://www.reddit.com/r/devops/comments/tv01vk/monthly_getting_into_devops_thread_202203/) | mthode | 6 |
-| [Become a DevOps Engineer on Linkedin learning: is it a good course for a beginner trying to break into the world of devops?](https://www.reddit.com/r/devops/comments/tv3org/become_a_devops_engineer_on_linkedin_learning_is/) | hellraiser97 | 5 |
-| [Negotiate Salary?](https://www.reddit.com/r/devops/comments/tv4ftk/negotiate_salary/) | quaileggbenedict | 4 |
-| [Public metrics review](https://www.reddit.com/r/devops/comments/tv5cgn/public_metrics_review/) | gdullus | 2 |
-| [Monthly 'Shameless Self Promotion' thread - 2022/04](https://www.reddit.com/r/devops/comments/tv00l5/monthly_shameless_self_promotion_thread_202204/) | mthode | 1 |
-| [Issues deploying Postgres onto K3s](https://www.reddit.com/r/devops/comments/tuxaak/issues_deploying_postgres_onto_k3s/) | Drakeskywing | 1 |
+| [Dagger - A portable devkit for CI/CD pipelines](https://www.reddit.com/r/devops/comments/tvrfvc/dagger_a_portable_devkit_for_cicd_pipelines/) | binaryfor | 49 |
+| [ansible repository structure](https://www.reddit.com/r/devops/comments/tvf1bo/ansible_repository_structure/) | melbogia | 26 |
+| [What Jenkins alternative can you recommend?](https://www.reddit.com/r/devops/comments/tvw7c8/what_jenkins_alternative_can_you_recommend/) | azertykitty | 16 |
+| [Start a Junior Position Tomorrow! Any advice?](https://www.reddit.com/r/devops/comments/tvdmib/start_a_junior_position_tomorrow_any_advice/) | TTT94 | 11 |
+| [How can I auto renew letsencrypt cert and auto reload Nginx docker container?](https://www.reddit.com/r/devops/comments/tvar11/how_can_i_auto_renew_letsencrypt_cert_and_auto/) | fastposter | 8 |
+| [Being pulled into contracting for a few months. What hourly rate should I be asking for in Austin, Texas?](https://www.reddit.com/r/devops/comments/tvl0yg/being_pulled_into_contracting_for_a_few_months/) | IndieDiscovery | 6 |
+| [Google cloud deployment](https://www.reddit.com/r/devops/comments/tv8fpy/google_cloud_deployment/) | oliverilmjarv | 5 |
+| [Different user for web request per application or just use default www-data by nginx?](https://www.reddit.com/r/devops/comments/tv81y9/different_user_for_web_request_per_application_or/) | ThisIsntMyId | 5 |
+| [I just started learning python, is there anything I should focus on when trying to learn it for DevOps?](https://www.reddit.com/r/devops/comments/tvokh7/i_just_started_learning_python_is_there_anything/) | MP32Gaming | 4 |
+| [What are the factors that influence in selecting a Linux distro for enterprise level DevOps projects? How does a company decide which distro is best for their project. Should a DevOps Engineer be distro agnostic or be an expert in a particular distro? Is Ubuntu generally favoured over RH?](https://www.reddit.com/r/devops/comments/tvf3zo/what_are_the_factors_that_influence_in_selecting/) | breathinglifeagain | 2 |
