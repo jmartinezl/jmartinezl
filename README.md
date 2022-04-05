@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Dagger - A portable devkit for CI/CD pipelines](https://www.reddit.com/r/devops/comments/tvrfvc/dagger_a_portable_devkit_for_cicd_pipelines/) | binaryfor | 49 |
-| [ansible repository structure](https://www.reddit.com/r/devops/comments/tvf1bo/ansible_repository_structure/) | melbogia | 26 |
-| [What Jenkins alternative can you recommend?](https://www.reddit.com/r/devops/comments/tvw7c8/what_jenkins_alternative_can_you_recommend/) | azertykitty | 16 |
-| [Start a Junior Position Tomorrow! Any advice?](https://www.reddit.com/r/devops/comments/tvdmib/start_a_junior_position_tomorrow_any_advice/) | TTT94 | 11 |
-| [How can I auto renew letsencrypt cert and auto reload Nginx docker container?](https://www.reddit.com/r/devops/comments/tvar11/how_can_i_auto_renew_letsencrypt_cert_and_auto/) | fastposter | 8 |
-| [Being pulled into contracting for a few months. What hourly rate should I be asking for in Austin, Texas?](https://www.reddit.com/r/devops/comments/tvl0yg/being_pulled_into_contracting_for_a_few_months/) | IndieDiscovery | 6 |
-| [Google cloud deployment](https://www.reddit.com/r/devops/comments/tv8fpy/google_cloud_deployment/) | oliverilmjarv | 5 |
-| [Different user for web request per application or just use default www-data by nginx?](https://www.reddit.com/r/devops/comments/tv81y9/different_user_for_web_request_per_application_or/) | ThisIsntMyId | 5 |
-| [I just started learning python, is there anything I should focus on when trying to learn it for DevOps?](https://www.reddit.com/r/devops/comments/tvokh7/i_just_started_learning_python_is_there_anything/) | MP32Gaming | 4 |
-| [What are the factors that influence in selecting a Linux distro for enterprise level DevOps projects? How does a company decide which distro is best for their project. Should a DevOps Engineer be distro agnostic or be an expert in a particular distro? Is Ubuntu generally favoured over RH?](https://www.reddit.com/r/devops/comments/tvf3zo/what_are_the_factors_that_influence_in_selecting/) | breathinglifeagain | 2 |
+| [What's the etiquette for reaching out to engineers on GitHub to contribute to open source API?](https://www.reddit.com/r/devops/comments/tw8i4v/whats_the_etiquette_for_reaching_out_to_engineers/) | guidedredditation | 52 |
+| [Miracle, I got job offer as a Devops but..](https://www.reddit.com/r/devops/comments/twpz8t/miracle_i_got_job_offer_as_a_devops_but/) | leecher69 | 29 |
+| [Interested in devops as a field and philosophy](https://www.reddit.com/r/devops/comments/tw3y93/interested_in_devops_as_a_field_and_philosophy/) | Spitefulmutant_ | 13 |
+| [Production Kubernetes best practice](https://www.reddit.com/r/devops/comments/twkfjz/production_kubernetes_best_practice/) | Nosa2k | 10 |
+| [Advice on skill development to transition into DevOps from IT tech role](https://www.reddit.com/r/devops/comments/twbiaw/advice_on_skill_development_to_transition_into/) | dunkzz93 | 10 |
+| [DevOps Lead coding interview](https://www.reddit.com/r/devops/comments/twj4uu/devops_lead_coding_interview/) | Silent_Candidate | 9 |
+| [Advice to someone entering the DevOps field](https://www.reddit.com/r/devops/comments/tw8o75/advice_to_someone_entering_the_devops_field/) | Throwmeawatermelon | 5 |
+| [Artifactory help](https://www.reddit.com/r/devops/comments/twq8ut/artifactory_help/) | tsvangison | 2 |
+| [What's most important to you when launching a new project and what do you fear the most (from DevOps perspective)?](https://www.reddit.com/r/devops/comments/twqilf/whats_most_important_to_you_when_launching_a_new/) | dumbbaba | 1 |
+| [Need suggestion for deployments.](https://www.reddit.com/r/devops/comments/twiyie/need_suggestion_for_deployments/) | koo3Pash | 1 |
