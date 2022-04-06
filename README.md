@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What's the etiquette for reaching out to engineers on GitHub to contribute to open source API?](https://www.reddit.com/r/devops/comments/tw8i4v/whats_the_etiquette_for_reaching_out_to_engineers/) | guidedredditation | 52 |
-| [Miracle, I got job offer as a Devops but..](https://www.reddit.com/r/devops/comments/twpz8t/miracle_i_got_job_offer_as_a_devops_but/) | leecher69 | 29 |
-| [Interested in devops as a field and philosophy](https://www.reddit.com/r/devops/comments/tw3y93/interested_in_devops_as_a_field_and_philosophy/) | Spitefulmutant_ | 13 |
-| [Production Kubernetes best practice](https://www.reddit.com/r/devops/comments/twkfjz/production_kubernetes_best_practice/) | Nosa2k | 10 |
-| [Advice on skill development to transition into DevOps from IT tech role](https://www.reddit.com/r/devops/comments/twbiaw/advice_on_skill_development_to_transition_into/) | dunkzz93 | 10 |
-| [DevOps Lead coding interview](https://www.reddit.com/r/devops/comments/twj4uu/devops_lead_coding_interview/) | Silent_Candidate | 9 |
-| [Advice to someone entering the DevOps field](https://www.reddit.com/r/devops/comments/tw8o75/advice_to_someone_entering_the_devops_field/) | Throwmeawatermelon | 5 |
-| [Artifactory help](https://www.reddit.com/r/devops/comments/twq8ut/artifactory_help/) | tsvangison | 2 |
-| [What's most important to you when launching a new project and what do you fear the most (from DevOps perspective)?](https://www.reddit.com/r/devops/comments/twqilf/whats_most_important_to_you_when_launching_a_new/) | dumbbaba | 1 |
-| [Need suggestion for deployments.](https://www.reddit.com/r/devops/comments/twiyie/need_suggestion_for_deployments/) | koo3Pash | 1 |
+| [Junior devops roles - hire learners and shape them, how popular is this approach?](https://www.reddit.com/r/devops/comments/twxiv4/junior_devops_roles_hire_learners_and_shape_them/) | TowARow | 47 |
+| [Anyone know how r/Places was powered under the hood?](https://www.reddit.com/r/devops/comments/txd2xh/anyone_know_how_rplaces_was_powered_under_the_hood/) | EAW_astro | 45 |
+| [Strategies for preventing "Oops, wrong kubernetes cluster!" deploys?](https://www.reddit.com/r/devops/comments/tww98n/strategies_for_preventing_oops_wrong_kubernetes/) | DastardMan | 16 |
+| [What’s the point of TCP passthrough?](https://www.reddit.com/r/devops/comments/tx3q9u/whats_the_point_of_tcp_passthrough/) | da_shaka | 14 |
+| [middleware best practices](https://www.reddit.com/r/devops/comments/twwddj/middleware_best_practices/) | int0 | 5 |
+| [What is the « -let » in kubelet?](https://www.reddit.com/r/devops/comments/txhh6w/what_is_the_let_in_kubelet/) | dernat71 | 3 |
+| [Nutanix vs Tanzu](https://www.reddit.com/r/devops/comments/tx08vz/nutanix_vs_tanzu/) | thump2 | 2 |
+| [Environment seperation question](https://www.reddit.com/r/devops/comments/twtsan/environment_seperation_question/) | doc_l0ve | 2 |
+| [Earthly is a build automation tool from the same era as your code... It is typically the layer between language-specific tooling (like maven, gradle, npm, pip, go build) and the CI build spec.](https://www.reddit.com/r/devops/comments/txa70z/earthly_is_a_build_automation_tool_from_the_same/) | binaryfor | 2 |
+| [EBS/EFS backup snapshots for Velero using "Restic"](https://www.reddit.com/r/devops/comments/txfkjw/ebsefs_backup_snapshots_for_velero_using_restic/) | ranveer_singh21 | 2 |
