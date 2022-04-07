@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Junior devops roles - hire learners and shape them, how popular is this approach?](https://www.reddit.com/r/devops/comments/twxiv4/junior_devops_roles_hire_learners_and_shape_them/) | TowARow | 47 |
-| [Anyone know how r/Places was powered under the hood?](https://www.reddit.com/r/devops/comments/txd2xh/anyone_know_how_rplaces_was_powered_under_the_hood/) | EAW_astro | 45 |
-| [Strategies for preventing "Oops, wrong kubernetes cluster!" deploys?](https://www.reddit.com/r/devops/comments/tww98n/strategies_for_preventing_oops_wrong_kubernetes/) | DastardMan | 16 |
-| [What’s the point of TCP passthrough?](https://www.reddit.com/r/devops/comments/tx3q9u/whats_the_point_of_tcp_passthrough/) | da_shaka | 14 |
-| [middleware best practices](https://www.reddit.com/r/devops/comments/twwddj/middleware_best_practices/) | int0 | 5 |
-| [What is the « -let » in kubelet?](https://www.reddit.com/r/devops/comments/txhh6w/what_is_the_let_in_kubelet/) | dernat71 | 3 |
-| [Nutanix vs Tanzu](https://www.reddit.com/r/devops/comments/tx08vz/nutanix_vs_tanzu/) | thump2 | 2 |
-| [Environment seperation question](https://www.reddit.com/r/devops/comments/twtsan/environment_seperation_question/) | doc_l0ve | 2 |
-| [Earthly is a build automation tool from the same era as your code... It is typically the layer between language-specific tooling (like maven, gradle, npm, pip, go build) and the CI build spec.](https://www.reddit.com/r/devops/comments/txa70z/earthly_is_a_build_automation_tool_from_the_same/) | binaryfor | 2 |
-| [EBS/EFS backup snapshots for Velero using "Restic"](https://www.reddit.com/r/devops/comments/txfkjw/ebsefs_backup_snapshots_for_velero_using_restic/) | ranveer_singh21 | 2 |
+| [Best resource to stay current with trends in the DevOps arena?](https://www.reddit.com/r/devops/comments/txr5pb/best_resource_to_stay_current_with_trends_in_the/) | landshark1977 | 51 |
+| [Does this Github workflow make sense? (on prem infra provisioning)](https://www.reddit.com/r/devops/comments/txq6o3/does_this_github_workflow_make_sense_on_prem/) | Tech4dayz | 44 |
+| [Docker Monitoring with Prometheus, Grafana and Auto Dashboards](https://www.reddit.com/r/devops/comments/txw9wd/docker_monitoring_with_prometheus_grafana_and/) | rbekker87 | 20 |
+| [Database for every PR](https://www.reddit.com/r/devops/comments/txu20s/database_for_every_pr/) | CallMeBober | 12 |
+| [The economics of storing data? Noobie question.](https://www.reddit.com/r/devops/comments/ty7erl/the_economics_of_storing_data_noobie_question/) | w0ngz | 10 |
+| [non-enterprise secrets management options?](https://www.reddit.com/r/devops/comments/txrx4f/nonenterprise_secrets_management_options/) | ep1032 | 6 |
+| [Question: Does anyone have a Code Example of GitLab CI Pipeline (SaaS) that can deploy AWS Infra, Using an AWS LAMBDA/FARGATE Based Runner](https://www.reddit.com/r/devops/comments/ty3oze/question_does_anyone_have_a_code_example_of/) | PrivatePSYcho | 6 |
+| [New to Github actions, looking to validate a workflow (Next.js App)](https://www.reddit.com/r/devops/comments/txtkwc/new_to_github_actions_looking_to_validate_a/) | AiexReddit | 6 |
+| [Get quick info on an IP address](https://www.reddit.com/r/devops/comments/tya4bk/get_quick_info_on_an_ip_address/) | reisinge | 6 |
+| [git cherry-pick creating a conflict](https://www.reddit.com/r/devops/comments/txzgu4/git_cherrypick_creating_a_conflict/) | melbogia | 3 |
