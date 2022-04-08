@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Best resource to stay current with trends in the DevOps arena?](https://www.reddit.com/r/devops/comments/txr5pb/best_resource_to_stay_current_with_trends_in_the/) | landshark1977 | 51 |
-| [Does this Github workflow make sense? (on prem infra provisioning)](https://www.reddit.com/r/devops/comments/txq6o3/does_this_github_workflow_make_sense_on_prem/) | Tech4dayz | 44 |
-| [Docker Monitoring with Prometheus, Grafana and Auto Dashboards](https://www.reddit.com/r/devops/comments/txw9wd/docker_monitoring_with_prometheus_grafana_and/) | rbekker87 | 20 |
-| [Database for every PR](https://www.reddit.com/r/devops/comments/txu20s/database_for_every_pr/) | CallMeBober | 12 |
-| [The economics of storing data? Noobie question.](https://www.reddit.com/r/devops/comments/ty7erl/the_economics_of_storing_data_noobie_question/) | w0ngz | 10 |
-| [non-enterprise secrets management options?](https://www.reddit.com/r/devops/comments/txrx4f/nonenterprise_secrets_management_options/) | ep1032 | 6 |
-| [Question: Does anyone have a Code Example of GitLab CI Pipeline (SaaS) that can deploy AWS Infra, Using an AWS LAMBDA/FARGATE Based Runner](https://www.reddit.com/r/devops/comments/ty3oze/question_does_anyone_have_a_code_example_of/) | PrivatePSYcho | 6 |
-| [New to Github actions, looking to validate a workflow (Next.js App)](https://www.reddit.com/r/devops/comments/txtkwc/new_to_github_actions_looking_to_validate_a/) | AiexReddit | 6 |
-| [Get quick info on an IP address](https://www.reddit.com/r/devops/comments/tya4bk/get_quick_info_on_an_ip_address/) | reisinge | 6 |
-| [git cherry-pick creating a conflict](https://www.reddit.com/r/devops/comments/txzgu4/git_cherrypick_creating_a_conflict/) | melbogia | 3 |
+| [Effective Alerts Without the Fatigue](https://www.reddit.com/r/devops/comments/tyd1zd/effective_alerts_without_the_fatigue/) | amirshk | 44 |
+| [REST API Development - What language do you prefer and why?](https://www.reddit.com/r/devops/comments/tyu9rl/rest_api_development_what_language_do_you_prefer/) | techsavvydutchman | 33 |
+| [git repo secret scanning?](https://www.reddit.com/r/devops/comments/tym691/git_repo_secret_scanning/) | mrkurtz | 21 |
+| [Company change advice: MSFT, AWS, Oracle.](https://www.reddit.com/r/devops/comments/typ5iq/company_change_advice_msft_aws_oracle/) | locusofself | 21 |
+| [Do people still use VMWare?](https://www.reddit.com/r/devops/comments/tykh0p/do_people_still_use_vmware/) | pinpinbo | 11 |
+| [Is Kubernetes considered infrastructure?](https://www.reddit.com/r/devops/comments/tydjdq/is_kubernetes_considered_infrastructure/) | carmikaze | 8 |
+| [what is your opinion or experience on Hachicorp's waypoint?](https://www.reddit.com/r/devops/comments/tyyzng/what_is_your_opinion_or_experience_on_hachicorps/) | kingindanord | 6 |
+| [Skills that makes you stand out in cloud/devops roles](https://www.reddit.com/r/devops/comments/tydilm/skills_that_makes_you_stand_out_in_clouddevops/) | FinnaGetRichh | 3 |
+| [Network/System Admin looking to transition to DevOps](https://www.reddit.com/r/devops/comments/tyusgg/networksystem_admin_looking_to_transition_to/) | hypnotic_daze | 3 |
+| [What's your strategy for getting ISO 27001 certified.](https://www.reddit.com/r/devops/comments/tyhfsr/whats_your_strategy_for_getting_iso_27001/) | Groundbreaking_Owl24 | 1 |
