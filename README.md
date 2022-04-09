@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Effective Alerts Without the Fatigue](https://www.reddit.com/r/devops/comments/tyd1zd/effective_alerts_without_the_fatigue/) | amirshk | 44 |
-| [REST API Development - What language do you prefer and why?](https://www.reddit.com/r/devops/comments/tyu9rl/rest_api_development_what_language_do_you_prefer/) | techsavvydutchman | 33 |
-| [git repo secret scanning?](https://www.reddit.com/r/devops/comments/tym691/git_repo_secret_scanning/) | mrkurtz | 21 |
-| [Company change advice: MSFT, AWS, Oracle.](https://www.reddit.com/r/devops/comments/typ5iq/company_change_advice_msft_aws_oracle/) | locusofself | 21 |
-| [Do people still use VMWare?](https://www.reddit.com/r/devops/comments/tykh0p/do_people_still_use_vmware/) | pinpinbo | 11 |
-| [Is Kubernetes considered infrastructure?](https://www.reddit.com/r/devops/comments/tydjdq/is_kubernetes_considered_infrastructure/) | carmikaze | 8 |
-| [what is your opinion or experience on Hachicorp's waypoint?](https://www.reddit.com/r/devops/comments/tyyzng/what_is_your_opinion_or_experience_on_hachicorps/) | kingindanord | 6 |
-| [Skills that makes you stand out in cloud/devops roles](https://www.reddit.com/r/devops/comments/tydilm/skills_that_makes_you_stand_out_in_clouddevops/) | FinnaGetRichh | 3 |
-| [Network/System Admin looking to transition to DevOps](https://www.reddit.com/r/devops/comments/tyusgg/networksystem_admin_looking_to_transition_to/) | hypnotic_daze | 3 |
-| [What's your strategy for getting ISO 27001 certified.](https://www.reddit.com/r/devops/comments/tyhfsr/whats_your_strategy_for_getting_iso_27001/) | Groundbreaking_Owl24 | 1 |
+| [What tools to use as user frontend for automation?](https://www.reddit.com/r/devops/comments/tz94hv/what_tools_to_use_as_user_frontend_for_automation/) | macbinjo | 46 |
+| [Increase in cybersec attacks a sign of bigger things to come?](https://www.reddit.com/r/devops/comments/tz4k41/increase_in_cybersec_attacks_a_sign_of_bigger/) | Devin_Devop | 33 |
+| [My organization is going to review a roadmap and plan for DevOps. How do I ensure they have a solid plan?](https://www.reddit.com/r/devops/comments/tzaj2f/my_organization_is_going_to_review_a_roadmap_and/) | det1rac | 11 |
+| [is it common practice to perform automated GUI tests on middleware such as Jenkins, gitlab, jboss, solace etc?](https://www.reddit.com/r/devops/comments/tzj14n/is_it_common_practice_to_perform_automated_gui/) | learnamap | 9 |
+| [azure integration with git. use personal or specialized github login](https://www.reddit.com/r/devops/comments/tz4jsd/azure_integration_with_git_use_personal_or/) | humanonymous007 | 3 |
+| [Noob question](https://www.reddit.com/r/devops/comments/tzfs5a/noob_question/) | swatkats15 | 3 |
+| [CI platform for container based workflows](https://www.reddit.com/r/devops/comments/tz7dd1/ci_platform_for_container_based_workflows/) | Dwight-D | 2 |
+| [Atlantis plan works on unapproved MRs with approved requirement](https://www.reddit.com/r/devops/comments/tz2pru/atlantis_plan_works_on_unapproved_mrs_with/) | sitilge | 2 |
+| [vSphere data choices (x post)](https://www.reddit.com/r/devops/comments/tzgmzw/vsphere_data_choices_x_post/) | JasonKelce2020 | 1 |
+| [What is the best practice when using modules for multiple services?](https://www.reddit.com/r/devops/comments/tz87gc/what_is_the_best_practice_when_using_modules_for/) | razenet | 1 |
