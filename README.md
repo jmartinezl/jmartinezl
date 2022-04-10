@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What tools to use as user frontend for automation?](https://www.reddit.com/r/devops/comments/tz94hv/what_tools_to_use_as_user_frontend_for_automation/) | macbinjo | 46 |
-| [Increase in cybersec attacks a sign of bigger things to come?](https://www.reddit.com/r/devops/comments/tz4k41/increase_in_cybersec_attacks_a_sign_of_bigger/) | Devin_Devop | 33 |
-| [My organization is going to review a roadmap and plan for DevOps. How do I ensure they have a solid plan?](https://www.reddit.com/r/devops/comments/tzaj2f/my_organization_is_going_to_review_a_roadmap_and/) | det1rac | 11 |
-| [is it common practice to perform automated GUI tests on middleware such as Jenkins, gitlab, jboss, solace etc?](https://www.reddit.com/r/devops/comments/tzj14n/is_it_common_practice_to_perform_automated_gui/) | learnamap | 9 |
-| [azure integration with git. use personal or specialized github login](https://www.reddit.com/r/devops/comments/tz4jsd/azure_integration_with_git_use_personal_or/) | humanonymous007 | 3 |
-| [Noob question](https://www.reddit.com/r/devops/comments/tzfs5a/noob_question/) | swatkats15 | 3 |
-| [CI platform for container based workflows](https://www.reddit.com/r/devops/comments/tz7dd1/ci_platform_for_container_based_workflows/) | Dwight-D | 2 |
-| [Atlantis plan works on unapproved MRs with approved requirement](https://www.reddit.com/r/devops/comments/tz2pru/atlantis_plan_works_on_unapproved_mrs_with/) | sitilge | 2 |
-| [vSphere data choices (x post)](https://www.reddit.com/r/devops/comments/tzgmzw/vsphere_data_choices_x_post/) | JasonKelce2020 | 1 |
-| [What is the best practice when using modules for multiple services?](https://www.reddit.com/r/devops/comments/tz87gc/what_is_the_best_practice_when_using_modules_for/) | razenet | 1 |
+| [How do you share and sync .env files for your team](https://www.reddit.com/r/devops/comments/tzufc9/how_do_you_share_and_sync_env_files_for_your_team/) | t5bert | 74 |
+| [How does your CD look like (Branching, Tags, deployments, environments ...)](https://www.reddit.com/r/devops/comments/u0b8xb/how_does_your_cd_look_like_branching_tags/) | Iduoad | 46 |
+| [How do you monitor versions of your microservices?](https://www.reddit.com/r/devops/comments/u01593/how_do_you_monitor_versions_of_your_microservices/) | Ordoshsen | 16 |
+| [Monitoring/Logging ecs on fargate](https://www.reddit.com/r/devops/comments/u06b2u/monitoringlogging_ecs_on_fargate/) | soahc_human | 6 |
+| [How good at python should u be for devops?](https://www.reddit.com/r/devops/comments/tzys8b/how_good_at_python_should_u_be_for_devops/) | eyeeyecaptainn | 6 |
+| [Running Non-Containerized Applications with Orchestration](https://www.reddit.com/r/devops/comments/u0fiay/running_noncontainerized_applications_with/) | iamabhishek-dubey | 4 |
+| [Devops amazon apprenticeship](https://www.reddit.com/r/devops/comments/tzubb3/devops_amazon_apprenticeship/) | ConsiderationOk3725 | 4 |
+| [MongoDB Operator Release](https://www.reddit.com/r/devops/comments/u0fgro/mongodb_operator_release/) | iamabhishek-dubey | 1 |
+| [Should I Take This Job?](https://www.reddit.com/r/devops/comments/u0354e/should_i_take_this_job/) | mustangally3714 | 0 |
+| [Programming with the Mac (A s***)](https://www.reddit.com/r/devops/comments/tzv9ny/programming_with_the_mac_a_s/) | sinfonia_i | 0 |
