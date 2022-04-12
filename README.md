@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps is dead, long live DevOps](https://www.reddit.com/r/devops/comments/u0yo1h/devops_is_dead_long_live_devops/) | MrScotchyScotch | 63 |
-| [Best way to do centralized logging?](https://www.reddit.com/r/devops/comments/u0iagg/best_way_to_do_centralized_logging/) | Status-Floor3119 | 59 |
-| [What would you consider to be the "must-have/must-know" skills/tools in today's devops world?](https://www.reddit.com/r/devops/comments/u0h4y4/what_would_you_consider_to_be_the/) | kuriyano | 58 |
-| [I made a website that helps you do Cloud practical projects for free](https://www.reddit.com/r/devops/comments/u1548o/i_made_a_website_that_helps_you_do_cloud/) | HisoDB | 27 |
-| [For DevOps, what should you choose between Python and GoLang?](https://www.reddit.com/r/devops/comments/u0ik98/for_devops_what_should_you_choose_between_python/) | HisoDB | 10 |
-| [What’s the best way to automate scripts on VMs (EC2 specifically)](https://www.reddit.com/r/devops/comments/u0m5pt/whats_the_best_way_to_automate_scripts_on_vms_ec2/) | MP32Gaming | 6 |
-| [what tool do you use for validating hardening settings have been applied. this is for security and hardening purposes. for example, ensure that admin username is not default username, password is at least 12 characters with upper, lower and special characters, https is enabled etc](https://www.reddit.com/r/devops/comments/u0vv6a/what_tool_do_you_use_for_validating_hardening/) | learnamap | 5 |
-| [nginx : So there is no way to have catch-all functionality for server_name?](https://www.reddit.com/r/devops/comments/u11kpc/nginx_so_there_is_no_way_to_have_catchall/) | domanpanda | 3 |
-| [Api Management on AWS](https://www.reddit.com/r/devops/comments/u0gh2f/api_management_on_aws/) | HgnX | 3 |
-| [To lead a team means I should have the highest salary?](https://www.reddit.com/r/devops/comments/u14yci/to_lead_a_team_means_i_should_have_the_highest/) | robloxianerz | 2 |
+| [Does your job allow you local admin/elevated privileges to your local workstation?](https://www.reddit.com/r/devops/comments/u1okj8/does_your_job_allow_you_local_adminelevated/) | geruta | 74 |
+| [Perforce Acquires Puppet](https://www.reddit.com/r/devops/comments/u1897n/perforce_acquires_puppet/) | EasyTangent | 39 |
+| [Portainer.io support for Nomad.](https://www.reddit.com/r/devops/comments/u1n07l/portainerio_support_for_nomad/) | DiHannay | 14 |
+| [A live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing with microservices' messaging systems (Kafka, RabbitMQ, etc)](https://www.reddit.com/r/devops/comments/u1a9lg/a_live_45minutes_session_on_the_fundamentals_of/) | Observability_Team | 9 |
+| [How do buildpacks handle unit tests, code coverage, and more exotic build requirements in CI/CD?](https://www.reddit.com/r/devops/comments/u1dwu7/how_do_buildpacks_handle_unit_tests_code_coverage/) | red88888888 | 6 |
+| [A community for builders of developer tools?](https://www.reddit.com/r/devops/comments/u18way/a_community_for_builders_of_developer_tools/) | creativefisher | 5 |
+| [How do I combine tools that I learned into a project?](https://www.reddit.com/r/devops/comments/u1stg0/how_do_i_combine_tools_that_i_learned_into_a/) | No-Wallaby6514 | 2 |
+| [EC2 replacement on high memory useage?](https://www.reddit.com/r/devops/comments/u18jb1/ec2_replacement_on_high_memory_useage/) | A_Foxxy_Tycoon | 2 |
+| [Reverse Proxy Authentication (preferably docker image)](https://www.reddit.com/r/devops/comments/u1uly3/reverse_proxy_authentication_preferably_docker/) | TooLazyToWorkout | 1 |
+| [Any way to use mysqldump command on the Lamda console?](https://www.reddit.com/r/devops/comments/u1djc7/any_way_to_use_mysqldump_command_on_the_lamda/) | Wise_Ad367 | 1 |
