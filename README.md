@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does your job allow you local admin/elevated privileges to your local workstation?](https://www.reddit.com/r/devops/comments/u1okj8/does_your_job_allow_you_local_adminelevated/) | geruta | 74 |
-| [Perforce Acquires Puppet](https://www.reddit.com/r/devops/comments/u1897n/perforce_acquires_puppet/) | EasyTangent | 39 |
-| [Portainer.io support for Nomad.](https://www.reddit.com/r/devops/comments/u1n07l/portainerio_support_for_nomad/) | DiHannay | 14 |
-| [A live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing with microservices' messaging systems (Kafka, RabbitMQ, etc)](https://www.reddit.com/r/devops/comments/u1a9lg/a_live_45minutes_session_on_the_fundamentals_of/) | Observability_Team | 9 |
-| [How do buildpacks handle unit tests, code coverage, and more exotic build requirements in CI/CD?](https://www.reddit.com/r/devops/comments/u1dwu7/how_do_buildpacks_handle_unit_tests_code_coverage/) | red88888888 | 6 |
-| [A community for builders of developer tools?](https://www.reddit.com/r/devops/comments/u18way/a_community_for_builders_of_developer_tools/) | creativefisher | 5 |
-| [How do I combine tools that I learned into a project?](https://www.reddit.com/r/devops/comments/u1stg0/how_do_i_combine_tools_that_i_learned_into_a/) | No-Wallaby6514 | 2 |
-| [EC2 replacement on high memory useage?](https://www.reddit.com/r/devops/comments/u18jb1/ec2_replacement_on_high_memory_useage/) | A_Foxxy_Tycoon | 2 |
-| [Reverse Proxy Authentication (preferably docker image)](https://www.reddit.com/r/devops/comments/u1uly3/reverse_proxy_authentication_preferably_docker/) | TooLazyToWorkout | 1 |
-| [Any way to use mysqldump command on the Lamda console?](https://www.reddit.com/r/devops/comments/u1djc7/any_way_to_use_mysqldump_command_on_the_lamda/) | Wise_Ad367 | 1 |
+| [How do you handle documenting and what tips would you give to make your documentation awesome](https://www.reddit.com/r/devops/comments/u2eq4g/how_do_you_handle_documenting_and_what_tips_would/) | zerotwo21 | 52 |
+| [Canary deployments in traditional enterprise world](https://www.reddit.com/r/devops/comments/u27mpw/canary_deployments_in_traditional_enterprise_world/) | scphantm | 34 |
+| [Source Code Security and Deployment](https://www.reddit.com/r/devops/comments/u2crlj/source_code_security_and_deployment/) | xnassser | 6 |
+| [How to Connect to VPN inside Pipeline?](https://www.reddit.com/r/devops/comments/u2enye/how_to_connect_to_vpn_inside_pipeline/) | PrinceN71 | 4 |
+| [How to add ingress-nginx server-snipped only for specific server block?](https://www.reddit.com/r/devops/comments/u23x90/how_to_add_ingressnginx_serversnipped_only_for/) | No-Race8789 | 3 |
+| [How do you structure your Terraform repos and share state?](https://www.reddit.com/r/devops/comments/u28k9a/how_do_you_structure_your_terraform_repos_and/) | themickster99 | 3 |
+| [Boto3, creating aws load balancer script not working.](https://www.reddit.com/r/devops/comments/u28va3/boto3_creating_aws_load_balancer_script_not/) | Dsandi777 | 2 |
+| [aws-cli and multiple bucket access](https://www.reddit.com/r/devops/comments/u2lqrm/awscli_and_multiple_bucket_access/) | ThenBanana | 1 |
+| [Run Newman in Parallel through the CLI](https://www.reddit.com/r/devops/comments/u1y3dm/run_newman_in_parallel_through_the_cli/) | HeadTea | 1 |
+| [Having Issues connecting to MySQL Database build from Docker Image with Python (PyMySQL/SQLAlchemy)](https://www.reddit.com/r/devops/comments/u2f30q/having_issues_connecting_to_mysql_database_build/) | speedy_Gonzales_0 | 1 |
