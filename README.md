@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you handle documenting and what tips would you give to make your documentation awesome](https://www.reddit.com/r/devops/comments/u2eq4g/how_do_you_handle_documenting_and_what_tips_would/) | zerotwo21 | 52 |
-| [Canary deployments in traditional enterprise world](https://www.reddit.com/r/devops/comments/u27mpw/canary_deployments_in_traditional_enterprise_world/) | scphantm | 34 |
-| [Source Code Security and Deployment](https://www.reddit.com/r/devops/comments/u2crlj/source_code_security_and_deployment/) | xnassser | 6 |
-| [How to Connect to VPN inside Pipeline?](https://www.reddit.com/r/devops/comments/u2enye/how_to_connect_to_vpn_inside_pipeline/) | PrinceN71 | 4 |
-| [How to add ingress-nginx server-snipped only for specific server block?](https://www.reddit.com/r/devops/comments/u23x90/how_to_add_ingressnginx_serversnipped_only_for/) | No-Race8789 | 3 |
-| [How do you structure your Terraform repos and share state?](https://www.reddit.com/r/devops/comments/u28k9a/how_do_you_structure_your_terraform_repos_and/) | themickster99 | 3 |
-| [Boto3, creating aws load balancer script not working.](https://www.reddit.com/r/devops/comments/u28va3/boto3_creating_aws_load_balancer_script_not/) | Dsandi777 | 2 |
-| [aws-cli and multiple bucket access](https://www.reddit.com/r/devops/comments/u2lqrm/awscli_and_multiple_bucket_access/) | ThenBanana | 1 |
-| [Run Newman in Parallel through the CLI](https://www.reddit.com/r/devops/comments/u1y3dm/run_newman_in_parallel_through_the_cli/) | HeadTea | 1 |
-| [Having Issues connecting to MySQL Database build from Docker Image with Python (PyMySQL/SQLAlchemy)](https://www.reddit.com/r/devops/comments/u2f30q/having_issues_connecting_to_mysql_database_build/) | speedy_Gonzales_0 | 1 |
+| [Should devs have access to production?](https://www.reddit.com/r/devops/comments/u2xz7e/should_devs_have_access_to_production/) | t5bert | 125 |
+| [Never thought about, but how would you protect against protestware?](https://www.reddit.com/r/devops/comments/u2p3ql/never_thought_about_but_how_would_you_protect/) | Hell4Ge | 59 |
+| [Is it a good idea to version the platform deployments?](https://www.reddit.com/r/devops/comments/u35hh2/is_it_a_good_idea_to_version_the_platform/) | greenlalten | 15 |
+| [What is your company/consultancy's hourly billable rate (not their hourly salary) for a Senior DevOps Engineer? Or what rates are standard in your region?](https://www.reddit.com/r/devops/comments/u35g1n/what_is_your_companyconsultancys_hourly_billable/) | chicoooooooo | 9 |
+| [Any contractors here ever manage to work multiple contracts at the same time? How did you manage the workload?](https://www.reddit.com/r/devops/comments/u2si4s/any_contractors_here_ever_manage_to_work_multiple/) | IndieDiscovery | 9 |
+| [devops packages to track for Apple Silicon M1](https://www.reddit.com/r/devops/comments/u2zbdg/devops_packages_to_track_for_apple_silicon_m1/) | voidSurfr | 5 |
+| [CD Tools like ArgoCD, Tekton, Flux only for K8s?](https://www.reddit.com/r/devops/comments/u2xzrm/cd_tools_like_argocd_tekton_flux_only_for_k8s/) | OGJunkyard | 4 |
+| [Things I Wish I Knew Earlier About Pulumi](https://www.reddit.com/r/devops/comments/u3b3wf/things_i_wish_i_knew_earlier_about_pulumi/) | vsupalov | 3 |
+| [Interview experience](https://www.reddit.com/r/devops/comments/u3ashf/interview_experience/) | malice252525 | 3 |
+| [Estimating app infrastructure needs](https://www.reddit.com/r/devops/comments/u2sk9p/estimating_app_infrastructure_needs/) | msoutro | 3 |
