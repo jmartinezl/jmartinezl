@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Should devs have access to production?](https://www.reddit.com/r/devops/comments/u2xz7e/should_devs_have_access_to_production/) | t5bert | 125 |
-| [Never thought about, but how would you protect against protestware?](https://www.reddit.com/r/devops/comments/u2p3ql/never_thought_about_but_how_would_you_protect/) | Hell4Ge | 59 |
-| [Is it a good idea to version the platform deployments?](https://www.reddit.com/r/devops/comments/u35hh2/is_it_a_good_idea_to_version_the_platform/) | greenlalten | 15 |
-| [What is your company/consultancy's hourly billable rate (not their hourly salary) for a Senior DevOps Engineer? Or what rates are standard in your region?](https://www.reddit.com/r/devops/comments/u35g1n/what_is_your_companyconsultancys_hourly_billable/) | chicoooooooo | 9 |
-| [Any contractors here ever manage to work multiple contracts at the same time? How did you manage the workload?](https://www.reddit.com/r/devops/comments/u2si4s/any_contractors_here_ever_manage_to_work_multiple/) | IndieDiscovery | 9 |
-| [devops packages to track for Apple Silicon M1](https://www.reddit.com/r/devops/comments/u2zbdg/devops_packages_to_track_for_apple_silicon_m1/) | voidSurfr | 5 |
-| [CD Tools like ArgoCD, Tekton, Flux only for K8s?](https://www.reddit.com/r/devops/comments/u2xzrm/cd_tools_like_argocd_tekton_flux_only_for_k8s/) | OGJunkyard | 4 |
-| [Things I Wish I Knew Earlier About Pulumi](https://www.reddit.com/r/devops/comments/u3b3wf/things_i_wish_i_knew_earlier_about_pulumi/) | vsupalov | 3 |
-| [Interview experience](https://www.reddit.com/r/devops/comments/u3ashf/interview_experience/) | malice252525 | 3 |
-| [Estimating app infrastructure needs](https://www.reddit.com/r/devops/comments/u2sk9p/estimating_app_infrastructure_needs/) | msoutro | 3 |
+| [Who wants to learn Kubernetes this weekend?](https://www.reddit.com/r/devops/comments/u414dr/who_wants_to_learn_kubernetes_this_weekend/) | Last_Bug_5769 | 86 |
+| [90DaysOfDevOps](https://www.reddit.com/r/devops/comments/u3lbj9/90daysofdevops/) | binaryfor | 25 |
+| [what is the difference between ci and cd ?](https://www.reddit.com/r/devops/comments/u3i5a6/what_is_the_difference_between_ci_and_cd/) | WASSIDI | 16 |
+| [Running a live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing with microservices' messaging systems (Kafka, RabbitMQ, etc)](https://www.reddit.com/r/devops/comments/u3kty3/running_a_live_45minutes_session_on_the/) | Observability_Team | 4 |
+| [Wrapping my head around deployments and rollbacks with DB's involved](https://www.reddit.com/r/devops/comments/u3gbkm/wrapping_my_head_around_deployments_and_rollbacks/) | NiPinga | 2 |
+| [Siem tools overview](https://www.reddit.com/r/devops/comments/u3hidm/siem_tools_overview/) | pirbodx | 2 |
+| [Does anyone know what’s up with GitHub’s Actions API?](https://www.reddit.com/r/devops/comments/u3j2yw/does_anyone_know_whats_up_with_githubs_actions_api/) | EmbarrassedTable184 | 2 |
+| [An open-source testing platform that is testing itself](https://www.reddit.com/r/devops/comments/u3m8sm/an_opensource_testing_platform_that_is_testing/) | slayerjain | 2 |
+| [Securely running workstations from home](https://www.reddit.com/r/devops/comments/u3msgr/securely_running_workstations_from_home/) | throwra1890098 | 1 |
+| [Monitoring and Metrics replacement project - looking for suggestions opinions](https://www.reddit.com/r/devops/comments/u3y6d8/monitoring_and_metrics_replacement_project/) | bsbllclown | 1 |
