@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Who wants to learn Kubernetes this weekend?](https://www.reddit.com/r/devops/comments/u414dr/who_wants_to_learn_kubernetes_this_weekend/) | Last_Bug_5769 | 86 |
-| [90DaysOfDevOps](https://www.reddit.com/r/devops/comments/u3lbj9/90daysofdevops/) | binaryfor | 25 |
-| [what is the difference between ci and cd ?](https://www.reddit.com/r/devops/comments/u3i5a6/what_is_the_difference_between_ci_and_cd/) | WASSIDI | 16 |
-| [Running a live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing with microservices' messaging systems (Kafka, RabbitMQ, etc)](https://www.reddit.com/r/devops/comments/u3kty3/running_a_live_45minutes_session_on_the/) | Observability_Team | 4 |
-| [Wrapping my head around deployments and rollbacks with DB's involved](https://www.reddit.com/r/devops/comments/u3gbkm/wrapping_my_head_around_deployments_and_rollbacks/) | NiPinga | 2 |
-| [Siem tools overview](https://www.reddit.com/r/devops/comments/u3hidm/siem_tools_overview/) | pirbodx | 2 |
-| [Does anyone know what’s up with GitHub’s Actions API?](https://www.reddit.com/r/devops/comments/u3j2yw/does_anyone_know_whats_up_with_githubs_actions_api/) | EmbarrassedTable184 | 2 |
-| [An open-source testing platform that is testing itself](https://www.reddit.com/r/devops/comments/u3m8sm/an_opensource_testing_platform_that_is_testing/) | slayerjain | 2 |
-| [Securely running workstations from home](https://www.reddit.com/r/devops/comments/u3msgr/securely_running_workstations_from_home/) | throwra1890098 | 1 |
-| [Monitoring and Metrics replacement project - looking for suggestions opinions](https://www.reddit.com/r/devops/comments/u3y6d8/monitoring_and_metrics_replacement_project/) | bsbllclown | 1 |
+| [I'm Implementing DevOps in my Organization. Which CI/CD tool to prefer](https://www.reddit.com/r/devops/comments/u4nw0x/im_implementing_devops_in_my_organization_which/) | FreeYellow6768 | 61 |
+| [Service Meshes - Reasons to avoid them?](https://www.reddit.com/r/devops/comments/u4ae46/service_meshes_reasons_to_avoid_them/) | gruey | 15 |
+| [Roles on continuous delivery](https://www.reddit.com/r/devops/comments/u4h67v/roles_on_continuous_delivery/) | Ok_Olive_6113 | 4 |
+| [Azure Devops &gt; Simple File Copy with Deployment Groups](https://www.reddit.com/r/devops/comments/u4j5q0/azure_devops_simple_file_copy_with_deployment/) | sigmond_zavion | 3 |
+| [back off restarting failed container CrashLoopBackOff error in Kubernetes](https://www.reddit.com/r/devops/comments/u4gyj8/back_off_restarting_failed_container/) | Primary-Pace5228 | 1 |
+| [CI CD pipeline does not detect online runners even though one is installed](https://www.reddit.com/r/devops/comments/u4hmpk/ci_cd_pipeline_does_not_detect_online_runners/) | Tiny-Entertainer-346 | 1 |
+| [most cost-effective backend](https://www.reddit.com/r/devops/comments/u4n3eq/most_costeffective_backend/) | Knowledgeseeker6 | 0 |
+| [Unix command cheatsheet](https://www.reddit.com/r/devops/comments/u4r2a4/unix_command_cheatsheet/) | Koushik5586 | 0 |
+| [New Route53 Cli release in - Get info about your records from the terminal - quickly!](https://www.reddit.com/r/devops/comments/u4u0it/new_route53_cli_release_in_get_info_about_your/) | Isan-Rivkin | 0 |
+| [Jenkins vs gitlab](https://www.reddit.com/r/devops/comments/u4kxj0/jenkins_vs_gitlab/) | dyegosouza | 0 |
