@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I'm Implementing DevOps in my Organization. Which CI/CD tool to prefer](https://www.reddit.com/r/devops/comments/u4nw0x/im_implementing_devops_in_my_organization_which/) | FreeYellow6768 | 61 |
-| [Service Meshes - Reasons to avoid them?](https://www.reddit.com/r/devops/comments/u4ae46/service_meshes_reasons_to_avoid_them/) | gruey | 15 |
-| [Roles on continuous delivery](https://www.reddit.com/r/devops/comments/u4h67v/roles_on_continuous_delivery/) | Ok_Olive_6113 | 4 |
-| [Azure Devops &gt; Simple File Copy with Deployment Groups](https://www.reddit.com/r/devops/comments/u4j5q0/azure_devops_simple_file_copy_with_deployment/) | sigmond_zavion | 3 |
-| [back off restarting failed container CrashLoopBackOff error in Kubernetes](https://www.reddit.com/r/devops/comments/u4gyj8/back_off_restarting_failed_container/) | Primary-Pace5228 | 1 |
-| [CI CD pipeline does not detect online runners even though one is installed](https://www.reddit.com/r/devops/comments/u4hmpk/ci_cd_pipeline_does_not_detect_online_runners/) | Tiny-Entertainer-346 | 1 |
-| [most cost-effective backend](https://www.reddit.com/r/devops/comments/u4n3eq/most_costeffective_backend/) | Knowledgeseeker6 | 0 |
-| [Unix command cheatsheet](https://www.reddit.com/r/devops/comments/u4r2a4/unix_command_cheatsheet/) | Koushik5586 | 0 |
-| [New Route53 Cli release in - Get info about your records from the terminal - quickly!](https://www.reddit.com/r/devops/comments/u4u0it/new_route53_cli_release_in_get_info_about_your/) | Isan-Rivkin | 0 |
-| [Jenkins vs gitlab](https://www.reddit.com/r/devops/comments/u4kxj0/jenkins_vs_gitlab/) | dyegosouza | 0 |
+| [My company is starting git, how screwed am i?](https://www.reddit.com/r/devops/comments/u54r5v/my_company_is_starting_git_how_screwed_am_i/) | QuantumSupremacy0101 | 140 |
+| [How does Circleci compare to github actions and gitlab](https://www.reddit.com/r/devops/comments/u509au/how_does_circleci_compare_to_github_actions_and/) | samo_9 | 19 |
+| [is kubernetes for entry level devops engineers ?](https://www.reddit.com/r/devops/comments/u51hf7/is_kubernetes_for_entry_level_devops_engineers/) | Separate_Mode8065 | 18 |
+| [Interview questions for employers](https://www.reddit.com/r/devops/comments/u5g156/interview_questions_for_employers/) | grudg3 | 8 |
+| [DevOps on Apple Silicon](https://www.reddit.com/r/devops/comments/u56v0j/devops_on_apple_silicon/) | Khaotic_Kernel | 2 |
+| [medium / small company version list of faang?](https://www.reddit.com/r/devops/comments/u57n76/medium_small_company_version_list_of_faang/) | A4orce84 | 1 |
+| [Next Generation Shell 0.2.14 is out](https://www.reddit.com/r/devops/comments/u5ftt7/next_generation_shell_0214_is_out/) | ilyash | 1 |
+| [Is code-server safe for work security wise](https://www.reddit.com/r/devops/comments/u52gpj/is_codeserver_safe_for_work_security_wise/) | Bulbasaur2015 | 1 |
+| [Do you do incident response as a DevOps engineer?](https://www.reddit.com/r/devops/comments/u5fmow/do_you_do_incident_response_as_a_devops_engineer/) | hatchikyu | 1 |
+| [aws cli script with profile](https://www.reddit.com/r/devops/comments/u5hhxs/aws_cli_script_with_profile/) | ThenBanana | 0 |
