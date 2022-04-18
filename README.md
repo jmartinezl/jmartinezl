@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [My company is starting git, how screwed am i?](https://www.reddit.com/r/devops/comments/u54r5v/my_company_is_starting_git_how_screwed_am_i/) | QuantumSupremacy0101 | 140 |
-| [How does Circleci compare to github actions and gitlab](https://www.reddit.com/r/devops/comments/u509au/how_does_circleci_compare_to_github_actions_and/) | samo_9 | 19 |
-| [is kubernetes for entry level devops engineers ?](https://www.reddit.com/r/devops/comments/u51hf7/is_kubernetes_for_entry_level_devops_engineers/) | Separate_Mode8065 | 18 |
-| [Interview questions for employers](https://www.reddit.com/r/devops/comments/u5g156/interview_questions_for_employers/) | grudg3 | 8 |
-| [DevOps on Apple Silicon](https://www.reddit.com/r/devops/comments/u56v0j/devops_on_apple_silicon/) | Khaotic_Kernel | 2 |
-| [medium / small company version list of faang?](https://www.reddit.com/r/devops/comments/u57n76/medium_small_company_version_list_of_faang/) | A4orce84 | 1 |
-| [Next Generation Shell 0.2.14 is out](https://www.reddit.com/r/devops/comments/u5ftt7/next_generation_shell_0214_is_out/) | ilyash | 1 |
-| [Is code-server safe for work security wise](https://www.reddit.com/r/devops/comments/u52gpj/is_codeserver_safe_for_work_security_wise/) | Bulbasaur2015 | 1 |
-| [Do you do incident response as a DevOps engineer?](https://www.reddit.com/r/devops/comments/u5fmow/do_you_do_incident_response_as_a_devops_engineer/) | hatchikyu | 1 |
-| [aws cli script with profile](https://www.reddit.com/r/devops/comments/u5hhxs/aws_cli_script_with_profile/) | ThenBanana | 0 |
+| [DevOps Junior, Why is BASH something I need to learn?](https://www.reddit.com/r/devops/comments/u5tk9l/devops_junior_why_is_bash_something_i_need_to/) | Its_707_not_LOL | 94 |
+| [Minimal viable continuous delivery example repo](https://www.reddit.com/r/devops/comments/u5zqz7/minimal_viable_continuous_delivery_example_repo/) | nullpackets | 65 |
+| [Is my raise enough?](https://www.reddit.com/r/devops/comments/u5monh/is_my_raise_enough/) | reddituser19148 | 41 |
+| [Where are you in your career and how did you get there?](https://www.reddit.com/r/devops/comments/u62enz/where_are_you_in_your_career_and_how_did_you_get/) | rob_zomb | 9 |
+| [Need help setting up self hosted loki logging mechanism for docker containers.](https://www.reddit.com/r/devops/comments/u5qd19/need_help_setting_up_self_hosted_loki_logging/) | feryet | 6 |
+| [Compiling with prefix?](https://www.reddit.com/r/devops/comments/u5ti5s/compiling_with_prefix/) | Revolutionary-Cow109 | 5 |
+| [What's the most difficult part of your job?](https://www.reddit.com/r/devops/comments/u64ywd/whats_the_most_difficult_part_of_your_job/) | web8921 | 4 |
+| [Reposaur: audit your GitHub organization and repositories with custom policies](https://www.reddit.com/r/devops/comments/u5xgbq/reposaur_audit_your_github_organization_and/) | crqra | 3 |
+| [In practice do companies actually use kubernetes stateful sets?](https://www.reddit.com/r/devops/comments/u65zjm/in_practice_do_companies_actually_use_kubernetes/) | Guilty_Serve | 3 |
+| [DevOps Career route](https://www.reddit.com/r/devops/comments/u5lpwr/devops_career_route/) | ZimCanIT | 3 |
