@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps Junior, Why is BASH something I need to learn?](https://www.reddit.com/r/devops/comments/u5tk9l/devops_junior_why_is_bash_something_i_need_to/) | Its_707_not_LOL | 94 |
-| [Minimal viable continuous delivery example repo](https://www.reddit.com/r/devops/comments/u5zqz7/minimal_viable_continuous_delivery_example_repo/) | nullpackets | 65 |
-| [Is my raise enough?](https://www.reddit.com/r/devops/comments/u5monh/is_my_raise_enough/) | reddituser19148 | 41 |
-| [Where are you in your career and how did you get there?](https://www.reddit.com/r/devops/comments/u62enz/where_are_you_in_your_career_and_how_did_you_get/) | rob_zomb | 9 |
-| [Need help setting up self hosted loki logging mechanism for docker containers.](https://www.reddit.com/r/devops/comments/u5qd19/need_help_setting_up_self_hosted_loki_logging/) | feryet | 6 |
-| [Compiling with prefix?](https://www.reddit.com/r/devops/comments/u5ti5s/compiling_with_prefix/) | Revolutionary-Cow109 | 5 |
-| [What's the most difficult part of your job?](https://www.reddit.com/r/devops/comments/u64ywd/whats_the_most_difficult_part_of_your_job/) | web8921 | 4 |
-| [Reposaur: audit your GitHub organization and repositories with custom policies](https://www.reddit.com/r/devops/comments/u5xgbq/reposaur_audit_your_github_organization_and/) | crqra | 3 |
-| [In practice do companies actually use kubernetes stateful sets?](https://www.reddit.com/r/devops/comments/u65zjm/in_practice_do_companies_actually_use_kubernetes/) | Guilty_Serve | 3 |
-| [DevOps Career route](https://www.reddit.com/r/devops/comments/u5lpwr/devops_career_route/) | ZimCanIT | 3 |
+| [Atlassian outage prompting moves?](https://www.reddit.com/r/devops/comments/u6jk4i/atlassian_outage_prompting_moves/) | TechFiend72 | 125 |
+| [Getting a take-home assignment for DevOps Engineer III interview process: what to expect?](https://www.reddit.com/r/devops/comments/u6x89q/getting_a_takehome_assignment_for_devops_engineer/) | DrZoidbrrrg | 9 |
+| [What OS are you running on your work laptop?](https://www.reddit.com/r/devops/comments/u70kfi/what_os_are_you_running_on_your_work_laptop/) | iSalt | 7 |
+| [Every monitoring system has an inbox, but why isn't there a central inbox for all my monitoring systems?](https://www.reddit.com/r/devops/comments/u7042j/every_monitoring_system_has_an_inbox_but_why_isnt/) | The-Whip | 3 |
+| [What is the purpose of Continuous Integration? I’m familiarizing myself with Jenkins and no matter how I learn about it…I don’t see any advantage whatsoever.](https://www.reddit.com/r/devops/comments/u6uari/what_is_the_purpose_of_continuous_integration_im/) | detta-way | 2 |
+| [OpenTelemetry with NewRelic](https://www.reddit.com/r/devops/comments/u6rq6s/opentelemetry_with_newrelic/) | CreativeLadder2712 | 2 |
+| [Internal and External APIs in the same webserver](https://www.reddit.com/r/devops/comments/u6h2fx/internal_and_external_apis_in_the_same_webserver/) | njchandu | 2 |
+| [Uploading a file in AWS S3 from a sftp server in private subnet](https://www.reddit.com/r/devops/comments/u6zw9l/uploading_a_file_in_aws_s3_from_a_sftp_server_in/) | blank1993 | 1 |
+| [Looking for Git repos branches monitoring/tracking project](https://www.reddit.com/r/devops/comments/u6mf23/looking_for_git_repos_branches_monitoringtracking/) | kobemtl | 1 |
+| [Is there any program I can use to create a mind-map out of directories, files and includes?](https://www.reddit.com/r/devops/comments/u6upzl/is_there_any_program_i_can_use_to_create_a/) | estebansaa | 1 |
