@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Atlassian outage prompting moves?](https://www.reddit.com/r/devops/comments/u6jk4i/atlassian_outage_prompting_moves/) | TechFiend72 | 125 |
-| [Getting a take-home assignment for DevOps Engineer III interview process: what to expect?](https://www.reddit.com/r/devops/comments/u6x89q/getting_a_takehome_assignment_for_devops_engineer/) | DrZoidbrrrg | 9 |
-| [What OS are you running on your work laptop?](https://www.reddit.com/r/devops/comments/u70kfi/what_os_are_you_running_on_your_work_laptop/) | iSalt | 7 |
-| [Every monitoring system has an inbox, but why isn't there a central inbox for all my monitoring systems?](https://www.reddit.com/r/devops/comments/u7042j/every_monitoring_system_has_an_inbox_but_why_isnt/) | The-Whip | 3 |
-| [What is the purpose of Continuous Integration? I’m familiarizing myself with Jenkins and no matter how I learn about it…I don’t see any advantage whatsoever.](https://www.reddit.com/r/devops/comments/u6uari/what_is_the_purpose_of_continuous_integration_im/) | detta-way | 2 |
-| [OpenTelemetry with NewRelic](https://www.reddit.com/r/devops/comments/u6rq6s/opentelemetry_with_newrelic/) | CreativeLadder2712 | 2 |
-| [Internal and External APIs in the same webserver](https://www.reddit.com/r/devops/comments/u6h2fx/internal_and_external_apis_in_the_same_webserver/) | njchandu | 2 |
-| [Uploading a file in AWS S3 from a sftp server in private subnet](https://www.reddit.com/r/devops/comments/u6zw9l/uploading_a_file_in_aws_s3_from_a_sftp_server_in/) | blank1993 | 1 |
-| [Looking for Git repos branches monitoring/tracking project](https://www.reddit.com/r/devops/comments/u6mf23/looking_for_git_repos_branches_monitoringtracking/) | kobemtl | 1 |
-| [Is there any program I can use to create a mind-map out of directories, files and includes?](https://www.reddit.com/r/devops/comments/u6upzl/is_there_any_program_i_can_use_to_create_a/) | estebansaa | 1 |
+| [Management always assigning epics/bodies of work to individuals instead of the team as a whole.](https://www.reddit.com/r/devops/comments/u76jn5/management_always_assigning_epicsbodies_of_work/) | ForgedBySmiths | 111 |
+| [Hashicorp survey for 2021 says that there is lack of skills in multi-cloud.](https://www.reddit.com/r/devops/comments/u7qs7v/hashicorp_survey_for_2021_says_that_there_is_lack/) | dimtass | 35 |
+| [Joining DevOps!](https://www.reddit.com/r/devops/comments/u7p6w9/joining_devops/) | zeig24 | 21 |
+| [How to transition from SWE to Devops?](https://www.reddit.com/r/devops/comments/u75q3u/how_to_transition_from_swe_to_devops/) | halfzinc | 9 |
+| [Runtime variables vs build time variables in ReactJS](https://www.reddit.com/r/devops/comments/u7a6bt/runtime_variables_vs_build_time_variables_in/) | jpolidor | 7 |
+| [Run Azure Self-hosted macOS Agents on Apple M1 Mac](https://www.reddit.com/r/devops/comments/u76aqs/run_azure_selfhosted_macos_agents_on_apple_m1_mac/) | soumyaranjanmahunt | 4 |
+| [AWS Lambda](https://www.reddit.com/r/devops/comments/u74e5a/aws_lambda/) | ZimCanIT | 4 |
+| [Experieces with coder.com / remote workspaces](https://www.reddit.com/r/devops/comments/u7snim/experieces_with_codercom_remote_workspaces/) | nevotheless | 3 |
+| [DevOps Bulletin Newsletter - Issue 47](https://www.reddit.com/r/devops/comments/u76bjv/devops_bulletin_newsletter_issue_47/) | labouardy | 2 |
+| [Jira x Azure DevOps](https://www.reddit.com/r/devops/comments/u7q804/jira_x_azure_devops/) | onynixia | 1 |
