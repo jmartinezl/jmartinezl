@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Management always assigning epics/bodies of work to individuals instead of the team as a whole.](https://www.reddit.com/r/devops/comments/u76jn5/management_always_assigning_epicsbodies_of_work/) | ForgedBySmiths | 111 |
-| [Hashicorp survey for 2021 says that there is lack of skills in multi-cloud.](https://www.reddit.com/r/devops/comments/u7qs7v/hashicorp_survey_for_2021_says_that_there_is_lack/) | dimtass | 35 |
-| [Joining DevOps!](https://www.reddit.com/r/devops/comments/u7p6w9/joining_devops/) | zeig24 | 21 |
-| [How to transition from SWE to Devops?](https://www.reddit.com/r/devops/comments/u75q3u/how_to_transition_from_swe_to_devops/) | halfzinc | 9 |
-| [Runtime variables vs build time variables in ReactJS](https://www.reddit.com/r/devops/comments/u7a6bt/runtime_variables_vs_build_time_variables_in/) | jpolidor | 7 |
-| [Run Azure Self-hosted macOS Agents on Apple M1 Mac](https://www.reddit.com/r/devops/comments/u76aqs/run_azure_selfhosted_macos_agents_on_apple_m1_mac/) | soumyaranjanmahunt | 4 |
-| [AWS Lambda](https://www.reddit.com/r/devops/comments/u74e5a/aws_lambda/) | ZimCanIT | 4 |
-| [Experieces with coder.com / remote workspaces](https://www.reddit.com/r/devops/comments/u7snim/experieces_with_codercom_remote_workspaces/) | nevotheless | 3 |
-| [DevOps Bulletin Newsletter - Issue 47](https://www.reddit.com/r/devops/comments/u76bjv/devops_bulletin_newsletter_issue_47/) | labouardy | 2 |
-| [Jira x Azure DevOps](https://www.reddit.com/r/devops/comments/u7q804/jira_x_azure_devops/) | onynixia | 1 |
+| [Teaching junior developers](https://www.reddit.com/r/devops/comments/u89dv5/teaching_junior_developers/) | whenhellfreezes | 56 |
+| [As the owner/lead architect of the cloud infrastructure for a rapidly growing startup, what type of process or concerns do you have around devs (indirectly) proposing infrastructure changes?](https://www.reddit.com/r/devops/comments/u88ds5/as_the_ownerlead_architect_of_the_cloud/) | neoteric_devops | 33 |
+| [What to ask the company recruiter of a startup](https://www.reddit.com/r/devops/comments/u88e67/what_to_ask_the_company_recruiter_of_a_startup/) | modern_medicine_isnt | 17 |
+| [How do you think Vercel/Netlify implement their preview URL feature?](https://www.reddit.com/r/devops/comments/u7vzzl/how_do_you_think_vercelnetlify_implement_their/) | wispagoldy | 6 |
+| [Keycloak config management?](https://www.reddit.com/r/devops/comments/u7vowm/keycloak_config_management/) | flamingo_as_service | 5 |
+| [Switching from fullstack to devops](https://www.reddit.com/r/devops/comments/u8jzel/switching_from_fullstack_to_devops/) | pxp121kr | 4 |
+| [Where can I find JSON schema for Envoy?](https://www.reddit.com/r/devops/comments/u7v038/where_can_i_find_json_schema_for_envoy/) | ilyash | 3 |
+| [Is it common to have nothing to do for basically... Weeks?](https://www.reddit.com/r/devops/comments/u8ks4q/is_it_common_to_have_nothing_to_do_for_basically/) | lachyBalboa | 3 |
+| [new junior devops engineer woes](https://www.reddit.com/r/devops/comments/u8h57v/new_junior_devops_engineer_woes/) | __Mars__ | 2 |
+| [What is your opinion on required certifications?](https://www.reddit.com/r/devops/comments/u8b9h5/what_is_your_opinion_on_required_certifications/) | DTDJedi | 2 |
