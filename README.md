@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Teaching junior developers](https://www.reddit.com/r/devops/comments/u89dv5/teaching_junior_developers/) | whenhellfreezes | 56 |
-| [As the owner/lead architect of the cloud infrastructure for a rapidly growing startup, what type of process or concerns do you have around devs (indirectly) proposing infrastructure changes?](https://www.reddit.com/r/devops/comments/u88ds5/as_the_ownerlead_architect_of_the_cloud/) | neoteric_devops | 33 |
-| [What to ask the company recruiter of a startup](https://www.reddit.com/r/devops/comments/u88e67/what_to_ask_the_company_recruiter_of_a_startup/) | modern_medicine_isnt | 17 |
-| [How do you think Vercel/Netlify implement their preview URL feature?](https://www.reddit.com/r/devops/comments/u7vzzl/how_do_you_think_vercelnetlify_implement_their/) | wispagoldy | 6 |
-| [Keycloak config management?](https://www.reddit.com/r/devops/comments/u7vowm/keycloak_config_management/) | flamingo_as_service | 5 |
-| [Switching from fullstack to devops](https://www.reddit.com/r/devops/comments/u8jzel/switching_from_fullstack_to_devops/) | pxp121kr | 4 |
-| [Where can I find JSON schema for Envoy?](https://www.reddit.com/r/devops/comments/u7v038/where_can_i_find_json_schema_for_envoy/) | ilyash | 3 |
-| [Is it common to have nothing to do for basically... Weeks?](https://www.reddit.com/r/devops/comments/u8ks4q/is_it_common_to_have_nothing_to_do_for_basically/) | lachyBalboa | 3 |
-| [new junior devops engineer woes](https://www.reddit.com/r/devops/comments/u8h57v/new_junior_devops_engineer_woes/) | __Mars__ | 2 |
-| [What is your opinion on required certifications?](https://www.reddit.com/r/devops/comments/u8b9h5/what_is_your_opinion_on_required_certifications/) | DTDJedi | 2 |
+| [So long, and thanks for all the fish.](https://www.reddit.com/r/devops/comments/u8uri2/so_long_and_thanks_for_all_the_fish/) | IndieDiscovery | 325 |
+| [For any junior DevOps folks out there, get comfortable with being absolutely clueless :)](https://www.reddit.com/r/devops/comments/u93dxk/for_any_junior_devops_folks_out_there_get/) | supasopa | 59 |
+| [Kerbi: a Helm Alternative - Looking for Initial Feedback](https://www.reddit.com/r/devops/comments/u8o89k/kerbi_a_helm_alternative_looking_for_initial/) | handsplz | 19 |
+| [Job offer must be accepted verbally before written job offer will be provided??](https://www.reddit.com/r/devops/comments/u8xq1x/job_offer_must_be_accepted_verbally_before/) | noxypaws | 13 |
+| [Any opinions on Aviatrix for managing a hybrid, multi-cloud network?](https://www.reddit.com/r/devops/comments/u8p5u1/any_opinions_on_aviatrix_for_managing_a_hybrid/) | xrscx | 6 |
+| [Update app on ec2 instance](https://www.reddit.com/r/devops/comments/u95i4j/update_app_on_ec2_instance/) | wishicouldcode | 3 |
+| [Senior Sysadmin path to SRE/DevOps](https://www.reddit.com/r/devops/comments/u9a2dt/senior_sysadmin_path_to_sredevops/) | alive1 | 3 |
+| [Show Reddit: Dassana. JSON-native,schema-less logging solution built atop ClickHouse](https://www.reddit.com/r/devops/comments/u8t6qi/show_reddit_dassana_jsonnativeschemaless_logging/) | gauravphoenix | 2 |
+| [Should I move front-end apps to kubernetes or keep them at Netlify?](https://www.reddit.com/r/devops/comments/u8xc3i/should_i_move_frontend_apps_to_kubernetes_or_keep/) | heidiki01 | 2 |
+| [In previous use of TF Cloud I hated how multiple developers running plans locally and testing had to manually select the version of the module they wanted to test. Is there a better flow now or automated flow?](https://www.reddit.com/r/devops/comments/u8wstp/in_previous_use_of_tf_cloud_i_hated_how_multiple/) | gqtrees | 2 |
