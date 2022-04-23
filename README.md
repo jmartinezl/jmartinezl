@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [So long, and thanks for all the fish.](https://www.reddit.com/r/devops/comments/u8uri2/so_long_and_thanks_for_all_the_fish/) | IndieDiscovery | 325 |
-| [For any junior DevOps folks out there, get comfortable with being absolutely clueless :)](https://www.reddit.com/r/devops/comments/u93dxk/for_any_junior_devops_folks_out_there_get/) | supasopa | 59 |
-| [Kerbi: a Helm Alternative - Looking for Initial Feedback](https://www.reddit.com/r/devops/comments/u8o89k/kerbi_a_helm_alternative_looking_for_initial/) | handsplz | 19 |
-| [Job offer must be accepted verbally before written job offer will be provided??](https://www.reddit.com/r/devops/comments/u8xq1x/job_offer_must_be_accepted_verbally_before/) | noxypaws | 13 |
-| [Any opinions on Aviatrix for managing a hybrid, multi-cloud network?](https://www.reddit.com/r/devops/comments/u8p5u1/any_opinions_on_aviatrix_for_managing_a_hybrid/) | xrscx | 6 |
-| [Update app on ec2 instance](https://www.reddit.com/r/devops/comments/u95i4j/update_app_on_ec2_instance/) | wishicouldcode | 3 |
-| [Senior Sysadmin path to SRE/DevOps](https://www.reddit.com/r/devops/comments/u9a2dt/senior_sysadmin_path_to_sredevops/) | alive1 | 3 |
-| [Show Reddit: Dassana. JSON-native,schema-less logging solution built atop ClickHouse](https://www.reddit.com/r/devops/comments/u8t6qi/show_reddit_dassana_jsonnativeschemaless_logging/) | gauravphoenix | 2 |
-| [Should I move front-end apps to kubernetes or keep them at Netlify?](https://www.reddit.com/r/devops/comments/u8xc3i/should_i_move_frontend_apps_to_kubernetes_or_keep/) | heidiki01 | 2 |
-| [In previous use of TF Cloud I hated how multiple developers running plans locally and testing had to manually select the version of the module they wanted to test. Is there a better flow now or automated flow?](https://www.reddit.com/r/devops/comments/u8wstp/in_previous_use_of_tf_cloud_i_hated_how_multiple/) | gqtrees | 2 |
+| [Who should be doing oncall?](https://www.reddit.com/r/devops/comments/u9ligp/who_should_be_doing_oncall/) | jaumebn | 78 |
+| [What would your ideal technical interview look like?](https://www.reddit.com/r/devops/comments/u9sah8/what_would_your_ideal_technical_interview_look/) | angiosperms- | 43 |
+| [OpenSSL vulnerability CVE-2022-0778](https://www.reddit.com/r/devops/comments/u9wlbw/openssl_vulnerability_cve20220778/) | hummy25 | 33 |
+| [Terraform for Devops (Real world experience)](https://www.reddit.com/r/devops/comments/u9oqp5/terraform_for_devops_real_world_experience/) | aliahsantech | 32 |
+| [How long does it take for your company to install software for you? (for restricted local admin environments)](https://www.reddit.com/r/devops/comments/u9ebo4/how_long_does_it_take_for_your_company_to_install/) | geruta | 7 |
+| [How much knowledge should I have of Python for DevOps?](https://www.reddit.com/r/devops/comments/u9vp1q/how_much_knowledge_should_i_have_of_python_for/) | sens18 | 4 |
+| [Pulumi as an alternative for Terraform?](https://www.reddit.com/r/devops/comments/ua3oby/pulumi_as_an_alternative_for_terraform/) | the-opensourcegeek | 2 |
+| [Looking for a good AWS/Google Cloud comparison tool/resource?](https://www.reddit.com/r/devops/comments/u9k8iz/looking_for_a_good_awsgoogle_cloud_comparison/) | DrZoidbrrrg | 2 |
+| [Confused on the proper steps for container orchestration](https://www.reddit.com/r/devops/comments/u9n8p9/confused_on_the_proper_steps_for_container/) | Red3nzo | 2 |
+| [Terraform advice. Best practices, etc?](https://www.reddit.com/r/devops/comments/u9qe0w/terraform_advice_best_practices_etc/) | Greenmind76 | 1 |
