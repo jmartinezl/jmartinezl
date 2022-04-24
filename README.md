@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Who should be doing oncall?](https://www.reddit.com/r/devops/comments/u9ligp/who_should_be_doing_oncall/) | jaumebn | 78 |
-| [What would your ideal technical interview look like?](https://www.reddit.com/r/devops/comments/u9sah8/what_would_your_ideal_technical_interview_look/) | angiosperms- | 43 |
-| [OpenSSL vulnerability CVE-2022-0778](https://www.reddit.com/r/devops/comments/u9wlbw/openssl_vulnerability_cve20220778/) | hummy25 | 33 |
-| [Terraform for Devops (Real world experience)](https://www.reddit.com/r/devops/comments/u9oqp5/terraform_for_devops_real_world_experience/) | aliahsantech | 32 |
-| [How long does it take for your company to install software for you? (for restricted local admin environments)](https://www.reddit.com/r/devops/comments/u9ebo4/how_long_does_it_take_for_your_company_to_install/) | geruta | 7 |
-| [How much knowledge should I have of Python for DevOps?](https://www.reddit.com/r/devops/comments/u9vp1q/how_much_knowledge_should_i_have_of_python_for/) | sens18 | 4 |
-| [Pulumi as an alternative for Terraform?](https://www.reddit.com/r/devops/comments/ua3oby/pulumi_as_an_alternative_for_terraform/) | the-opensourcegeek | 2 |
-| [Looking for a good AWS/Google Cloud comparison tool/resource?](https://www.reddit.com/r/devops/comments/u9k8iz/looking_for_a_good_awsgoogle_cloud_comparison/) | DrZoidbrrrg | 2 |
-| [Confused on the proper steps for container orchestration](https://www.reddit.com/r/devops/comments/u9n8p9/confused_on_the_proper_steps_for_container/) | Red3nzo | 2 |
-| [Terraform advice. Best practices, etc?](https://www.reddit.com/r/devops/comments/u9qe0w/terraform_advice_best_practices_etc/) | Greenmind76 | 1 |
+| [I was denied a raise because I'm not from the US](https://www.reddit.com/r/devops/comments/uabiq3/i_was_denied_a_raise_because_im_not_from_the_us/) | magusd0 | 63 |
+| [What is all the fuzz about Terragrunt about?](https://www.reddit.com/r/devops/comments/uab5ji/what_is_all_the_fuzz_about_terragrunt_about/) | sebastian-stephan | 14 |
+| [Moving out of IT support](https://www.reddit.com/r/devops/comments/ua8qr4/moving_out_of_it_support/) | JadedJelly803 | 5 |
+| [Input on my study path to step into DevOps](https://www.reddit.com/r/devops/comments/uarh7i/input_on_my_study_path_to_step_into_devops/) | Tyluk_ | 4 |
+| [How do you do green computing/cloud carbon footprint management ?](https://www.reddit.com/r/devops/comments/uad97y/how_do_you_do_green_computingcloud_carbon/) | ExpertBananaThrower | 4 |
+| [Movies that inspire you](https://www.reddit.com/r/devops/comments/uaj762/movies_that_inspire_you/) | thisbitbytes | 2 |
+| [Introducing Git+ for GitLab, all-in-one GitLab App you need](https://www.reddit.com/r/devops/comments/uat1qs/introducing_git_for_gitlab_allinone_gitlab_app/) | _Chris_Ca | 2 |
+| [Any tool that compares which of 2 docker containers is the best performing?](https://www.reddit.com/r/devops/comments/uam3ga/any_tool_that_compares_which_of_2_docker/) | orangemustardjuice | 2 |
+| [when creating a Dockerfile, is it mandatory to put a COPY command? what will happen if I didn't put the copy command, Thank you](https://www.reddit.com/r/devops/comments/uapx2t/when_creating_a_dockerfile_is_it_mandatory_to_put/) | Dry_Back_1116 | 0 |
+| [Create NuGet Package in DevOps (Artifact), and make a Git Repo hosted at...](https://www.reddit.com/r/devops/comments/uaegrq/create_nuget_package_in_devops_artifact_and_make/) | cseigel | 0 |
