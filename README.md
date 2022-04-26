@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Help me understand vpc’s and calculating cidr range’s](https://www.reddit.com/r/devops/comments/uaxbkx/help_me_understand_vpcs_and_calculating_cidr/) | maestrae | 102 |
-| [DevOps conference List - may 2022 update](https://www.reddit.com/r/devops/comments/ubgjhr/devops_conference_list_may_2022_update/) | czerniga_it | 29 |
-| [KubeCon Europe Drama!](https://www.reddit.com/r/devops/comments/ubbp5t/kubecon_europe_drama/) | BharatGulgani | 13 |
-| [How should I manage my Helm charts?](https://www.reddit.com/r/devops/comments/ubb68d/how_should_i_manage_my_helm_charts/) | jacksonn097 | 13 |
-| [Suggestions on transitioning away from Rancher?](https://www.reddit.com/r/devops/comments/ubasia/suggestions_on_transitioning_away_from_rancher/) | jonscotch | 5 |
-| [DevOps Study Guides](https://www.reddit.com/r/devops/comments/uaytai/devops_study_guides/) | Silly_Ad6115 | 5 |
-| [Terraform state file management](https://www.reddit.com/r/devops/comments/uau1uu/terraform_state_file_management/) | Bright-Light5245 | 4 |
-| [Looking for help with deploying for the first time](https://www.reddit.com/r/devops/comments/ub104y/looking_for_help_with_deploying_for_the_first_time/) | Roddela | 4 |
-| [Is an easy interview a red flag?](https://www.reddit.com/r/devops/comments/ubi17s/is_an_easy_interview_a_red_flag/) | frameclowder | 3 |
-| [Government SWE or Amazon Cloud support associate for path into Devops/SRE](https://www.reddit.com/r/devops/comments/uaxjwi/government_swe_or_amazon_cloud_support_associate/) | Rowell00 | 2 |
+| [Golang for devops](https://www.reddit.com/r/devops/comments/ubup4i/golang_for_devops/) | michaelanckaert | 148 |
+| [DNSControl - the most underrated DNS tool](https://www.reddit.com/r/devops/comments/uc42vm/dnscontrol_the_most_underrated_dns_tool/) | hardwaresofton | 16 |
+| [Jenkins MultiBranch Pipeline](https://www.reddit.com/r/devops/comments/ubq9zc/jenkins_multibranch_pipeline/) | TechTutorialsPiyush | 11 |
+| [Learning Puppet and Ansible](https://www.reddit.com/r/devops/comments/uca0s1/learning_puppet_and_ansible/) | Teker1no | 4 |
+| [Dev Environment Setup Advice](https://www.reddit.com/r/devops/comments/uboyi6/dev_environment_setup_advice/) | Comforse | 4 |
+| [Is TeamCity's configuration as code solution (Kotlin DSL) a joke ?](https://www.reddit.com/r/devops/comments/ublw7b/is_teamcitys_configuration_as_code_solution/) | nicolas-van | 3 |
+| [Good resources for ansible &amp; terraform CI/CD](https://www.reddit.com/r/devops/comments/ubzc3i/good_resources_for_ansible_terraform_cicd/) | lbabay | 3 |
+| [Purging backup](https://www.reddit.com/r/devops/comments/uc8uep/purging_backup/) | kinshuk1k | 2 |
+| [Looking to get into DevOps down the road.](https://www.reddit.com/r/devops/comments/uc20dp/looking_to_get_into_devops_down_the_road/) | hankpym35 | 2 |
+| [DevOps Metrics and KPIs: How To Measure DevOps Effectively?](https://www.reddit.com/r/devops/comments/ubnhu0/devops_metrics_and_kpis_how_to_measure_devops/) | tsys_inc | 1 |
