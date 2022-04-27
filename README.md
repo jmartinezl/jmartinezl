@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Golang for devops](https://www.reddit.com/r/devops/comments/ubup4i/golang_for_devops/) | michaelanckaert | 148 |
-| [DNSControl - the most underrated DNS tool](https://www.reddit.com/r/devops/comments/uc42vm/dnscontrol_the_most_underrated_dns_tool/) | hardwaresofton | 16 |
-| [Jenkins MultiBranch Pipeline](https://www.reddit.com/r/devops/comments/ubq9zc/jenkins_multibranch_pipeline/) | TechTutorialsPiyush | 11 |
-| [Learning Puppet and Ansible](https://www.reddit.com/r/devops/comments/uca0s1/learning_puppet_and_ansible/) | Teker1no | 4 |
-| [Dev Environment Setup Advice](https://www.reddit.com/r/devops/comments/uboyi6/dev_environment_setup_advice/) | Comforse | 4 |
-| [Is TeamCity's configuration as code solution (Kotlin DSL) a joke ?](https://www.reddit.com/r/devops/comments/ublw7b/is_teamcitys_configuration_as_code_solution/) | nicolas-van | 3 |
-| [Good resources for ansible &amp; terraform CI/CD](https://www.reddit.com/r/devops/comments/ubzc3i/good_resources_for_ansible_terraform_cicd/) | lbabay | 3 |
-| [Purging backup](https://www.reddit.com/r/devops/comments/uc8uep/purging_backup/) | kinshuk1k | 2 |
-| [Looking to get into DevOps down the road.](https://www.reddit.com/r/devops/comments/uc20dp/looking_to_get_into_devops_down_the_road/) | hankpym35 | 2 |
-| [DevOps Metrics and KPIs: How To Measure DevOps Effectively?](https://www.reddit.com/r/devops/comments/ubnhu0/devops_metrics_and_kpis_how_to_measure_devops/) | tsys_inc | 1 |
+| [Money to work ratio](https://www.reddit.com/r/devops/comments/ucjrw4/money_to_work_ratio/) | ZoldyckConked | 67 |
+| [I came up with a DevOps joke as I couldn't find any to plagiarise](https://www.reddit.com/r/devops/comments/ucz66o/i_came_up_with_a_devops_joke_as_i_couldnt_find/) | Dangertwin88 | 56 |
+| [Linux repository manager for binary packages](https://www.reddit.com/r/devops/comments/uce3hh/linux_repository_manager_for_binary_packages/) | epileftric | 44 |
+| [How to right-size containers before deployment](https://www.reddit.com/r/devops/comments/uclu6b/how_to_rightsize_containers_before_deployment/) | Obj_Sea | 8 |
+| [What makes an effective devops organization?](https://www.reddit.com/r/devops/comments/ucol6k/what_makes_an_effective_devops_organization/) | employeeatibm | 5 |
+| [Advise for Being a Better New Hire](https://www.reddit.com/r/devops/comments/ucqjyu/advise_for_being_a_better_new_hire/) | Goldfishtml | 4 |
+| [Testing Gitlab pipelines with pipelines?](https://www.reddit.com/r/devops/comments/ucyu6v/testing_gitlab_pipelines_with_pipelines/) | ivyjivy | 3 |
+| [Between DevOps and WebDev(full, front, and back), which career choice has the least amount of distractions from customers, coworkers, meetings, etc?](https://www.reddit.com/r/devops/comments/ucm53n/between_devops_and_webdevfull_front_and_back/) | slothdynamics | 3 |
+| [Beginner in devops](https://www.reddit.com/r/devops/comments/ucyril/beginner_in_devops/) | Fun_Understanding51 | 2 |
+| [how to learn jenkins?](https://www.reddit.com/r/devops/comments/ucg2yp/how_to_learn_jenkins/) | malice252525 | 1 |
