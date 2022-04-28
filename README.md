@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Money to work ratio](https://www.reddit.com/r/devops/comments/ucjrw4/money_to_work_ratio/) | ZoldyckConked | 67 |
-| [I came up with a DevOps joke as I couldn't find any to plagiarise](https://www.reddit.com/r/devops/comments/ucz66o/i_came_up_with_a_devops_joke_as_i_couldnt_find/) | Dangertwin88 | 56 |
-| [Linux repository manager for binary packages](https://www.reddit.com/r/devops/comments/uce3hh/linux_repository_manager_for_binary_packages/) | epileftric | 44 |
-| [How to right-size containers before deployment](https://www.reddit.com/r/devops/comments/uclu6b/how_to_rightsize_containers_before_deployment/) | Obj_Sea | 8 |
-| [What makes an effective devops organization?](https://www.reddit.com/r/devops/comments/ucol6k/what_makes_an_effective_devops_organization/) | employeeatibm | 5 |
-| [Advise for Being a Better New Hire](https://www.reddit.com/r/devops/comments/ucqjyu/advise_for_being_a_better_new_hire/) | Goldfishtml | 4 |
-| [Testing Gitlab pipelines with pipelines?](https://www.reddit.com/r/devops/comments/ucyu6v/testing_gitlab_pipelines_with_pipelines/) | ivyjivy | 3 |
-| [Between DevOps and WebDev(full, front, and back), which career choice has the least amount of distractions from customers, coworkers, meetings, etc?](https://www.reddit.com/r/devops/comments/ucm53n/between_devops_and_webdevfull_front_and_back/) | slothdynamics | 3 |
-| [Beginner in devops](https://www.reddit.com/r/devops/comments/ucyril/beginner_in_devops/) | Fun_Understanding51 | 2 |
-| [how to learn jenkins?](https://www.reddit.com/r/devops/comments/ucg2yp/how_to_learn_jenkins/) | malice252525 | 1 |
+| [There is no such thing as too much logging - or is there?](https://www.reddit.com/r/devops/comments/udgohy/there_is_no_such_thing_as_too_much_logging_or_is/) | domemvs | 49 |
+| [Is DevOps in my environment possible?](https://www.reddit.com/r/devops/comments/udj8s8/is_devops_in_my_environment_possible/) | RickLife | 9 |
+| [vkv: recursively list key-values entries from Vaults KV2 engine in various formats](https://www.reddit.com/r/devops/comments/ud9jcm/vkv_recursively_list_keyvalues_entries_from/) | gottziehtalles | 6 |
+| [Interview advice](https://www.reddit.com/r/devops/comments/ud3aef/interview_advice/) | A_Foxxy_Tycoon | 6 |
+| [Best practices for terraform structure](https://www.reddit.com/r/devops/comments/udndx4/best_practices_for_terraform_structure/) | lbabay | 5 |
+| [Call another Jenkins job multiple times](https://www.reddit.com/r/devops/comments/ud5yr9/call_another_jenkins_job_multiple_times/) | HeadTea | 4 |
+| [Using nodeport for nginx ingress on EKS cluster](https://www.reddit.com/r/devops/comments/ud8fel/using_nodeport_for_nginx_ingress_on_eks_cluster/) | Interesting_Shine_38 | 3 |
+| [Does anybody here work with Open Telekom Cloud?](https://www.reddit.com/r/devops/comments/ud80h6/does_anybody_here_work_with_open_telekom_cloud/) | domanpanda | 3 |
+| [TMUX: confirm-before option for kill-session command](https://www.reddit.com/r/devops/comments/ud4bru/tmux_confirmbefore_option_for_killsession_command/) | marksteve4 | 2 |
+| [Azure pipeline if condition not kicking in even if the branch name is correct?](https://www.reddit.com/r/devops/comments/udr7ex/azure_pipeline_if_condition_not_kicking_in_even/) | Lekowski | 2 |
