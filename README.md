@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [There is no such thing as too much logging - or is there?](https://www.reddit.com/r/devops/comments/udgohy/there_is_no_such_thing_as_too_much_logging_or_is/) | domemvs | 49 |
-| [Is DevOps in my environment possible?](https://www.reddit.com/r/devops/comments/udj8s8/is_devops_in_my_environment_possible/) | RickLife | 9 |
-| [vkv: recursively list key-values entries from Vaults KV2 engine in various formats](https://www.reddit.com/r/devops/comments/ud9jcm/vkv_recursively_list_keyvalues_entries_from/) | gottziehtalles | 6 |
-| [Interview advice](https://www.reddit.com/r/devops/comments/ud3aef/interview_advice/) | A_Foxxy_Tycoon | 6 |
-| [Best practices for terraform structure](https://www.reddit.com/r/devops/comments/udndx4/best_practices_for_terraform_structure/) | lbabay | 5 |
-| [Call another Jenkins job multiple times](https://www.reddit.com/r/devops/comments/ud5yr9/call_another_jenkins_job_multiple_times/) | HeadTea | 4 |
-| [Using nodeport for nginx ingress on EKS cluster](https://www.reddit.com/r/devops/comments/ud8fel/using_nodeport_for_nginx_ingress_on_eks_cluster/) | Interesting_Shine_38 | 3 |
-| [Does anybody here work with Open Telekom Cloud?](https://www.reddit.com/r/devops/comments/ud80h6/does_anybody_here_work_with_open_telekom_cloud/) | domanpanda | 3 |
-| [TMUX: confirm-before option for kill-session command](https://www.reddit.com/r/devops/comments/ud4bru/tmux_confirmbefore_option_for_killsession_command/) | marksteve4 | 2 |
-| [Azure pipeline if condition not kicking in even if the branch name is correct?](https://www.reddit.com/r/devops/comments/udr7ex/azure_pipeline_if_condition_not_kicking_in_even/) | Lekowski | 2 |
+| [Why developers hate shift left and related automation buzzterms](https://www.reddit.com/r/devops/comments/ue066o/why_developers_hate_shift_left_and_related/) | Einav_Laviv | 93 |
+| [If I use release steps in my build pipeline, can I make it show up on the Azure Release page with green dots where it was released?](https://www.reddit.com/r/devops/comments/udvj4o/if_i_use_release_steps_in_my_build_pipeline_can_i/) | Lekowski | 25 |
+| [What are the best cloud-agnostic tools you use?](https://www.reddit.com/r/devops/comments/udz5bl/what_are_the_best_cloudagnostic_tools_you_use/) | hanaa42 | 19 |
+| [How do you write your custom tools at work?](https://www.reddit.com/r/devops/comments/ue2ian/how_do_you_write_your_custom_tools_at_work/) | dimtass | 5 |
+| [Will we move away from DSLs?](https://www.reddit.com/r/devops/comments/uekb77/will_we_move_away_from_dsls/) | TechnoWomble | 3 |
+| [Is FullStack certification course worth it?](https://www.reddit.com/r/devops/comments/uec3l7/is_fullstack_certification_course_worth_it/) | chanel_no_1 | 3 |
+| [Continuously merge parents into children recursively](https://www.reddit.com/r/devops/comments/ue6jtb/continuously_merge_parents_into_children/) | fez0101 | 3 |
+| [just an other rejection](https://www.reddit.com/r/devops/comments/ueadod/just_an_other_rejection/) | Separate_Mode8065 | 2 |
+| [Terraform Provider Iterative (TPI) - plugin for machine learning workloads: spot instance recovery &amp; auto-termination - AWS, GCP, Azure, Kubernetes](https://www.reddit.com/r/devops/comments/ue0zj3/terraform_provider_iterative_tpi_plugin_for/) | cmstrump | 2 |
+| [Embedded/Systems development and Devops](https://www.reddit.com/r/devops/comments/udwov3/embeddedsystems_development_and_devops/) | a_cuppa_java | 2 |
