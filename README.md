@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Why developers hate shift left and related automation buzzterms](https://www.reddit.com/r/devops/comments/ue066o/why_developers_hate_shift_left_and_related/) | Einav_Laviv | 93 |
-| [If I use release steps in my build pipeline, can I make it show up on the Azure Release page with green dots where it was released?](https://www.reddit.com/r/devops/comments/udvj4o/if_i_use_release_steps_in_my_build_pipeline_can_i/) | Lekowski | 25 |
-| [What are the best cloud-agnostic tools you use?](https://www.reddit.com/r/devops/comments/udz5bl/what_are_the_best_cloudagnostic_tools_you_use/) | hanaa42 | 19 |
-| [How do you write your custom tools at work?](https://www.reddit.com/r/devops/comments/ue2ian/how_do_you_write_your_custom_tools_at_work/) | dimtass | 5 |
-| [Will we move away from DSLs?](https://www.reddit.com/r/devops/comments/uekb77/will_we_move_away_from_dsls/) | TechnoWomble | 3 |
-| [Is FullStack certification course worth it?](https://www.reddit.com/r/devops/comments/uec3l7/is_fullstack_certification_course_worth_it/) | chanel_no_1 | 3 |
-| [Continuously merge parents into children recursively](https://www.reddit.com/r/devops/comments/ue6jtb/continuously_merge_parents_into_children/) | fez0101 | 3 |
-| [just an other rejection](https://www.reddit.com/r/devops/comments/ueadod/just_an_other_rejection/) | Separate_Mode8065 | 2 |
-| [Terraform Provider Iterative (TPI) - plugin for machine learning workloads: spot instance recovery &amp; auto-termination - AWS, GCP, Azure, Kubernetes](https://www.reddit.com/r/devops/comments/ue0zj3/terraform_provider_iterative_tpi_plugin_for/) | cmstrump | 2 |
-| [Embedded/Systems development and Devops](https://www.reddit.com/r/devops/comments/udwov3/embeddedsystems_development_and_devops/) | a_cuppa_java | 2 |
+| [Pipeline security question in interview](https://www.reddit.com/r/devops/comments/ueyb3v/pipeline_security_question_in_interview/) | DanceLikeItsOuchy | 45 |
+| [Do you have personal wikis, websites or blogs full of your notes &amp; documentation you like to share?](https://www.reddit.com/r/devops/comments/ueswl1/do_you_have_personal_wikis_websites_or_blogs_full/) | AemonXVI | 36 |
+| [Out the Womb, Straight into DevOps](https://www.reddit.com/r/devops/comments/uerrww/out_the_womb_straight_into_devops/) | quaileggbenedict | 28 |
+| [As a working professional, what certificates would you recommend to have?](https://www.reddit.com/r/devops/comments/uepjr9/as_a_working_professional_what_certificates_would/) | dugindeep | 12 |
+| [API rate limiting with Traefik, Go, and local caching](https://www.reddit.com/r/devops/comments/ueknx0/api_rate_limiting_with_traefik_go_and_local/) | juliensalinas | 3 |
+| [Use multiple cloud-init datasource in VMware](https://www.reddit.com/r/devops/comments/uf7bvi/use_multiple_cloudinit_datasource_in_vmware/) | flxptrs | 2 |
+| [Process metrics of a workflow run of GitHub Action](https://www.reddit.com/r/devops/comments/uemoia/process_metrics_of_a_workflow_run_of_github_action/) | burakkantarci | 2 |
+| [Merge static application metrics in Grafana](https://www.reddit.com/r/devops/comments/uem5p1/merge_static_application_metrics_in_grafana/) | ElSatan | 2 |
+| [Looking for a post-graduate internship or to create my own with a company...](https://www.reddit.com/r/devops/comments/uer1ep/looking_for_a_postgraduate_internship_or_to/) | ishtylerc | 1 |
+| [How does your dev team onboarding look like?](https://www.reddit.com/r/devops/comments/uex0vq/how_does_your_dev_team_onboarding_look_like/) | Shakedko | 1 |
