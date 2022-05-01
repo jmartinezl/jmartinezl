@@ -44,13 +44,8 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Pipeline security question in interview](https://www.reddit.com/r/devops/comments/ueyb3v/pipeline_security_question_in_interview/) | DanceLikeItsOuchy | 45 |
-| [Do you have personal wikis, websites or blogs full of your notes &amp; documentation you like to share?](https://www.reddit.com/r/devops/comments/ueswl1/do_you_have_personal_wikis_websites_or_blogs_full/) | AemonXVI | 36 |
-| [Out the Womb, Straight into DevOps](https://www.reddit.com/r/devops/comments/uerrww/out_the_womb_straight_into_devops/) | quaileggbenedict | 28 |
-| [As a working professional, what certificates would you recommend to have?](https://www.reddit.com/r/devops/comments/uepjr9/as_a_working_professional_what_certificates_would/) | dugindeep | 12 |
-| [API rate limiting with Traefik, Go, and local caching](https://www.reddit.com/r/devops/comments/ueknx0/api_rate_limiting_with_traefik_go_and_local/) | juliensalinas | 3 |
-| [Use multiple cloud-init datasource in VMware](https://www.reddit.com/r/devops/comments/uf7bvi/use_multiple_cloudinit_datasource_in_vmware/) | flxptrs | 2 |
-| [Process metrics of a workflow run of GitHub Action](https://www.reddit.com/r/devops/comments/uemoia/process_metrics_of_a_workflow_run_of_github_action/) | burakkantarci | 2 |
-| [Merge static application metrics in Grafana](https://www.reddit.com/r/devops/comments/uem5p1/merge_static_application_metrics_in_grafana/) | ElSatan | 2 |
-| [Looking for a post-graduate internship or to create my own with a company...](https://www.reddit.com/r/devops/comments/uer1ep/looking_for_a_postgraduate_internship_or_to/) | ishtylerc | 1 |
-| [How does your dev team onboarding look like?](https://www.reddit.com/r/devops/comments/uex0vq/how_does_your_dev_team_onboarding_look_like/) | Shakedko | 1 |
+| [Is my expectations for candidates too high?](https://www.reddit.com/r/devops/comments/uffq2u/is_my_expectations_for_candidates_too_high/) | summaji | 82 |
+| [GitGoat - deliberately misconfigured GitHub org](https://www.reddit.com/r/devops/comments/ufbrx4/gitgoat_deliberately_misconfigured_github_org/) | ConsistentComment919 | 62 |
+| [Releasing some free tools ⚒️ 🪛🔧](https://www.reddit.com/r/devops/comments/ufr7qz/releasing_some_free_tools/) | xeonproc | 43 |
+| [Vault HA mode(OSS) vs Vault Enterprise](https://www.reddit.com/r/devops/comments/ufdrv4/vault_ha_modeoss_vs_vault_enterprise/) | anish2good | 6 |
+| [react app deployment in the cloud](https://www.reddit.com/r/devops/comments/ufrwcd/react_app_deployment_in_the_cloud/) | humanonymous007 | 1 |
