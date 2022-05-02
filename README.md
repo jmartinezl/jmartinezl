@@ -44,8 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is my expectations for candidates too high?](https://www.reddit.com/r/devops/comments/uffq2u/is_my_expectations_for_candidates_too_high/) | summaji | 82 |
-| [GitGoat - deliberately misconfigured GitHub org](https://www.reddit.com/r/devops/comments/ufbrx4/gitgoat_deliberately_misconfigured_github_org/) | ConsistentComment919 | 62 |
-| [Releasing some free tools ⚒️ 🪛🔧](https://www.reddit.com/r/devops/comments/ufr7qz/releasing_some_free_tools/) | xeonproc | 43 |
-| [Vault HA mode(OSS) vs Vault Enterprise](https://www.reddit.com/r/devops/comments/ufdrv4/vault_ha_modeoss_vs_vault_enterprise/) | anish2good | 6 |
-| [react app deployment in the cloud](https://www.reddit.com/r/devops/comments/ufrwcd/react_app_deployment_in_the_cloud/) | humanonymous007 | 1 |
+| [Do you do Application support as DevOps engineer?](https://www.reddit.com/r/devops/comments/ufzap7/do_you_do_application_support_as_devops_engineer/) | pye_2018 | 50 |
+| [ansible - Not sure where to begin](https://www.reddit.com/r/devops/comments/ug5ubs/ansible_not_sure_where_to_begin/) | Assblastersauce | 44 |
+| [What are your strategies or advice on a new devops engineer learning to support an application?](https://www.reddit.com/r/devops/comments/ug0ll3/what_are_your_strategies_or_advice_on_a_new/) | asdwenj | 20 |
+| [For those looking to make a career switch to devops, did it ever feel overwhelming with all the things you need to know?](https://www.reddit.com/r/devops/comments/ug939g/for_those_looking_to_make_a_career_switch_to/) | razzrazz- | 11 |
+| [Some practical learnings while participating in on-call rotations](https://www.reddit.com/r/devops/comments/ugjs4r/some_practical_learnings_while_participating_in/) | FloatingNumber | 8 |
+| [Ansible for windows?](https://www.reddit.com/r/devops/comments/ugfd8w/ansible_for_windows/) | amd125774 | 7 |
+| [Experience with honeycomb.io Pro tier pricing?](https://www.reddit.com/r/devops/comments/ug53wm/experience_with_honeycombio_pro_tier_pricing/) | wongck | 4 |
+| [Execute a managed script](https://www.reddit.com/r/devops/comments/ug2ef0/execute_a_managed_script/) | HeadTea | 4 |
+| [Need your HELP For INGRESS](https://www.reddit.com/r/devops/comments/ugaan2/need_your_help_for_ingress/) | Separate_Mode8065 | 3 |
+| [Clearing DNS Cache on a Cronjob, or disable DNS Cache, good or bad?](https://www.reddit.com/r/devops/comments/ughz98/clearing_dns_cache_on_a_cronjob_or_disable_dns/) | geddedev | 2 |
