@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do you do Application support as DevOps engineer?](https://www.reddit.com/r/devops/comments/ufzap7/do_you_do_application_support_as_devops_engineer/) | pye_2018 | 50 |
-| [ansible - Not sure where to begin](https://www.reddit.com/r/devops/comments/ug5ubs/ansible_not_sure_where_to_begin/) | Assblastersauce | 44 |
-| [What are your strategies or advice on a new devops engineer learning to support an application?](https://www.reddit.com/r/devops/comments/ug0ll3/what_are_your_strategies_or_advice_on_a_new/) | asdwenj | 20 |
-| [For those looking to make a career switch to devops, did it ever feel overwhelming with all the things you need to know?](https://www.reddit.com/r/devops/comments/ug939g/for_those_looking_to_make_a_career_switch_to/) | razzrazz- | 11 |
-| [Some practical learnings while participating in on-call rotations](https://www.reddit.com/r/devops/comments/ugjs4r/some_practical_learnings_while_participating_in/) | FloatingNumber | 8 |
-| [Ansible for windows?](https://www.reddit.com/r/devops/comments/ugfd8w/ansible_for_windows/) | amd125774 | 7 |
-| [Experience with honeycomb.io Pro tier pricing?](https://www.reddit.com/r/devops/comments/ug53wm/experience_with_honeycombio_pro_tier_pricing/) | wongck | 4 |
-| [Execute a managed script](https://www.reddit.com/r/devops/comments/ug2ef0/execute_a_managed_script/) | HeadTea | 4 |
-| [Need your HELP For INGRESS](https://www.reddit.com/r/devops/comments/ugaan2/need_your_help_for_ingress/) | Separate_Mode8065 | 3 |
-| [Clearing DNS Cache on a Cronjob, or disable DNS Cache, good or bad?](https://www.reddit.com/r/devops/comments/ughz98/clearing_dns_cache_on_a_cronjob_or_disable_dns/) | geddedev | 2 |
+| [How we sharded our test suite for 10x faster runs on GitHub Actions](https://www.reddit.com/r/devops/comments/ugzb2a/how_we_sharded_our_test_suite_for_10x_faster_runs/) | vriad | 97 |
+| [Which IDE/Editor is Your Daily driver?](https://www.reddit.com/r/devops/comments/ugstjr/which_ideeditor_is_your_daily_driver/) | PigNatovsky | 75 |
+| [Monthly 'Getting into DevOps' thread - 2022/05](https://www.reddit.com/r/devops/comments/ugqrkn/monthly_getting_into_devops_thread_202205/) | mthode | 16 |
+| [Why will I choose Pulumi over Terraform for my next project?](https://www.reddit.com/r/devops/comments/ugta6j/why_will_i_choose_pulumi_over_terraform_for_my/) | Tech_Watching | 11 |
+| [Unit tests run - Should it be included as a pre-push githook?](https://www.reddit.com/r/devops/comments/ugrem4/unit_tests_run_should_it_be_included_as_a_prepush/) | protolords | 11 |
+| [Declarative deployment of Postgres functions and views](https://www.reddit.com/r/devops/comments/ugyh0o/declarative_deployment_of_postgres_functions_and/) | ChineseFountain | 11 |
+| [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://www.reddit.com/r/devops/comments/ugzkln/endtoend_monitoring_with_grafana_cloud_with/) | Am4t3uR | 7 |
+| [How do I find out which container is responsible for a specific docker overlay folder?](https://www.reddit.com/r/devops/comments/uhcerd/how_do_i_find_out_which_container_is_responsible/) | ncubez | 6 |
+| [What data should I be logging in my API servers?](https://www.reddit.com/r/devops/comments/ugooue/what_data_should_i_be_logging_in_my_api_servers/) | nigerian_prince_lol | 4 |
+| [Monthly 'Shameless Self Promotion' thread - 2022/05](https://www.reddit.com/r/devops/comments/ugqs3a/monthly_shameless_self_promotion_thread_202205/) | mthode | 3 |
