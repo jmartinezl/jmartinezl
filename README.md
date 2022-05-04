@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How we sharded our test suite for 10x faster runs on GitHub Actions](https://www.reddit.com/r/devops/comments/ugzb2a/how_we_sharded_our_test_suite_for_10x_faster_runs/) | vriad | 97 |
-| [Which IDE/Editor is Your Daily driver?](https://www.reddit.com/r/devops/comments/ugstjr/which_ideeditor_is_your_daily_driver/) | PigNatovsky | 75 |
-| [Monthly 'Getting into DevOps' thread - 2022/05](https://www.reddit.com/r/devops/comments/ugqrkn/monthly_getting_into_devops_thread_202205/) | mthode | 16 |
-| [Why will I choose Pulumi over Terraform for my next project?](https://www.reddit.com/r/devops/comments/ugta6j/why_will_i_choose_pulumi_over_terraform_for_my/) | Tech_Watching | 11 |
-| [Unit tests run - Should it be included as a pre-push githook?](https://www.reddit.com/r/devops/comments/ugrem4/unit_tests_run_should_it_be_included_as_a_prepush/) | protolords | 11 |
-| [Declarative deployment of Postgres functions and views](https://www.reddit.com/r/devops/comments/ugyh0o/declarative_deployment_of_postgres_functions_and/) | ChineseFountain | 11 |
-| [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://www.reddit.com/r/devops/comments/ugzkln/endtoend_monitoring_with_grafana_cloud_with/) | Am4t3uR | 7 |
-| [How do I find out which container is responsible for a specific docker overlay folder?](https://www.reddit.com/r/devops/comments/uhcerd/how_do_i_find_out_which_container_is_responsible/) | ncubez | 6 |
-| [What data should I be logging in my API servers?](https://www.reddit.com/r/devops/comments/ugooue/what_data_should_i_be_logging_in_my_api_servers/) | nigerian_prince_lol | 4 |
-| [Monthly 'Shameless Self Promotion' thread - 2022/05](https://www.reddit.com/r/devops/comments/ugqs3a/monthly_shameless_self_promotion_thread_202205/) | mthode | 3 |
+| [Those of you using prometheus as part of your observability stack, what approach did you take to scaling to scrape 25+ clusters, and why? Is Thanos the answer to my problems?](https://www.reddit.com/r/devops/comments/uhmk77/those_of_you_using_prometheus_as_part_of_your/) | conall88 | 64 |
+| [Has anyone ever migrated /immigrated to the USA for a Devops role?](https://www.reddit.com/r/devops/comments/uhockz/has_anyone_ever_migrated_immigrated_to_the_usa/) | GardenImpossible402 | 12 |
+| [Real use case example for devops tools](https://www.reddit.com/r/devops/comments/uhsqjb/real_use_case_example_for_devops_tools/) | Dips2 | 4 |
+| [For 2022 - Sites for learning Azure &amp; DevOps Tools? Pluralsight vs aCloudGuru vs Youtube / Udemy vs Books?](https://www.reddit.com/r/devops/comments/ui05m1/for_2022_sites_for_learning_azure_devops_tools/) | AemonXVI | 4 |
+| [unknown report version for sonar python project](https://www.reddit.com/r/devops/comments/uhk522/unknown_report_version_for_sonar_python_project/) | dayzero645 | 2 |
+| [Running Portainer in a production environment](https://www.reddit.com/r/devops/comments/uhxpv6/running_portainer_in_a_production_environment/) | DiHannay | 2 |
+| [Remote extensions installing as dev in chrome](https://www.reddit.com/r/devops/comments/uhezen/remote_extensions_installing_as_dev_in_chrome/) | kostnerek | 1 |
+| [Is Bitbucket Pipelines offer a dead one?](https://www.reddit.com/r/devops/comments/uhnzed/is_bitbucket_pipelines_offer_a_dead_one/) | gavenkoa | 1 |
+| [Github Actions: Is it possible for workflow executions to be guaranteed to execute or finish in order of commit? Trying to determine if that is impossible to guarantee or if there is a workaround](https://www.reddit.com/r/devops/comments/uhpynr/github_actions_is_it_possible_for_workflow/) | gqtrees | 1 |
+| [Getting Started with GitOps on Kubernetes with Devtron](https://www.reddit.com/r/devops/comments/ui2uup/getting_started_with_gitops_on_kubernetes_with/) | piotr_minkowski | 1 |
