@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Those of you using prometheus as part of your observability stack, what approach did you take to scaling to scrape 25+ clusters, and why? Is Thanos the answer to my problems?](https://www.reddit.com/r/devops/comments/uhmk77/those_of_you_using_prometheus_as_part_of_your/) | conall88 | 64 |
-| [Has anyone ever migrated /immigrated to the USA for a Devops role?](https://www.reddit.com/r/devops/comments/uhockz/has_anyone_ever_migrated_immigrated_to_the_usa/) | GardenImpossible402 | 12 |
-| [Real use case example for devops tools](https://www.reddit.com/r/devops/comments/uhsqjb/real_use_case_example_for_devops_tools/) | Dips2 | 4 |
-| [For 2022 - Sites for learning Azure &amp; DevOps Tools? Pluralsight vs aCloudGuru vs Youtube / Udemy vs Books?](https://www.reddit.com/r/devops/comments/ui05m1/for_2022_sites_for_learning_azure_devops_tools/) | AemonXVI | 4 |
-| [unknown report version for sonar python project](https://www.reddit.com/r/devops/comments/uhk522/unknown_report_version_for_sonar_python_project/) | dayzero645 | 2 |
-| [Running Portainer in a production environment](https://www.reddit.com/r/devops/comments/uhxpv6/running_portainer_in_a_production_environment/) | DiHannay | 2 |
-| [Remote extensions installing as dev in chrome](https://www.reddit.com/r/devops/comments/uhezen/remote_extensions_installing_as_dev_in_chrome/) | kostnerek | 1 |
-| [Is Bitbucket Pipelines offer a dead one?](https://www.reddit.com/r/devops/comments/uhnzed/is_bitbucket_pipelines_offer_a_dead_one/) | gavenkoa | 1 |
-| [Github Actions: Is it possible for workflow executions to be guaranteed to execute or finish in order of commit? Trying to determine if that is impossible to guarantee or if there is a workaround](https://www.reddit.com/r/devops/comments/uhpynr/github_actions_is_it_possible_for_workflow/) | gqtrees | 1 |
-| [Getting Started with GitOps on Kubernetes with Devtron](https://www.reddit.com/r/devops/comments/ui2uup/getting_started_with_gitops_on_kubernetes_with/) | piotr_minkowski | 1 |
+| [Deploying Kubernetes Clusters in Increasingly absurd languages](https://www.reddit.com/r/devops/comments/uiaaj3/deploying_kubernetes_clusters_in_increasingly/) | jaxxstorm | 182 |
+| [Is there a good place to hear devops STARs stories, especially cloud ones?](https://www.reddit.com/r/devops/comments/uif51j/is_there_a_good_place_to_hear_devops_stars/) | Mogadxu | 12 |
+| [GitHub Actions vs BitBucket Pipelines vs GitLab CI/CD](https://www.reddit.com/r/devops/comments/ui9nm1/github_actions_vs_bitbucket_pipelines_vs_gitlab/) | DanielVigueras | 3 |
+| [Best CI/CD Practices on AWS and Kubernetes](https://www.reddit.com/r/devops/comments/uiu0am/best_cicd_practices_on_aws_and_kubernetes/) | thewhiskybible | 3 |
+| [drone buidl docker image](https://www.reddit.com/r/devops/comments/uiswdz/drone_buidl_docker_image/) | rafipiccolo | 2 |
+| [Confusion with Microsoft Learn and Private registries for Bicep](https://www.reddit.com/r/devops/comments/uietzs/confusion_with_microsoft_learn_and_private/) | Boppenwack | 2 |
+| [Need some career advice in Devops for experienced professional](https://www.reddit.com/r/devops/comments/uit6i9/need_some_career_advice_in_devops_for_experienced/) | Unlucky_lmao | 1 |
+| [How do you guys handle initial app configuration?](https://www.reddit.com/r/devops/comments/ui7ejv/how_do_you_guys_handle_initial_app_configuration/) | flamingo_as_service | 1 |
+| [Using HaProxy on Nginx server. Not listening to port 80](https://www.reddit.com/r/devops/comments/uiqjq4/using_haproxy_on_nginx_server_not_listening_to/) | krishna404 | 0 |
+| [Personalized vSphere VMs deployments (vCPU, RAM, storage, ...)](https://www.reddit.com/r/devops/comments/ui8xby/personalized_vsphere_vms_deployments_vcpu_ram/) | Elpatii | 0 |
