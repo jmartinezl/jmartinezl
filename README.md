@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Deploying Kubernetes Clusters in Increasingly absurd languages](https://www.reddit.com/r/devops/comments/uiaaj3/deploying_kubernetes_clusters_in_increasingly/) | jaxxstorm | 182 |
-| [Is there a good place to hear devops STARs stories, especially cloud ones?](https://www.reddit.com/r/devops/comments/uif51j/is_there_a_good_place_to_hear_devops_stars/) | Mogadxu | 12 |
-| [GitHub Actions vs BitBucket Pipelines vs GitLab CI/CD](https://www.reddit.com/r/devops/comments/ui9nm1/github_actions_vs_bitbucket_pipelines_vs_gitlab/) | DanielVigueras | 3 |
-| [Best CI/CD Practices on AWS and Kubernetes](https://www.reddit.com/r/devops/comments/uiu0am/best_cicd_practices_on_aws_and_kubernetes/) | thewhiskybible | 3 |
-| [drone buidl docker image](https://www.reddit.com/r/devops/comments/uiswdz/drone_buidl_docker_image/) | rafipiccolo | 2 |
-| [Confusion with Microsoft Learn and Private registries for Bicep](https://www.reddit.com/r/devops/comments/uietzs/confusion_with_microsoft_learn_and_private/) | Boppenwack | 2 |
-| [Need some career advice in Devops for experienced professional](https://www.reddit.com/r/devops/comments/uit6i9/need_some_career_advice_in_devops_for_experienced/) | Unlucky_lmao | 1 |
-| [How do you guys handle initial app configuration?](https://www.reddit.com/r/devops/comments/ui7ejv/how_do_you_guys_handle_initial_app_configuration/) | flamingo_as_service | 1 |
-| [Using HaProxy on Nginx server. Not listening to port 80](https://www.reddit.com/r/devops/comments/uiqjq4/using_haproxy_on_nginx_server_not_listening_to/) | krishna404 | 0 |
-| [Personalized vSphere VMs deployments (vCPU, RAM, storage, ...)](https://www.reddit.com/r/devops/comments/ui8xby/personalized_vsphere_vms_deployments_vcpu_ram/) | Elpatii | 0 |
+| [When did it become standard for every job interview to require homework on top of 4-5 rounds of interviews?](https://www.reddit.com/r/devops/comments/uix61t/when_did_it_become_standard_for_every_job/) | phordee | 286 |
+| [GitHub Actions Security Best Practices [cheat sheet]](https://www.reddit.com/r/devops/comments/uj13sq/github_actions_security_best_practices_cheat_sheet/) | segtekdev | 36 |
+| [What (if anything) will replace Kubernetes?](https://www.reddit.com/r/devops/comments/uizq58/what_if_anything_will_replace_kubernetes/) | TommyForTech | 16 |
+| [Role of AI/analytics in Devops/SRE scene ?](https://www.reddit.com/r/devops/comments/ujhh9h/role_of_aianalytics_in_devopssre_scene/) | defqon_39 | 13 |
+| [How many (AWS) accounts do you have?](https://www.reddit.com/r/devops/comments/uj8yzi/how_many_aws_accounts_do_you_have/) | mothzilla | 5 |
+| [Whats your K8s Cloud resources tagging Strategy](https://www.reddit.com/r/devops/comments/uj2yz6/whats_your_k8s_cloud_resources_tagging_strategy/) | tekno45 | 3 |
+| [What are our options to automate blue/green deployments on EC2?](https://www.reddit.com/r/devops/comments/uj1g9n/what_are_our_options_to_automate_bluegreen/) | da_shaka | 2 |
+| [terraform imports](https://www.reddit.com/r/devops/comments/uiw6ws/terraform_imports/) | Silly_Ad6115 | 1 |
+| [best way to improve build times/Pipeline with a Windows focused c++ app?](https://www.reddit.com/r/devops/comments/uizon4/best_way_to_improve_build_timespipeline_with_a/) | jr_codearcheologist | 1 |
+| [Selling your self during an interview](https://www.reddit.com/r/devops/comments/uiz9yn/selling_your_self_during_an_interview/) | zerotwo21 | 1 |
