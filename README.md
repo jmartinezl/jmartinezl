@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [When did it become standard for every job interview to require homework on top of 4-5 rounds of interviews?](https://www.reddit.com/r/devops/comments/uix61t/when_did_it_become_standard_for_every_job/) | phordee | 286 |
-| [GitHub Actions Security Best Practices [cheat sheet]](https://www.reddit.com/r/devops/comments/uj13sq/github_actions_security_best_practices_cheat_sheet/) | segtekdev | 36 |
-| [What (if anything) will replace Kubernetes?](https://www.reddit.com/r/devops/comments/uizq58/what_if_anything_will_replace_kubernetes/) | TommyForTech | 16 |
-| [Role of AI/analytics in Devops/SRE scene ?](https://www.reddit.com/r/devops/comments/ujhh9h/role_of_aianalytics_in_devopssre_scene/) | defqon_39 | 13 |
-| [How many (AWS) accounts do you have?](https://www.reddit.com/r/devops/comments/uj8yzi/how_many_aws_accounts_do_you_have/) | mothzilla | 5 |
-| [Whats your K8s Cloud resources tagging Strategy](https://www.reddit.com/r/devops/comments/uj2yz6/whats_your_k8s_cloud_resources_tagging_strategy/) | tekno45 | 3 |
-| [What are our options to automate blue/green deployments on EC2?](https://www.reddit.com/r/devops/comments/uj1g9n/what_are_our_options_to_automate_bluegreen/) | da_shaka | 2 |
-| [terraform imports](https://www.reddit.com/r/devops/comments/uiw6ws/terraform_imports/) | Silly_Ad6115 | 1 |
-| [best way to improve build times/Pipeline with a Windows focused c++ app?](https://www.reddit.com/r/devops/comments/uizon4/best_way_to_improve_build_timespipeline_with_a/) | jr_codearcheologist | 1 |
-| [Selling your self during an interview](https://www.reddit.com/r/devops/comments/uiz9yn/selling_your_self_during_an_interview/) | zerotwo21 | 1 |
+| [Engineers Who Redesigned and Successfully Rebuilt an Already Established, Painfully Disorganized and Manually Built Cloud Infrastructure - How did you do it?](https://www.reddit.com/r/devops/comments/uk3rpd/engineers_who_redesigned_and_successfully_rebuilt/) | DevNetGuru | 74 |
+| [Current Windows / Azure Sysadmin interested in DevOps](https://www.reddit.com/r/devops/comments/ujsa7v/current_windows_azure_sysadmin_interested_in/) | Djust270 | 39 |
+| [Best and cheapest way to run lambda functions](https://www.reddit.com/r/devops/comments/ujmbau/best_and_cheapest_way_to_run_lambda_functions/) | beelzebut | 30 |
+| [Kubernetes Startup Probe | Practical Guide](https://www.reddit.com/r/devops/comments/ujuhni/kubernetes_startup_probe_practical_guide/) | humpier | 13 |
+| [how do you auto deploy to kubernetes with auto rollbacks?](https://www.reddit.com/r/devops/comments/uk7a2t/how_do_you_auto_deploy_to_kubernetes_with_auto/) | iLikeTheAss | 6 |
+| [What's your preferred container Linux distribution?](https://www.reddit.com/r/devops/comments/uka05x/whats_your_preferred_container_linux_distribution/) | flxptrs | 6 |
+| [Designing container based applications](https://www.reddit.com/r/devops/comments/ujx0uo/designing_container_based_applications/) | ZimCanIT | 3 |
+| [Sanity Check: Is this DevOps?](https://www.reddit.com/r/devops/comments/uk2q86/sanity_check_is_this_devops/) | N7Valiant | 2 |
+| [CS grad student looking for new grad DevOps/Cloud/SRE roles in the US](https://www.reddit.com/r/devops/comments/ukae25/cs_grad_student_looking_for_new_grad/) | Traditional-Ad3839 | 2 |
+| [Anyone know of any other kube runners/executors?](https://www.reddit.com/r/devops/comments/ujujv0/anyone_know_of_any_other_kube_runnersexecutors/) | milfdaddi666 | 2 |
