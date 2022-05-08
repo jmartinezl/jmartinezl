@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Engineers Who Redesigned and Successfully Rebuilt an Already Established, Painfully Disorganized and Manually Built Cloud Infrastructure - How did you do it?](https://www.reddit.com/r/devops/comments/uk3rpd/engineers_who_redesigned_and_successfully_rebuilt/) | DevNetGuru | 74 |
-| [Current Windows / Azure Sysadmin interested in DevOps](https://www.reddit.com/r/devops/comments/ujsa7v/current_windows_azure_sysadmin_interested_in/) | Djust270 | 39 |
-| [Best and cheapest way to run lambda functions](https://www.reddit.com/r/devops/comments/ujmbau/best_and_cheapest_way_to_run_lambda_functions/) | beelzebut | 30 |
-| [Kubernetes Startup Probe | Practical Guide](https://www.reddit.com/r/devops/comments/ujuhni/kubernetes_startup_probe_practical_guide/) | humpier | 13 |
-| [how do you auto deploy to kubernetes with auto rollbacks?](https://www.reddit.com/r/devops/comments/uk7a2t/how_do_you_auto_deploy_to_kubernetes_with_auto/) | iLikeTheAss | 6 |
-| [What's your preferred container Linux distribution?](https://www.reddit.com/r/devops/comments/uka05x/whats_your_preferred_container_linux_distribution/) | flxptrs | 6 |
-| [Designing container based applications](https://www.reddit.com/r/devops/comments/ujx0uo/designing_container_based_applications/) | ZimCanIT | 3 |
-| [Sanity Check: Is this DevOps?](https://www.reddit.com/r/devops/comments/uk2q86/sanity_check_is_this_devops/) | N7Valiant | 2 |
-| [CS grad student looking for new grad DevOps/Cloud/SRE roles in the US](https://www.reddit.com/r/devops/comments/ukae25/cs_grad_student_looking_for_new_grad/) | Traditional-Ad3839 | 2 |
-| [Anyone know of any other kube runners/executors?](https://www.reddit.com/r/devops/comments/ujujv0/anyone_know_of_any_other_kube_runnersexecutors/) | milfdaddi666 | 2 |
+| [I need advice for my gitlab integration on a personal project](https://www.reddit.com/r/devops/comments/uklncg/i_need_advice_for_my_gitlab_integration_on_a/) | CamembertEnthusiast | 28 |
+| [How do you manage your Helm packages for production?](https://www.reddit.com/r/devops/comments/ukxt2v/how_do_you_manage_your_helm_packages_for/) | SO012215 | 17 |
+| [Jira Integrations](https://www.reddit.com/r/devops/comments/uklag9/jira_integrations/) | klevermonicker | 13 |
+| [how do you manage your intern dependencies repo ? like Nexus sonatype for example.](https://www.reddit.com/r/devops/comments/ukk3wa/how_do_you_manage_your_intern_dependencies_repo/) | nawfalelhaymer | 7 |
+| [Advice on relocation to UK](https://www.reddit.com/r/devops/comments/ukft4a/advice_on_relocation_to_uk/) | PK5848 | 7 |
+| [Need Some Advice for a Job I was Offered](https://www.reddit.com/r/devops/comments/ukd9nb/need_some_advice_for_a_job_i_was_offered/) | SarcasticHumanBeing | 0 |
