@@ -44,9 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I need advice for my gitlab integration on a personal project](https://www.reddit.com/r/devops/comments/uklncg/i_need_advice_for_my_gitlab_integration_on_a/) | CamembertEnthusiast | 28 |
-| [How do you manage your Helm packages for production?](https://www.reddit.com/r/devops/comments/ukxt2v/how_do_you_manage_your_helm_packages_for/) | SO012215 | 17 |
-| [Jira Integrations](https://www.reddit.com/r/devops/comments/uklag9/jira_integrations/) | klevermonicker | 13 |
-| [how do you manage your intern dependencies repo ? like Nexus sonatype for example.](https://www.reddit.com/r/devops/comments/ukk3wa/how_do_you_manage_your_intern_dependencies_repo/) | nawfalelhaymer | 7 |
-| [Advice on relocation to UK](https://www.reddit.com/r/devops/comments/ukft4a/advice_on_relocation_to_uk/) | PK5848 | 7 |
-| [Need Some Advice for a Job I was Offered](https://www.reddit.com/r/devops/comments/ukd9nb/need_some_advice_for_a_job_i_was_offered/) | SarcasticHumanBeing | 0 |
+| [Wrote up a post on backup and disaster recovery planning](https://www.reddit.com/r/devops/comments/ul7ixk/wrote_up_a_post_on_backup_and_disaster_recovery/) | BuildingDevOps | 100 |
+| [Mental Disorder and Neurodiversity in Tech](https://www.reddit.com/r/devops/comments/ul8ymo/mental_disorder_and_neurodiversity_in_tech/) | serverlessmom | 24 |
+| [Server metrics monitoring and reporting for centos?](https://www.reddit.com/r/devops/comments/ulm3wo/server_metrics_monitoring_and_reporting_for_centos/) | codemunky | 11 |
+| [What tips would you give to someone who is starting a devops career?](https://www.reddit.com/r/devops/comments/ulhqsj/what_tips_would_you_give_to_someone_who_is/) | emhgg | 7 |
+| [Retros and Scrum Masters: your opinions?](https://www.reddit.com/r/devops/comments/ul9qlf/retros_and_scrum_masters_your_opinions/) | TechnoWomble | 5 |
+| [Tools to auto generate sql seed script with data](https://www.reddit.com/r/devops/comments/ulnhbp/tools_to_auto_generate_sql_seed_script_with_data/) | Big-Requirement-7603 | 3 |
+| [DevOps Bulletin Newsletter - Issue 50](https://www.reddit.com/r/devops/comments/ulpgt1/devops_bulletin_newsletter_issue_50/) | labouardy | 3 |
+| [Any opensource Devops related projects to contribute to?](https://www.reddit.com/r/devops/comments/ul9q48/any_opensource_devops_related_projects_to/) | redditssexiestguy | 2 |
+| [what is the best practice way for authorization in various tools?](https://www.reddit.com/r/devops/comments/ulgclx/what_is_the_best_practice_way_for_authorization/) | learnamap | 1 |
+| [what does a typical software lifecycle looks like?](https://www.reddit.com/r/devops/comments/uloypu/what_does_a_typical_software_lifecycle_looks_like/) | learnamap | 1 |
