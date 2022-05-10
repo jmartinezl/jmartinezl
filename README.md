@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Wrote up a post on backup and disaster recovery planning](https://www.reddit.com/r/devops/comments/ul7ixk/wrote_up_a_post_on_backup_and_disaster_recovery/) | BuildingDevOps | 100 |
-| [Mental Disorder and Neurodiversity in Tech](https://www.reddit.com/r/devops/comments/ul8ymo/mental_disorder_and_neurodiversity_in_tech/) | serverlessmom | 24 |
-| [Server metrics monitoring and reporting for centos?](https://www.reddit.com/r/devops/comments/ulm3wo/server_metrics_monitoring_and_reporting_for_centos/) | codemunky | 11 |
-| [What tips would you give to someone who is starting a devops career?](https://www.reddit.com/r/devops/comments/ulhqsj/what_tips_would_you_give_to_someone_who_is/) | emhgg | 7 |
-| [Retros and Scrum Masters: your opinions?](https://www.reddit.com/r/devops/comments/ul9qlf/retros_and_scrum_masters_your_opinions/) | TechnoWomble | 5 |
-| [Tools to auto generate sql seed script with data](https://www.reddit.com/r/devops/comments/ulnhbp/tools_to_auto_generate_sql_seed_script_with_data/) | Big-Requirement-7603 | 3 |
-| [DevOps Bulletin Newsletter - Issue 50](https://www.reddit.com/r/devops/comments/ulpgt1/devops_bulletin_newsletter_issue_50/) | labouardy | 3 |
-| [Any opensource Devops related projects to contribute to?](https://www.reddit.com/r/devops/comments/ul9q48/any_opensource_devops_related_projects_to/) | redditssexiestguy | 2 |
-| [what is the best practice way for authorization in various tools?](https://www.reddit.com/r/devops/comments/ulgclx/what_is_the_best_practice_way_for_authorization/) | learnamap | 1 |
-| [what does a typical software lifecycle looks like?](https://www.reddit.com/r/devops/comments/uloypu/what_does_a_typical_software_lifecycle_looks_like/) | learnamap | 1 |
+| [How to value equity vs up front cash?](https://www.reddit.com/r/devops/comments/ulsyux/how_to_value_equity_vs_up_front_cash/) | Soccham | 54 |
+| [How I learned to stop worrying and love the YAML](https://www.reddit.com/r/devops/comments/ulrlsq/how_i_learned_to_stop_worrying_and_love_the_yaml/) | jaxxstorm | 49 |
+| [Have there been any pipeline exploits that have been made public?](https://www.reddit.com/r/devops/comments/umc6o6/have_there_been_any_pipeline_exploits_that_have/) | DanceLikeItsOuchy | 19 |
+| [A new way to deploy multi cloud](https://www.reddit.com/r/devops/comments/uls34e/a_new_way_to_deploy_multi_cloud/) | FearlessAnt | 10 |
+| [Thoughts on web3?](https://www.reddit.com/r/devops/comments/ulvxro/thoughts_on_web3/) | zeninfinity | 6 |
+| [Selenium Tests running locally but failing on Azure DevOps Pipeline](https://www.reddit.com/r/devops/comments/ulr1bd/selenium_tests_running_locally_but_failing_on/) | Queasy-Difficulty181 | 4 |
+| [Leaving a high-tech company that you don't feel aligned with](https://www.reddit.com/r/devops/comments/umf3v7/leaving_a_hightech_company_that_you_dont_feel/) | asharrender | 3 |
+| [Terrareg: An open-source Terraform module registry](https://www.reddit.com/r/devops/comments/ulrr3s/terrareg_an_opensource_terraform_module_registry/) | binaryfor | 2 |
+| [testing CI correctly](https://www.reddit.com/r/devops/comments/umerta/testing_ci_correctly/) | skvaknin | 1 |
+| [What data do you use in your dev/qa/staging environments?](https://www.reddit.com/r/devops/comments/ulypcn/what_data_do_you_use_in_your_devqastaging/) | kristianwindsor | 1 |
