@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How to value equity vs up front cash?](https://www.reddit.com/r/devops/comments/ulsyux/how_to_value_equity_vs_up_front_cash/) | Soccham | 54 |
-| [How I learned to stop worrying and love the YAML](https://www.reddit.com/r/devops/comments/ulrlsq/how_i_learned_to_stop_worrying_and_love_the_yaml/) | jaxxstorm | 49 |
-| [Have there been any pipeline exploits that have been made public?](https://www.reddit.com/r/devops/comments/umc6o6/have_there_been_any_pipeline_exploits_that_have/) | DanceLikeItsOuchy | 19 |
-| [A new way to deploy multi cloud](https://www.reddit.com/r/devops/comments/uls34e/a_new_way_to_deploy_multi_cloud/) | FearlessAnt | 10 |
-| [Thoughts on web3?](https://www.reddit.com/r/devops/comments/ulvxro/thoughts_on_web3/) | zeninfinity | 6 |
-| [Selenium Tests running locally but failing on Azure DevOps Pipeline](https://www.reddit.com/r/devops/comments/ulr1bd/selenium_tests_running_locally_but_failing_on/) | Queasy-Difficulty181 | 4 |
-| [Leaving a high-tech company that you don't feel aligned with](https://www.reddit.com/r/devops/comments/umf3v7/leaving_a_hightech_company_that_you_dont_feel/) | asharrender | 3 |
-| [Terrareg: An open-source Terraform module registry](https://www.reddit.com/r/devops/comments/ulrr3s/terrareg_an_opensource_terraform_module_registry/) | binaryfor | 2 |
-| [testing CI correctly](https://www.reddit.com/r/devops/comments/umerta/testing_ci_correctly/) | skvaknin | 1 |
-| [What data do you use in your dev/qa/staging environments?](https://www.reddit.com/r/devops/comments/ulypcn/what_data_do_you_use_in_your_devqastaging/) | kristianwindsor | 1 |
+| [Tart – open source virtualization for Apple Silicon](https://www.reddit.com/r/devops/comments/umlcnp/tart_open_source_virtualization_for_apple_silicon/) | fkorotkov | 80 |
+| [My DevOps Checklist](https://www.reddit.com/r/devops/comments/umi62m/my_devops_checklist/) | thecodedmessage | 51 |
+| [Tutorial: Setting up SonarQube locally, in AWS EC2, and integrating it to CI/CD](https://www.reddit.com/r/devops/comments/un3v1z/tutorial_setting_up_sonarqube_locally_in_aws_ec2/) | AlexCoMa | 25 |
+| [Portainer users can now provision Kubernetes environments on cloud providers directly from within Portainer. In the latest release, provisioning is supported on DigitalOcean, Linode and Civo.](https://www.reddit.com/r/devops/comments/umy43h/portainer_users_can_now_provision_kubernetes/) | DiHannay | 12 |
+| [Lab test: let's kill that cluster! Kubernetes CPU allocation and throttling demystified](https://www.reddit.com/r/devops/comments/un6i75/lab_test_lets_kill_that_cluster_kubernetes_cpu/) | ktsaou | 9 |
+| [Key Components of Kubernetes Architecture: Explained](https://www.reddit.com/r/devops/comments/umludy/key_components_of_kubernetes_architecture/) | tsys_inc | 4 |
+| [A default AWS MSK (Kafka) configuration you may want to change](https://www.reddit.com/r/devops/comments/umkyai/a_default_aws_msk_kafka_configuration_you_may/) | ioah86 | 3 |
+| [When should we create process in startups?](https://www.reddit.com/r/devops/comments/ump3ve/when_should_we_create_process_in_startups/) | abhipsnl | 2 |
+| [How much you knew about DevOps when you applied to the job and how it went?](https://www.reddit.com/r/devops/comments/umm7cb/how_much_you_knew_about_devops_when_you_applied/) | anilisfaitnesto | 2 |
+| [From sysadmin to Devops?](https://www.reddit.com/r/devops/comments/un6aqd/from_sysadmin_to_devops/) | Paowlo | 2 |
