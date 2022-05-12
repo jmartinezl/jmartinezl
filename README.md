@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Tart – open source virtualization for Apple Silicon](https://www.reddit.com/r/devops/comments/umlcnp/tart_open_source_virtualization_for_apple_silicon/) | fkorotkov | 80 |
-| [My DevOps Checklist](https://www.reddit.com/r/devops/comments/umi62m/my_devops_checklist/) | thecodedmessage | 51 |
-| [Tutorial: Setting up SonarQube locally, in AWS EC2, and integrating it to CI/CD](https://www.reddit.com/r/devops/comments/un3v1z/tutorial_setting_up_sonarqube_locally_in_aws_ec2/) | AlexCoMa | 25 |
-| [Portainer users can now provision Kubernetes environments on cloud providers directly from within Portainer. In the latest release, provisioning is supported on DigitalOcean, Linode and Civo.](https://www.reddit.com/r/devops/comments/umy43h/portainer_users_can_now_provision_kubernetes/) | DiHannay | 12 |
-| [Lab test: let's kill that cluster! Kubernetes CPU allocation and throttling demystified](https://www.reddit.com/r/devops/comments/un6i75/lab_test_lets_kill_that_cluster_kubernetes_cpu/) | ktsaou | 9 |
-| [Key Components of Kubernetes Architecture: Explained](https://www.reddit.com/r/devops/comments/umludy/key_components_of_kubernetes_architecture/) | tsys_inc | 4 |
-| [A default AWS MSK (Kafka) configuration you may want to change](https://www.reddit.com/r/devops/comments/umkyai/a_default_aws_msk_kafka_configuration_you_may/) | ioah86 | 3 |
-| [When should we create process in startups?](https://www.reddit.com/r/devops/comments/ump3ve/when_should_we_create_process_in_startups/) | abhipsnl | 2 |
-| [How much you knew about DevOps when you applied to the job and how it went?](https://www.reddit.com/r/devops/comments/umm7cb/how_much_you_knew_about_devops_when_you_applied/) | anilisfaitnesto | 2 |
-| [From sysadmin to Devops?](https://www.reddit.com/r/devops/comments/un6aqd/from_sysadmin_to_devops/) | Paowlo | 2 |
+| [Cheapest managed Kubernetes ?](https://www.reddit.com/r/devops/comments/unlgco/cheapest_managed_kubernetes/) | Shadonovitch | 45 |
+| [I wrote an article comparing the free versions of Circle CI, Travis CI, Github Actions, and Gitlab](https://www.reddit.com/r/devops/comments/una4x9/i_wrote_an_article_comparing_the_free_versions_of/) | jjalletto | 27 |
+| [DevOps career stalled.](https://www.reddit.com/r/devops/comments/unsp8r/devops_career_stalled/) | devfuckedup | 26 |
+| [Ddosify – Simple Load Testing Tool](https://www.reddit.com/r/devops/comments/unma2r/ddosify_simple_load_testing_tool/) | binaryfor | 17 |
+| [Gitlab-CI: How to test if package version already exists in pkg repo?](https://www.reddit.com/r/devops/comments/ungln3/gitlabci_how_to_test_if_package_version_already/) | bash_M0nk3y | 9 |
+| [Best way to deploy an updated docker image onto a server?](https://www.reddit.com/r/devops/comments/un8fxm/best_way_to_deploy_an_updated_docker_image_onto_a/) | stellenberger | 8 |
+| [Neckbeard Wisdom from ancient times in Cloud era - Static IPs](https://www.reddit.com/r/devops/comments/unj69b/neckbeard_wisdom_from_ancient_times_in_cloud_era/) | vad1mo | 7 |
+| [Source of truth for sensitive kv pairs](https://www.reddit.com/r/devops/comments/unwa2q/source_of_truth_for_sensitive_kv_pairs/) | oOFishbowlOo | 6 |
+| [Devops and Compute Processing Offload Industry Trends](https://www.reddit.com/r/devops/comments/unbetw/devops_and_compute_processing_offload_industry/) | jasnxl | 3 |
+| [CI/CD Pipelines for testing standard open-source Distro like Ubuntu with docker images on it?](https://www.reddit.com/r/devops/comments/uncq6k/cicd_pipelines_for_testing_standard_opensource/) | dugindeep | 3 |
