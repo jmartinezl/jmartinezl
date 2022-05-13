@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Cheapest managed Kubernetes ?](https://www.reddit.com/r/devops/comments/unlgco/cheapest_managed_kubernetes/) | Shadonovitch | 45 |
-| [I wrote an article comparing the free versions of Circle CI, Travis CI, Github Actions, and Gitlab](https://www.reddit.com/r/devops/comments/una4x9/i_wrote_an_article_comparing_the_free_versions_of/) | jjalletto | 27 |
-| [DevOps career stalled.](https://www.reddit.com/r/devops/comments/unsp8r/devops_career_stalled/) | devfuckedup | 26 |
-| [Ddosify – Simple Load Testing Tool](https://www.reddit.com/r/devops/comments/unma2r/ddosify_simple_load_testing_tool/) | binaryfor | 17 |
-| [Gitlab-CI: How to test if package version already exists in pkg repo?](https://www.reddit.com/r/devops/comments/ungln3/gitlabci_how_to_test_if_package_version_already/) | bash_M0nk3y | 9 |
-| [Best way to deploy an updated docker image onto a server?](https://www.reddit.com/r/devops/comments/un8fxm/best_way_to_deploy_an_updated_docker_image_onto_a/) | stellenberger | 8 |
-| [Neckbeard Wisdom from ancient times in Cloud era - Static IPs](https://www.reddit.com/r/devops/comments/unj69b/neckbeard_wisdom_from_ancient_times_in_cloud_era/) | vad1mo | 7 |
-| [Source of truth for sensitive kv pairs](https://www.reddit.com/r/devops/comments/unwa2q/source_of_truth_for_sensitive_kv_pairs/) | oOFishbowlOo | 6 |
-| [Devops and Compute Processing Offload Industry Trends](https://www.reddit.com/r/devops/comments/unbetw/devops_and_compute_processing_offload_industry/) | jasnxl | 3 |
-| [CI/CD Pipelines for testing standard open-source Distro like Ubuntu with docker images on it?](https://www.reddit.com/r/devops/comments/uncq6k/cicd_pipelines_for_testing_standard_opensource/) | dugindeep | 3 |
+| [Where are you finding new job postings these days?](https://www.reddit.com/r/devops/comments/uo7t1h/where_are_you_finding_new_job_postings_these_days/) | gunsofbrixton | 59 |
+| [Free kubernetes course launched this morning](https://www.reddit.com/r/devops/comments/uooey8/free_kubernetes_course_launched_this_morning/) | spurin | 26 |
+| [What excites you about being a DevOps engineer?](https://www.reddit.com/r/devops/comments/uombzv/what_excites_you_about_being_a_devops_engineer/) | illumination27 | 20 |
+| [High Steal Percentage on One VM](https://www.reddit.com/r/devops/comments/uo1xce/high_steal_percentage_on_one_vm/) | jsmith1300 | 8 |
+| [Introduction to Test Driven Development course](https://www.reddit.com/r/devops/comments/uo3ser/introduction_to_test_driven_development_course/) | JohnRofrano | 7 |
+| [Hello Worlds in 22 Langs on Kraken CI](https://www.reddit.com/r/devops/comments/uoka2o/hello_worlds_in_22_langs_on_kraken_ci/) | godfryd | 5 |
+| [Hello, I am new to programming and I have been coding in C++ for the past 6 months. I want to delve into an aspect in coding/programming and DevOps looks cool to me. How many months/ years will it take me to know DevOps to a point I can work for a company as an intern? .](https://www.reddit.com/r/devops/comments/uo2ydd/hello_i_am_new_to_programming_and_i_have_been/) | musabeebozy | 4 |
+| [Microservice Governance - Resilience Patterns](https://www.reddit.com/r/devops/comments/uoapus/microservice_governance_resilience_patterns/) | Irhine1 | 2 |
+| [This is an interesting list published by Devoteam’s TechRadar on tech to Adopt/Trial or Assess in 2022](https://www.reddit.com/r/devops/comments/uoih94/this_is_an_interesting_list_published_by/) | DiHannay | 1 |
+| [SystemD Unit not Found error when trying to start service with an argument](https://www.reddit.com/r/devops/comments/uoemqn/systemd_unit_not_found_error_when_trying_to_start/) | Beowuwlf | 1 |
