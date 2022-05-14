@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Where are you finding new job postings these days?](https://www.reddit.com/r/devops/comments/uo7t1h/where_are_you_finding_new_job_postings_these_days/) | gunsofbrixton | 59 |
-| [Free kubernetes course launched this morning](https://www.reddit.com/r/devops/comments/uooey8/free_kubernetes_course_launched_this_morning/) | spurin | 26 |
-| [What excites you about being a DevOps engineer?](https://www.reddit.com/r/devops/comments/uombzv/what_excites_you_about_being_a_devops_engineer/) | illumination27 | 20 |
-| [High Steal Percentage on One VM](https://www.reddit.com/r/devops/comments/uo1xce/high_steal_percentage_on_one_vm/) | jsmith1300 | 8 |
-| [Introduction to Test Driven Development course](https://www.reddit.com/r/devops/comments/uo3ser/introduction_to_test_driven_development_course/) | JohnRofrano | 7 |
-| [Hello Worlds in 22 Langs on Kraken CI](https://www.reddit.com/r/devops/comments/uoka2o/hello_worlds_in_22_langs_on_kraken_ci/) | godfryd | 5 |
-| [Hello, I am new to programming and I have been coding in C++ for the past 6 months. I want to delve into an aspect in coding/programming and DevOps looks cool to me. How many months/ years will it take me to know DevOps to a point I can work for a company as an intern? .](https://www.reddit.com/r/devops/comments/uo2ydd/hello_i_am_new_to_programming_and_i_have_been/) | musabeebozy | 4 |
-| [Microservice Governance - Resilience Patterns](https://www.reddit.com/r/devops/comments/uoapus/microservice_governance_resilience_patterns/) | Irhine1 | 2 |
-| [This is an interesting list published by Devoteam’s TechRadar on tech to Adopt/Trial or Assess in 2022](https://www.reddit.com/r/devops/comments/uoih94/this_is_an_interesting_list_published_by/) | DiHannay | 1 |
-| [SystemD Unit not Found error when trying to start service with an argument](https://www.reddit.com/r/devops/comments/uoemqn/systemd_unit_not_found_error_when_trying_to_start/) | Beowuwlf | 1 |
+| [An open-source tool to seed a development database with real data](https://www.reddit.com/r/devops/comments/upas38/an_opensource_tool_to_seed_a_development_database/) | ev0xmusic | 60 |
+| [What Orgs Can Learn from the Atlassian Nightmare Outage of 2022](https://www.reddit.com/r/devops/comments/uozy19/what_orgs_can_learn_from_the_atlassian_nightmare/) | devoopseng | 43 |
+| [3 Months to get ready for global lead position](https://www.reddit.com/r/devops/comments/uov0i6/3_months_to_get_ready_for_global_lead_position/) | throwaway-oneaday | 35 |
+| [All you need to know about DORA Metrics!](https://www.reddit.com/r/devops/comments/uowoe4/all_you_need_to_know_about_dora_metrics/) | maheshiyer | 5 |
+| [poll: what IAC does your org use with AWS](https://www.reddit.com/r/devops/comments/uoyz88/poll_what_iac_does_your_org_use_with_aws/) | mrkurtz | 3 |
+| [Converting python script to Ansible/Terraform module, yes or no?](https://www.reddit.com/r/devops/comments/upe7eu/converting_python_script_to_ansibleterraform/) | ksosksos | 3 |
+| [70k for 2 weeks of EKS logs in datadog](https://www.reddit.com/r/devops/comments/uove0r/70k_for_2_weeks_of_eks_logs_in_datadog/) | xjohnykn0x | 3 |
+| [is there a Google and Azure equivalent to AWS Fargate?](https://www.reddit.com/r/devops/comments/uotgwn/is_there_a_google_and_azure_equivalent_to_aws/) | Specific_Tomorrow_10 | 2 |
+| [Terraform and AWS Trusted Advisor](https://www.reddit.com/r/devops/comments/up0873/terraform_and_aws_trusted_advisor/) | darkmanflex | 2 |
+| [CodeDeploy question](https://www.reddit.com/r/devops/comments/upazkc/codedeploy_question/) | MaterialCat1081 | 2 |
