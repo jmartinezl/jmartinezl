@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [An open-source tool to seed a development database with real data](https://www.reddit.com/r/devops/comments/upas38/an_opensource_tool_to_seed_a_development_database/) | ev0xmusic | 60 |
-| [What Orgs Can Learn from the Atlassian Nightmare Outage of 2022](https://www.reddit.com/r/devops/comments/uozy19/what_orgs_can_learn_from_the_atlassian_nightmare/) | devoopseng | 43 |
-| [3 Months to get ready for global lead position](https://www.reddit.com/r/devops/comments/uov0i6/3_months_to_get_ready_for_global_lead_position/) | throwaway-oneaday | 35 |
-| [All you need to know about DORA Metrics!](https://www.reddit.com/r/devops/comments/uowoe4/all_you_need_to_know_about_dora_metrics/) | maheshiyer | 5 |
-| [poll: what IAC does your org use with AWS](https://www.reddit.com/r/devops/comments/uoyz88/poll_what_iac_does_your_org_use_with_aws/) | mrkurtz | 3 |
-| [Converting python script to Ansible/Terraform module, yes or no?](https://www.reddit.com/r/devops/comments/upe7eu/converting_python_script_to_ansibleterraform/) | ksosksos | 3 |
-| [70k for 2 weeks of EKS logs in datadog](https://www.reddit.com/r/devops/comments/uove0r/70k_for_2_weeks_of_eks_logs_in_datadog/) | xjohnykn0x | 3 |
-| [is there a Google and Azure equivalent to AWS Fargate?](https://www.reddit.com/r/devops/comments/uotgwn/is_there_a_google_and_azure_equivalent_to_aws/) | Specific_Tomorrow_10 | 2 |
-| [Terraform and AWS Trusted Advisor](https://www.reddit.com/r/devops/comments/up0873/terraform_and_aws_trusted_advisor/) | darkmanflex | 2 |
-| [CodeDeploy question](https://www.reddit.com/r/devops/comments/upazkc/codedeploy_question/) | MaterialCat1081 | 2 |
+| [System design in DevOps](https://www.reddit.com/r/devops/comments/upg88i/system_design_in_devops/) | zelena_zaba | 51 |
+| [What does your manager/management do well? How about poorly?](https://www.reddit.com/r/devops/comments/upk9nh/what_does_your_managermanagement_do_well_how/) | Soccham | 42 |
+| [Where can I expand on my python scripting and Ansible skills for DevOps?](https://www.reddit.com/r/devops/comments/upxp1f/where_can_i_expand_on_my_python_scripting_and/) | MP32Gaming | 39 |
+| [If you could automate one part of your role to that you could work less hours, what part of your role would you automate?](https://www.reddit.com/r/devops/comments/uprrcu/if_you_could_automate_one_part_of_your_role_to/) | Adapowers | 22 |
+| [A web UI for generating various NGINX configs](https://www.reddit.com/r/devops/comments/uph4r7/a_web_ui_for_generating_various_nginx_configs/) | binaryfor | 21 |
+| [Fellow unemployed SREs/DevOps Engineers, what projects are you working on at the moment to stay busy? How do you keep yourself motivated to learn new things?](https://www.reddit.com/r/devops/comments/upvmwe/fellow_unemployed_sresdevops_engineers_what/) | IndieDiscovery | 6 |
+| [What should I be familiar with before my my internship so i don't look really incompetent](https://www.reddit.com/r/devops/comments/upky9k/what_should_i_be_familiar_with_before_my_my/) | theinfinitefailure | 4 |
+| [What metrics do you measure at your organization?](https://www.reddit.com/r/devops/comments/upmhbj/what_metrics_do_you_measure_at_your_organization/) | deleted_once | 3 |
+| [Cloud guru is it good for hands on lab?](https://www.reddit.com/r/devops/comments/uppztj/cloud_guru_is_it_good_for_hands_on_lab/) | smmarcosm | 2 |
+| [(maven) Help with Spring Version and pom.xml ?](https://www.reddit.com/r/devops/comments/upoxpe/maven_help_with_spring_version_and_pomxml/) | akirakotkata | 2 |
