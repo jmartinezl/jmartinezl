@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [System design in DevOps](https://www.reddit.com/r/devops/comments/upg88i/system_design_in_devops/) | zelena_zaba | 51 |
-| [What does your manager/management do well? How about poorly?](https://www.reddit.com/r/devops/comments/upk9nh/what_does_your_managermanagement_do_well_how/) | Soccham | 42 |
-| [Where can I expand on my python scripting and Ansible skills for DevOps?](https://www.reddit.com/r/devops/comments/upxp1f/where_can_i_expand_on_my_python_scripting_and/) | MP32Gaming | 39 |
-| [If you could automate one part of your role to that you could work less hours, what part of your role would you automate?](https://www.reddit.com/r/devops/comments/uprrcu/if_you_could_automate_one_part_of_your_role_to/) | Adapowers | 22 |
-| [A web UI for generating various NGINX configs](https://www.reddit.com/r/devops/comments/uph4r7/a_web_ui_for_generating_various_nginx_configs/) | binaryfor | 21 |
-| [Fellow unemployed SREs/DevOps Engineers, what projects are you working on at the moment to stay busy? How do you keep yourself motivated to learn new things?](https://www.reddit.com/r/devops/comments/upvmwe/fellow_unemployed_sresdevops_engineers_what/) | IndieDiscovery | 6 |
-| [What should I be familiar with before my my internship so i don't look really incompetent](https://www.reddit.com/r/devops/comments/upky9k/what_should_i_be_familiar_with_before_my_my/) | theinfinitefailure | 4 |
-| [What metrics do you measure at your organization?](https://www.reddit.com/r/devops/comments/upmhbj/what_metrics_do_you_measure_at_your_organization/) | deleted_once | 3 |
-| [Cloud guru is it good for hands on lab?](https://www.reddit.com/r/devops/comments/uppztj/cloud_guru_is_it_good_for_hands_on_lab/) | smmarcosm | 2 |
-| [(maven) Help with Spring Version and pom.xml ?](https://www.reddit.com/r/devops/comments/upoxpe/maven_help_with_spring_version_and_pomxml/) | akirakotkata | 2 |
+| [Software Engineer to DevOps Engineer](https://www.reddit.com/r/devops/comments/uqfq8o/software_engineer_to_devops_engineer/) | K4m1No0 | 80 |
+| [How we deploy to production over 100 times a day](https://www.reddit.com/r/devops/comments/uqrwq2/how_we_deploy_to_production_over_100_times_a_day/) | WillSewell | 52 |
+| [devops programming languages / how to further my devops career](https://www.reddit.com/r/devops/comments/uqhtxm/devops_programming_languages_how_to_further_my/) | peacelovecommunity | 14 |
+| [Thoughts on moving from senior management back to an individual contributor? Can this move be done without going "backwards"?](https://www.reddit.com/r/devops/comments/uqgyif/thoughts_on_moving_from_senior_management_back_to/) | ArchtypeZero | 6 |
+| [Those using Nomad over k8s, whats your experience been like?](https://www.reddit.com/r/devops/comments/uqs6jh/those_using_nomad_over_k8s_whats_your_experience/) | BlueHatBrit | 2 |
+| [Parallel Remote Desktop for MacOS](https://www.reddit.com/r/devops/comments/uqsbls/parallel_remote_desktop_for_macos/) | merokotos | 2 |
+| [Implementing Okta Authentication in React](https://www.reddit.com/r/devops/comments/uqrv8m/implementing_okta_authentication_in_react/) | space-falafels | 2 |
+| [What sort of quick wins can I implement in my situation?](https://www.reddit.com/r/devops/comments/uqp9y3/what_sort_of_quick_wins_can_i_implement_in_my/) | Available_Win8008 | 1 |
+| [DevOps Bulletin Newsletter - Issue 51](https://www.reddit.com/r/devops/comments/uqtqos/devops_bulletin_newsletter_issue_51/) | labouardy | 1 |
+| [Why is OpenStack not as popular as aws or azure?](https://www.reddit.com/r/devops/comments/uqgdhp/why_is_openstack_not_as_popular_as_aws_or_azure/) | Budget_Frosting_4567 | 0 |
