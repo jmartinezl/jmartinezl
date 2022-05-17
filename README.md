@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Software Engineer to DevOps Engineer](https://www.reddit.com/r/devops/comments/uqfq8o/software_engineer_to_devops_engineer/) | K4m1No0 | 80 |
-| [How we deploy to production over 100 times a day](https://www.reddit.com/r/devops/comments/uqrwq2/how_we_deploy_to_production_over_100_times_a_day/) | WillSewell | 52 |
-| [devops programming languages / how to further my devops career](https://www.reddit.com/r/devops/comments/uqhtxm/devops_programming_languages_how_to_further_my/) | peacelovecommunity | 14 |
-| [Thoughts on moving from senior management back to an individual contributor? Can this move be done without going "backwards"?](https://www.reddit.com/r/devops/comments/uqgyif/thoughts_on_moving_from_senior_management_back_to/) | ArchtypeZero | 6 |
-| [Those using Nomad over k8s, whats your experience been like?](https://www.reddit.com/r/devops/comments/uqs6jh/those_using_nomad_over_k8s_whats_your_experience/) | BlueHatBrit | 2 |
-| [Parallel Remote Desktop for MacOS](https://www.reddit.com/r/devops/comments/uqsbls/parallel_remote_desktop_for_macos/) | merokotos | 2 |
-| [Implementing Okta Authentication in React](https://www.reddit.com/r/devops/comments/uqrv8m/implementing_okta_authentication_in_react/) | space-falafels | 2 |
-| [What sort of quick wins can I implement in my situation?](https://www.reddit.com/r/devops/comments/uqp9y3/what_sort_of_quick_wins_can_i_implement_in_my/) | Available_Win8008 | 1 |
-| [DevOps Bulletin Newsletter - Issue 51](https://www.reddit.com/r/devops/comments/uqtqos/devops_bulletin_newsletter_issue_51/) | labouardy | 1 |
-| [Why is OpenStack not as popular as aws or azure?](https://www.reddit.com/r/devops/comments/uqgdhp/why_is_openstack_not_as_popular_as_aws_or_azure/) | Budget_Frosting_4567 | 0 |
+| [Expectations from a Principal Software Engineer (DevOps)](https://www.reddit.com/r/devops/comments/ure5x4/expectations_from_a_principal_software_engineer/) | kaizenCoder | 15 |
+| [I'm currently in the process of screening tests for devops bootcamp but I'm afraid it will negatively affect me in the long term](https://www.reddit.com/r/devops/comments/urh7op/im_currently_in_the_process_of_screening_tests/) | Chibachok | 6 |
+| [CloudFront vs Fastly](https://www.reddit.com/r/devops/comments/uqzio0/cloudfront_vs_fastly/) | SUMtimesICode | 6 |
+| [Moving from ops to devops not realistic?](https://www.reddit.com/r/devops/comments/urei8n/moving_from_ops_to_devops_not_realistic/) | LifeIsANightmare2022 | 4 |
+| [Good questions for a "Devops Manager" position](https://www.reddit.com/r/devops/comments/uqvsmt/good_questions_for_a_devops_manager_position/) | jeremypinnc | 4 |
+| [Pinning apt versions in Dockerfile](https://www.reddit.com/r/devops/comments/ur6rjb/pinning_apt_versions_in_dockerfile/) | aliasxneo | 3 |
+| [Devops for a non dev shoP?](https://www.reddit.com/r/devops/comments/urcjz2/devops_for_a_non_dev_shop/) | nerdyviking88 | 3 |
+| [suggestions for someone who wants to get into devops](https://www.reddit.com/r/devops/comments/uqyhq1/suggestions_for_someone_who_wants_to_get_into/) | Public-Violinist41 | 2 |
+| [Suggestions on how to restrict permissions for users SSH'd via a bastion host](https://www.reddit.com/r/devops/comments/uqzapr/suggestions_on_how_to_restrict_permissions_for/) | Dangerous_EndUser | 2 |
+| [Monitoring 1m+ metrics /s pull or push based?](https://www.reddit.com/r/devops/comments/uqw92l/monitoring_1m_metrics_s_pull_or_push_based/) | vazma | 2 |
