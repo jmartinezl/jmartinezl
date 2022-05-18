@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Expectations from a Principal Software Engineer (DevOps)](https://www.reddit.com/r/devops/comments/ure5x4/expectations_from_a_principal_software_engineer/) | kaizenCoder | 15 |
-| [I'm currently in the process of screening tests for devops bootcamp but I'm afraid it will negatively affect me in the long term](https://www.reddit.com/r/devops/comments/urh7op/im_currently_in_the_process_of_screening_tests/) | Chibachok | 6 |
-| [CloudFront vs Fastly](https://www.reddit.com/r/devops/comments/uqzio0/cloudfront_vs_fastly/) | SUMtimesICode | 6 |
-| [Moving from ops to devops not realistic?](https://www.reddit.com/r/devops/comments/urei8n/moving_from_ops_to_devops_not_realistic/) | LifeIsANightmare2022 | 4 |
-| [Good questions for a "Devops Manager" position](https://www.reddit.com/r/devops/comments/uqvsmt/good_questions_for_a_devops_manager_position/) | jeremypinnc | 4 |
-| [Pinning apt versions in Dockerfile](https://www.reddit.com/r/devops/comments/ur6rjb/pinning_apt_versions_in_dockerfile/) | aliasxneo | 3 |
-| [Devops for a non dev shoP?](https://www.reddit.com/r/devops/comments/urcjz2/devops_for_a_non_dev_shop/) | nerdyviking88 | 3 |
-| [suggestions for someone who wants to get into devops](https://www.reddit.com/r/devops/comments/uqyhq1/suggestions_for_someone_who_wants_to_get_into/) | Public-Violinist41 | 2 |
-| [Suggestions on how to restrict permissions for users SSH'd via a bastion host](https://www.reddit.com/r/devops/comments/uqzapr/suggestions_on_how_to_restrict_permissions_for/) | Dangerous_EndUser | 2 |
-| [Monitoring 1m+ metrics /s pull or push based?](https://www.reddit.com/r/devops/comments/uqw92l/monitoring_1m_metrics_s_pull_or_push_based/) | vazma | 2 |
+| [What are some really good courses for Docker &amp; Kubernetes?](https://www.reddit.com/r/devops/comments/urlc3e/what_are_some_really_good_courses_for_docker/) | ThatMuslimGamer | 129 |
+| [Larry Ellison on cloud computing - has this aged well?](https://www.reddit.com/r/devops/comments/urw2yk/larry_ellison_on_cloud_computing_has_this_aged/) | nullpackets | 43 |
+| [Automate All the Boring Kubernetes Operations with Python](https://www.reddit.com/r/devops/comments/us72zr/automate_all_the_boring_kubernetes_operations/) | Am4t3uR | 28 |
+| [Install a PowerShell module in an Azure Pipeline](https://www.reddit.com/r/devops/comments/urqsoe/install_a_powershell_module_in_an_azure_pipeline/) | badg35 | 8 |
+| [Another riveting topic: Vulnerability Management](https://www.reddit.com/r/devops/comments/urri3m/another_riveting_topic_vulnerability_management/) | BuildingDevOps | 8 |
+| [What are some cons of using CDK to create a small part of the platform that is currently deployed by Terraform?](https://www.reddit.com/r/devops/comments/urvr4h/what_are_some_cons_of_using_cdk_to_create_a_small/) | anisha260599 | 5 |
+| [Lessons Learned Using Vault As A Secret Store](https://www.reddit.com/r/devops/comments/usb0ys/lessons_learned_using_vault_as_a_secret_store/) | undercomm | 4 |
+| [Operators in GitOps environment](https://www.reddit.com/r/devops/comments/us873l/operators_in_gitops_environment/) | flamingo_as_service | 2 |
+| [Test Data Management](https://www.reddit.com/r/devops/comments/urvf48/test_data_management/) | shoanimal | 1 |
+| [My guide to upgrading EKS to version 1.22 - Beware of Removed APIs - this version is dangerous!](https://www.reddit.com/r/devops/comments/uruk3n/my_guide_to_upgrading_eks_to_version_122_beware/) | Shimon_Tolts | 1 |
