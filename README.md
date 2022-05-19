@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What are some really good courses for Docker &amp; Kubernetes?](https://www.reddit.com/r/devops/comments/urlc3e/what_are_some_really_good_courses_for_docker/) | ThatMuslimGamer | 129 |
-| [Larry Ellison on cloud computing - has this aged well?](https://www.reddit.com/r/devops/comments/urw2yk/larry_ellison_on_cloud_computing_has_this_aged/) | nullpackets | 43 |
-| [Automate All the Boring Kubernetes Operations with Python](https://www.reddit.com/r/devops/comments/us72zr/automate_all_the_boring_kubernetes_operations/) | Am4t3uR | 28 |
-| [Install a PowerShell module in an Azure Pipeline](https://www.reddit.com/r/devops/comments/urqsoe/install_a_powershell_module_in_an_azure_pipeline/) | badg35 | 8 |
-| [Another riveting topic: Vulnerability Management](https://www.reddit.com/r/devops/comments/urri3m/another_riveting_topic_vulnerability_management/) | BuildingDevOps | 8 |
-| [What are some cons of using CDK to create a small part of the platform that is currently deployed by Terraform?](https://www.reddit.com/r/devops/comments/urvr4h/what_are_some_cons_of_using_cdk_to_create_a_small/) | anisha260599 | 5 |
-| [Lessons Learned Using Vault As A Secret Store](https://www.reddit.com/r/devops/comments/usb0ys/lessons_learned_using_vault_as_a_secret_store/) | undercomm | 4 |
-| [Operators in GitOps environment](https://www.reddit.com/r/devops/comments/us873l/operators_in_gitops_environment/) | flamingo_as_service | 2 |
-| [Test Data Management](https://www.reddit.com/r/devops/comments/urvf48/test_data_management/) | shoanimal | 1 |
-| [My guide to upgrading EKS to version 1.22 - Beware of Removed APIs - this version is dangerous!](https://www.reddit.com/r/devops/comments/uruk3n/my_guide_to_upgrading_eks_to_version_122_beware/) | Shimon_Tolts | 1 |
+| [What makes a good DevOps manager?](https://www.reddit.com/r/devops/comments/ustzqj/what_makes_a_good_devops_manager/) | jk_can_132 | 55 |
+| [do you read devops news?](https://www.reddit.com/r/devops/comments/usje9o/do_you_read_devops_news/) | TechPRIsLife | 11 |
+| [What sites do you use when searching for high quality devops or SRE roles?](https://www.reddit.com/r/devops/comments/usqzkx/what_sites_do_you_use_when_searching_for_high/) | Marquis77 | 11 |
+| [About to give up on GitLab (ACL). Any advice appreciated](https://www.reddit.com/r/devops/comments/usf09a/about_to_give_up_on_gitlab_acl_any_advice/) | InterestingMotives | 7 |
+| [What “soft” skills do you recommend for a newbie.](https://www.reddit.com/r/devops/comments/usn6te/what_soft_skills_do_you_recommend_for_a_newbie/) | polarpam | 5 |
+| [Azure Devops Dashboard for pipeline](https://www.reddit.com/r/devops/comments/usvaap/azure_devops_dashboard_for_pipeline/) | Ughdontlookatmyname | 3 |
+| [What's running in your clusters and are those apps secure?](https://www.reddit.com/r/devops/comments/usgzea/whats_running_in_your_clusters_and_are_those_apps/) | dvank2018 | 1 |
+| [Tetragon: eBPF-Based Security Observability and Runtime Enforcement](https://www.reddit.com/r/devops/comments/usogdo/tetragon_ebpfbased_security_observability_and/) | binaryfor | 1 |
+| [How to search for text in pull requests?](https://www.reddit.com/r/devops/comments/ut032m/how_to_search_for_text_in_pull_requests/) | Scharnvirk | 1 |
+| [Have you ever automated a business unit to oblivion?](https://www.reddit.com/r/devops/comments/usxiwq/have_you_ever_automated_a_business_unit_to/) | placebo_x | 1 |
