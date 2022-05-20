@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What makes a good DevOps manager?](https://www.reddit.com/r/devops/comments/ustzqj/what_makes_a_good_devops_manager/) | jk_can_132 | 55 |
-| [do you read devops news?](https://www.reddit.com/r/devops/comments/usje9o/do_you_read_devops_news/) | TechPRIsLife | 11 |
-| [What sites do you use when searching for high quality devops or SRE roles?](https://www.reddit.com/r/devops/comments/usqzkx/what_sites_do_you_use_when_searching_for_high/) | Marquis77 | 11 |
-| [About to give up on GitLab (ACL). Any advice appreciated](https://www.reddit.com/r/devops/comments/usf09a/about_to_give_up_on_gitlab_acl_any_advice/) | InterestingMotives | 7 |
-| [What “soft” skills do you recommend for a newbie.](https://www.reddit.com/r/devops/comments/usn6te/what_soft_skills_do_you_recommend_for_a_newbie/) | polarpam | 5 |
-| [Azure Devops Dashboard for pipeline](https://www.reddit.com/r/devops/comments/usvaap/azure_devops_dashboard_for_pipeline/) | Ughdontlookatmyname | 3 |
-| [What's running in your clusters and are those apps secure?](https://www.reddit.com/r/devops/comments/usgzea/whats_running_in_your_clusters_and_are_those_apps/) | dvank2018 | 1 |
-| [Tetragon: eBPF-Based Security Observability and Runtime Enforcement](https://www.reddit.com/r/devops/comments/usogdo/tetragon_ebpfbased_security_observability_and/) | binaryfor | 1 |
-| [How to search for text in pull requests?](https://www.reddit.com/r/devops/comments/ut032m/how_to_search_for_text_in_pull_requests/) | Scharnvirk | 1 |
-| [Have you ever automated a business unit to oblivion?](https://www.reddit.com/r/devops/comments/usxiwq/have_you_ever_automated_a_business_unit_to/) | placebo_x | 1 |
+| [Devops more ops then dev?](https://www.reddit.com/r/devops/comments/ut3kgu/devops_more_ops_then_dev/) | poepstinktvies | 183 |
+| [How do you document CI/CD: containers, pipelines, toolchains, etc?](https://www.reddit.com/r/devops/comments/ut397y/how_do_you_document_cicd_containers_pipelines/) | ozeta86 | 49 |
+| [Why is DevOps under-paid in London?](https://www.reddit.com/r/devops/comments/utejtr/why_is_devops_underpaid_in_london/) | hsvcuresoon | 6 |
+| [Does anyone ever attended DevOps Days?](https://www.reddit.com/r/devops/comments/utb6pn/does_anyone_ever_attended_devops_days/) | grmpf101 | 6 |
+| [Calculating supply chain risk, math question](https://www.reddit.com/r/devops/comments/utcuwb/calculating_supply_chain_risk_math_question/) | -lousyd | 5 |
+| [Better Language for Pulumi?](https://www.reddit.com/r/devops/comments/utl0oh/better_language_for_pulumi/) | a_a_ronc | 5 |
+| [What’s Happening at KubeCon + CloudNativeCon Europe 2022: Day 1](https://www.reddit.com/r/devops/comments/uti8pk/whats_happening_at_kubecon_cloudnativecon_europe/) | CiscoDevNet | 4 |
+| [How to self-service portal for developers?](https://www.reddit.com/r/devops/comments/utbmfk/how_to_selfservice_portal_for_developers/) | Gerritio | 4 |
+| [What are some easy and reliable ways you take backup of your db?](https://www.reddit.com/r/devops/comments/ut89ta/what_are_some_easy_and_reliable_ways_you_take/) | Datadevourer | 3 |
+| [Is Terraform the right tool for serverless?](https://www.reddit.com/r/devops/comments/ut4mkk/is_terraform_the_right_tool_for_serverless/) | shellwhale | 2 |
