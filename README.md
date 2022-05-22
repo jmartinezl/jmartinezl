@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [is 90DaysOfDevOps good for learning?](https://www.reddit.com/r/devops/comments/uttp4m/is_90daysofdevops_good_for_learning/) | Complex-Mongoose1123 | 143 |
-| [Should your Infrastructure as Code get its own repository?](https://www.reddit.com/r/devops/comments/uu1tcp/should_your_infrastructure_as_code_get_its_own/) | Mr_LA | 68 |
-| [Jailer: A tool for database subsetting, schema and data browsing](https://www.reddit.com/r/devops/comments/uuhtsn/jailer_a_tool_for_database_subsetting_schema_and/) | Apprehensive-Fix-996 | 23 |
-| [Time and Task management at work](https://www.reddit.com/r/devops/comments/uu415b/time_and_task_management_at_work/) | tall_and_funny | 12 |
-| [mkincl - A simple way to reuse Makefiles and scripts across multiple repositories](https://www.reddit.com/r/devops/comments/utyns3/mkincl_a_simple_way_to_reuse_makefiles_and/) | ItsMeadow | 9 |
-| [Possible to sync AWS with Artifactory?](https://www.reddit.com/r/devops/comments/uufu54/possible_to_sync_aws_with_artifactory/) | noBunkystuffLebowski | 3 |
-| [Average Mid Devops Pay?](https://www.reddit.com/r/devops/comments/uuchd2/average_mid_devops_pay/) | Quit_Later | 3 |
-| [Simple bash debugger using trap DEBUG](https://www.reddit.com/r/devops/comments/uulkby/simple_bash_debugger_using_trap_debug/) | selivan5 | 2 |
-| [5 steps to lose your AWS account](https://www.reddit.com/r/devops/comments/utwnzq/5_steps_to_lose_your_aws_account/) | ultralisc | 2 |
-| [Popularity of serverless](https://www.reddit.com/r/devops/comments/uu44zl/popularity_of_serverless/) | bubbling_under | 1 |
+| [Can I work in DevOps without a college degree?](https://www.reddit.com/r/devops/comments/uuotzz/can_i_work_in_devops_without_a_college_degree/) | estarabim94 | 91 |
+| [Should I apply for techOps engineer position?](https://www.reddit.com/r/devops/comments/uv3j31/should_i_apply_for_techops_engineer_position/) | coldJambalaya | 17 |
+| [Folders to manage Terraform Environments?](https://www.reddit.com/r/devops/comments/uuvh14/folders_to_manage_terraform_environments/) | eponymouswombat | 17 |
+| [Good site to learn about Networks "for devops"?](https://www.reddit.com/r/devops/comments/uv7ds9/good_site_to_learn_about_networks_for_devops/) | Complex-Mongoose1123 | 10 |
+| [Does it make sense to consider consultancy / working for a MSP?](https://www.reddit.com/r/devops/comments/uv3ysb/does_it_make_sense_to_consider_consultancy/) | marvdl93 | 8 |
+| [Best configuration management tool for Windows hosts?](https://www.reddit.com/r/devops/comments/uunkwn/best_configuration_management_tool_for_windows/) | doublefelix7 | 4 |
+| [Makefile to manage containers ?](https://www.reddit.com/r/devops/comments/uuraqg/makefile_to_manage_containers/) | nonFungibleHuman | 3 |
+| [Using bash to compare commits](https://www.reddit.com/r/devops/comments/uv026t/using_bash_to_compare_commits/) | lilamar31 | 2 |
+| [When does a DevOps engineer earn more than SDE/SWE roles with same experience?](https://www.reddit.com/r/devops/comments/uur69j/when_does_a_devops_engineer_earn_more_than_sdeswe/) | KINGSLAYER2789 | 1 |
+| [Does DevOps tooling make sense in a company or organization with few or no devs?](https://www.reddit.com/r/devops/comments/uuum00/does_devops_tooling_make_sense_in_a_company_or/) | LifeIsANightmare2022 | 1 |
