@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Can I work in DevOps without a college degree?](https://www.reddit.com/r/devops/comments/uuotzz/can_i_work_in_devops_without_a_college_degree/) | estarabim94 | 91 |
-| [Should I apply for techOps engineer position?](https://www.reddit.com/r/devops/comments/uv3j31/should_i_apply_for_techops_engineer_position/) | coldJambalaya | 17 |
-| [Folders to manage Terraform Environments?](https://www.reddit.com/r/devops/comments/uuvh14/folders_to_manage_terraform_environments/) | eponymouswombat | 17 |
-| [Good site to learn about Networks "for devops"?](https://www.reddit.com/r/devops/comments/uv7ds9/good_site_to_learn_about_networks_for_devops/) | Complex-Mongoose1123 | 10 |
-| [Does it make sense to consider consultancy / working for a MSP?](https://www.reddit.com/r/devops/comments/uv3ysb/does_it_make_sense_to_consider_consultancy/) | marvdl93 | 8 |
-| [Best configuration management tool for Windows hosts?](https://www.reddit.com/r/devops/comments/uunkwn/best_configuration_management_tool_for_windows/) | doublefelix7 | 4 |
-| [Makefile to manage containers ?](https://www.reddit.com/r/devops/comments/uuraqg/makefile_to_manage_containers/) | nonFungibleHuman | 3 |
-| [Using bash to compare commits](https://www.reddit.com/r/devops/comments/uv026t/using_bash_to_compare_commits/) | lilamar31 | 2 |
-| [When does a DevOps engineer earn more than SDE/SWE roles with same experience?](https://www.reddit.com/r/devops/comments/uur69j/when_does_a_devops_engineer_earn_more_than_sdeswe/) | KINGSLAYER2789 | 1 |
-| [Does DevOps tooling make sense in a company or organization with few or no devs?](https://www.reddit.com/r/devops/comments/uuum00/does_devops_tooling_make_sense_in_a_company_or/) | LifeIsANightmare2022 | 1 |
+| [Quick update](https://www.reddit.com/r/devops/comments/uvjfbd/quick_update/) | muchasxmaracas | 110 |
+| [Experience of non-programmers who made it into devops](https://www.reddit.com/r/devops/comments/uvfrmi/experience_of_nonprogrammers_who_made_it_into/) | sec_admin | 43 |
+| [Does anyone use a purpose built tool for executing and tracking AMI baking?](https://www.reddit.com/r/devops/comments/uvgba5/does_anyone_use_a_purpose_built_tool_for/) | BuildingDevOps | 5 |
+| [Can I interview you for a school project? (15 minutes maximum, text only)](https://www.reddit.com/r/devops/comments/uvp161/can_i_interview_you_for_a_school_project_15/) | BarackObama33 | 5 |
+| [What should I prepare for an Interview for a Operations engineer position?](https://www.reddit.com/r/devops/comments/uvf2we/what_should_i_prepare_for_an_interview_for_a/) | Shan_Marsh_Bubashan | 1 |
+| [Need help in AND/OR true false in terraform](https://www.reddit.com/r/devops/comments/uvu6dc/need_help_in_andor_true_false_in_terraform/) | Destroychan | 1 |
+| [Looking For DevOps Study Material](https://www.reddit.com/r/devops/comments/uva4mb/looking_for_devops_study_material/) | wewakeparmar | 1 |
+| [Deploying PHP app on Azure](https://www.reddit.com/r/devops/comments/uvubvd/deploying_php_app_on_azure/) | Herowar | 1 |
+| [App components migration to AWS, using Jenkins pipeline](https://www.reddit.com/r/devops/comments/uvmrmh/app_components_migration_to_aws_using_jenkins/) | abhisheks77 | 1 |
+| [Am I pigeonholing myself by just going deep into cloud services?](https://www.reddit.com/r/devops/comments/uvui89/am_i_pigeonholing_myself_by_just_going_deep_into/) | bubbling_under | 1 |
