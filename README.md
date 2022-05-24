@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Quick update](https://www.reddit.com/r/devops/comments/uvjfbd/quick_update/) | muchasxmaracas | 110 |
-| [Experience of non-programmers who made it into devops](https://www.reddit.com/r/devops/comments/uvfrmi/experience_of_nonprogrammers_who_made_it_into/) | sec_admin | 43 |
-| [Does anyone use a purpose built tool for executing and tracking AMI baking?](https://www.reddit.com/r/devops/comments/uvgba5/does_anyone_use_a_purpose_built_tool_for/) | BuildingDevOps | 5 |
-| [Can I interview you for a school project? (15 minutes maximum, text only)](https://www.reddit.com/r/devops/comments/uvp161/can_i_interview_you_for_a_school_project_15/) | BarackObama33 | 5 |
-| [What should I prepare for an Interview for a Operations engineer position?](https://www.reddit.com/r/devops/comments/uvf2we/what_should_i_prepare_for_an_interview_for_a/) | Shan_Marsh_Bubashan | 1 |
-| [Need help in AND/OR true false in terraform](https://www.reddit.com/r/devops/comments/uvu6dc/need_help_in_andor_true_false_in_terraform/) | Destroychan | 1 |
-| [Looking For DevOps Study Material](https://www.reddit.com/r/devops/comments/uva4mb/looking_for_devops_study_material/) | wewakeparmar | 1 |
-| [Deploying PHP app on Azure](https://www.reddit.com/r/devops/comments/uvubvd/deploying_php_app_on_azure/) | Herowar | 1 |
-| [App components migration to AWS, using Jenkins pipeline](https://www.reddit.com/r/devops/comments/uvmrmh/app_components_migration_to_aws_using_jenkins/) | abhisheks77 | 1 |
-| [Am I pigeonholing myself by just going deep into cloud services?](https://www.reddit.com/r/devops/comments/uvui89/am_i_pigeonholing_myself_by_just_going_deep_into/) | bubbling_under | 1 |
+| [Looking for new relic alternatives](https://www.reddit.com/r/devops/comments/uw2zlg/looking_for_new_relic_alternatives/) | hugthemachines | 52 |
+| [Am I being set up for failure?](https://www.reddit.com/r/devops/comments/uw724p/am_i_being_set_up_for_failure/) | devops_ta_ta | 19 |
+| [What are your thoughts on Cisco as a company in 2022?](https://www.reddit.com/r/devops/comments/uwk3ip/what_are_your_thoughts_on_cisco_as_a_company_in/) | IndieDiscovery | 18 |
+| [Infra mapping](https://www.reddit.com/r/devops/comments/uw1ubm/infra_mapping/) | shiiqalka | 13 |
+| [Help me review if this workflow is possible](https://www.reddit.com/r/devops/comments/uw4eli/help_me_review_if_this_workflow_is_possible/) | sock_templar | 10 |
+| [Looking for multi-cloud monitoring tool](https://www.reddit.com/r/devops/comments/uwa33j/looking_for_multicloud_monitoring_tool/) | jagannn | 7 |
+| [How does one "moonlight" in this field or do incremental consulting?](https://www.reddit.com/r/devops/comments/uvyqsg/how_does_one_moonlight_in_this_field_or_do/) | combuchan | 4 |
+| [Unable to create cluster :Ensure the secret being sent in the request is the client secret value](https://www.reddit.com/r/devops/comments/uwmbjd/unable_to_create_cluster_ensure_the_secret_being/) | Primary-Pace5228 | 3 |
+| [Get the pushId in release pipeline](https://www.reddit.com/r/devops/comments/uw8nmn/get_the_pushid_in_release_pipeline/) | badg35 | 3 |
+| [What cloud provider do you enjoy most working with?](https://www.reddit.com/r/devops/comments/uwn7lg/what_cloud_provider_do_you_enjoy_most_working_with/) | FearlessAnt | 2 |
