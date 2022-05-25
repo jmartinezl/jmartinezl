@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Looking for new relic alternatives](https://www.reddit.com/r/devops/comments/uw2zlg/looking_for_new_relic_alternatives/) | hugthemachines | 52 |
-| [Am I being set up for failure?](https://www.reddit.com/r/devops/comments/uw724p/am_i_being_set_up_for_failure/) | devops_ta_ta | 19 |
-| [What are your thoughts on Cisco as a company in 2022?](https://www.reddit.com/r/devops/comments/uwk3ip/what_are_your_thoughts_on_cisco_as_a_company_in/) | IndieDiscovery | 18 |
-| [Infra mapping](https://www.reddit.com/r/devops/comments/uw1ubm/infra_mapping/) | shiiqalka | 13 |
-| [Help me review if this workflow is possible](https://www.reddit.com/r/devops/comments/uw4eli/help_me_review_if_this_workflow_is_possible/) | sock_templar | 10 |
-| [Looking for multi-cloud monitoring tool](https://www.reddit.com/r/devops/comments/uwa33j/looking_for_multicloud_monitoring_tool/) | jagannn | 7 |
-| [How does one "moonlight" in this field or do incremental consulting?](https://www.reddit.com/r/devops/comments/uvyqsg/how_does_one_moonlight_in_this_field_or_do/) | combuchan | 4 |
-| [Unable to create cluster :Ensure the secret being sent in the request is the client secret value](https://www.reddit.com/r/devops/comments/uwmbjd/unable_to_create_cluster_ensure_the_secret_being/) | Primary-Pace5228 | 3 |
-| [Get the pushId in release pipeline](https://www.reddit.com/r/devops/comments/uw8nmn/get_the_pushid_in_release_pipeline/) | badg35 | 3 |
-| [What cloud provider do you enjoy most working with?](https://www.reddit.com/r/devops/comments/uwn7lg/what_cloud_provider_do_you_enjoy_most_working_with/) | FearlessAnt | 2 |
+| [Alternative to Datadog?](https://www.reddit.com/r/devops/comments/uwv5zg/alternative_to_datadog/) | sbmsr | 99 |
+| [Do you write templates and pipelines?](https://www.reddit.com/r/devops/comments/uxdthj/do_you_write_templates_and_pipelines/) | rubberDonkey20 | 11 |
+| [Flutter builds are way faster with M1 machines: A comparison of VMs](https://www.reddit.com/r/devops/comments/uxbq0m/flutter_builds_are_way_faster_with_m1_machines_a/) | Character-Flatworm49 | 6 |
+| [Devops engineer vs Site Reliability engineer vs Systems engineer, what are the differences?](https://www.reddit.com/r/devops/comments/ux6fkv/devops_engineer_vs_site_reliability_engineer_vs/) | coffeebrah392 | 6 |
+| [Jenkinsfile shared library - refactor duplicate code](https://www.reddit.com/r/devops/comments/ux06gv/jenkinsfile_shared_library_refactor_duplicate_code/) | stirezxq | 5 |
+| [How do you setup personal Windows workstation for SysOps/DevOps? (Moving from Linux) What about Ansible?](https://www.reddit.com/r/devops/comments/uwwin8/how_do_you_setup_personal_windows_workstation_for/) | Crytexx | 5 |
+| [Does Airflow have a place in DevOps stack?](https://www.reddit.com/r/devops/comments/ux7q8c/does_airflow_have_a_place_in_devops_stack/) | AMGraduate564 | 4 |
+| [New to DevOps - Kompose to Deployment Manifest generates too many files](https://www.reddit.com/r/devops/comments/uwzhyl/new_to_devops_kompose_to_deployment_manifest/) | Georgehwp | 3 |
+| [What sort of tools sre often deployed in NetDevOps?](https://www.reddit.com/r/devops/comments/uwraq8/what_sort_of_tools_sre_often_deployed_in_netdevops/) | Lemon-Brain-25 | 2 |
+| [.cn Domains/Hosting in China](https://www.reddit.com/r/devops/comments/ux1v4u/cn_domainshosting_in_china/) | muchasxmaracas | 2 |
