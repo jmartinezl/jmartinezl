@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Alternative to Datadog?](https://www.reddit.com/r/devops/comments/uwv5zg/alternative_to_datadog/) | sbmsr | 99 |
-| [Do you write templates and pipelines?](https://www.reddit.com/r/devops/comments/uxdthj/do_you_write_templates_and_pipelines/) | rubberDonkey20 | 11 |
-| [Flutter builds are way faster with M1 machines: A comparison of VMs](https://www.reddit.com/r/devops/comments/uxbq0m/flutter_builds_are_way_faster_with_m1_machines_a/) | Character-Flatworm49 | 6 |
-| [Devops engineer vs Site Reliability engineer vs Systems engineer, what are the differences?](https://www.reddit.com/r/devops/comments/ux6fkv/devops_engineer_vs_site_reliability_engineer_vs/) | coffeebrah392 | 6 |
-| [Jenkinsfile shared library - refactor duplicate code](https://www.reddit.com/r/devops/comments/ux06gv/jenkinsfile_shared_library_refactor_duplicate_code/) | stirezxq | 5 |
-| [How do you setup personal Windows workstation for SysOps/DevOps? (Moving from Linux) What about Ansible?](https://www.reddit.com/r/devops/comments/uwwin8/how_do_you_setup_personal_windows_workstation_for/) | Crytexx | 5 |
-| [Does Airflow have a place in DevOps stack?](https://www.reddit.com/r/devops/comments/ux7q8c/does_airflow_have_a_place_in_devops_stack/) | AMGraduate564 | 4 |
-| [New to DevOps - Kompose to Deployment Manifest generates too many files](https://www.reddit.com/r/devops/comments/uwzhyl/new_to_devops_kompose_to_deployment_manifest/) | Georgehwp | 3 |
-| [What sort of tools sre often deployed in NetDevOps?](https://www.reddit.com/r/devops/comments/uwraq8/what_sort_of_tools_sre_often_deployed_in_netdevops/) | Lemon-Brain-25 | 2 |
-| [.cn Domains/Hosting in China](https://www.reddit.com/r/devops/comments/ux1v4u/cn_domainshosting_in_china/) | muchasxmaracas | 2 |
+| [Don't open holes in the firewall to use Prometheus. Use a zero trust overlay network and keep your firewalls closed](https://www.reddit.com/r/devops/comments/uxwup9/dont_open_holes_in_the_firewall_to_use_prometheus/) | dovholuknf | 87 |
+| [What's the best cloud provider for me to mess around in and learn k8s without accidentally getting charged a lot of dollar?](https://www.reddit.com/r/devops/comments/uxokyc/whats_the_best_cloud_provider_for_me_to_mess/) | Georgehwp | 53 |
+| [The Revolution DevOps model](https://www.reddit.com/r/devops/comments/uxl0n3/the_revolution_devops_model/) | mooreds | 51 |
+| [What’s your go to k8s setup?](https://www.reddit.com/r/devops/comments/uxvnol/whats_your_go_to_k8s_setup/) | Soccham | 14 |
+| [How are you solving for SSH Host-key verfication, at scale, and with constantly changing infrastructure?](https://www.reddit.com/r/devops/comments/uy25py/how_are_you_solving_for_ssh_hostkey_verfication/) | Photo-Josh | 11 |
+| [What's a good strategy for git deployments?](https://www.reddit.com/r/devops/comments/uxq9mc/whats_a_good_strategy_for_git_deployments/) | jQueryBoi | 6 |
+| [Need an answer for this question I was asked during the interview](https://www.reddit.com/r/devops/comments/uxkkst/need_an_answer_for_this_question_i_was_asked/) | Excellent-Hour6606 | 4 |
+| [sysbench CPU test on a machine with N cores](https://www.reddit.com/r/devops/comments/uy3q65/sysbench_cpu_test_on_a_machine_with_n_cores/) | ThenBanana | 2 |
+| [Help with some CI/CD basics for creating a dev environment and using Jenkins](https://www.reddit.com/r/devops/comments/uxm9u8/help_with_some_cicd_basics_for_creating_a_dev/) | SigmaSixShooter | 2 |
+| [New Browser | Programming Browser](https://www.reddit.com/r/devops/comments/uy1tja/new_browser_programming_browser/) | Zestyclose_Fig_3805 | 1 |
