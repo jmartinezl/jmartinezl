@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Don't open holes in the firewall to use Prometheus. Use a zero trust overlay network and keep your firewalls closed](https://www.reddit.com/r/devops/comments/uxwup9/dont_open_holes_in_the_firewall_to_use_prometheus/) | dovholuknf | 87 |
-| [What's the best cloud provider for me to mess around in and learn k8s without accidentally getting charged a lot of dollar?](https://www.reddit.com/r/devops/comments/uxokyc/whats_the_best_cloud_provider_for_me_to_mess/) | Georgehwp | 53 |
-| [The Revolution DevOps model](https://www.reddit.com/r/devops/comments/uxl0n3/the_revolution_devops_model/) | mooreds | 51 |
-| [What’s your go to k8s setup?](https://www.reddit.com/r/devops/comments/uxvnol/whats_your_go_to_k8s_setup/) | Soccham | 14 |
-| [How are you solving for SSH Host-key verfication, at scale, and with constantly changing infrastructure?](https://www.reddit.com/r/devops/comments/uy25py/how_are_you_solving_for_ssh_hostkey_verfication/) | Photo-Josh | 11 |
-| [What's a good strategy for git deployments?](https://www.reddit.com/r/devops/comments/uxq9mc/whats_a_good_strategy_for_git_deployments/) | jQueryBoi | 6 |
-| [Need an answer for this question I was asked during the interview](https://www.reddit.com/r/devops/comments/uxkkst/need_an_answer_for_this_question_i_was_asked/) | Excellent-Hour6606 | 4 |
-| [sysbench CPU test on a machine with N cores](https://www.reddit.com/r/devops/comments/uy3q65/sysbench_cpu_test_on_a_machine_with_n_cores/) | ThenBanana | 2 |
-| [Help with some CI/CD basics for creating a dev environment and using Jenkins](https://www.reddit.com/r/devops/comments/uxm9u8/help_with_some_cicd_basics_for_creating_a_dev/) | SigmaSixShooter | 2 |
-| [New Browser | Programming Browser](https://www.reddit.com/r/devops/comments/uy1tja/new_browser_programming_browser/) | Zestyclose_Fig_3805 | 1 |
+| [Kubernetes The IaC Way - Or how to install Kubernetes The Hard Way in one command using Infrastructure as Code](https://www.reddit.com/r/devops/comments/uy74lz/kubernetes_the_iac_way_or_how_to_install/) | HisoDB | 153 |
+| [Am I naive](https://www.reddit.com/r/devops/comments/uyi4pl/am_i_naive/) | multeyestate | 46 |
+| [Returnship devops jobs for Female Engineers](https://www.reddit.com/r/devops/comments/uykpy3/returnship_devops_jobs_for_female_engineers/) | Alternative-Many7437 | 18 |
+| [What do you do when it doesn’t work at all?](https://www.reddit.com/r/devops/comments/uydzti/what_do_you_do_when_it_doesnt_work_at_all/) | ishantpratapsingh | 12 |
+| [logs, logs, logs, logs... what to do with em: that is the real question.](https://www.reddit.com/r/devops/comments/uyhlqz/logs_logs_logs_logs_what_to_do_with_em_that_is/) | asking_for_a_friend0 | 10 |
+| [Monorepo for unrelated services, or setting up micro services for each?](https://www.reddit.com/r/devops/comments/uyk4dk/monorepo_for_unrelated_services_or_setting_up/) | MyGiftIsMySong | 8 |
+| [How to update environment variables automatically?](https://www.reddit.com/r/devops/comments/uym2fm/how_to_update_environment_variables_automatically/) | idk108 | 8 |
+| [Software Engineers who switched to Devops/SRE or vice versa, what is your story?](https://www.reddit.com/r/devops/comments/uya5kk/software_engineers_who_switched_to_devopssre_or/) | coffeebrah392 | 7 |
+| [Terraform during the interview process?](https://www.reddit.com/r/devops/comments/uyh7aw/terraform_during_the_interview_process/) | emcniece | 6 |
+| [State of the dev tools stack 2022](https://www.reddit.com/r/devops/comments/uyih6g/state_of_the_dev_tools_stack_2022/) | doppleware | 4 |
