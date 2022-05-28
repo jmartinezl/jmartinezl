@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Kubernetes The IaC Way - Or how to install Kubernetes The Hard Way in one command using Infrastructure as Code](https://www.reddit.com/r/devops/comments/uy74lz/kubernetes_the_iac_way_or_how_to_install/) | HisoDB | 153 |
-| [Am I naive](https://www.reddit.com/r/devops/comments/uyi4pl/am_i_naive/) | multeyestate | 46 |
-| [Returnship devops jobs for Female Engineers](https://www.reddit.com/r/devops/comments/uykpy3/returnship_devops_jobs_for_female_engineers/) | Alternative-Many7437 | 18 |
-| [What do you do when it doesn’t work at all?](https://www.reddit.com/r/devops/comments/uydzti/what_do_you_do_when_it_doesnt_work_at_all/) | ishantpratapsingh | 12 |
-| [logs, logs, logs, logs... what to do with em: that is the real question.](https://www.reddit.com/r/devops/comments/uyhlqz/logs_logs_logs_logs_what_to_do_with_em_that_is/) | asking_for_a_friend0 | 10 |
-| [Monorepo for unrelated services, or setting up micro services for each?](https://www.reddit.com/r/devops/comments/uyk4dk/monorepo_for_unrelated_services_or_setting_up/) | MyGiftIsMySong | 8 |
-| [How to update environment variables automatically?](https://www.reddit.com/r/devops/comments/uym2fm/how_to_update_environment_variables_automatically/) | idk108 | 8 |
-| [Software Engineers who switched to Devops/SRE or vice versa, what is your story?](https://www.reddit.com/r/devops/comments/uya5kk/software_engineers_who_switched_to_devopssre_or/) | coffeebrah392 | 7 |
-| [Terraform during the interview process?](https://www.reddit.com/r/devops/comments/uyh7aw/terraform_during_the_interview_process/) | emcniece | 6 |
-| [State of the dev tools stack 2022](https://www.reddit.com/r/devops/comments/uyih6g/state_of_the_dev_tools_stack_2022/) | doppleware | 4 |
+| [Need advice on becoming a DevOps Engineer.](https://www.reddit.com/r/devops/comments/uyytta/need_advice_on_becoming_a_devops_engineer/) | purplepyramid7 | 66 |
+| [Managing CI/CD for k8s environments and apps](https://www.reddit.com/r/devops/comments/uyx2rl/managing_cicd_for_k8s_environments_and_apps/) | unknownmoss | 33 |
+| [On-call questions](https://www.reddit.com/r/devops/comments/uzb2bj/oncall_questions/) | d4vid1 | 25 |
+| [Opinions on Different Error Monitoring Systems](https://www.reddit.com/r/devops/comments/uzdcvz/opinions_on_different_error_monitoring_systems/) | no_comment12 | 20 |
+| [Suggest Good Devops YT discussion channels](https://www.reddit.com/r/devops/comments/uz55si/suggest_good_devops_yt_discussion_channels/) | sasidatta | 10 |
+| [What workloads would you choose to run on Windows / Linux?](https://www.reddit.com/r/devops/comments/uzig90/what_workloads_would_you_choose_to_run_on_windows/) | DanceLikeItsOuchy | 7 |
+| [WASM is the future of software delivery](https://www.reddit.com/r/devops/comments/uyyqxh/wasm_is_the_future_of_software_delivery/) | otomato_sw | 4 |
+| [5 Tips If You’re the 1st SRE Hire by Instacart's First SRE](https://www.reddit.com/r/devops/comments/uz3mz3/5_tips_if_youre_the_1st_sre_hire_by_instacarts/) | devoopseng | 4 |
+| [Is it possible to do Devops / SRE with no other experience (fresh out of college, self taught, etc)](https://www.reddit.com/r/devops/comments/uz18iz/is_it_possible_to_do_devops_sre_with_no_other/) | coffeebrah392 | 2 |
+| [How to send error logs and access logs for Apache container to cloudwatch](https://www.reddit.com/r/devops/comments/uzigjn/how_to_send_error_logs_and_access_logs_for_apache/) | BackgroundNature4581 | 2 |
