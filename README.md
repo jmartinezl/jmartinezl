@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Need advice on becoming a DevOps Engineer.](https://www.reddit.com/r/devops/comments/uyytta/need_advice_on_becoming_a_devops_engineer/) | purplepyramid7 | 66 |
-| [Managing CI/CD for k8s environments and apps](https://www.reddit.com/r/devops/comments/uyx2rl/managing_cicd_for_k8s_environments_and_apps/) | unknownmoss | 33 |
-| [On-call questions](https://www.reddit.com/r/devops/comments/uzb2bj/oncall_questions/) | d4vid1 | 25 |
-| [Opinions on Different Error Monitoring Systems](https://www.reddit.com/r/devops/comments/uzdcvz/opinions_on_different_error_monitoring_systems/) | no_comment12 | 20 |
-| [Suggest Good Devops YT discussion channels](https://www.reddit.com/r/devops/comments/uz55si/suggest_good_devops_yt_discussion_channels/) | sasidatta | 10 |
-| [What workloads would you choose to run on Windows / Linux?](https://www.reddit.com/r/devops/comments/uzig90/what_workloads_would_you_choose_to_run_on_windows/) | DanceLikeItsOuchy | 7 |
-| [WASM is the future of software delivery](https://www.reddit.com/r/devops/comments/uyyqxh/wasm_is_the_future_of_software_delivery/) | otomato_sw | 4 |
-| [5 Tips If You’re the 1st SRE Hire by Instacart's First SRE](https://www.reddit.com/r/devops/comments/uz3mz3/5_tips_if_youre_the_1st_sre_hire_by_instacarts/) | devoopseng | 4 |
-| [Is it possible to do Devops / SRE with no other experience (fresh out of college, self taught, etc)](https://www.reddit.com/r/devops/comments/uz18iz/is_it_possible_to_do_devops_sre_with_no_other/) | coffeebrah392 | 2 |
-| [How to send error logs and access logs for Apache container to cloudwatch](https://www.reddit.com/r/devops/comments/uzigjn/how_to_send_error_logs_and_access_logs_for_apache/) | BackgroundNature4581 | 2 |
+| [Noob error: Ansible, become and ~tilde expansion](https://www.reddit.com/r/devops/comments/uzo6hu/noob_error_ansible_become_and_tilde_expansion/) | HCharlesB | 43 |
+| [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/devops/comments/uztybj/step_by_step_guide_of_setting_up_ssltls_for_a/) | Hakky54 | 36 |
+| [Storing env vars in .git/config?](https://www.reddit.com/r/devops/comments/v02aoi/storing_env_vars_in_gitconfig/) | _Noxius | 30 |
+| [Do you use nano/vim?](https://www.reddit.com/r/devops/comments/v06r4y/do_you_use_nanovim/) | Complex-Mongoose1123 | 21 |
+| [Making GitHub API Requests with a JWT](https://www.reddit.com/r/devops/comments/uzprhm/making_github_api_requests_with_a_jwt/) | chillysurfer | 5 |
+| [Advice: Modernizing Old Application Architectures](https://www.reddit.com/r/devops/comments/uzs8yr/advice_modernizing_old_application_architectures/) | SatoriSlu | 5 |
+| [I need to learn Terraform for Google Cloud. Where do I start ?](https://www.reddit.com/r/devops/comments/uzpp9f/i_need_to_learn_terraform_for_google_cloud_where/) | oFabo | 3 |
+| [is vagrant dead?](https://www.reddit.com/r/devops/comments/v052wc/is_vagrant_dead/) | DeveloperBRdotnet | 1 |
+| [Handle database migrations (or database connection) for Laravel app with multiple application servers on kubernetes](https://www.reddit.com/r/devops/comments/v06t6v/handle_database_migrations_or_database_connection/) | iqlasuddin | 1 |
+| [Aws setup services?](https://www.reddit.com/r/devops/comments/v033s2/aws_setup_services/) | wadude | 1 |
