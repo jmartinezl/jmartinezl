@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Noob error: Ansible, become and ~tilde expansion](https://www.reddit.com/r/devops/comments/uzo6hu/noob_error_ansible_become_and_tilde_expansion/) | HCharlesB | 43 |
-| [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/devops/comments/uztybj/step_by_step_guide_of_setting_up_ssltls_for_a/) | Hakky54 | 36 |
-| [Storing env vars in .git/config?](https://www.reddit.com/r/devops/comments/v02aoi/storing_env_vars_in_gitconfig/) | _Noxius | 30 |
-| [Do you use nano/vim?](https://www.reddit.com/r/devops/comments/v06r4y/do_you_use_nanovim/) | Complex-Mongoose1123 | 21 |
-| [Making GitHub API Requests with a JWT](https://www.reddit.com/r/devops/comments/uzprhm/making_github_api_requests_with_a_jwt/) | chillysurfer | 5 |
-| [Advice: Modernizing Old Application Architectures](https://www.reddit.com/r/devops/comments/uzs8yr/advice_modernizing_old_application_architectures/) | SatoriSlu | 5 |
-| [I need to learn Terraform for Google Cloud. Where do I start ?](https://www.reddit.com/r/devops/comments/uzpp9f/i_need_to_learn_terraform_for_google_cloud_where/) | oFabo | 3 |
-| [is vagrant dead?](https://www.reddit.com/r/devops/comments/v052wc/is_vagrant_dead/) | DeveloperBRdotnet | 1 |
-| [Handle database migrations (or database connection) for Laravel app with multiple application servers on kubernetes](https://www.reddit.com/r/devops/comments/v06t6v/handle_database_migrations_or_database_connection/) | iqlasuddin | 1 |
-| [Aws setup services?](https://www.reddit.com/r/devops/comments/v033s2/aws_setup_services/) | wadude | 1 |
+| [Salary Sharing Thread May 2022](https://www.reddit.com/r/devops/comments/v0h3z7/salary_sharing_thread_may_2022/) | notechmajor | 120 |
+| [How do you manage schema changes on MongoDB?](https://www.reddit.com/r/devops/comments/v0cyyt/how_do_you_manage_schema_changes_on_mongodb/) | Environmental_Bus507 | 8 |
+| [Build flexible abstraction for any Kubernetes Resources with CUE and KubeVela](https://www.reddit.com/r/devops/comments/v0wts4/build_flexible_abstraction_for_any_kubernetes/) | oam-dev | 5 |
+| [Getting IP from a ArgoCD deployed service](https://www.reddit.com/r/devops/comments/v0whwi/getting_ip_from_a_argocd_deployed_service/) | DanceLikeItsOuchy | 4 |
+| [What do you guys think about Thalès ?](https://www.reddit.com/r/devops/comments/v0wi5g/what_do_you_guys_think_about_thalès/) | zenkth | 3 |
+| [What are the current best practice patterns for services in Kubernetes where you want to control what each service can call/access in another?](https://www.reddit.com/r/devops/comments/v0t37q/what_are_the_current_best_practice_patterns_for/) | 78fridaycrew | 3 |
+| [JSON logging for JSON REST services vs performance](https://www.reddit.com/r/devops/comments/v0of93/json_logging_for_json_rest_services_vs_performance/) | skjolber | 3 |
+| [WAF -&gt; CloudWatch -&gt; Kinesis -&gt; Datadog via the CDK](https://www.reddit.com/r/devops/comments/v0soj5/waf_cloudwatch_kinesis_datadog_via_the_cdk/) | tech_tuna | 2 |
+| [Infrastructure Optimization](https://www.reddit.com/r/devops/comments/v0fop8/infrastructure_optimization/) | Strongandstrong | 2 |
+| [Build a dApp this summer on XDC Network](https://www.reddit.com/r/devops/comments/v0xggx/build_a_dapp_this_summer_on_xdc_network/) | Vinn9686 | 2 |
