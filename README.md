@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Salary Sharing Thread May 2022](https://www.reddit.com/r/devops/comments/v0h3z7/salary_sharing_thread_may_2022/) | notechmajor | 120 |
-| [How do you manage schema changes on MongoDB?](https://www.reddit.com/r/devops/comments/v0cyyt/how_do_you_manage_schema_changes_on_mongodb/) | Environmental_Bus507 | 8 |
-| [Build flexible abstraction for any Kubernetes Resources with CUE and KubeVela](https://www.reddit.com/r/devops/comments/v0wts4/build_flexible_abstraction_for_any_kubernetes/) | oam-dev | 5 |
-| [Getting IP from a ArgoCD deployed service](https://www.reddit.com/r/devops/comments/v0whwi/getting_ip_from_a_argocd_deployed_service/) | DanceLikeItsOuchy | 4 |
-| [What do you guys think about Thalès ?](https://www.reddit.com/r/devops/comments/v0wi5g/what_do_you_guys_think_about_thalès/) | zenkth | 3 |
-| [What are the current best practice patterns for services in Kubernetes where you want to control what each service can call/access in another?](https://www.reddit.com/r/devops/comments/v0t37q/what_are_the_current_best_practice_patterns_for/) | 78fridaycrew | 3 |
-| [JSON logging for JSON REST services vs performance](https://www.reddit.com/r/devops/comments/v0of93/json_logging_for_json_rest_services_vs_performance/) | skjolber | 3 |
-| [WAF -&gt; CloudWatch -&gt; Kinesis -&gt; Datadog via the CDK](https://www.reddit.com/r/devops/comments/v0soj5/waf_cloudwatch_kinesis_datadog_via_the_cdk/) | tech_tuna | 2 |
-| [Infrastructure Optimization](https://www.reddit.com/r/devops/comments/v0fop8/infrastructure_optimization/) | Strongandstrong | 2 |
-| [Build a dApp this summer on XDC Network](https://www.reddit.com/r/devops/comments/v0xggx/build_a_dapp_this_summer_on_xdc_network/) | Vinn9686 | 2 |
+| [DevOps Bulletin Newsletter - Issue 53](https://www.reddit.com/r/devops/comments/v10h7u/devops_bulletin_newsletter_issue_53/) | labouardy | 80 |
+| [Is Windows Server totally incompatible with IAC?](https://www.reddit.com/r/devops/comments/v1glzq/is_windows_server_totally_incompatible_with_iac/) | LifeIsANightmare2022 | 43 |
+| [What are some "Must Have" tools for DevOps teams](https://www.reddit.com/r/devops/comments/v141qn/what_are_some_must_have_tools_for_devops_teams/) | ZeroJedi | 15 |
+| [I’ve been working on DevOps for 4 years.](https://www.reddit.com/r/devops/comments/v19ns2/ive_been_working_on_devops_for_4_years/) | MrLazeyBoy | 8 |
+| [Manipulating users using keycloak's API (in progress...)](https://www.reddit.com/r/devops/comments/v19jth/manipulating_users_using_keycloaks_api_in_progress/) | Gurdil_Cul-Brillant | 4 |
+| [Azure DevOps CI with a Monorepo -- suggestions?](https://www.reddit.com/r/devops/comments/v19f9t/azure_devops_ci_with_a_monorepo_suggestions/) | Snoo_85729 | 4 |
+| [Log Monitoring - the many angles to monitoring a SIEM](https://www.reddit.com/r/devops/comments/v16p6q/log_monitoring_the_many_angles_to_monitoring_a/) | BuildingDevOps | 3 |
+| [Tools and Resources for Kubernetes](https://www.reddit.com/r/devops/comments/v1hgcz/tools_and_resources_for_kubernetes/) | Khaotic_Kernel | 2 |
+| [The Challenges of Building Multi Cloud](https://www.reddit.com/r/devops/comments/v1mtri/the_challenges_of_building_multi_cloud/) | FearlessAnt | 2 |
+| [Copying files pipeline](https://www.reddit.com/r/devops/comments/v1fz6o/copying_files_pipeline/) | meThg | 2 |
