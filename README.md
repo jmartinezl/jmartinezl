@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps Bulletin Newsletter - Issue 53](https://www.reddit.com/r/devops/comments/v10h7u/devops_bulletin_newsletter_issue_53/) | labouardy | 80 |
-| [Is Windows Server totally incompatible with IAC?](https://www.reddit.com/r/devops/comments/v1glzq/is_windows_server_totally_incompatible_with_iac/) | LifeIsANightmare2022 | 43 |
-| [What are some "Must Have" tools for DevOps teams](https://www.reddit.com/r/devops/comments/v141qn/what_are_some_must_have_tools_for_devops_teams/) | ZeroJedi | 15 |
-| [I’ve been working on DevOps for 4 years.](https://www.reddit.com/r/devops/comments/v19ns2/ive_been_working_on_devops_for_4_years/) | MrLazeyBoy | 8 |
-| [Manipulating users using keycloak's API (in progress...)](https://www.reddit.com/r/devops/comments/v19jth/manipulating_users_using_keycloaks_api_in_progress/) | Gurdil_Cul-Brillant | 4 |
-| [Azure DevOps CI with a Monorepo -- suggestions?](https://www.reddit.com/r/devops/comments/v19f9t/azure_devops_ci_with_a_monorepo_suggestions/) | Snoo_85729 | 4 |
-| [Log Monitoring - the many angles to monitoring a SIEM](https://www.reddit.com/r/devops/comments/v16p6q/log_monitoring_the_many_angles_to_monitoring_a/) | BuildingDevOps | 3 |
-| [Tools and Resources for Kubernetes](https://www.reddit.com/r/devops/comments/v1hgcz/tools_and_resources_for_kubernetes/) | Khaotic_Kernel | 2 |
-| [The Challenges of Building Multi Cloud](https://www.reddit.com/r/devops/comments/v1mtri/the_challenges_of_building_multi_cloud/) | FearlessAnt | 2 |
-| [Copying files pipeline](https://www.reddit.com/r/devops/comments/v1fz6o/copying_files_pipeline/) | meThg | 2 |
+| [Why you shouldn't consider using Oracle Cloud](https://www.reddit.com/r/devops/comments/v1rcac/why_you_shouldnt_consider_using_oracle_cloud/) | gotozero | 142 |
+| [Devops Exercises](https://www.reddit.com/r/devops/comments/v1qqfh/devops_exercises/) | saqfi | 60 |
+| [Is learning vim commands worth it?](https://www.reddit.com/r/devops/comments/v27ht8/is_learning_vim_commands_worth_it/) | Standard-Dimension58 | 37 |
+| [devops is not about receiving the recipes and not doing the effort by yourself](https://www.reddit.com/r/devops/comments/v2aoh2/devops_is_not_about_receiving_the_recipes_and_not/) | AccurateVictory | 17 |
+| [Interaction between Docker, AMI and Ansible](https://www.reddit.com/r/devops/comments/v25jqb/interaction_between_docker_ami_and_ansible/) | knowledgebass | 13 |
+| [Managing Applications on Kubernetes](https://www.reddit.com/r/devops/comments/v1t70u/managing_applications_on_kubernetes/) | Rockinoutt | 8 |
+| [Routing - Switching fom Azure to AWS](https://www.reddit.com/r/devops/comments/v1qa1u/routing_switching_fom_azure_to_aws/) | carmikaze | 3 |
+| [Questionable CI at work](https://www.reddit.com/r/devops/comments/v1s2lj/questionable_ci_at_work/) | throwawaydaterequest | 3 |
+| [Need some project suggestions to practice DevOps tools](https://www.reddit.com/r/devops/comments/v1v5lq/need_some_project_suggestions_to_practice_devops/) | adarigirishkumar | 2 |
+| [Looking for a free domain provider to use for course work.](https://www.reddit.com/r/devops/comments/v2e1x4/looking_for_a_free_domain_provider_to_use_for/) | MadnessAsABlessing | 2 |
