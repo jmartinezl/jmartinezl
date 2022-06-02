@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Why you shouldn't consider using Oracle Cloud](https://www.reddit.com/r/devops/comments/v1rcac/why_you_shouldnt_consider_using_oracle_cloud/) | gotozero | 142 |
-| [Devops Exercises](https://www.reddit.com/r/devops/comments/v1qqfh/devops_exercises/) | saqfi | 60 |
-| [Is learning vim commands worth it?](https://www.reddit.com/r/devops/comments/v27ht8/is_learning_vim_commands_worth_it/) | Standard-Dimension58 | 37 |
-| [devops is not about receiving the recipes and not doing the effort by yourself](https://www.reddit.com/r/devops/comments/v2aoh2/devops_is_not_about_receiving_the_recipes_and_not/) | AccurateVictory | 17 |
-| [Interaction between Docker, AMI and Ansible](https://www.reddit.com/r/devops/comments/v25jqb/interaction_between_docker_ami_and_ansible/) | knowledgebass | 13 |
-| [Managing Applications on Kubernetes](https://www.reddit.com/r/devops/comments/v1t70u/managing_applications_on_kubernetes/) | Rockinoutt | 8 |
-| [Routing - Switching fom Azure to AWS](https://www.reddit.com/r/devops/comments/v1qa1u/routing_switching_fom_azure_to_aws/) | carmikaze | 3 |
-| [Questionable CI at work](https://www.reddit.com/r/devops/comments/v1s2lj/questionable_ci_at_work/) | throwawaydaterequest | 3 |
-| [Need some project suggestions to practice DevOps tools](https://www.reddit.com/r/devops/comments/v1v5lq/need_some_project_suggestions_to_practice_devops/) | adarigirishkumar | 2 |
-| [Looking for a free domain provider to use for course work.](https://www.reddit.com/r/devops/comments/v2e1x4/looking_for_a_free_domain_provider_to_use_for/) | MadnessAsABlessing | 2 |
+| [How do you wrangle/coordinate your developers' environments??](https://www.reddit.com/r/devops/comments/v2ummi/how_do_you_wranglecoordinate_your_developers/) | PaleoSpeedwagon | 50 |
+| [Which alternatives to Azure DevOps do you prefer and why?](https://www.reddit.com/r/devops/comments/v2kswh/which_alternatives_to_azure_devops_do_you_prefer/) | Obsidian743 | 36 |
+| [Python knowledge needed to excel in a DevOps role](https://www.reddit.com/r/devops/comments/v2fian/python_knowledge_needed_to_excel_in_a_devops_role/) | 13luckycaesar | 12 |
+| [Supporting applications on Kubernetes](https://www.reddit.com/r/devops/comments/v2k87r/supporting_applications_on_kubernetes/) | dvank2018 | 8 |
+| [I want to drop the "junior" in my devops position. What can I learn to be more marketable for a job hop?](https://www.reddit.com/r/devops/comments/v2zf5n/i_want_to_drop_the_junior_in_my_devops_position/) | skiptomarrue | 5 |
+| [GitHub vs GitLab SaaS Runners (2022) - What's the right platform?](https://www.reddit.com/r/devops/comments/v34wn4/github_vs_gitlab_saas_runners_2022_whats_the/) | EneasBreadly | 5 |
+| [Should application configuration be stored in a separate repo?](https://www.reddit.com/r/devops/comments/v2l0t4/should_application_configuration_be_stored_in_a/) | LordSesshomaru87 | 4 |
+| [Keeping GCP IAP SSH tunnel alive](https://www.reddit.com/r/devops/comments/v2pso5/keeping_gcp_iap_ssh_tunnel_alive/) | Sky_Linx | 4 |
+| [How to use GitLab as the OIDC provider for Kong Manager logins](https://www.reddit.com/r/devops/comments/v2pq87/how_to_use_gitlab_as_the_oidc_provider_for_kong/) | ernievd | 4 |
+| [Devops / Site Reliability Engineers.. how much do you make per year?](https://www.reddit.com/r/devops/comments/v2y6hs/devops_site_reliability_engineers_how_much_do_you/) | coffeebrah392 | 4 |
