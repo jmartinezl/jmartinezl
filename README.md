@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you wrangle/coordinate your developers' environments??](https://www.reddit.com/r/devops/comments/v2ummi/how_do_you_wranglecoordinate_your_developers/) | PaleoSpeedwagon | 50 |
-| [Which alternatives to Azure DevOps do you prefer and why?](https://www.reddit.com/r/devops/comments/v2kswh/which_alternatives_to_azure_devops_do_you_prefer/) | Obsidian743 | 36 |
-| [Python knowledge needed to excel in a DevOps role](https://www.reddit.com/r/devops/comments/v2fian/python_knowledge_needed_to_excel_in_a_devops_role/) | 13luckycaesar | 12 |
-| [Supporting applications on Kubernetes](https://www.reddit.com/r/devops/comments/v2k87r/supporting_applications_on_kubernetes/) | dvank2018 | 8 |
-| [I want to drop the "junior" in my devops position. What can I learn to be more marketable for a job hop?](https://www.reddit.com/r/devops/comments/v2zf5n/i_want_to_drop_the_junior_in_my_devops_position/) | skiptomarrue | 5 |
-| [GitHub vs GitLab SaaS Runners (2022) - What's the right platform?](https://www.reddit.com/r/devops/comments/v34wn4/github_vs_gitlab_saas_runners_2022_whats_the/) | EneasBreadly | 5 |
-| [Should application configuration be stored in a separate repo?](https://www.reddit.com/r/devops/comments/v2l0t4/should_application_configuration_be_stored_in_a/) | LordSesshomaru87 | 4 |
-| [Keeping GCP IAP SSH tunnel alive](https://www.reddit.com/r/devops/comments/v2pso5/keeping_gcp_iap_ssh_tunnel_alive/) | Sky_Linx | 4 |
-| [How to use GitLab as the OIDC provider for Kong Manager logins](https://www.reddit.com/r/devops/comments/v2pq87/how_to_use_gitlab_as_the_oidc_provider_for_kong/) | ernievd | 4 |
-| [Devops / Site Reliability Engineers.. how much do you make per year?](https://www.reddit.com/r/devops/comments/v2y6hs/devops_site_reliability_engineers_how_much_do_you/) | coffeebrah392 | 4 |
+| [Two of my senior devops were transfered to another projects, I'm at lost because I don't know what I'm doing.](https://www.reddit.com/r/devops/comments/v38kff/two_of_my_senior_devops_were_transfered_to/) | Sillygirl2520 | 140 |
+| [Monthly 'Getting into DevOps' thread - 2022/06](https://www.reddit.com/r/devops/comments/v3gwa8/monthly_getting_into_devops_thread_202206/) | mthode | 34 |
+| [Bitnami has removed all Helm chart versions older than six months from their repository](https://www.reddit.com/r/devops/comments/v3whc3/bitnami_has_removed_all_helm_chart_versions_older/) | soakingdaddy | 22 |
+| [Custom app building software that works with containers?](https://www.reddit.com/r/devops/comments/v3lh9h/custom_app_building_software_that_works_with/) | Marquis77 | 12 |
+| [CICD and infra automation - is it mainstream?](https://www.reddit.com/r/devops/comments/v3qrtb/cicd_and_infra_automation_is_it_mainstream/) | creacha | 8 |
+| [Dynamically spin up VM (based on specific HTTPS request) and stop it once session is over?](https://www.reddit.com/r/devops/comments/v3er3z/dynamically_spin_up_vm_based_on_specific_https/) | Equivalent-Style6371 | 7 |
+| [Do yamls written for DroneCI work in the Harness-Cloud?](https://www.reddit.com/r/devops/comments/v3v14w/do_yamls_written_for_droneci_work_in_the/) | RichardJusten | 6 |
+| [How granular do you organize the shell commands in your pipeline's steps?](https://www.reddit.com/r/devops/comments/v3fdkk/how_granular_do_you_organize_the_shell_commands/) | ishiz | 5 |
+| [Anyone still using Graphite?](https://www.reddit.com/r/devops/comments/v3ahvg/anyone_still_using_graphite/) | BrassGoblin34 | 5 |
+| [devops means cloud engineer in your company?](https://www.reddit.com/r/devops/comments/v3wf9t/devops_means_cloud_engineer_in_your_company/) | Complex-Mongoose1123 | 3 |
