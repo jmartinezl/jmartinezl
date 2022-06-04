@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Two of my senior devops were transfered to another projects, I'm at lost because I don't know what I'm doing.](https://www.reddit.com/r/devops/comments/v38kff/two_of_my_senior_devops_were_transfered_to/) | Sillygirl2520 | 140 |
-| [Monthly 'Getting into DevOps' thread - 2022/06](https://www.reddit.com/r/devops/comments/v3gwa8/monthly_getting_into_devops_thread_202206/) | mthode | 34 |
-| [Bitnami has removed all Helm chart versions older than six months from their repository](https://www.reddit.com/r/devops/comments/v3whc3/bitnami_has_removed_all_helm_chart_versions_older/) | soakingdaddy | 22 |
-| [Custom app building software that works with containers?](https://www.reddit.com/r/devops/comments/v3lh9h/custom_app_building_software_that_works_with/) | Marquis77 | 12 |
-| [CICD and infra automation - is it mainstream?](https://www.reddit.com/r/devops/comments/v3qrtb/cicd_and_infra_automation_is_it_mainstream/) | creacha | 8 |
-| [Dynamically spin up VM (based on specific HTTPS request) and stop it once session is over?](https://www.reddit.com/r/devops/comments/v3er3z/dynamically_spin_up_vm_based_on_specific_https/) | Equivalent-Style6371 | 7 |
-| [Do yamls written for DroneCI work in the Harness-Cloud?](https://www.reddit.com/r/devops/comments/v3v14w/do_yamls_written_for_droneci_work_in_the/) | RichardJusten | 6 |
-| [How granular do you organize the shell commands in your pipeline's steps?](https://www.reddit.com/r/devops/comments/v3fdkk/how_granular_do_you_organize_the_shell_commands/) | ishiz | 5 |
-| [Anyone still using Graphite?](https://www.reddit.com/r/devops/comments/v3ahvg/anyone_still_using_graphite/) | BrassGoblin34 | 5 |
-| [devops means cloud engineer in your company?](https://www.reddit.com/r/devops/comments/v3wf9t/devops_means_cloud_engineer_in_your_company/) | Complex-Mongoose1123 | 3 |
+| [How many of you actually test your infrastructure code? For those that do, what benefits did you discover that testing brings to your code base?](https://www.reddit.com/r/devops/comments/v4eo7e/how_many_of_you_actually_test_your_infrastructure/) | IndieDiscovery | 85 |
+| [Used Argo Rollouts for Progressive Delivery? Wrote a blog on this](https://www.reddit.com/r/devops/comments/v4060k/used_argo_rollouts_for_progressive_delivery_wrote/) | chetanpdeshmukh | 8 |
+| [Opinions about CI/CD and Deployment Strategies for K8s](https://www.reddit.com/r/devops/comments/v4jyf3/opinions_about_cicd_and_deployment_strategies_for/) | kovadom | 4 |
+| [Looking to improve my skills in Python and Bash in "real world" scenarios. Hit me with your best shot!](https://www.reddit.com/r/devops/comments/v3zeve/looking_to_improve_my_skills_in_python_and_bash/) | Marquis77 | 3 |
+| [Repo Structure for Terragrunt Multi-Account and Github Actions](https://www.reddit.com/r/devops/comments/v44no7/repo_structure_for_terragrunt_multiaccount_and/) | ryanwc | 2 |
+| [Logging/Events history for kubernetes to know why a node and it's pods became unhealthy](https://www.reddit.com/r/devops/comments/v42dw5/loggingevents_history_for_kubernetes_to_know_why/) | essentialbenyc | 2 |
+| [Minimal pull-based deployment tools?](https://www.reddit.com/r/devops/comments/v3z67f/minimal_pullbased_deployment_tools/) | crabmusket | 1 |
+| [Bob - Another build tool to unify dev and CI environments](https://www.reddit.com/r/devops/comments/v4kqjb/bob_another_build_tool_to_unify_dev_and_ci/) | Equianox | 1 |
+| [cloud-init static routes not applied](https://www.reddit.com/r/devops/comments/v3zwsr/cloudinit_static_routes_not_applied/) | dev_whatever | 0 |
+| [Who uses a home NAS for CICD?](https://www.reddit.com/r/devops/comments/v4b1fr/who_uses_a_home_nas_for_cicd/) | Codeeveryday123 | 0 |
