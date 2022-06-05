@@ -44,13 +44,8 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How many of you actually test your infrastructure code? For those that do, what benefits did you discover that testing brings to your code base?](https://www.reddit.com/r/devops/comments/v4eo7e/how_many_of_you_actually_test_your_infrastructure/) | IndieDiscovery | 85 |
-| [Used Argo Rollouts for Progressive Delivery? Wrote a blog on this](https://www.reddit.com/r/devops/comments/v4060k/used_argo_rollouts_for_progressive_delivery_wrote/) | chetanpdeshmukh | 8 |
-| [Opinions about CI/CD and Deployment Strategies for K8s](https://www.reddit.com/r/devops/comments/v4jyf3/opinions_about_cicd_and_deployment_strategies_for/) | kovadom | 4 |
-| [Looking to improve my skills in Python and Bash in "real world" scenarios. Hit me with your best shot!](https://www.reddit.com/r/devops/comments/v3zeve/looking_to_improve_my_skills_in_python_and_bash/) | Marquis77 | 3 |
-| [Repo Structure for Terragrunt Multi-Account and Github Actions](https://www.reddit.com/r/devops/comments/v44no7/repo_structure_for_terragrunt_multiaccount_and/) | ryanwc | 2 |
-| [Logging/Events history for kubernetes to know why a node and it's pods became unhealthy](https://www.reddit.com/r/devops/comments/v42dw5/loggingevents_history_for_kubernetes_to_know_why/) | essentialbenyc | 2 |
-| [Minimal pull-based deployment tools?](https://www.reddit.com/r/devops/comments/v3z67f/minimal_pullbased_deployment_tools/) | crabmusket | 1 |
-| [Bob - Another build tool to unify dev and CI environments](https://www.reddit.com/r/devops/comments/v4kqjb/bob_another_build_tool_to_unify_dev_and_ci/) | Equianox | 1 |
-| [cloud-init static routes not applied](https://www.reddit.com/r/devops/comments/v3zwsr/cloudinit_static_routes_not_applied/) | dev_whatever | 0 |
-| [Who uses a home NAS for CICD?](https://www.reddit.com/r/devops/comments/v4b1fr/who_uses_a_home_nas_for_cicd/) | Codeeveryday123 | 0 |
+| [Certificate Ripper released - tool to extract server certificates](https://www.reddit.com/r/devops/comments/v4qddc/certificate_ripper_released_tool_to_extract/) | Hakky54 | 81 |
+| [Aspiring DevOps Engineer - Have an interview in a week for a Junior DevOps Role](https://www.reddit.com/r/devops/comments/v4zcgc/aspiring_devops_engineer_have_an_interview_in_a/) | Beginning-News2630 | 3 |
+| [Who and where should I hire help for SAAS product? vue.js / django](https://www.reddit.com/r/devops/comments/v4vnj0/who_and_where_should_i_hire_help_for_saas_product/) | ca_box | 0 |
+| [Datadog aws integration question](https://www.reddit.com/r/devops/comments/v4vkqs/datadog_aws_integration_question/) | bustedlame | 0 |
+| [CLI tool to download GitHub release assets](https://www.reddit.com/r/devops/comments/v4xqu1/cli_tool_to_download_github_release_assets/) | reisinge | 0 |
