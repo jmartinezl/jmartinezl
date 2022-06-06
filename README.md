@@ -44,8 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Certificate Ripper released - tool to extract server certificates](https://www.reddit.com/r/devops/comments/v4qddc/certificate_ripper_released_tool_to_extract/) | Hakky54 | 81 |
-| [Aspiring DevOps Engineer - Have an interview in a week for a Junior DevOps Role](https://www.reddit.com/r/devops/comments/v4zcgc/aspiring_devops_engineer_have_an_interview_in_a/) | Beginning-News2630 | 3 |
-| [Who and where should I hire help for SAAS product? vue.js / django](https://www.reddit.com/r/devops/comments/v4vnj0/who_and_where_should_i_hire_help_for_saas_product/) | ca_box | 0 |
-| [Datadog aws integration question](https://www.reddit.com/r/devops/comments/v4vkqs/datadog_aws_integration_question/) | bustedlame | 0 |
-| [CLI tool to download GitHub release assets](https://www.reddit.com/r/devops/comments/v4xqu1/cli_tool_to_download_github_release_assets/) | reisinge | 0 |
+| [Update: I took the job offer from Cisco.](https://www.reddit.com/r/devops/comments/v5ct51/update_i_took_the_job_offer_from_cisco/) | IndieDiscovery | 260 |
+| [Music to Listen to While Focus](https://www.reddit.com/r/devops/comments/v5w1vu/music_to_listen_to_while_focus/) | marat_badykov | 59 |
+| [What's your standard Terraform escape hatch?](https://www.reddit.com/r/devops/comments/v5mqgj/whats_your_standard_terraform_escape_hatch/) | goldensyrupgames | 10 |
+| [Tips &amp; Tricks on local development with a Remote Docker Host](https://www.reddit.com/r/devops/comments/v5ekqz/tips_tricks_on_local_development_with_a_remote/) | Mizaroth | 8 |
+| [Questions about structuring and using a monorepo](https://www.reddit.com/r/devops/comments/v5tll1/questions_about_structuring_and_using_a_monorepo/) | de1pher | 6 |
+| [Have a DevOps Co-op Interview Tomorrow. What to expect?](https://www.reddit.com/r/devops/comments/v5mbnj/have_a_devops_coop_interview_tomorrow_what_to/) | KaleidoscopeNo8733 | 6 |
+| [Continuous Development on Kubernetes with GitOps Approach](https://www.reddit.com/r/devops/comments/v5yjhm/continuous_development_on_kubernetes_with_gitops/) | piotr_minkowski | 6 |
+| [intermediate/advanced training?](https://www.reddit.com/r/devops/comments/v618x9/intermediateadvanced_training/) | ohnotthatbutton | 4 |
+| [keep your ci/cd simple](https://www.reddit.com/r/devops/comments/v5vs6g/keep_your_cicd_simple/) | kai | 1 |
+| [What would be the best way to move some .env files to a virtual machine?](https://www.reddit.com/r/devops/comments/v5k4w6/what_would_be_the_best_way_to_move_some_env_files/) | MarryPoppinss | 1 |
