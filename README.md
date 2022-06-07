@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Update: I took the job offer from Cisco.](https://www.reddit.com/r/devops/comments/v5ct51/update_i_took_the_job_offer_from_cisco/) | IndieDiscovery | 260 |
-| [Music to Listen to While Focus](https://www.reddit.com/r/devops/comments/v5w1vu/music_to_listen_to_while_focus/) | marat_badykov | 59 |
-| [What's your standard Terraform escape hatch?](https://www.reddit.com/r/devops/comments/v5mqgj/whats_your_standard_terraform_escape_hatch/) | goldensyrupgames | 10 |
-| [Tips &amp; Tricks on local development with a Remote Docker Host](https://www.reddit.com/r/devops/comments/v5ekqz/tips_tricks_on_local_development_with_a_remote/) | Mizaroth | 8 |
-| [Questions about structuring and using a monorepo](https://www.reddit.com/r/devops/comments/v5tll1/questions_about_structuring_and_using_a_monorepo/) | de1pher | 6 |
-| [Have a DevOps Co-op Interview Tomorrow. What to expect?](https://www.reddit.com/r/devops/comments/v5mbnj/have_a_devops_coop_interview_tomorrow_what_to/) | KaleidoscopeNo8733 | 6 |
-| [Continuous Development on Kubernetes with GitOps Approach](https://www.reddit.com/r/devops/comments/v5yjhm/continuous_development_on_kubernetes_with_gitops/) | piotr_minkowski | 6 |
-| [intermediate/advanced training?](https://www.reddit.com/r/devops/comments/v618x9/intermediateadvanced_training/) | ohnotthatbutton | 4 |
-| [keep your ci/cd simple](https://www.reddit.com/r/devops/comments/v5vs6g/keep_your_cicd_simple/) | kai | 1 |
-| [What would be the best way to move some .env files to a virtual machine?](https://www.reddit.com/r/devops/comments/v5k4w6/what_would_be_the_best_way_to_move_some_env_files/) | MarryPoppinss | 1 |
+| [How you do secure Docker containers in your environment?](https://www.reddit.com/r/devops/comments/v66yc9/how_you_do_secure_docker_containers_in_your/) | phracture | 49 |
+| [How do you choose from these CI/CD tools?](https://www.reddit.com/r/devops/comments/v6k2kr/how_do_you_choose_from_these_cicd_tools/) | timlee126 | 34 |
+| [What is more important to learn first, bash or python?](https://www.reddit.com/r/devops/comments/v69czu/what_is_more_important_to_learn_first_bash_or/) | LifeIsANightmare2022 | 32 |
+| [Current options for building Arm and multi-platform Docker images](https://www.reddit.com/r/devops/comments/v6by4x/current_options_for_building_arm_and/) | kgalb2 | 11 |
+| [How devs at Latin America's first unicorn troubleshoot K8s](https://www.reddit.com/r/devops/comments/v6rktb/how_devs_at_latin_americas_first_unicorn/) | cavalcantnm | 9 |
+| [Could use some advice on job offer](https://www.reddit.com/r/devops/comments/v6fs4i/could_use_some_advice_on_job_offer/) | gpzj94 | 6 |
+| [Technologies overwhelming](https://www.reddit.com/r/devops/comments/v6ebfu/technologies_overwhelming/) | lavaz1 | 2 |
+| [accessing windows server with pipline](https://www.reddit.com/r/devops/comments/v6svv5/accessing_windows_server_with_pipline/) | No-Radish-4744 | 1 |
+| [What's The Best Strategy for Deploying An .Net MVC App with A Postgres Server to A Digital Ocean Droplet?](https://www.reddit.com/r/devops/comments/v6ckhr/whats_the_best_strategy_for_deploying_an_net_mvc/) | warpanomaly | 1 |
+| [Minimize latency in a hybrid environment?](https://www.reddit.com/r/devops/comments/v67ptl/minimize_latency_in_a_hybrid_environment/) | romanrsr | 1 |
