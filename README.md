@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How you do secure Docker containers in your environment?](https://www.reddit.com/r/devops/comments/v66yc9/how_you_do_secure_docker_containers_in_your/) | phracture | 49 |
-| [How do you choose from these CI/CD tools?](https://www.reddit.com/r/devops/comments/v6k2kr/how_do_you_choose_from_these_cicd_tools/) | timlee126 | 34 |
-| [What is more important to learn first, bash or python?](https://www.reddit.com/r/devops/comments/v69czu/what_is_more_important_to_learn_first_bash_or/) | LifeIsANightmare2022 | 32 |
-| [Current options for building Arm and multi-platform Docker images](https://www.reddit.com/r/devops/comments/v6by4x/current_options_for_building_arm_and/) | kgalb2 | 11 |
-| [How devs at Latin America's first unicorn troubleshoot K8s](https://www.reddit.com/r/devops/comments/v6rktb/how_devs_at_latin_americas_first_unicorn/) | cavalcantnm | 9 |
-| [Could use some advice on job offer](https://www.reddit.com/r/devops/comments/v6fs4i/could_use_some_advice_on_job_offer/) | gpzj94 | 6 |
-| [Technologies overwhelming](https://www.reddit.com/r/devops/comments/v6ebfu/technologies_overwhelming/) | lavaz1 | 2 |
-| [accessing windows server with pipline](https://www.reddit.com/r/devops/comments/v6svv5/accessing_windows_server_with_pipline/) | No-Radish-4744 | 1 |
-| [What's The Best Strategy for Deploying An .Net MVC App with A Postgres Server to A Digital Ocean Droplet?](https://www.reddit.com/r/devops/comments/v6ckhr/whats_the_best_strategy_for_deploying_an_net_mvc/) | warpanomaly | 1 |
-| [Minimize latency in a hybrid environment?](https://www.reddit.com/r/devops/comments/v67ptl/minimize_latency_in_a_hybrid_environment/) | romanrsr | 1 |
+| [What's your documentation stack?](https://www.reddit.com/r/devops/comments/v6yuu5/whats_your_documentation_stack/) | infinitlybana | 114 |
+| [SSO paywalls - justified?](https://www.reddit.com/r/devops/comments/v7lhcc/sso_paywalls_justified/) | PretentiousGolfer | 25 |
+| [What was your interview experience like?](https://www.reddit.com/r/devops/comments/v790ks/what_was_your_interview_experience_like/) | Obj_Sea | 8 |
+| [Terraform vs Pulumi vs CloudFormation](https://www.reddit.com/r/devops/comments/v70y10/terraform_vs_pulumi_vs_cloudformation/) | FearlessAnt | 5 |
+| [New DevOps Lead here, any good reading material? Advice?](https://www.reddit.com/r/devops/comments/v73lk6/new_devops_lead_here_any_good_reading_material/) | mesamunefire | 4 |
+| [Stay in the same job for 1.5 to 2 years in order to get paper experience for devops and system admin Or get a job in office exchange?](https://www.reddit.com/r/devops/comments/v7hlsv/stay_in_the_same_job_for_15_to_2_years_in_order/) | Bannedazz | 3 |
+| [common CI and smoke tests (e.g. check for merge markers, check site's js is minified etc.)](https://www.reddit.com/r/devops/comments/v70hyw/common_ci_and_smoke_tests_eg_check_for_merge/) | queBurro | 2 |
+| [What is the use for InSpec if I already have Ansible?](https://www.reddit.com/r/devops/comments/v73qik/what_is_the_use_for_inspec_if_i_already_have/) | Heli0sX | 2 |
+| [Managing 3rd party apps via IaC](https://www.reddit.com/r/devops/comments/v7djgc/managing_3rd_party_apps_via_iac/) | Luxaritas | 2 |
+| [Hi, I created "Tensu", a terminal based dashboard for sensu go, and i wanted to share it with you all.](https://www.reddit.com/r/devops/comments/v775hj/hi_i_created_tensu_a_terminal_based_dashboard_for/) | randomly_gener8d | 2 |
