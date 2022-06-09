@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What's your documentation stack?](https://www.reddit.com/r/devops/comments/v6yuu5/whats_your_documentation_stack/) | infinitlybana | 114 |
-| [SSO paywalls - justified?](https://www.reddit.com/r/devops/comments/v7lhcc/sso_paywalls_justified/) | PretentiousGolfer | 25 |
-| [What was your interview experience like?](https://www.reddit.com/r/devops/comments/v790ks/what_was_your_interview_experience_like/) | Obj_Sea | 8 |
-| [Terraform vs Pulumi vs CloudFormation](https://www.reddit.com/r/devops/comments/v70y10/terraform_vs_pulumi_vs_cloudformation/) | FearlessAnt | 5 |
-| [New DevOps Lead here, any good reading material? Advice?](https://www.reddit.com/r/devops/comments/v73lk6/new_devops_lead_here_any_good_reading_material/) | mesamunefire | 4 |
-| [Stay in the same job for 1.5 to 2 years in order to get paper experience for devops and system admin Or get a job in office exchange?](https://www.reddit.com/r/devops/comments/v7hlsv/stay_in_the_same_job_for_15_to_2_years_in_order/) | Bannedazz | 3 |
-| [common CI and smoke tests (e.g. check for merge markers, check site's js is minified etc.)](https://www.reddit.com/r/devops/comments/v70hyw/common_ci_and_smoke_tests_eg_check_for_merge/) | queBurro | 2 |
-| [What is the use for InSpec if I already have Ansible?](https://www.reddit.com/r/devops/comments/v73qik/what_is_the_use_for_inspec_if_i_already_have/) | Heli0sX | 2 |
-| [Managing 3rd party apps via IaC](https://www.reddit.com/r/devops/comments/v7djgc/managing_3rd_party_apps_via_iac/) | Luxaritas | 2 |
-| [Hi, I created "Tensu", a terminal based dashboard for sensu go, and i wanted to share it with you all.](https://www.reddit.com/r/devops/comments/v775hj/hi_i_created_tensu_a_terminal_based_dashboard_for/) | randomly_gener8d | 2 |
+| [Is slow development normal for IaC?](https://www.reddit.com/r/devops/comments/v80k0x/is_slow_development_normal_for_iac/) | tsorab | 42 |
+| [Does your team have an issue of accumulating open merge requests?](https://www.reddit.com/r/devops/comments/v81il2/does_your_team_have_an_issue_of_accumulating_open/) | m4sterbuild3r | 39 |
+| [what does the last python script you wrote do?](https://www.reddit.com/r/devops/comments/v86yn3/what_does_the_last_python_script_you_wrote_do/) | sec_admin | 14 |
+| [What framework do you use for host configuration in an immutable AMI model](https://www.reddit.com/r/devops/comments/v84nrt/what_framework_do_you_use_for_host_configuration/) | BuildingDevOps | 10 |
+| [VMware and Internet Access on VM](https://www.reddit.com/r/devops/comments/v7wjg4/vmware_and_internet_access_on_vm/) | icemansan | 9 |
+| [List of consumed private package feed library versions for all repo's in project.](https://www.reddit.com/r/devops/comments/v8ch4s/list_of_consumed_private_package_feed_library/) | MaesTim | 7 |
+| [Devops in the game industry](https://www.reddit.com/r/devops/comments/v7pls5/devops_in_the_game_industry/) | HamPlayz247 | 4 |
+| [Daily Environment Rebuilds? Why?](https://www.reddit.com/r/devops/comments/v7ybsf/daily_environment_rebuilds_why/) | Nytehawk2002 | 3 |
+| [Containerfile templates, how do you build images?](https://www.reddit.com/r/devops/comments/v7woua/containerfile_templates_how_do_you_build_images/) | gaelfr38 | 3 |
+| [Run Postgres container as non root user - volume permissions on Ubuntu host](https://www.reddit.com/r/devops/comments/v89onq/run_postgres_container_as_non_root_user_volume/) | voja-kostunica | 2 |
