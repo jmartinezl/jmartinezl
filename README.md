@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is slow development normal for IaC?](https://www.reddit.com/r/devops/comments/v80k0x/is_slow_development_normal_for_iac/) | tsorab | 42 |
-| [Does your team have an issue of accumulating open merge requests?](https://www.reddit.com/r/devops/comments/v81il2/does_your_team_have_an_issue_of_accumulating_open/) | m4sterbuild3r | 39 |
-| [what does the last python script you wrote do?](https://www.reddit.com/r/devops/comments/v86yn3/what_does_the_last_python_script_you_wrote_do/) | sec_admin | 14 |
-| [What framework do you use for host configuration in an immutable AMI model](https://www.reddit.com/r/devops/comments/v84nrt/what_framework_do_you_use_for_host_configuration/) | BuildingDevOps | 10 |
-| [VMware and Internet Access on VM](https://www.reddit.com/r/devops/comments/v7wjg4/vmware_and_internet_access_on_vm/) | icemansan | 9 |
-| [List of consumed private package feed library versions for all repo's in project.](https://www.reddit.com/r/devops/comments/v8ch4s/list_of_consumed_private_package_feed_library/) | MaesTim | 7 |
-| [Devops in the game industry](https://www.reddit.com/r/devops/comments/v7pls5/devops_in_the_game_industry/) | HamPlayz247 | 4 |
-| [Daily Environment Rebuilds? Why?](https://www.reddit.com/r/devops/comments/v7ybsf/daily_environment_rebuilds_why/) | Nytehawk2002 | 3 |
-| [Containerfile templates, how do you build images?](https://www.reddit.com/r/devops/comments/v7woua/containerfile_templates_how_do_you_build_images/) | gaelfr38 | 3 |
-| [Run Postgres container as non root user - volume permissions on Ubuntu host](https://www.reddit.com/r/devops/comments/v89onq/run_postgres_container_as_non_root_user_volume/) | voja-kostunica | 2 |
+| [Who wants to learn Docker &amp; Kubernetes this weekend?](https://www.reddit.com/r/devops/comments/v8zfup/who_wants_to_learn_docker_kubernetes_this_weekend/) | Curious_Fishing690 | 105 |
+| [Feeling overwhelmed](https://www.reddit.com/r/devops/comments/v8gmx2/feeling_overwhelmed/) | king_itse | 85 |
+| [Looking for secrets management solutions, what do you recommend?](https://www.reddit.com/r/devops/comments/v8pa0g/looking_for_secrets_management_solutions_what_do/) | Any-Blacksmith-5674 | 66 |
+| [Can we talk about Monitors here?](https://www.reddit.com/r/devops/comments/v8qbp8/can_we_talk_about_monitors_here/) | SigmaSixShooter | 7 |
+| [How to store .p12 and .p7c certificates securly and retrive them at docker build time](https://www.reddit.com/r/devops/comments/v8xit6/how_to_store_p12_and_p7c_certificates_securly_and/) | BackgroundNature4581 | 6 |
+| [Gitlab ci/cd: How to run integration tests?](https://www.reddit.com/r/devops/comments/v8lg5z/gitlab_cicd_how_to_run_integration_tests/) | Fantastic-Pay-8478 | 3 |
+| [what are the current trends in devops? what is future of devops ?](https://www.reddit.com/r/devops/comments/v8y5is/what_are_the_current_trends_in_devops_what_is/) | FullStackProgrammer | 2 |
+| [Quick Logging solution](https://www.reddit.com/r/devops/comments/v8weh1/quick_logging_solution/) | AChickenWithPHD | 2 |
+| [how to learn devops and cloud from scratch and get a job in devops/cloud right after finishing college](https://www.reddit.com/r/devops/comments/v91bnh/how_to_learn_devops_and_cloud_from_scratch_and/) | iyshmn | 1 |
+| [how to fix Error 413 Request Entity Too Large For Sub-domain nginx vhost file.](https://www.reddit.com/r/devops/comments/v92a0m/how_to_fix_error_413_request_entity_too_large_for/) | DCGMechanics | 1 |
