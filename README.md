@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Who wants to learn Docker &amp; Kubernetes this weekend?](https://www.reddit.com/r/devops/comments/v8zfup/who_wants_to_learn_docker_kubernetes_this_weekend/) | Curious_Fishing690 | 105 |
-| [Feeling overwhelmed](https://www.reddit.com/r/devops/comments/v8gmx2/feeling_overwhelmed/) | king_itse | 85 |
-| [Looking for secrets management solutions, what do you recommend?](https://www.reddit.com/r/devops/comments/v8pa0g/looking_for_secrets_management_solutions_what_do/) | Any-Blacksmith-5674 | 66 |
-| [Can we talk about Monitors here?](https://www.reddit.com/r/devops/comments/v8qbp8/can_we_talk_about_monitors_here/) | SigmaSixShooter | 7 |
-| [How to store .p12 and .p7c certificates securly and retrive them at docker build time](https://www.reddit.com/r/devops/comments/v8xit6/how_to_store_p12_and_p7c_certificates_securly_and/) | BackgroundNature4581 | 6 |
-| [Gitlab ci/cd: How to run integration tests?](https://www.reddit.com/r/devops/comments/v8lg5z/gitlab_cicd_how_to_run_integration_tests/) | Fantastic-Pay-8478 | 3 |
-| [what are the current trends in devops? what is future of devops ?](https://www.reddit.com/r/devops/comments/v8y5is/what_are_the_current_trends_in_devops_what_is/) | FullStackProgrammer | 2 |
-| [Quick Logging solution](https://www.reddit.com/r/devops/comments/v8weh1/quick_logging_solution/) | AChickenWithPHD | 2 |
-| [how to learn devops and cloud from scratch and get a job in devops/cloud right after finishing college](https://www.reddit.com/r/devops/comments/v91bnh/how_to_learn_devops_and_cloud_from_scratch_and/) | iyshmn | 1 |
-| [how to fix Error 413 Request Entity Too Large For Sub-domain nginx vhost file.](https://www.reddit.com/r/devops/comments/v92a0m/how_to_fix_error_413_request_entity_too_large_for/) | DCGMechanics | 1 |
+| [Warriors-to-Wizards: Building Dev Ops teams](https://www.reddit.com/r/devops/comments/v9rx5t/warriorstowizards_building_dev_ops_teams/) | BuildingDevOps | 36 |
+| [Where can I practice writing Jenkins deployment scripts for AWS,GCP,Azure, etc?](https://www.reddit.com/r/devops/comments/v9fn7g/where_can_i_practice_writing_jenkins_deployment/) | suberdoo | 8 |
+| [Edge computing, what are you seeing?](https://www.reddit.com/r/devops/comments/v9bkus/edge_computing_what_are_you_seeing/) | Substantial-Drama732 | 7 |
+| [Making changes in 2 different repositories that depend on each other?](https://www.reddit.com/r/devops/comments/v9h7kr/making_changes_in_2_different_repositories_that/) | Gutscazerk | 6 |
+| [(Free and Awesome) Kubernetes Introduction Course](https://www.reddit.com/r/devops/comments/v9upwh/free_and_awesome_kubernetes_introduction_course/) | spurin | 5 |
+| [Could anyone suggest good books/resources that helped you to learn Devops? thank you](https://www.reddit.com/r/devops/comments/v9s6m6/could_anyone_suggest_good_booksresources_that/) | themadman00 | 4 |
+| [How can I queue Python script executions?](https://www.reddit.com/r/devops/comments/v98hhc/how_can_i_queue_python_script_executions/) | GloomyUse1095 | 3 |
+| [Service catalog tool](https://www.reddit.com/r/devops/comments/v9ufor/service_catalog_tool/) | gdullus | 1 |
+| [Join AWS Tech Conference #StandWithUkraine](https://www.reddit.com/r/devops/comments/v98iry/join_aws_tech_conference_standwithukraine/) | Delicious_Soft_6842 | 0 |
