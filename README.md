@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Warriors-to-Wizards: Building Dev Ops teams](https://www.reddit.com/r/devops/comments/v9rx5t/warriorstowizards_building_dev_ops_teams/) | BuildingDevOps | 36 |
-| [Where can I practice writing Jenkins deployment scripts for AWS,GCP,Azure, etc?](https://www.reddit.com/r/devops/comments/v9fn7g/where_can_i_practice_writing_jenkins_deployment/) | suberdoo | 8 |
-| [Edge computing, what are you seeing?](https://www.reddit.com/r/devops/comments/v9bkus/edge_computing_what_are_you_seeing/) | Substantial-Drama732 | 7 |
-| [Making changes in 2 different repositories that depend on each other?](https://www.reddit.com/r/devops/comments/v9h7kr/making_changes_in_2_different_repositories_that/) | Gutscazerk | 6 |
-| [(Free and Awesome) Kubernetes Introduction Course](https://www.reddit.com/r/devops/comments/v9upwh/free_and_awesome_kubernetes_introduction_course/) | spurin | 5 |
-| [Could anyone suggest good books/resources that helped you to learn Devops? thank you](https://www.reddit.com/r/devops/comments/v9s6m6/could_anyone_suggest_good_booksresources_that/) | themadman00 | 4 |
-| [How can I queue Python script executions?](https://www.reddit.com/r/devops/comments/v98hhc/how_can_i_queue_python_script_executions/) | GloomyUse1095 | 3 |
-| [Service catalog tool](https://www.reddit.com/r/devops/comments/v9ufor/service_catalog_tool/) | gdullus | 1 |
-| [Join AWS Tech Conference #StandWithUkraine](https://www.reddit.com/r/devops/comments/v98iry/join_aws_tech_conference_standwithukraine/) | Delicious_Soft_6842 | 0 |
+| [Culture of blaming Ops](https://www.reddit.com/r/devops/comments/v9wafq/culture_of_blaming_ops/) | AChickenWithPHD | 142 |
+| [META: Can we do something about all of the "how do I get into DevOps" threads watering down this subreddit?](https://www.reddit.com/r/devops/comments/vahopk/meta_can_we_do_something_about_all_of_the_how_do/) | IndieDiscovery | 84 |
+| [My approach to building ad hoc developer environments using AWS ECS, Terraform and GitHub Actions](https://www.reddit.com/r/devops/comments/v9y7vx/my_approach_to_building_ad_hoc_developer/) | gamprin | 32 |
+| [How to find happiness from devops job?](https://www.reddit.com/r/devops/comments/vaec2f/how_to_find_happiness_from_devops_job/) | blusterblack | 30 |
+| [Growing into Platform Engineering](https://www.reddit.com/r/devops/comments/v9x94z/growing_into_platform_engineering/) | shared_ptr | 14 |
+| [Feeling excitement but also imposter syndrome after being informed Friday at the end of my shift I was being moved to DevOps as a Junior Engineer](https://www.reddit.com/r/devops/comments/vagcio/feeling_excitement_but_also_imposter_syndrome/) | DelicateJohnson | 10 |
+| [What are the best books to read for new Dev Ops Leads?](https://www.reddit.com/r/devops/comments/va0ppk/what_are_the_best_books_to_read_for_new_dev_ops/) | BuildingDevOps | 8 |
+| [Feedback on a Self-signed SSL CA?](https://www.reddit.com/r/devops/comments/va21zl/feedback_on_a_selfsigned_ssl_ca/) | jafo | 6 |
+| [cyclonedx &amp; license info](https://www.reddit.com/r/devops/comments/vabdbn/cyclonedx_license_info/) | countasone | 5 |
+| [Why most Linux sysadmin have a grudge againts powershell or they don't like it ?](https://www.reddit.com/r/devops/comments/vaipve/why_most_linux_sysadmin_have_a_grudge_againts/) | Dereference_operator | 2 |
