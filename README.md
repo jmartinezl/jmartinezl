@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Culture of blaming Ops](https://www.reddit.com/r/devops/comments/v9wafq/culture_of_blaming_ops/) | AChickenWithPHD | 142 |
-| [META: Can we do something about all of the "how do I get into DevOps" threads watering down this subreddit?](https://www.reddit.com/r/devops/comments/vahopk/meta_can_we_do_something_about_all_of_the_how_do/) | IndieDiscovery | 84 |
-| [My approach to building ad hoc developer environments using AWS ECS, Terraform and GitHub Actions](https://www.reddit.com/r/devops/comments/v9y7vx/my_approach_to_building_ad_hoc_developer/) | gamprin | 32 |
-| [How to find happiness from devops job?](https://www.reddit.com/r/devops/comments/vaec2f/how_to_find_happiness_from_devops_job/) | blusterblack | 30 |
-| [Growing into Platform Engineering](https://www.reddit.com/r/devops/comments/v9x94z/growing_into_platform_engineering/) | shared_ptr | 14 |
-| [Feeling excitement but also imposter syndrome after being informed Friday at the end of my shift I was being moved to DevOps as a Junior Engineer](https://www.reddit.com/r/devops/comments/vagcio/feeling_excitement_but_also_imposter_syndrome/) | DelicateJohnson | 10 |
-| [What are the best books to read for new Dev Ops Leads?](https://www.reddit.com/r/devops/comments/va0ppk/what_are_the_best_books_to_read_for_new_dev_ops/) | BuildingDevOps | 8 |
-| [Feedback on a Self-signed SSL CA?](https://www.reddit.com/r/devops/comments/va21zl/feedback_on_a_selfsigned_ssl_ca/) | jafo | 6 |
-| [cyclonedx &amp; license info](https://www.reddit.com/r/devops/comments/vabdbn/cyclonedx_license_info/) | countasone | 5 |
-| [Why most Linux sysadmin have a grudge againts powershell or they don't like it ?](https://www.reddit.com/r/devops/comments/vaipve/why_most_linux_sysadmin_have_a_grudge_againts/) | Dereference_operator | 2 |
+| [Misconceptions on why DevOps “salaries are so high”.](https://www.reddit.com/r/devops/comments/vaqqnu/misconceptions_on_why_devops_salaries_are_so_high/) | Standard-Dimension58 | 206 |
+| [Certification for DevOps engineers](https://www.reddit.com/r/devops/comments/vb6mld/certification_for_devops_engineers/) | czerniga_it | 3 |
+| [Similar to selenium for android](https://www.reddit.com/r/devops/comments/vb9p4j/similar_to_selenium_for_android/) | ChmodPlusEx | 2 |
+| [DevOps Bulletin Newsletter - Issue 55](https://www.reddit.com/r/devops/comments/vb97w1/devops_bulletin_newsletter_issue_55/) | labouardy | 2 |
+| [Controlling software on multiple computers remotely](https://www.reddit.com/r/devops/comments/vb5mey/controlling_software_on_multiple_computers/) | myhrmans | 1 |
+| [Why is DevOps trending? Smartphone Mobility is not the answer!](https://www.reddit.com/r/devops/comments/vb5g6s/why_is_devops_trending_smartphone_mobility_is_not/) | Aegis-123 | 0 |
