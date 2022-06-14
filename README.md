@@ -44,9 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Misconceptions on why DevOps “salaries are so high”.](https://www.reddit.com/r/devops/comments/vaqqnu/misconceptions_on_why_devops_salaries_are_so_high/) | Standard-Dimension58 | 206 |
-| [Certification for DevOps engineers](https://www.reddit.com/r/devops/comments/vb6mld/certification_for_devops_engineers/) | czerniga_it | 3 |
-| [Similar to selenium for android](https://www.reddit.com/r/devops/comments/vb9p4j/similar_to_selenium_for_android/) | ChmodPlusEx | 2 |
-| [DevOps Bulletin Newsletter - Issue 55](https://www.reddit.com/r/devops/comments/vb97w1/devops_bulletin_newsletter_issue_55/) | labouardy | 2 |
-| [Controlling software on multiple computers remotely](https://www.reddit.com/r/devops/comments/vb5mey/controlling_software_on_multiple_computers/) | myhrmans | 1 |
-| [Why is DevOps trending? Smartphone Mobility is not the answer!](https://www.reddit.com/r/devops/comments/vb5g6s/why_is_devops_trending_smartphone_mobility_is_not/) | Aegis-123 | 0 |
+| [RHEL Version of Jenkins Broken?](https://www.reddit.com/r/devops/comments/vbicbf/rhel_version_of_jenkins_broken/) | JD8 | 34 |
+| [Vault cluster with Consul](https://www.reddit.com/r/devops/comments/vblts0/vault_cluster_with_consul/) | millennium_falc0n | 22 |
+| [Need some help](https://www.reddit.com/r/devops/comments/vbrywv/need_some_help/) | throwaway-153 | 12 |
+| [Trace and visualize the relationships between the kubernetes resources with KubeVela](https://www.reddit.com/r/devops/comments/vbyyd2/trace_and_visualize_the_relationships_between_the/) | oam-dev | 10 |
+| [Can Argocd deploy Argo Workflows?](https://www.reddit.com/r/devops/comments/vbsd7i/can_argocd_deploy_argo_workflows/) | __papi_chulo__ | 9 |
+| [Learn Jenkins](https://www.reddit.com/r/devops/comments/vc13gv/learn_jenkins/) | Lvu22 | 7 |
+| [Spring Boot CICD](https://www.reddit.com/r/devops/comments/vbjdzg/spring_boot_cicd/) | Ok-Appeal8834 | 5 |
+| [Building and sharing apps](https://www.reddit.com/r/devops/comments/vbjqar/building_and_sharing_apps/) | dvank2018 | 5 |
+| [Evaluating DevOps Candidates!](https://www.reddit.com/r/devops/comments/vbra5r/evaluating_devops_candidates/) | sputternote | 4 |
+| [How to establish Environments as a Service on AWS ?](https://www.reddit.com/r/devops/comments/vc1w2s/how_to_establish_environments_as_a_service_on_aws/) | gruvboxer | 1 |
