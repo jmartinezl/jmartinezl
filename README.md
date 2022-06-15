@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [RHEL Version of Jenkins Broken?](https://www.reddit.com/r/devops/comments/vbicbf/rhel_version_of_jenkins_broken/) | JD8 | 34 |
-| [Vault cluster with Consul](https://www.reddit.com/r/devops/comments/vblts0/vault_cluster_with_consul/) | millennium_falc0n | 22 |
-| [Need some help](https://www.reddit.com/r/devops/comments/vbrywv/need_some_help/) | throwaway-153 | 12 |
-| [Trace and visualize the relationships between the kubernetes resources with KubeVela](https://www.reddit.com/r/devops/comments/vbyyd2/trace_and_visualize_the_relationships_between_the/) | oam-dev | 10 |
-| [Can Argocd deploy Argo Workflows?](https://www.reddit.com/r/devops/comments/vbsd7i/can_argocd_deploy_argo_workflows/) | __papi_chulo__ | 9 |
-| [Learn Jenkins](https://www.reddit.com/r/devops/comments/vc13gv/learn_jenkins/) | Lvu22 | 7 |
-| [Spring Boot CICD](https://www.reddit.com/r/devops/comments/vbjdzg/spring_boot_cicd/) | Ok-Appeal8834 | 5 |
-| [Building and sharing apps](https://www.reddit.com/r/devops/comments/vbjqar/building_and_sharing_apps/) | dvank2018 | 5 |
-| [Evaluating DevOps Candidates!](https://www.reddit.com/r/devops/comments/vbra5r/evaluating_devops_candidates/) | sputternote | 4 |
-| [How to establish Environments as a Service on AWS ?](https://www.reddit.com/r/devops/comments/vc1w2s/how_to_establish_environments_as_a_service_on_aws/) | gruvboxer | 1 |
+| [For anyone with limited "ops" experience, I compiled a list of helpful tips/tricks and supplemental skills that help when working with GitHub actions.](https://www.reddit.com/r/devops/comments/vch57h/for_anyone_with_limited_ops_experience_i_compiled/) | thekevinwang | 143 |
+| [Grafana releases OnCall open source project](https://www.reddit.com/r/devops/comments/vc8cgw/grafana_releases_oncall_open_source_project/) | binaryfor | 99 |
+| ["Lab" exercises for building a complete Infrastructure as Code pipeline?](https://www.reddit.com/r/devops/comments/vcebhz/lab_exercises_for_building_a_complete/) | CincyTriGuy | 21 |
+| [Who owns CI/CD at your org?](https://www.reddit.com/r/devops/comments/vcncqf/who_owns_cicd_at_your_org/) | walrusplatoon | 6 |
+| [is it best practice to have dedicated machines to act as gitlab-runners/Jenkins slaves for remote deployment? Or have the agents be in the app/web/db servers for local deployment?](https://www.reddit.com/r/devops/comments/vc3bqr/is_it_best_practice_to_have_dedicated_machines_to/) | learnamap | 5 |
+| [Best Practices Setting up Your Local Development Environment](https://www.reddit.com/r/devops/comments/vcpnvg/best_practices_setting_up_your_local_development/) | DanielVigueras | 5 |
+| [Roles Clarification](https://www.reddit.com/r/devops/comments/vc4j69/roles_clarification/) | chandrash3khar | 4 |
+| [I have an interview in a couple hours. Any good questions i can ask?](https://www.reddit.com/r/devops/comments/vc5q5w/i_have_an_interview_in_a_couple_hours_any_good/) | tekno45 | 4 |
+| [Using puppet to build docker images?](https://www.reddit.com/r/devops/comments/vcidcv/using_puppet_to_build_docker_images/) | Sicklad | 3 |
+| [Managing Packer IaC in production](https://www.reddit.com/r/devops/comments/vccdbw/managing_packer_iac_in_production/) | de1pher | 3 |
