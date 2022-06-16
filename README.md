@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [For anyone with limited "ops" experience, I compiled a list of helpful tips/tricks and supplemental skills that help when working with GitHub actions.](https://www.reddit.com/r/devops/comments/vch57h/for_anyone_with_limited_ops_experience_i_compiled/) | thekevinwang | 143 |
-| [Grafana releases OnCall open source project](https://www.reddit.com/r/devops/comments/vc8cgw/grafana_releases_oncall_open_source_project/) | binaryfor | 99 |
-| ["Lab" exercises for building a complete Infrastructure as Code pipeline?](https://www.reddit.com/r/devops/comments/vcebhz/lab_exercises_for_building_a_complete/) | CincyTriGuy | 21 |
-| [Who owns CI/CD at your org?](https://www.reddit.com/r/devops/comments/vcncqf/who_owns_cicd_at_your_org/) | walrusplatoon | 6 |
-| [is it best practice to have dedicated machines to act as gitlab-runners/Jenkins slaves for remote deployment? Or have the agents be in the app/web/db servers for local deployment?](https://www.reddit.com/r/devops/comments/vc3bqr/is_it_best_practice_to_have_dedicated_machines_to/) | learnamap | 5 |
-| [Best Practices Setting up Your Local Development Environment](https://www.reddit.com/r/devops/comments/vcpnvg/best_practices_setting_up_your_local_development/) | DanielVigueras | 5 |
-| [Roles Clarification](https://www.reddit.com/r/devops/comments/vc4j69/roles_clarification/) | chandrash3khar | 4 |
-| [I have an interview in a couple hours. Any good questions i can ask?](https://www.reddit.com/r/devops/comments/vc5q5w/i_have_an_interview_in_a_couple_hours_any_good/) | tekno45 | 4 |
-| [Using puppet to build docker images?](https://www.reddit.com/r/devops/comments/vcidcv/using_puppet_to_build_docker_images/) | Sicklad | 3 |
-| [Managing Packer IaC in production](https://www.reddit.com/r/devops/comments/vccdbw/managing_packer_iac_in_production/) | de1pher | 3 |
+| [Thanks to this sub, I got my first DevOps job](https://www.reddit.com/r/devops/comments/vd1axe/thanks_to_this_sub_i_got_my_first_devops_job/) | bknyohmyy | 150 |
+| [RIP master branch](https://www.reddit.com/r/devops/comments/vcycw3/rip_master_branch/) | yungtunafish | 47 |
+| [Standing Up DevOps Team](https://www.reddit.com/r/devops/comments/vdaj1g/standing_up_devops_team/) | DumbSecurity | 20 |
+| [Gitgat - a new open source project designed to evaluate the security settings of your GitHub account](https://www.reddit.com/r/devops/comments/vdi2ph/gitgat_a_new_open_source_project_designed_to/) | BarakScribe | 11 |
+| [What cd tool really WOWed you?](https://www.reddit.com/r/devops/comments/vd8a1b/what_cd_tool_really_wowed_you/) | Oxffff0000 | 6 |
+| [Vault HashiCorp mfa web ui](https://www.reddit.com/r/devops/comments/vd1u71/vault_hashicorp_mfa_web_ui/) | chris5039 | 4 |
+| [The practical guide to incident response](https://www.reddit.com/r/devops/comments/vdjn6r/the_practical_guide_to_incident_response/) | shared_ptr | 4 |
+| [What do you think about the thought that "pull requests add no value?" I disagree with it, and include my reasons why below.](https://www.reddit.com/r/devops/comments/vdblxf/what_do_you_think_about_the_thought_that_pull/) | IndieDiscovery | 3 |
+| [Dockerizing .Net 4.6.1 webapi](https://www.reddit.com/r/devops/comments/vdgbau/dockerizing_net_461_webapi/) | autodevops | 3 |
+| [(AWS) To Chef Automate or To Not Chef Automate ?](https://www.reddit.com/r/devops/comments/vdczg9/aws_to_chef_automate_or_to_not_chef_automate/) | thedhinchak | 3 |
