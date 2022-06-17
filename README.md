@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Thanks to this sub, I got my first DevOps job](https://www.reddit.com/r/devops/comments/vd1axe/thanks_to_this_sub_i_got_my_first_devops_job/) | bknyohmyy | 150 |
-| [RIP master branch](https://www.reddit.com/r/devops/comments/vcycw3/rip_master_branch/) | yungtunafish | 47 |
-| [Standing Up DevOps Team](https://www.reddit.com/r/devops/comments/vdaj1g/standing_up_devops_team/) | DumbSecurity | 20 |
-| [Gitgat - a new open source project designed to evaluate the security settings of your GitHub account](https://www.reddit.com/r/devops/comments/vdi2ph/gitgat_a_new_open_source_project_designed_to/) | BarakScribe | 11 |
-| [What cd tool really WOWed you?](https://www.reddit.com/r/devops/comments/vd8a1b/what_cd_tool_really_wowed_you/) | Oxffff0000 | 6 |
-| [Vault HashiCorp mfa web ui](https://www.reddit.com/r/devops/comments/vd1u71/vault_hashicorp_mfa_web_ui/) | chris5039 | 4 |
-| [The practical guide to incident response](https://www.reddit.com/r/devops/comments/vdjn6r/the_practical_guide_to_incident_response/) | shared_ptr | 4 |
-| [What do you think about the thought that "pull requests add no value?" I disagree with it, and include my reasons why below.](https://www.reddit.com/r/devops/comments/vdblxf/what_do_you_think_about_the_thought_that_pull/) | IndieDiscovery | 3 |
-| [Dockerizing .Net 4.6.1 webapi](https://www.reddit.com/r/devops/comments/vdgbau/dockerizing_net_461_webapi/) | autodevops | 3 |
-| [(AWS) To Chef Automate or To Not Chef Automate ?](https://www.reddit.com/r/devops/comments/vdczg9/aws_to_chef_automate_or_to_not_chef_automate/) | thedhinchak | 3 |
+| [DevOps Engineer Skills Matrix - What do you think about it? Do your company use it?](https://www.reddit.com/r/devops/comments/vdtdmv/devops_engineer_skills_matrix_what_do_you_think/) | darikanur | 227 |
+| [what's your goto tool for smoke-testing your site? tls, security headers, 401's, 403's, custom 404, 500 pages, redirects etc.](https://www.reddit.com/r/devops/comments/vdll8i/whats_your_goto_tool_for_smoketesting_your_site/) | queBurro | 55 |
+| [[DevOpsSec)How do you manage container images scanning in your CI/CD pipelines ?](https://www.reddit.com/r/devops/comments/vdo84n/devopssechow_do_you_manage_container_images/) | Regi4life | 21 |
+| [What are you all seeing on the job market right now? Still getting blown up with opportunities on LinkedIn?](https://www.reddit.com/r/devops/comments/vdtnh1/what_are_you_all_seeing_on_the_job_market_right/) | IndieDiscovery | 7 |
+| [What are some must-have, can’t-live-without 3rd party apps/tools you have installed in your k8s clusters?](https://www.reddit.com/r/devops/comments/vdz20p/what_are_some_musthave_cantlivewithout_3rd_party/) | elucia5 | 6 |
+| [Cross Manifest Validation for typos, conflicts and violations. What you think?](https://www.reddit.com/r/devops/comments/vdsyuo/cross_manifest_validation_for_typos_conflicts_and/) | rubenhak | 6 |
+| [Linux foundation DevOps boot camp](https://www.reddit.com/r/devops/comments/ve45ig/linux_foundation_devops_boot_camp/) | Potential_DevOpsGuy | 4 |
+| [How do you do CI/CD with Terraform and AWS lambda?](https://www.reddit.com/r/devops/comments/vdm4wd/how_do_you_do_cicd_with_terraform_and_aws_lambda/) | shellwhale | 4 |
+| [Kubevious Guard - Kubernetes Validation Enforcer. Where are we headed, and how does it affect the project?](https://www.reddit.com/r/devops/comments/ve83s7/kubevious_guard_kubernetes_validation_enforcer/) | rubenhak | 3 |
+| [[Question] Kubernetes Ingress with non-lets-encrypt, non-self-signed wildcard cert? Why is this impossible?](https://www.reddit.com/r/devops/comments/ve7vv9/question_kubernetes_ingress_with_nonletsencrypt/) | perskes | 2 |
