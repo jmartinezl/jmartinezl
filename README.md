@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps Engineer Skills Matrix - What do you think about it? Do your company use it?](https://www.reddit.com/r/devops/comments/vdtdmv/devops_engineer_skills_matrix_what_do_you_think/) | darikanur | 227 |
-| [what's your goto tool for smoke-testing your site? tls, security headers, 401's, 403's, custom 404, 500 pages, redirects etc.](https://www.reddit.com/r/devops/comments/vdll8i/whats_your_goto_tool_for_smoketesting_your_site/) | queBurro | 55 |
-| [[DevOpsSec)How do you manage container images scanning in your CI/CD pipelines ?](https://www.reddit.com/r/devops/comments/vdo84n/devopssechow_do_you_manage_container_images/) | Regi4life | 21 |
-| [What are you all seeing on the job market right now? Still getting blown up with opportunities on LinkedIn?](https://www.reddit.com/r/devops/comments/vdtnh1/what_are_you_all_seeing_on_the_job_market_right/) | IndieDiscovery | 7 |
-| [What are some must-have, can’t-live-without 3rd party apps/tools you have installed in your k8s clusters?](https://www.reddit.com/r/devops/comments/vdz20p/what_are_some_musthave_cantlivewithout_3rd_party/) | elucia5 | 6 |
-| [Cross Manifest Validation for typos, conflicts and violations. What you think?](https://www.reddit.com/r/devops/comments/vdsyuo/cross_manifest_validation_for_typos_conflicts_and/) | rubenhak | 6 |
-| [Linux foundation DevOps boot camp](https://www.reddit.com/r/devops/comments/ve45ig/linux_foundation_devops_boot_camp/) | Potential_DevOpsGuy | 4 |
-| [How do you do CI/CD with Terraform and AWS lambda?](https://www.reddit.com/r/devops/comments/vdm4wd/how_do_you_do_cicd_with_terraform_and_aws_lambda/) | shellwhale | 4 |
-| [Kubevious Guard - Kubernetes Validation Enforcer. Where are we headed, and how does it affect the project?](https://www.reddit.com/r/devops/comments/ve83s7/kubevious_guard_kubernetes_validation_enforcer/) | rubenhak | 3 |
-| [[Question] Kubernetes Ingress with non-lets-encrypt, non-self-signed wildcard cert? Why is this impossible?](https://www.reddit.com/r/devops/comments/ve7vv9/question_kubernetes_ingress_with_nonletsencrypt/) | perskes | 2 |
+| [What's a good coding challenge for a DevOps engineer?](https://www.reddit.com/r/devops/comments/veok02/whats_a_good_coding_challenge_for_a_devops/) | violent_geography | 55 |
+| [What should one need to know for a junior level position?](https://www.reddit.com/r/devops/comments/velt66/what_should_one_need_to_know_for_a_junior_level/) | SpeedStar12 | 38 |
+| [DevOps should not be your first IT job](https://www.reddit.com/r/devops/comments/vf1flk/devops_should_not_be_your_first_it_job/) | donja_crtica | 38 |
+| [Combining ArgoCD and GitHub Actions for automated deployment](https://www.reddit.com/r/devops/comments/vermen/combining_argocd_and_github_actions_for_automated/) | PDihax | 24 |
+| [Optimizing containers build for several application using the same repo](https://www.reddit.com/r/devops/comments/veclhz/optimizing_containers_build_for_several/) | baptistemm | 14 |
+| [I'm learning coding and my company is very open with hiring internally. DevOps is extremely interesting to me but I'm certainly not skilled enough for one yet. Are there any other roles you can think of that might allow me to a least improve my skills?](https://www.reddit.com/r/devops/comments/veuv11/im_learning_coding_and_my_company_is_very_open/) | razzrazz- | 9 |
+| [Monitoring Stack supporting custom actions](https://www.reddit.com/r/devops/comments/vedk9a/monitoring_stack_supporting_custom_actions/) | DomsaNN | 8 |
+| [Automate creation and provisioning of Ubuntu VM on HyperV?](https://www.reddit.com/r/devops/comments/vergfl/automate_creation_and_provisioning_of_ubuntu_vm/) | katovskiy | 5 |
+| [Triggering Jenkins build](https://www.reddit.com/r/devops/comments/vf0o02/triggering_jenkins_build/) | corky2019 | 4 |
+| [MLOps](https://www.reddit.com/r/devops/comments/vet27t/mlops/) | somzeFiree | 2 |
