@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What's a good coding challenge for a DevOps engineer?](https://www.reddit.com/r/devops/comments/veok02/whats_a_good_coding_challenge_for_a_devops/) | violent_geography | 55 |
-| [What should one need to know for a junior level position?](https://www.reddit.com/r/devops/comments/velt66/what_should_one_need_to_know_for_a_junior_level/) | SpeedStar12 | 38 |
-| [DevOps should not be your first IT job](https://www.reddit.com/r/devops/comments/vf1flk/devops_should_not_be_your_first_it_job/) | donja_crtica | 38 |
-| [Combining ArgoCD and GitHub Actions for automated deployment](https://www.reddit.com/r/devops/comments/vermen/combining_argocd_and_github_actions_for_automated/) | PDihax | 24 |
-| [Optimizing containers build for several application using the same repo](https://www.reddit.com/r/devops/comments/veclhz/optimizing_containers_build_for_several/) | baptistemm | 14 |
-| [I'm learning coding and my company is very open with hiring internally. DevOps is extremely interesting to me but I'm certainly not skilled enough for one yet. Are there any other roles you can think of that might allow me to a least improve my skills?](https://www.reddit.com/r/devops/comments/veuv11/im_learning_coding_and_my_company_is_very_open/) | razzrazz- | 9 |
-| [Monitoring Stack supporting custom actions](https://www.reddit.com/r/devops/comments/vedk9a/monitoring_stack_supporting_custom_actions/) | DomsaNN | 8 |
-| [Automate creation and provisioning of Ubuntu VM on HyperV?](https://www.reddit.com/r/devops/comments/vergfl/automate_creation_and_provisioning_of_ubuntu_vm/) | katovskiy | 5 |
-| [Triggering Jenkins build](https://www.reddit.com/r/devops/comments/vf0o02/triggering_jenkins_build/) | corky2019 | 4 |
-| [MLOps](https://www.reddit.com/r/devops/comments/vet27t/mlops/) | somzeFiree | 2 |
+| [Best stack to make a CRUD that is useful for future career as DevOps?](https://www.reddit.com/r/devops/comments/vfg211/best_stack_to_make_a_crud_that_is_useful_for/) | -__--__--_- | 21 |
+| [Community feedback on Argo (workflows, CD, events) vs Jenkins X + Tekton](https://www.reddit.com/r/devops/comments/vfpnc8/community_feedback_on_argo_workflows_cd_events_vs/) | ceasars_wreath | 14 |
+| [What is DevOps???](https://www.reddit.com/r/devops/comments/vf96v7/what_is_devops/) | PersonBehindAScreen | 5 |
+| [What’s your release pipeline look like?](https://www.reddit.com/r/devops/comments/vfbbj7/whats_your_release_pipeline_look_like/) | laujac | 4 |
+| [Which Certifications do you think are "must have" to stay competetive ?](https://www.reddit.com/r/devops/comments/vf7crv/which_certifications_do_you_think_are_must_have/) | pojzon_poe | 1 |
+| [Nginx upstream connection refused](https://www.reddit.com/r/devops/comments/vftnyb/nginx_upstream_connection_refused/) | chris5039 | 1 |
+| [pOPULAR AND UP-AND-COMING LANGUAGES](https://www.reddit.com/r/devops/comments/vf67lc/popular_and_upandcoming_languages/) | johnjovy921 | 0 |
+| [is it correct to do a comparison between devops and the agile methodology ?](https://www.reddit.com/r/devops/comments/vf99m0/is_it_correct_to_do_a_comparison_between_devops/) | Sea_Feedback_3767 | 0 |
+| [Next.JS in docker container takes 3 minute to respond to basic request](https://www.reddit.com/r/devops/comments/vfmmlt/nextjs_in_docker_container_takes_3_minute_to/) | LionDaDev | 0 |
+| [Connecting dockerized nginx webserver to dockerized go app behind reverse proxy](https://www.reddit.com/r/devops/comments/vf923s/connecting_dockerized_nginx_webserver_to/) | chris5039 | 0 |
