@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Best stack to make a CRUD that is useful for future career as DevOps?](https://www.reddit.com/r/devops/comments/vfg211/best_stack_to_make_a_crud_that_is_useful_for/) | -__--__--_- | 21 |
-| [Community feedback on Argo (workflows, CD, events) vs Jenkins X + Tekton](https://www.reddit.com/r/devops/comments/vfpnc8/community_feedback_on_argo_workflows_cd_events_vs/) | ceasars_wreath | 14 |
-| [What is DevOps???](https://www.reddit.com/r/devops/comments/vf96v7/what_is_devops/) | PersonBehindAScreen | 5 |
-| [What’s your release pipeline look like?](https://www.reddit.com/r/devops/comments/vfbbj7/whats_your_release_pipeline_look_like/) | laujac | 4 |
-| [Which Certifications do you think are "must have" to stay competetive ?](https://www.reddit.com/r/devops/comments/vf7crv/which_certifications_do_you_think_are_must_have/) | pojzon_poe | 1 |
-| [Nginx upstream connection refused](https://www.reddit.com/r/devops/comments/vftnyb/nginx_upstream_connection_refused/) | chris5039 | 1 |
-| [pOPULAR AND UP-AND-COMING LANGUAGES](https://www.reddit.com/r/devops/comments/vf67lc/popular_and_upandcoming_languages/) | johnjovy921 | 0 |
-| [is it correct to do a comparison between devops and the agile methodology ?](https://www.reddit.com/r/devops/comments/vf99m0/is_it_correct_to_do_a_comparison_between_devops/) | Sea_Feedback_3767 | 0 |
-| [Next.JS in docker container takes 3 minute to respond to basic request](https://www.reddit.com/r/devops/comments/vfmmlt/nextjs_in_docker_container_takes_3_minute_to/) | LionDaDev | 0 |
-| [Connecting dockerized nginx webserver to dockerized go app behind reverse proxy](https://www.reddit.com/r/devops/comments/vf923s/connecting_dockerized_nginx_webserver_to/) | chris5039 | 0 |
+| [What exactly is "DevOps" ??](https://www.reddit.com/r/devops/comments/vfxmxv/what_exactly_is_devops/) | dellm4800 | 59 |
+| [open-source tools to monitor JSON logs for unexpected patterns?](https://www.reddit.com/r/devops/comments/vftx79/opensource_tools_to_monitor_json_logs_for/) | vfaronov | 24 |
+| [“Why do DevOps get paid significantly more than sys admins?”](https://www.reddit.com/r/devops/comments/vgc7fb/why_do_devops_get_paid_significantly_more_than/) | Passerbeyer | 20 |
+| [Minimal distro for hosting VMs/Containers](https://www.reddit.com/r/devops/comments/vfz0jd/minimal_distro_for_hosting_vmscontainers/) | ForumPlayer | 14 |
+| [Gradle Enterprise... live up to hype?](https://www.reddit.com/r/devops/comments/vfzdsk/gradle_enterprise_live_up_to_hype/) | Just-Hold-5947 | 11 |
+| [Cheapest monitoring solution for AWS?](https://www.reddit.com/r/devops/comments/vg9ns3/cheapest_monitoring_solution_for_aws/) | iamiamwhoami | 10 |
+| [DevOps Best Practices for Database](https://www.reddit.com/r/devops/comments/vg2n3t/devops_best_practices_for_database/) | Revolutionary_Try_87 | 9 |
+| [[advice] dealing with burnout while still learning](https://www.reddit.com/r/devops/comments/vg4nch/advice_dealing_with_burnout_while_still_learning/) | __Mars__ | 8 |
+| [SRE Meetup in London, UK on June 21 - PagerDuty Summit Cancelled](https://www.reddit.com/r/devops/comments/vgao8l/sre_meetup_in_london_uk_on_june_21_pagerduty/) | devoopseng | 6 |
+| [Is the job market for this industry saturated now?](https://www.reddit.com/r/devops/comments/vgasae/is_the_job_market_for_this_industry_saturated_now/) | SpeedStar12 | 5 |
