@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What exactly is "DevOps" ??](https://www.reddit.com/r/devops/comments/vfxmxv/what_exactly_is_devops/) | dellm4800 | 59 |
-| [open-source tools to monitor JSON logs for unexpected patterns?](https://www.reddit.com/r/devops/comments/vftx79/opensource_tools_to_monitor_json_logs_for/) | vfaronov | 24 |
-| [“Why do DevOps get paid significantly more than sys admins?”](https://www.reddit.com/r/devops/comments/vgc7fb/why_do_devops_get_paid_significantly_more_than/) | Passerbeyer | 20 |
-| [Minimal distro for hosting VMs/Containers](https://www.reddit.com/r/devops/comments/vfz0jd/minimal_distro_for_hosting_vmscontainers/) | ForumPlayer | 14 |
-| [Gradle Enterprise... live up to hype?](https://www.reddit.com/r/devops/comments/vfzdsk/gradle_enterprise_live_up_to_hype/) | Just-Hold-5947 | 11 |
-| [Cheapest monitoring solution for AWS?](https://www.reddit.com/r/devops/comments/vg9ns3/cheapest_monitoring_solution_for_aws/) | iamiamwhoami | 10 |
-| [DevOps Best Practices for Database](https://www.reddit.com/r/devops/comments/vg2n3t/devops_best_practices_for_database/) | Revolutionary_Try_87 | 9 |
-| [[advice] dealing with burnout while still learning](https://www.reddit.com/r/devops/comments/vg4nch/advice_dealing_with_burnout_while_still_learning/) | __Mars__ | 8 |
-| [SRE Meetup in London, UK on June 21 - PagerDuty Summit Cancelled](https://www.reddit.com/r/devops/comments/vgao8l/sre_meetup_in_london_uk_on_june_21_pagerduty/) | devoopseng | 6 |
-| [Is the job market for this industry saturated now?](https://www.reddit.com/r/devops/comments/vgasae/is_the_job_market_for_this_industry_saturated_now/) | SpeedStar12 | 5 |
+| [DevOps doesn't feel technical enough](https://www.reddit.com/r/devops/comments/vgw7xm/devops_doesnt_feel_technical_enough/) | duebina | 154 |
+| [How to develop CI pipeline effectively?](https://www.reddit.com/r/devops/comments/vgoac5/how_to_develop_ci_pipeline_effectively/) | jceb | 65 |
+| [Cloudflare is down again, taking half the Internet with it](https://www.reddit.com/r/devops/comments/vh72aa/cloudflare_is_down_again_taking_half_the_internet/) | thecodeassassin | 59 |
+| [A rant about a company that blocks all outbound http traffic](https://www.reddit.com/r/devops/comments/vgmrg5/a_rant_about_a_company_that_blocks_all_outbound/) | Psychological-Can347 | 18 |
+| [Infra Weely #3](https://www.reddit.com/r/devops/comments/vgo9rg/infra_weely_3/) | rtacconi | 10 |
+| [GitHub currently experiencing issues with Actions and webhooks, in case you're wondering why non of your webhooks are currently working.](https://www.reddit.com/r/devops/comments/vgvpdu/github_currently_experiencing_issues_with_actions/) | IndieDiscovery | 10 |
+| [Seamless Access Control for WireGuard-based networks](https://www.reddit.com/r/devops/comments/vgq6ry/seamless_access_control_for_wireguardbased/) | wiretrustee | 9 |
+| [Github Actions to subscription deployment](https://www.reddit.com/r/devops/comments/vgk1fh/github_actions_to_subscription_deployment/) | Boppenwack | 3 |
+| [What is next for me on my path to being more familiar with DevSecOps? Is RHCSA still worthwhile?](https://www.reddit.com/r/devops/comments/vgy4vz/what_is_next_for_me_on_my_path_to_being_more/) | GrappleGiants | 2 |
+| [best practice for CI](https://www.reddit.com/r/devops/comments/vh123k/best_practice_for_ci/) | learnamap | 1 |
