@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps doesn't feel technical enough](https://www.reddit.com/r/devops/comments/vgw7xm/devops_doesnt_feel_technical_enough/) | duebina | 154 |
-| [How to develop CI pipeline effectively?](https://www.reddit.com/r/devops/comments/vgoac5/how_to_develop_ci_pipeline_effectively/) | jceb | 65 |
-| [Cloudflare is down again, taking half the Internet with it](https://www.reddit.com/r/devops/comments/vh72aa/cloudflare_is_down_again_taking_half_the_internet/) | thecodeassassin | 59 |
-| [A rant about a company that blocks all outbound http traffic](https://www.reddit.com/r/devops/comments/vgmrg5/a_rant_about_a_company_that_blocks_all_outbound/) | Psychological-Can347 | 18 |
-| [Infra Weely #3](https://www.reddit.com/r/devops/comments/vgo9rg/infra_weely_3/) | rtacconi | 10 |
-| [GitHub currently experiencing issues with Actions and webhooks, in case you're wondering why non of your webhooks are currently working.](https://www.reddit.com/r/devops/comments/vgvpdu/github_currently_experiencing_issues_with_actions/) | IndieDiscovery | 10 |
-| [Seamless Access Control for WireGuard-based networks](https://www.reddit.com/r/devops/comments/vgq6ry/seamless_access_control_for_wireguardbased/) | wiretrustee | 9 |
-| [Github Actions to subscription deployment](https://www.reddit.com/r/devops/comments/vgk1fh/github_actions_to_subscription_deployment/) | Boppenwack | 3 |
-| [What is next for me on my path to being more familiar with DevSecOps? Is RHCSA still worthwhile?](https://www.reddit.com/r/devops/comments/vgy4vz/what_is_next_for_me_on_my_path_to_being_more/) | GrappleGiants | 2 |
-| [best practice for CI](https://www.reddit.com/r/devops/comments/vh123k/best_practice_for_ci/) | learnamap | 1 |
+| [So I've installed grafana, loki, and prometheus on the personal Kubernetes cluster via Terraform. Now what?](https://www.reddit.com/r/devops/comments/vhlwxa/so_ive_installed_grafana_loki_and_prometheus_on/) | IndieDiscovery | 68 |
+| [What’s your favorite way to host your own stuff quick &amp; dirty?](https://www.reddit.com/r/devops/comments/vhm33i/whats_your_favorite_way_to_host_your_own_stuff/) | Poronoun | 22 |
+| [Best IaC platforms](https://www.reddit.com/r/devops/comments/vhu5vf/best_iac_platforms/) | BuildingDevOps | 18 |
+| [GitHub Actions + Docker + Selenium - help with config file](https://www.reddit.com/r/devops/comments/vhxei2/github_actions_docker_selenium_help_with_config/) | RedDragonWebDesign | 9 |
+| [What's your biggest problem while working in DevOps.](https://www.reddit.com/r/devops/comments/vhgkqq/whats_your_biggest_problem_while_working_in_devops/) | Grandmaster787 | 6 |
+| [Which tool to use for monitoring uptime of api's?](https://www.reddit.com/r/devops/comments/vi1nx5/which_tool_to_use_for_monitoring_uptime_of_apis/) | marvdl93 | 3 |
+| [aws cli sso](https://www.reddit.com/r/devops/comments/vhlco5/aws_cli_sso/) | melbogia | 2 |
+| [How do Jenkins and Terraform connect?](https://www.reddit.com/r/devops/comments/vi2tvt/how_do_jenkins_and_terraform_connect/) | supahotfiyaaa | 2 |
+| [ci pipeline](https://www.reddit.com/r/devops/comments/vi0rkf/ci_pipeline/) | Affectionate_Log999 | 1 |
+| [What's a natural progression adopting deployment tools/technologies/approaches?](https://www.reddit.com/r/devops/comments/vhwldw/whats_a_natural_progression_adopting_deployment/) | Kaykos | 1 |
