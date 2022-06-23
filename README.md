@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [So I've installed grafana, loki, and prometheus on the personal Kubernetes cluster via Terraform. Now what?](https://www.reddit.com/r/devops/comments/vhlwxa/so_ive_installed_grafana_loki_and_prometheus_on/) | IndieDiscovery | 68 |
-| [What’s your favorite way to host your own stuff quick &amp; dirty?](https://www.reddit.com/r/devops/comments/vhm33i/whats_your_favorite_way_to_host_your_own_stuff/) | Poronoun | 22 |
-| [Best IaC platforms](https://www.reddit.com/r/devops/comments/vhu5vf/best_iac_platforms/) | BuildingDevOps | 18 |
-| [GitHub Actions + Docker + Selenium - help with config file](https://www.reddit.com/r/devops/comments/vhxei2/github_actions_docker_selenium_help_with_config/) | RedDragonWebDesign | 9 |
-| [What's your biggest problem while working in DevOps.](https://www.reddit.com/r/devops/comments/vhgkqq/whats_your_biggest_problem_while_working_in_devops/) | Grandmaster787 | 6 |
-| [Which tool to use for monitoring uptime of api's?](https://www.reddit.com/r/devops/comments/vi1nx5/which_tool_to_use_for_monitoring_uptime_of_apis/) | marvdl93 | 3 |
-| [aws cli sso](https://www.reddit.com/r/devops/comments/vhlco5/aws_cli_sso/) | melbogia | 2 |
-| [How do Jenkins and Terraform connect?](https://www.reddit.com/r/devops/comments/vi2tvt/how_do_jenkins_and_terraform_connect/) | supahotfiyaaa | 2 |
-| [ci pipeline](https://www.reddit.com/r/devops/comments/vi0rkf/ci_pipeline/) | Affectionate_Log999 | 1 |
-| [What's a natural progression adopting deployment tools/technologies/approaches?](https://www.reddit.com/r/devops/comments/vhwldw/whats_a_natural_progression_adopting_deployment/) | Kaykos | 1 |
+| [Seeking Google SRE article on alarming best practices](https://www.reddit.com/r/devops/comments/vijdvy/seeking_google_sre_article_on_alarming_best/) | zdwolfe | 79 |
+| [Measuring DORA key metrics](https://www.reddit.com/r/devops/comments/vi6rli/measuring_dora_key_metrics/) | lungdart | 32 |
+| [Resources on Distributed System design and creation?](https://www.reddit.com/r/devops/comments/vigyy7/resources_on_distributed_system_design_and/) | serpentdrive | 26 |
+| [Container or Serverless](https://www.reddit.com/r/devops/comments/vi5rx7/container_or_serverless/) | thomas_boni | 14 |
+| [Should i proceed with DSA and leetcode/hackerrank](https://www.reddit.com/r/devops/comments/viac2k/should_i_proceed_with_dsa_and_leetcodehackerrank/) | Destroychan | 10 |
+| [Advice on starting DevOps/DevSecOps practices in my workplace](https://www.reddit.com/r/devops/comments/vicagu/advice_on_starting_devopsdevsecops_practices_in/) | Human-number-579 | 8 |
+| [Is there a list somewhere of cloud native companies strongly hiring in the open source space right now? I want to get paid full time to contribute to an open source project.](https://www.reddit.com/r/devops/comments/virtcs/is_there_a_list_somewhere_of_cloud_native/) | IndieDiscovery | 3 |
+| [Do you know a way to visulize access flow between users and resources?](https://www.reddit.com/r/devops/comments/visj33/do_you_know_a_way_to_visulize_access_flow_between/) | kingindanord | 2 |
+| [load balancing sharded users](https://www.reddit.com/r/devops/comments/viugu8/load_balancing_sharded_users/) | plentifulfuture | 1 |
+| [Tool for automating seperating env variable from exisitng code bases?](https://www.reddit.com/r/devops/comments/viv993/tool_for_automating_seperating_env_variable_from/) | FruityWelsh | 1 |
