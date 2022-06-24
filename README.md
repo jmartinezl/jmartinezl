@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Seeking Google SRE article on alarming best practices](https://www.reddit.com/r/devops/comments/vijdvy/seeking_google_sre_article_on_alarming_best/) | zdwolfe | 79 |
-| [Measuring DORA key metrics](https://www.reddit.com/r/devops/comments/vi6rli/measuring_dora_key_metrics/) | lungdart | 32 |
-| [Resources on Distributed System design and creation?](https://www.reddit.com/r/devops/comments/vigyy7/resources_on_distributed_system_design_and/) | serpentdrive | 26 |
-| [Container or Serverless](https://www.reddit.com/r/devops/comments/vi5rx7/container_or_serverless/) | thomas_boni | 14 |
-| [Should i proceed with DSA and leetcode/hackerrank](https://www.reddit.com/r/devops/comments/viac2k/should_i_proceed_with_dsa_and_leetcodehackerrank/) | Destroychan | 10 |
-| [Advice on starting DevOps/DevSecOps practices in my workplace](https://www.reddit.com/r/devops/comments/vicagu/advice_on_starting_devopsdevsecops_practices_in/) | Human-number-579 | 8 |
-| [Is there a list somewhere of cloud native companies strongly hiring in the open source space right now? I want to get paid full time to contribute to an open source project.](https://www.reddit.com/r/devops/comments/virtcs/is_there_a_list_somewhere_of_cloud_native/) | IndieDiscovery | 3 |
-| [Do you know a way to visulize access flow between users and resources?](https://www.reddit.com/r/devops/comments/visj33/do_you_know_a_way_to_visulize_access_flow_between/) | kingindanord | 2 |
-| [load balancing sharded users](https://www.reddit.com/r/devops/comments/viugu8/load_balancing_sharded_users/) | plentifulfuture | 1 |
-| [Tool for automating seperating env variable from exisitng code bases?](https://www.reddit.com/r/devops/comments/viv993/tool_for_automating_seperating_env_variable_from/) | FruityWelsh | 1 |
+| [[Amazon Offer] - My experience interviewing for entry level DevOps position at Amazon](https://www.reddit.com/r/devops/comments/vj1joa/amazon_offer_my_experience_interviewing_for_entry/) | copiumimporium | 345 |
+| [Diary of a wimpy DevOps engineer: Monoliths](https://www.reddit.com/r/devops/comments/vjjxfy/diary_of_a_wimpy_devops_engineer_monoliths/) | cindreta | 11 |
+| [Any recommendations for simple but customisable dashboard ?](https://www.reddit.com/r/devops/comments/vjh4in/any_recommendations_for_simple_but_customisable/) | a555555 | 4 |
+| [access environment variable set by a child process (js file) in a shell script](https://www.reddit.com/r/devops/comments/vje7w0/access_environment_variable_set_by_a_child/) | Zestyclose-Ad2344 | 2 |
+| [Sast scan in pipelines best practice](https://www.reddit.com/r/devops/comments/vjcp19/sast_scan_in_pipelines_best_practice/) | learnamap | 2 |
+| [Remote work outside the US?](https://www.reddit.com/r/devops/comments/vj0znp/remote_work_outside_the_us/) | Greenmind76 | 2 |
+| [Why blocking outgoing port 21?](https://www.reddit.com/r/devops/comments/vj5a40/why_blocking_outgoing_port_21/) | muchasxmaracas | 1 |
+| [How web server manages requests](https://www.reddit.com/r/devops/comments/vj10gi/how_web_server_manages_requests/) | physics131 | 1 |
+| [ArgoCD syncwave analytics](https://www.reddit.com/r/devops/comments/vje1oh/argocd_syncwave_analytics/) | TooManyBison | 1 |
+| [A few Questions about Cloud computing and start up scripts](https://www.reddit.com/r/devops/comments/vjktgi/a_few_questions_about_cloud_computing_and_start/) | Mykoliux-1 | 1 |
