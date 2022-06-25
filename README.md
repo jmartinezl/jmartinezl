@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [[Amazon Offer] - My experience interviewing for entry level DevOps position at Amazon](https://www.reddit.com/r/devops/comments/vj1joa/amazon_offer_my_experience_interviewing_for_entry/) | copiumimporium | 345 |
-| [Diary of a wimpy DevOps engineer: Monoliths](https://www.reddit.com/r/devops/comments/vjjxfy/diary_of_a_wimpy_devops_engineer_monoliths/) | cindreta | 11 |
-| [Any recommendations for simple but customisable dashboard ?](https://www.reddit.com/r/devops/comments/vjh4in/any_recommendations_for_simple_but_customisable/) | a555555 | 4 |
-| [access environment variable set by a child process (js file) in a shell script](https://www.reddit.com/r/devops/comments/vje7w0/access_environment_variable_set_by_a_child/) | Zestyclose-Ad2344 | 2 |
-| [Sast scan in pipelines best practice](https://www.reddit.com/r/devops/comments/vjcp19/sast_scan_in_pipelines_best_practice/) | learnamap | 2 |
-| [Remote work outside the US?](https://www.reddit.com/r/devops/comments/vj0znp/remote_work_outside_the_us/) | Greenmind76 | 2 |
-| [Why blocking outgoing port 21?](https://www.reddit.com/r/devops/comments/vj5a40/why_blocking_outgoing_port_21/) | muchasxmaracas | 1 |
-| [How web server manages requests](https://www.reddit.com/r/devops/comments/vj10gi/how_web_server_manages_requests/) | physics131 | 1 |
-| [ArgoCD syncwave analytics](https://www.reddit.com/r/devops/comments/vje1oh/argocd_syncwave_analytics/) | TooManyBison | 1 |
-| [A few Questions about Cloud computing and start up scripts](https://www.reddit.com/r/devops/comments/vjktgi/a_few_questions_about_cloud_computing_and_start/) | Mykoliux-1 | 1 |
+| [Devs - Can you outline your org's handoff process from designers?](https://www.reddit.com/r/devops/comments/vjrnrw/devs_can_you_outline_your_orgs_handoff_process/) | IrrelevantKrieger | 46 |
+| [Difficulty to understand full InfrastructureAsCode deployment/provisionning tools for AWS](https://www.reddit.com/r/devops/comments/vk1vaz/difficulty_to_understand_full/) | TheColorlessWitch | 20 |
+| [Azure serverless](https://www.reddit.com/r/devops/comments/vjxxpv/azure_serverless/) | ZimCanIT | 17 |
+| [How would you suggest running unit tests within containers in a CI AKS based considering docker.sock isn’t available anymore?](https://www.reddit.com/r/devops/comments/vk0u2x/how_would_you_suggest_running_unit_tests_within/) | Shakedko | 13 |
+| [IaC Roadmap?](https://www.reddit.com/r/devops/comments/vkbij6/iac_roadmap/) | raphael_ok | 12 |
+| [magzines to follow to keep upto date in field of devops](https://www.reddit.com/r/devops/comments/vjznys/magzines_to_follow_to_keep_upto_date_in_field_of/) | andyquest69 | 7 |
+| [Google Cloud or AWS for pharma secure contract startup needing HIPAA &amp; PCI Level Compliance?](https://www.reddit.com/r/devops/comments/vkau75/google_cloud_or_aws_for_pharma_secure_contract/) | Amazing_Top_4564 | 4 |
+| [What is your opinion on tech screening "tests"?](https://www.reddit.com/r/devops/comments/vk1jz3/what_is_your_opinion_on_tech_screening_tests/) | SynBombay | 2 |
+| [What happens when a service fails in your infra, or in other words, do you practice chaos engineering?](https://www.reddit.com/r/devops/comments/vk73qn/what_happens_when_a_service_fails_in_your_infra/) | IndieDiscovery | 0 |
+| [Learning Python](https://www.reddit.com/r/devops/comments/vkd648/learning_python/) | Brad_Wilcox144 | 0 |
