@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Organizing your scripts and projects standards](https://www.reddit.com/r/devops/comments/vks5p3/organizing_your_scripts_and_projects_standards/) | asdfwink | 40 |
-| [Why migrate to GitHub from Jenkins?](https://www.reddit.com/r/devops/comments/vkvrjn/why_migrate_to_github_from_jenkins/) | Muneerr | 33 |
-| [Can anyone recommend any good devops books for a data engineer?](https://www.reddit.com/r/devops/comments/vkkboz/can_anyone_recommend_any_good_devops_books_for_a/) | statistical_engineer | 21 |
-| [Preparing for a future DevOps job [Need advice from seniors]](https://www.reddit.com/r/devops/comments/vkl23r/preparing_for_a_future_devops_job_need_advice/) | LOBStudent | 10 |
-| [Need to write secrets to Hashicorp Vault in bulk in k8s cluster. What’s the best way to do this is a repeatable manner?](https://www.reddit.com/r/devops/comments/vkwj22/need_to_write_secrets_to_hashicorp_vault_in_bulk/) | anonymousmonkey339 | 2 |
-| [outsource managing &amp; establishing infra across cloud + on-prem customers?](https://www.reddit.com/r/devops/comments/vl0hpw/outsource_managing_establishing_infra_across/) | evoosa | 1 |
-| [Share all ECR repositories with another AWS account](https://www.reddit.com/r/devops/comments/vl0b0u/share_all_ecr_repositories_with_another_aws/) | HeadTea | 1 |
-| [Deploy tomcat war file in GCE - Managed Instance Group](https://www.reddit.com/r/devops/comments/vkzoam/deploy_tomcat_war_file_in_gce_managed_instance/) | sh4d0wbyt3s | 1 |
-| [validate my yaml](https://www.reddit.com/r/devops/comments/vkjgtl/validate_my_yaml/) | surreal6iam | 0 |
-| [Python course](https://www.reddit.com/r/devops/comments/vkg1vo/python_course/) | smmarcosm | 0 |
+| [Advice about Infra and IaC](https://www.reddit.com/r/devops/comments/vlelwd/advice_about_infra_and_iac/) | mavilesOficial | 29 |
+| [Autoscaling Vs Kubernetes](https://www.reddit.com/r/devops/comments/vlahs6/autoscaling_vs_kubernetes/) | BojackThingsUp | 23 |
+| [kubernetes](https://www.reddit.com/r/devops/comments/vl7sin/kubernetes/) | sundae1989 | 22 |
+| [What DevOps/SRE podcasts/channels are you watching/listening to?](https://www.reddit.com/r/devops/comments/vlsnpw/what_devopssre_podcastschannels_are_you/) | rubenhak | 21 |
+| [Terraform - Multiple EC2s with Same Configuration](https://www.reddit.com/r/devops/comments/vl3qn5/terraform_multiple_ec2s_with_same_configuration/) | zzorro | 15 |
+| [Which programming language is best for junior to learn in devops ?](https://www.reddit.com/r/devops/comments/vl7pze/which_programming_language_is_best_for_junior_to/) | agreeable-hopper | 4 |
+| [I'm a bit lost with CI/CD](https://www.reddit.com/r/devops/comments/vlslzm/im_a_bit_lost_with_cicd/) | bltksk | 3 |
+| [Which of the followings ways should I use to automate the SSL renewal?](https://www.reddit.com/r/devops/comments/vlrtpd/which_of_the_followings_ways_should_i_use_to/) | mmddev | 1 |
+| [Is there any website to learn AWS like leetcode for programmers?](https://www.reddit.com/r/devops/comments/vltkyt/is_there_any_website_to_learn_aws_like_leetcode/) | Complex-Mongoose1123 | 1 |
+| [Comparing AWS EC2 vs Azure Virtual Machines vs GCP Compute Engine](https://www.reddit.com/r/devops/comments/vlt3j5/comparing_aws_ec2_vs_azure_virtual_machines_vs/) | FearlessAnt | 1 |
