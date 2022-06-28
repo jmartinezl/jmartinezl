@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Advice about Infra and IaC](https://www.reddit.com/r/devops/comments/vlelwd/advice_about_infra_and_iac/) | mavilesOficial | 29 |
-| [Autoscaling Vs Kubernetes](https://www.reddit.com/r/devops/comments/vlahs6/autoscaling_vs_kubernetes/) | BojackThingsUp | 23 |
-| [kubernetes](https://www.reddit.com/r/devops/comments/vl7sin/kubernetes/) | sundae1989 | 22 |
-| [What DevOps/SRE podcasts/channels are you watching/listening to?](https://www.reddit.com/r/devops/comments/vlsnpw/what_devopssre_podcastschannels_are_you/) | rubenhak | 21 |
-| [Terraform - Multiple EC2s with Same Configuration](https://www.reddit.com/r/devops/comments/vl3qn5/terraform_multiple_ec2s_with_same_configuration/) | zzorro | 15 |
-| [Which programming language is best for junior to learn in devops ?](https://www.reddit.com/r/devops/comments/vl7pze/which_programming_language_is_best_for_junior_to/) | agreeable-hopper | 4 |
-| [I'm a bit lost with CI/CD](https://www.reddit.com/r/devops/comments/vlslzm/im_a_bit_lost_with_cicd/) | bltksk | 3 |
-| [Which of the followings ways should I use to automate the SSL renewal?](https://www.reddit.com/r/devops/comments/vlrtpd/which_of_the_followings_ways_should_i_use_to/) | mmddev | 1 |
-| [Is there any website to learn AWS like leetcode for programmers?](https://www.reddit.com/r/devops/comments/vltkyt/is_there_any_website_to_learn_aws_like_leetcode/) | Complex-Mongoose1123 | 1 |
-| [Comparing AWS EC2 vs Azure Virtual Machines vs GCP Compute Engine](https://www.reddit.com/r/devops/comments/vlt3j5/comparing_aws_ec2_vs_azure_virtual_machines_vs/) | FearlessAnt | 1 |
+| [PSA: PLEASE learn data structures and algorithms. The amount of people in DevOps who can't code is too damn high!](https://www.reddit.com/r/devops/comments/vm83a7/psa_please_learn_data_structures_and_algorithms/) | yeahdude78 | 151 |
+| [SSH Keys Management Without the Hassle](https://www.reddit.com/r/devops/comments/vly1fw/ssh_keys_management_without_the_hassle/) | wiretrustee | 17 |
+| [When you are writing IaC, do you consider that to be programming?](https://www.reddit.com/r/devops/comments/vm2rf7/when_you_are_writing_iac_do_you_consider_that_to/) | coffeebrah392 | 14 |
+| [Imrpoving Scripting skills.](https://www.reddit.com/r/devops/comments/vm9mdk/imrpoving_scripting_skills/) | editsoul | 8 |
+| [DevOps Interview Questions](https://www.reddit.com/r/devops/comments/vmbg9p/devops_interview_questions/) | jonscotch | 8 |
+| [Best practice for reusing makefiles?](https://www.reddit.com/r/devops/comments/vm2t7z/best_practice_for_reusing_makefiles/) | cauthon | 6 |
+| [DevOps Bulletin Newsletter - Issue 57](https://www.reddit.com/r/devops/comments/vluuci/devops_bulletin_newsletter_issue_57/) | labouardy | 4 |
+| [Manage Kubernetes Cluster with Terraform and Argo CD](https://www.reddit.com/r/devops/comments/vmi2d1/manage_kubernetes_cluster_with_terraform_and_argo/) | piotr_minkowski | 3 |
+| [Infra Weekly #4](https://www.reddit.com/r/devops/comments/vlvoov/infra_weekly_4/) | rtacconi | 2 |
+| [best resources to learn powershell scripting?](https://www.reddit.com/r/devops/comments/vm333x/best_resources_to_learn_powershell_scripting/) | Public-Violinist41 | 1 |
