@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [PSA: PLEASE learn data structures and algorithms. The amount of people in DevOps who can't code is too damn high!](https://www.reddit.com/r/devops/comments/vm83a7/psa_please_learn_data_structures_and_algorithms/) | yeahdude78 | 151 |
-| [SSH Keys Management Without the Hassle](https://www.reddit.com/r/devops/comments/vly1fw/ssh_keys_management_without_the_hassle/) | wiretrustee | 17 |
-| [When you are writing IaC, do you consider that to be programming?](https://www.reddit.com/r/devops/comments/vm2rf7/when_you_are_writing_iac_do_you_consider_that_to/) | coffeebrah392 | 14 |
-| [Imrpoving Scripting skills.](https://www.reddit.com/r/devops/comments/vm9mdk/imrpoving_scripting_skills/) | editsoul | 8 |
-| [DevOps Interview Questions](https://www.reddit.com/r/devops/comments/vmbg9p/devops_interview_questions/) | jonscotch | 8 |
-| [Best practice for reusing makefiles?](https://www.reddit.com/r/devops/comments/vm2t7z/best_practice_for_reusing_makefiles/) | cauthon | 6 |
-| [DevOps Bulletin Newsletter - Issue 57](https://www.reddit.com/r/devops/comments/vluuci/devops_bulletin_newsletter_issue_57/) | labouardy | 4 |
-| [Manage Kubernetes Cluster with Terraform and Argo CD](https://www.reddit.com/r/devops/comments/vmi2d1/manage_kubernetes_cluster_with_terraform_and_argo/) | piotr_minkowski | 3 |
-| [Infra Weekly #4](https://www.reddit.com/r/devops/comments/vlvoov/infra_weekly_4/) | rtacconi | 2 |
-| [best resources to learn powershell scripting?](https://www.reddit.com/r/devops/comments/vm333x/best_resources_to_learn_powershell_scripting/) | Public-Violinist41 | 1 |
+| [Seems that documentation becoming obsolete is a serious problem, so what do you to to prevent this from happening?](https://www.reddit.com/r/devops/comments/vn0mkf/seems_that_documentation_becoming_obsolete_is_a/) | IndieDiscovery | 74 |
+| [One realization that made me feel bad](https://www.reddit.com/r/devops/comments/vn1z0z/one_realization_that_made_me_feel_bad/) | ioah86 | 39 |
+| [Has anyone used Pulumi for IaC?](https://www.reddit.com/r/devops/comments/vmqdx2/has_anyone_used_pulumi_for_iac/) | Fantastic-Eye265 | 22 |
+| [We've built an on-call pay calculator for those who use PagerDuty](https://www.reddit.com/r/devops/comments/vmw0iv/weve_built_an_oncall_pay_calculator_for_those_who/) | shared_ptr | 18 |
+| [did you started as ...?](https://www.reddit.com/r/devops/comments/vmr9ii/did_you_started_as/) | Complex-Mongoose1123 | 17 |
+| [US DevOps relocating to EU?](https://www.reddit.com/r/devops/comments/vn2f4w/us_devops_relocating_to_eu/) | Obj_Sea | 11 |
+| [FAANGs and security clearances](https://www.reddit.com/r/devops/comments/vmunvk/faangs_and_security_clearances/) | Quit_Later | 6 |
+| [Trying to be in a teaching role in the future](https://www.reddit.com/r/devops/comments/vnbpu1/trying_to_be_in_a_teaching_role_in_the_future/) | herbertisthefuture | 4 |
+| [Typical Experience Getting A Devops Job?](https://www.reddit.com/r/devops/comments/vn6axp/typical_experience_getting_a_devops_job/) | amoncada14 | 2 |
+| [Developer-Led Landscape: Complexity, Automation &amp; A Future of Autonomous Development](https://www.reddit.com/r/devops/comments/vmo082/developerled_landscape_complexity_automation_a/) | tyler_jewell | 2 |
