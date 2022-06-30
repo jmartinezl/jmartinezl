@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Seems that documentation becoming obsolete is a serious problem, so what do you to to prevent this from happening?](https://www.reddit.com/r/devops/comments/vn0mkf/seems_that_documentation_becoming_obsolete_is_a/) | IndieDiscovery | 74 |
-| [One realization that made me feel bad](https://www.reddit.com/r/devops/comments/vn1z0z/one_realization_that_made_me_feel_bad/) | ioah86 | 39 |
-| [Has anyone used Pulumi for IaC?](https://www.reddit.com/r/devops/comments/vmqdx2/has_anyone_used_pulumi_for_iac/) | Fantastic-Eye265 | 22 |
-| [We've built an on-call pay calculator for those who use PagerDuty](https://www.reddit.com/r/devops/comments/vmw0iv/weve_built_an_oncall_pay_calculator_for_those_who/) | shared_ptr | 18 |
-| [did you started as ...?](https://www.reddit.com/r/devops/comments/vmr9ii/did_you_started_as/) | Complex-Mongoose1123 | 17 |
-| [US DevOps relocating to EU?](https://www.reddit.com/r/devops/comments/vn2f4w/us_devops_relocating_to_eu/) | Obj_Sea | 11 |
-| [FAANGs and security clearances](https://www.reddit.com/r/devops/comments/vmunvk/faangs_and_security_clearances/) | Quit_Later | 6 |
-| [Trying to be in a teaching role in the future](https://www.reddit.com/r/devops/comments/vnbpu1/trying_to_be_in_a_teaching_role_in_the_future/) | herbertisthefuture | 4 |
-| [Typical Experience Getting A Devops Job?](https://www.reddit.com/r/devops/comments/vn6axp/typical_experience_getting_a_devops_job/) | amoncada14 | 2 |
-| [Developer-Led Landscape: Complexity, Automation &amp; A Future of Autonomous Development](https://www.reddit.com/r/devops/comments/vmo082/developerled_landscape_complexity_automation_a/) | tyler_jewell | 2 |
+| [Docker DevOps Kubernetes Projects for your hands on practicing | Happy learning plan for weekend.](https://www.reddit.com/r/devops/comments/vo2i18/docker_devops_kubernetes_projects_for_your_hands/) | Curious_Fishing690 | 45 |
+| [How to record incidents and post mortems?](https://www.reddit.com/r/devops/comments/vnxcen/how_to_record_incidents_and_post_mortems/) | TooManyBison | 28 |
+| [Is there any way to automate highly configurable deployments?](https://www.reddit.com/r/devops/comments/vns5qr/is_there_any_way_to_automate_highly_configurable/) | GGxSam | 25 |
+| [Core Skills](https://www.reddit.com/r/devops/comments/vnhrra/core_skills/) | Rooneybuk | 21 |
+| [Artifactory: how to properly update Maven snapshots?](https://www.reddit.com/r/devops/comments/vnkk2b/artifactory_how_to_properly_update_maven_snapshots/) | Kendos-Kenlen | 16 |
+| [How could we lock user stories from having the Description or Acceptance Criteria from being changed?](https://www.reddit.com/r/devops/comments/vnk198/how_could_we_lock_user_stories_from_having_the/) | darthenron | 13 |
+| [TCP proxy or load balancer that terminates connections (not SSL)](https://www.reddit.com/r/devops/comments/vnumme/tcp_proxy_or_load_balancer_that_terminates/) | k_Reign | 8 |
+| [Join our open source coguard-cli project for Docker image auto discovery and security](https://www.reddit.com/r/devops/comments/vnoh7a/join_our_open_source_coguardcli_project_for/) | mazz_42 | 7 |
+| [What path should I take to get back again to IT](https://www.reddit.com/r/devops/comments/vns9yn/what_path_should_i_take_to_get_back_again_to_it/) | absint0o | 4 |
+| [Data Engineer vs DevOps](https://www.reddit.com/r/devops/comments/vnqkur/data_engineer_vs_devops/) | RP_m_13 | 3 |
