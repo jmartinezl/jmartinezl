@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Docker DevOps Kubernetes Projects for your hands on practicing | Happy learning plan for weekend.](https://www.reddit.com/r/devops/comments/vo2i18/docker_devops_kubernetes_projects_for_your_hands/) | Curious_Fishing690 | 45 |
-| [How to record incidents and post mortems?](https://www.reddit.com/r/devops/comments/vnxcen/how_to_record_incidents_and_post_mortems/) | TooManyBison | 28 |
-| [Is there any way to automate highly configurable deployments?](https://www.reddit.com/r/devops/comments/vns5qr/is_there_any_way_to_automate_highly_configurable/) | GGxSam | 25 |
-| [Core Skills](https://www.reddit.com/r/devops/comments/vnhrra/core_skills/) | Rooneybuk | 21 |
-| [Artifactory: how to properly update Maven snapshots?](https://www.reddit.com/r/devops/comments/vnkk2b/artifactory_how_to_properly_update_maven_snapshots/) | Kendos-Kenlen | 16 |
-| [How could we lock user stories from having the Description or Acceptance Criteria from being changed?](https://www.reddit.com/r/devops/comments/vnk198/how_could_we_lock_user_stories_from_having_the/) | darthenron | 13 |
-| [TCP proxy or load balancer that terminates connections (not SSL)](https://www.reddit.com/r/devops/comments/vnumme/tcp_proxy_or_load_balancer_that_terminates/) | k_Reign | 8 |
-| [Join our open source coguard-cli project for Docker image auto discovery and security](https://www.reddit.com/r/devops/comments/vnoh7a/join_our_open_source_coguardcli_project_for/) | mazz_42 | 7 |
-| [What path should I take to get back again to IT](https://www.reddit.com/r/devops/comments/vns9yn/what_path_should_i_take_to_get_back_again_to_it/) | absint0o | 4 |
-| [Data Engineer vs DevOps](https://www.reddit.com/r/devops/comments/vnqkur/data_engineer_vs_devops/) | RP_m_13 | 3 |
+| [Python PyPi packages leaking AWS keys, env vars, secrets to the web](https://www.reddit.com/r/devops/comments/voml0j/python_pypi_packages_leaking_aws_keys_env_vars/) | langenoirx | 63 |
+| [Best high-end work laptop?](https://www.reddit.com/r/devops/comments/vofvw7/best_highend_work_laptop/) | ebol4anthr4x | 20 |
+| [How many hours per day do you typically work?](https://www.reddit.com/r/devops/comments/voapck/how_many_hours_per_day_do_you_typically_work/) | coffeebrah392 | 16 |
+| [Does anyone have or know a good guide on observability ?](https://www.reddit.com/r/devops/comments/vohiki/does_anyone_have_or_know_a_good_guide_on/) | jrdeveloper1 | 10 |
+| [Why More Incidents Are Better](https://www.reddit.com/r/devops/comments/vodp0z/why_more_incidents_are_better/) | devoopseng | 9 |
+| [What are funny worst-practices?](https://www.reddit.com/r/devops/comments/vovxwl/what_are_funny_worstpractices/) | hackberd | 9 |
+| [Cloud Computing Bootcamp](https://www.reddit.com/r/devops/comments/vo7507/cloud_computing_bootcamp/) | Armalite316 | 2 |
+| [openshift DO280 or AWS Solution Architect ??](https://www.reddit.com/r/devops/comments/voaa7w/openshift_do280_or_aws_solution_architect/) | Plenty-Comparison-16 | 1 |
+| [What's your largest database in PostgreSQL? How do you scale Postgres storage?](https://www.reddit.com/r/devops/comments/voy79e/whats_your_largest_database_in_postgresql_how_do/) | plentifulfuture | 1 |
+| [Terrible performance with loki and promtail. What other options for collecting and analyzing logs?](https://www.reddit.com/r/devops/comments/vot85j/terrible_performance_with_loki_and_promtail_what/) | Status-Floor3119 | 1 |
