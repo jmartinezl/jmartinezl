@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Python PyPi packages leaking AWS keys, env vars, secrets to the web](https://www.reddit.com/r/devops/comments/voml0j/python_pypi_packages_leaking_aws_keys_env_vars/) | langenoirx | 63 |
-| [Best high-end work laptop?](https://www.reddit.com/r/devops/comments/vofvw7/best_highend_work_laptop/) | ebol4anthr4x | 20 |
-| [How many hours per day do you typically work?](https://www.reddit.com/r/devops/comments/voapck/how_many_hours_per_day_do_you_typically_work/) | coffeebrah392 | 16 |
-| [Does anyone have or know a good guide on observability ?](https://www.reddit.com/r/devops/comments/vohiki/does_anyone_have_or_know_a_good_guide_on/) | jrdeveloper1 | 10 |
-| [Why More Incidents Are Better](https://www.reddit.com/r/devops/comments/vodp0z/why_more_incidents_are_better/) | devoopseng | 9 |
-| [What are funny worst-practices?](https://www.reddit.com/r/devops/comments/vovxwl/what_are_funny_worstpractices/) | hackberd | 9 |
-| [Cloud Computing Bootcamp](https://www.reddit.com/r/devops/comments/vo7507/cloud_computing_bootcamp/) | Armalite316 | 2 |
-| [openshift DO280 or AWS Solution Architect ??](https://www.reddit.com/r/devops/comments/voaa7w/openshift_do280_or_aws_solution_architect/) | Plenty-Comparison-16 | 1 |
-| [What's your largest database in PostgreSQL? How do you scale Postgres storage?](https://www.reddit.com/r/devops/comments/voy79e/whats_your_largest_database_in_postgresql_how_do/) | plentifulfuture | 1 |
-| [Terrible performance with loki and promtail. What other options for collecting and analyzing logs?](https://www.reddit.com/r/devops/comments/vot85j/terrible_performance_with_loki_and_promtail_what/) | Status-Floor3119 | 1 |
+| [Jenkins Reveals 25+ Zero-Day Bugs In Multiple Plugins](https://www.reddit.com/r/devops/comments/vpn79n/jenkins_reveals_25_zeroday_bugs_in_multiple/) | Dip14099 | 35 |
+| [Monthly 'Getting into DevOps' thread - 2022/07](https://www.reddit.com/r/devops/comments/vp39kf/monthly_getting_into_devops_thread_202207/) | mthode | 16 |
+| [Monthly 'Shameless Self Promotion' thread - 2022/07](https://www.reddit.com/r/devops/comments/vp3a5q/monthly_shameless_self_promotion_thread_202207/) | mthode | 9 |
+| [Where is the Ops?](https://www.reddit.com/r/devops/comments/vp4lih/where_is_the_ops/) | marketlurker | 6 |
+| [I’ve seen a lot of horror stories about interviews in this space, and a while back I think a found a really good approach using Pull Requests. (Details in comment)](https://www.reddit.com/r/devops/comments/vplvcw/ive_seen_a_lot_of_horror_stories_about_interviews/) | bruj0and | 5 |
+| [Simple Load Testing with Docker Desktop](https://www.reddit.com/r/devops/comments/vp3oz5/simple_load_testing_with_docker_desktop/) | krstCB | 3 |
+| [Name for a worker queue processing patterns](https://www.reddit.com/r/devops/comments/vp7zn8/name_for_a_worker_queue_processing_patterns/) | jack_of-some-trades | 2 |
+| [How to automate container syscall profiling](https://www.reddit.com/r/devops/comments/vp0ldn/how_to_automate_container_syscall_profiling/) | staprun | 2 |
+| [AWS DevOps Engineer](https://www.reddit.com/r/devops/comments/vpov6h/aws_devops_engineer/) | ahmedtm1 | 2 |
+| [Which RAM configuration should I pick for the MB Air 2022?](https://www.reddit.com/r/devops/comments/vppjnm/which_ram_configuration_should_i_pick_for_the_mb/) | Ejo2001 | 0 |
