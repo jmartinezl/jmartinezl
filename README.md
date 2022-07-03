@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Jenkins Reveals 25+ Zero-Day Bugs In Multiple Plugins](https://www.reddit.com/r/devops/comments/vpn79n/jenkins_reveals_25_zeroday_bugs_in_multiple/) | Dip14099 | 35 |
-| [Monthly 'Getting into DevOps' thread - 2022/07](https://www.reddit.com/r/devops/comments/vp39kf/monthly_getting_into_devops_thread_202207/) | mthode | 16 |
-| [Monthly 'Shameless Self Promotion' thread - 2022/07](https://www.reddit.com/r/devops/comments/vp3a5q/monthly_shameless_self_promotion_thread_202207/) | mthode | 9 |
-| [Where is the Ops?](https://www.reddit.com/r/devops/comments/vp4lih/where_is_the_ops/) | marketlurker | 6 |
-| [I’ve seen a lot of horror stories about interviews in this space, and a while back I think a found a really good approach using Pull Requests. (Details in comment)](https://www.reddit.com/r/devops/comments/vplvcw/ive_seen_a_lot_of_horror_stories_about_interviews/) | bruj0and | 5 |
-| [Simple Load Testing with Docker Desktop](https://www.reddit.com/r/devops/comments/vp3oz5/simple_load_testing_with_docker_desktop/) | krstCB | 3 |
-| [Name for a worker queue processing patterns](https://www.reddit.com/r/devops/comments/vp7zn8/name_for_a_worker_queue_processing_patterns/) | jack_of-some-trades | 2 |
-| [How to automate container syscall profiling](https://www.reddit.com/r/devops/comments/vp0ldn/how_to_automate_container_syscall_profiling/) | staprun | 2 |
-| [AWS DevOps Engineer](https://www.reddit.com/r/devops/comments/vpov6h/aws_devops_engineer/) | ahmedtm1 | 2 |
-| [Which RAM configuration should I pick for the MB Air 2022?](https://www.reddit.com/r/devops/comments/vppjnm/which_ram_configuration_should_i_pick_for_the_mb/) | Ejo2001 | 0 |
+| [Why do people get so butthurt over DevOps being an actual role?](https://www.reddit.com/r/devops/comments/vpuoz5/why_do_people_get_so_butthurt_over_devops_being/) | Mentals__ | 64 |
+| [How would you prepare for this DevOps Technical Interview (Coding test)?](https://www.reddit.com/r/devops/comments/vq03xp/how_would_you_prepare_for_this_devops_technical/) | _Detox_ | 15 |
+| [Is it possible to stop a service from listening on a port temporarily in Docker Swarm?](https://www.reddit.com/r/devops/comments/vq0sx5/is_it_possible_to_stop_a_service_from_listening/) | Acrobatic-Ad-6556 | 3 |
+| [In a "pure" trunk based development, how do you solve the "race to push"?](https://www.reddit.com/r/devops/comments/vq1wk1/in_a_pure_trunk_based_development_how_do_you/) | Shakedko | 2 |
+| [Whats the cheapest way to serve a 85Gb directory?](https://www.reddit.com/r/devops/comments/vprsdt/whats_the_cheapest_way_to_serve_a_85gb_directory/) | DeveloperFromMars | 0 |
+| [Thoughts on Cisco DevNet Associate](https://www.reddit.com/r/devops/comments/vpqqk2/thoughts_on_cisco_devnet_associate/) | reddit_J_A_C_O_B | 0 |
+| [How do you manage your autoscaling groups?](https://www.reddit.com/r/devops/comments/vqer41/how_do_you_manage_your_autoscaling_groups/) | plentifulfuture | 0 |
+| [Execute groovy script on Jenkins](https://www.reddit.com/r/devops/comments/vpweyq/execute_groovy_script_on_jenkins/) | Massive_Flounder7985 | 0 |
+| [Can I use linux mint instead of Ubuntu for my Devops tasks? Currently on Ubuntu, do I miss anything if i switch over to linux mint?](https://www.reddit.com/r/devops/comments/vqbvqk/can_i_use_linux_mint_instead_of_ubuntu_for_my/) | KarthikMoger | 0 |
+| [Any nomads out here? What are your salary expectations?](https://www.reddit.com/r/devops/comments/vpz100/any_nomads_out_here_what_are_your_salary/) | IntrepidToe3123 | 0 |
