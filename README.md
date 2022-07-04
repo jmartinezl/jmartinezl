@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Why do people get so butthurt over DevOps being an actual role?](https://www.reddit.com/r/devops/comments/vpuoz5/why_do_people_get_so_butthurt_over_devops_being/) | Mentals__ | 64 |
-| [How would you prepare for this DevOps Technical Interview (Coding test)?](https://www.reddit.com/r/devops/comments/vq03xp/how_would_you_prepare_for_this_devops_technical/) | _Detox_ | 15 |
-| [Is it possible to stop a service from listening on a port temporarily in Docker Swarm?](https://www.reddit.com/r/devops/comments/vq0sx5/is_it_possible_to_stop_a_service_from_listening/) | Acrobatic-Ad-6556 | 3 |
-| [In a "pure" trunk based development, how do you solve the "race to push"?](https://www.reddit.com/r/devops/comments/vq1wk1/in_a_pure_trunk_based_development_how_do_you/) | Shakedko | 2 |
-| [Whats the cheapest way to serve a 85Gb directory?](https://www.reddit.com/r/devops/comments/vprsdt/whats_the_cheapest_way_to_serve_a_85gb_directory/) | DeveloperFromMars | 0 |
-| [Thoughts on Cisco DevNet Associate](https://www.reddit.com/r/devops/comments/vpqqk2/thoughts_on_cisco_devnet_associate/) | reddit_J_A_C_O_B | 0 |
-| [How do you manage your autoscaling groups?](https://www.reddit.com/r/devops/comments/vqer41/how_do_you_manage_your_autoscaling_groups/) | plentifulfuture | 0 |
-| [Execute groovy script on Jenkins](https://www.reddit.com/r/devops/comments/vpweyq/execute_groovy_script_on_jenkins/) | Massive_Flounder7985 | 0 |
-| [Can I use linux mint instead of Ubuntu for my Devops tasks? Currently on Ubuntu, do I miss anything if i switch over to linux mint?](https://www.reddit.com/r/devops/comments/vqbvqk/can_i_use_linux_mint_instead_of_ubuntu_for_my/) | KarthikMoger | 0 |
-| [Any nomads out here? What are your salary expectations?](https://www.reddit.com/r/devops/comments/vpz100/any_nomads_out_here_what_are_your_salary/) | IntrepidToe3123 | 0 |
+| [Why I'm switching back to Software Engineering from DevOps.](https://www.reddit.com/r/devops/comments/vqjfks/why_im_switching_back_to_software_engineering/) | tata348320 | 230 |
+| [DevOps is a subset of Software Engineering. Stop all this madness of "Software Engineer vs DevOps"](https://www.reddit.com/r/devops/comments/vr4rw3/devops_is_a_subset_of_software_engineering_stop/) | Kenny1239 | 36 |
+| [I decided to make a move!](https://www.reddit.com/r/devops/comments/vqudck/i_decided_to_make_a_move/) | TechNerd31 | 17 |
+| [SRE/ DevOps books](https://www.reddit.com/r/devops/comments/vr3til/sre_devops_books/) | VariousCry7241 | 5 |
+| [Did anyone pursue or currently pursuing Master's of Science after working as a DevOps Engineer?](https://www.reddit.com/r/devops/comments/vr1jec/did_anyone_pursue_or_currently_pursuing_masters/) | adiboy36 | 5 |
+| [No internet inside docker container](https://www.reddit.com/r/devops/comments/vqnwj2/no_internet_inside_docker_container/) | IBN_E_KHAN | 4 |
+| [What is your strategy for testing your software against multiple kubernetes versions and how do you do it?](https://www.reddit.com/r/devops/comments/vr2tlm/what_is_your_strategy_for_testing_your_software/) | apologiesfir | 3 |
+| [Learning by auditing Kubernetes manifests](https://www.reddit.com/r/devops/comments/vqm919/learning_by_auditing_kubernetes_manifests/) | nfrankel | 2 |
+| [Learning NodeJS as a DevOps Engineer](https://www.reddit.com/r/devops/comments/vqmude/learning_nodejs_as_a_devops_engineer/) | kristianfzr | 2 |
+| [Premier-League-API](https://www.reddit.com/r/devops/comments/vr4qol/premierleagueapi/) | ta_run07 | 1 |
