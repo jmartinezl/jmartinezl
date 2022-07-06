@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Getting rejected from devops jobs, need some perspective](https://www.reddit.com/r/devops/comments/vrh0aa/getting_rejected_from_devops_jobs_need_some/) | gau_gau_powerrangers | 10 |
-| [Wander, a terminal app for HashiCorp Nomad](https://www.reddit.com/r/devops/comments/vrhvgs/wander_a_terminal_app_for_hashicorp_nomad/) | Daffy_from_Nam | 6 |
-| [Is this normal? Burnout](https://www.reddit.com/r/devops/comments/vrv8h6/is_this_normal_burnout/) | Michaelgunner | 6 |
-| [What tools do you use to notify you when you’re underutilizing system resources (CPU, RAM, Disk Space) on a VM or container?](https://www.reddit.com/r/devops/comments/vrm1m0/what_tools_do_you_use_to_notify_you_when_youre/) | da_shaka | 5 |
-| [Open source CD only tools.](https://www.reddit.com/r/devops/comments/vr7cnw/open_source_cd_only_tools/) | gex80 | 3 |
-| [Secrets in code - Insights Report 2022 (internal repos - 2mil commits investigated)](https://www.reddit.com/r/devops/comments/vrshzx/secrets_in_code_insights_report_2022_internal/) | dalmoz | 2 |
-| [Jailer: Database client tool of a somewhat different kind.](https://www.reddit.com/r/devops/comments/vrerv5/jailer_database_client_tool_of_a_somewhat/) | Apprehensive-Fix-996 | 2 |
-| [Need some advice with DevOps tools](https://www.reddit.com/r/devops/comments/vrbfwh/need_some_advice_with_devops_tools/) | FitMathematician811 | 1 |
-| [Generate .env file with bitbucket pipeline](https://www.reddit.com/r/devops/comments/vrqnyg/generate_env_file_with_bitbucket_pipeline/) | hongky1998 | 1 |
-| [Advanced Features of Kubernetes’ Horizontal Pod Autoscaler](https://www.reddit.com/r/devops/comments/vrcrh0/advanced_features_of_kubernetes_horizontal_pod/) | Am4t3uR | 1 |
+| [VSCode extension to see cost estimates for Terraform](https://www.reddit.com/r/devops/comments/vs5tj5/vscode_extension_to_see_cost_estimates_for/) | alikhajeh1 | 296 |
+| [Best way to learn K8s?](https://www.reddit.com/r/devops/comments/vs50li/best_way_to_learn_k8s/) | DreadMarvaz | 10 |
+| [Is it just me, or datadog alerting is super slow](https://www.reddit.com/r/devops/comments/vsm7zo/is_it_just_me_or_datadog_alerting_is_super_slow/) | pojzon_poe | 9 |
+| [Anyone is using https://keygen.sh for license management ?](https://www.reddit.com/r/devops/comments/vs082u/anyone_is_using_httpskeygensh_for_license/) | Farghaly | 6 |
+| [Is it possible to partition a single massive monorepos to different sub-repos for different vendors ?](https://www.reddit.com/r/devops/comments/vs13ht/is_it_possible_to_partition_a_single_massive/) | bchoii | 5 |
+| [an interview with Anton about the Terraform Best Practices guide](https://www.reddit.com/r/devops/comments/vsnt5k/an_interview_with_anton_about_the_terraform_best/) | Zihas990 | 3 |
+| [Are there any popular alternatives to Packer](https://www.reddit.com/r/devops/comments/vsfuq1/are_there_any_popular_alternatives_to_packer/) | BuildingDevOps | 3 |
+| [cloud-init: don't manage resolv.conf](https://www.reddit.com/r/devops/comments/vslbfs/cloudinit_dont_manage_resolvconf/) | JuanSmittjr | 2 |
+| [Odoo workers and memory with docker](https://www.reddit.com/r/devops/comments/vs3gwp/odoo_workers_and_memory_with_docker/) | mirouthreetears | 1 |
+| [Is this a load balancing architecture worth using? Need guidance](https://www.reddit.com/r/devops/comments/vsknwo/is_this_a_load_balancing_architecture_worth_using/) | unixbox911 | 1 |
