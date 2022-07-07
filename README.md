@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [VSCode extension to see cost estimates for Terraform](https://www.reddit.com/r/devops/comments/vs5tj5/vscode_extension_to_see_cost_estimates_for/) | alikhajeh1 | 296 |
-| [Best way to learn K8s?](https://www.reddit.com/r/devops/comments/vs50li/best_way_to_learn_k8s/) | DreadMarvaz | 10 |
-| [Is it just me, or datadog alerting is super slow](https://www.reddit.com/r/devops/comments/vsm7zo/is_it_just_me_or_datadog_alerting_is_super_slow/) | pojzon_poe | 9 |
-| [Anyone is using https://keygen.sh for license management ?](https://www.reddit.com/r/devops/comments/vs082u/anyone_is_using_httpskeygensh_for_license/) | Farghaly | 6 |
-| [Is it possible to partition a single massive monorepos to different sub-repos for different vendors ?](https://www.reddit.com/r/devops/comments/vs13ht/is_it_possible_to_partition_a_single_massive/) | bchoii | 5 |
-| [an interview with Anton about the Terraform Best Practices guide](https://www.reddit.com/r/devops/comments/vsnt5k/an_interview_with_anton_about_the_terraform_best/) | Zihas990 | 3 |
-| [Are there any popular alternatives to Packer](https://www.reddit.com/r/devops/comments/vsfuq1/are_there_any_popular_alternatives_to_packer/) | BuildingDevOps | 3 |
-| [cloud-init: don't manage resolv.conf](https://www.reddit.com/r/devops/comments/vslbfs/cloudinit_dont_manage_resolvconf/) | JuanSmittjr | 2 |
-| [Odoo workers and memory with docker](https://www.reddit.com/r/devops/comments/vs3gwp/odoo_workers_and_memory_with_docker/) | mirouthreetears | 1 |
-| [Is this a load balancing architecture worth using? Need guidance](https://www.reddit.com/r/devops/comments/vsknwo/is_this_a_load_balancing_architecture_worth_using/) | unixbox911 | 1 |
+| [Developers submitting sql queries to be run in prod](https://www.reddit.com/r/devops/comments/vstsd8/developers_submitting_sql_queries_to_be_run_in/) | spencerlivvy | 70 |
+| [My Kubernetes, Ansible and Terraform tooling in one docker image.](https://www.reddit.com/r/devops/comments/vtcsg8/my_kubernetes_ansible_and_terraform_tooling_in/) | Bluxmit | 21 |
+| [Gift ideas!](https://www.reddit.com/r/devops/comments/vt7kd4/gift_ideas/) | Wild-Sun-345 | 16 |
+| [Flyway and multiple instances updating the same database at the same time](https://www.reddit.com/r/devops/comments/vtbuuf/flyway_and_multiple_instances_updating_the_same/) | RiceKrispyPooHead | 8 |
+| [Value of Dashboards in monitoring &amp; observability](https://www.reddit.com/r/devops/comments/vt67lo/value_of_dashboards_in_monitoring_observability/) | Mr_brightsider | 4 |
+| [Tests](https://www.reddit.com/r/devops/comments/vt7mdf/tests/) | mitchisawesome | 4 |
+| [Should build scripts be committed to version control or contained within the build pipeline?](https://www.reddit.com/r/devops/comments/vtbuqs/should_build_scripts_be_committed_to_version/) | YakaryBovine | 3 |
+| [Integrating Discord With Perforce](https://www.reddit.com/r/devops/comments/vt7dy8/integrating_discord_with_perforce/) | automotivebrew | 3 |
+| [privacy policy for my app in play store?](https://www.reddit.com/r/devops/comments/vtglb8/privacy_policy_for_my_app_in_play_store/) | csk2004 | 1 |
+| [Employers should understand what's DevOps before hiring a DevOps engineer](https://www.reddit.com/r/devops/comments/vsqd9r/employers_should_understand_whats_devops_before/) | michaelzio | 1 |
