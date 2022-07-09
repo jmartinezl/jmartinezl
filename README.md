@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What CICD tool do you guys use?](https://www.reddit.com/r/devops/comments/vtmbpq/what_cicd_tool_do_you_guys_use/) | snake_py | 55 |
-| [I'd like to get myself out of the stone age, but don't know how](https://www.reddit.com/r/devops/comments/vu47yd/id_like_to_get_myself_out_of_the_stone_age_but/) | Linkandzelda | 36 |
-| [Would anybody let me shadow them in Azure, SQL, Python or any major devop programs?](https://www.reddit.com/r/devops/comments/vtxcn4/would_anybody_let_me_shadow_them_in_azure_sql/) | Nottheunicorn | 29 |
-| [How Important Is Kubernetes For DevOps Engineer Role](https://www.reddit.com/r/devops/comments/vtw45n/how_important_is_kubernetes_for_devops_engineer/) | forward-bat-8326 | 18 |
-| [Restrict Internet access with Istio for some pods](https://www.reddit.com/r/devops/comments/vu04pd/restrict_internet_access_with_istio_for_some_pods/) | jutkarsh | 13 |
-| [Can I write a script that runs my container for a user on a different account?](https://www.reddit.com/r/devops/comments/vu26hh/can_i_write_a_script_that_runs_my_container_for_a/) | Minotaar_Pheonix | 8 |
-| [Open source global traffic management](https://www.reddit.com/r/devops/comments/vtn5q0/open_source_global_traffic_management/) | plentifulfuture | 5 |
-| [AWS hosted GitLab runners question](https://www.reddit.com/r/devops/comments/vtq1ma/aws_hosted_gitlab_runners_question/) | SirGeraltTheWitcher | 4 |
-| [How do you manage IaC for DNS?](https://www.reddit.com/r/devops/comments/vtp9cb/how_do_you_manage_iac_for_dns/) | jblaaa | 3 |
-| [Will I lose my programming skills if I go from full stack engineer -&gt; DevOps engineer?](https://www.reddit.com/r/devops/comments/vu8f5u/will_i_lose_my_programming_skills_if_i_go_from/) | coffeebrah392 | 2 |
+| [What is the biggest mistake you've ever made during your career / biggest thing you've broke in prod? What happened?](https://www.reddit.com/r/devops/comments/vugw6x/what_is_the_biggest_mistake_youve_ever_made/) | coffeebrah392 | 105 |
+| [Please ELI5, why to use private subnets vs public subnets?](https://www.reddit.com/r/devops/comments/vuilwc/please_eli5_why_to_use_private_subnets_vs_public/) | leonardots1802 | 14 |
+| [Problem handling TCP traffic with nginx in EKS cluster](https://www.reddit.com/r/devops/comments/vulohc/problem_handling_tcp_traffic_with_nginx_in_eks/) | k_Reign | 7 |
+| [How would I go about importing docker images from private repo into gitlab?](https://www.reddit.com/r/devops/comments/vupazr/how_would_i_go_about_importing_docker_images_from/) | anonymousmonkey339 | 4 |
+| [Entry Level Work Experience Question](https://www.reddit.com/r/devops/comments/vuoryw/entry_level_work_experience_question/) | yanggang20202024 | 4 |
+| [Documentation](https://www.reddit.com/r/devops/comments/vu9mga/documentation/) | moe681 | 4 |
+| [Creating a whole automation infrastructure as a junior?](https://www.reddit.com/r/devops/comments/vuba1d/creating_a_whole_automation_infrastructure_as_a/) | rischuhm | 2 |
+| [Do I need a reverse proxy?](https://www.reddit.com/r/devops/comments/vukixt/do_i_need_a_reverse_proxy/) | ajourneytogrowth | 1 |
+| [What are the devops fundamentals a full stack engineer should know?](https://www.reddit.com/r/devops/comments/vuhui0/what_are_the_devops_fundamentals_a_full_stack/) | ajourneytogrowth | 0 |
+| [Unit test for an installer](https://www.reddit.com/r/devops/comments/vufx4z/unit_test_for_an_installer/) | Dr-Vader | 0 |
