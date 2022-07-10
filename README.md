@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What is the biggest mistake you've ever made during your career / biggest thing you've broke in prod? What happened?](https://www.reddit.com/r/devops/comments/vugw6x/what_is_the_biggest_mistake_youve_ever_made/) | coffeebrah392 | 105 |
-| [Please ELI5, why to use private subnets vs public subnets?](https://www.reddit.com/r/devops/comments/vuilwc/please_eli5_why_to_use_private_subnets_vs_public/) | leonardots1802 | 14 |
-| [Problem handling TCP traffic with nginx in EKS cluster](https://www.reddit.com/r/devops/comments/vulohc/problem_handling_tcp_traffic_with_nginx_in_eks/) | k_Reign | 7 |
-| [How would I go about importing docker images from private repo into gitlab?](https://www.reddit.com/r/devops/comments/vupazr/how_would_i_go_about_importing_docker_images_from/) | anonymousmonkey339 | 4 |
-| [Entry Level Work Experience Question](https://www.reddit.com/r/devops/comments/vuoryw/entry_level_work_experience_question/) | yanggang20202024 | 4 |
-| [Documentation](https://www.reddit.com/r/devops/comments/vu9mga/documentation/) | moe681 | 4 |
-| [Creating a whole automation infrastructure as a junior?](https://www.reddit.com/r/devops/comments/vuba1d/creating_a_whole_automation_infrastructure_as_a/) | rischuhm | 2 |
-| [Do I need a reverse proxy?](https://www.reddit.com/r/devops/comments/vukixt/do_i_need_a_reverse_proxy/) | ajourneytogrowth | 1 |
-| [What are the devops fundamentals a full stack engineer should know?](https://www.reddit.com/r/devops/comments/vuhui0/what_are_the_devops_fundamentals_a_full_stack/) | ajourneytogrowth | 0 |
-| [Unit test for an installer](https://www.reddit.com/r/devops/comments/vufx4z/unit_test_for_an_installer/) | Dr-Vader | 0 |
+| [The Pheonix Project - Have you read it and have you applied it to your organization?](https://www.reddit.com/r/devops/comments/vv8jm0/the_pheonix_project_have_you_read_it_and_have_you/) | 1whatabeautifulday | 99 |
+| [For those who tried both Pulumi &amp; Terraform, which one did you prefer and why?](https://www.reddit.com/r/devops/comments/vvcle7/for_those_who_tried_both_pulumi_terraform_which/) | hanaa42 | 81 |
+| [Personal Development Planning](https://www.reddit.com/r/devops/comments/vvipro/personal_development_planning/) | CyberStagist | 13 |
+| [How to restrict access to a Tornado server to Flask logged in users?](https://www.reddit.com/r/devops/comments/vvagc1/how_to_restrict_access_to_a_tornado_server_to/) | mr_claw | 6 |
+| [k8S Liveness Probe fails under load](https://www.reddit.com/r/devops/comments/vvdpbx/k8s_liveness_probe_fails_under_load/) | chazapp | 2 |
+| [Packaging project](https://www.reddit.com/r/devops/comments/vvltar/packaging_project/) | Affectionate_Log999 | 0 |
