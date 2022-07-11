@@ -44,9 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [The Pheonix Project - Have you read it and have you applied it to your organization?](https://www.reddit.com/r/devops/comments/vv8jm0/the_pheonix_project_have_you_read_it_and_have_you/) | 1whatabeautifulday | 99 |
-| [For those who tried both Pulumi &amp; Terraform, which one did you prefer and why?](https://www.reddit.com/r/devops/comments/vvcle7/for_those_who_tried_both_pulumi_terraform_which/) | hanaa42 | 81 |
-| [Personal Development Planning](https://www.reddit.com/r/devops/comments/vvipro/personal_development_planning/) | CyberStagist | 13 |
-| [How to restrict access to a Tornado server to Flask logged in users?](https://www.reddit.com/r/devops/comments/vvagc1/how_to_restrict_access_to_a_tornado_server_to/) | mr_claw | 6 |
-| [k8S Liveness Probe fails under load](https://www.reddit.com/r/devops/comments/vvdpbx/k8s_liveness_probe_fails_under_load/) | chazapp | 2 |
-| [Packaging project](https://www.reddit.com/r/devops/comments/vvltar/packaging_project/) | Affectionate_Log999 | 0 |
+| [I just migrated our SOA to Kubernetes on production and now I am getting more eyeballs on my LinkedIn than ever before.](https://www.reddit.com/r/devops/comments/vw83g8/i_just_migrated_our_soa_to_kubernetes_on/) | PartemConsilio | 64 |
+| [Junior DevOps struggling to shape a carreer path](https://www.reddit.com/r/devops/comments/vvwtzk/junior_devops_struggling_to_shape_a_carreer_path/) | Felix1178 | 57 |
+| [What programming languages do you use as DevOps?](https://www.reddit.com/r/devops/comments/vvweeo/what_programming_languages_do_you_use_as_devops/) | ev0xmusic | 41 |
+| [Wrote a tool to view your git commit history across multiple directories, ideal for standup.](https://www.reddit.com/r/devops/comments/vw312u/wrote_a_tool_to_view_your_git_commit_history/) | MultiverseJack | 15 |
+| [Portable/reusable dev environement](https://www.reddit.com/r/devops/comments/vw0ayh/portablereusable_dev_environement/) | Available_Mistake314 | 9 |
+| [ingress-nginx, clarification on load balancing](https://www.reddit.com/r/devops/comments/vvwxr6/ingressnginx_clarification_on_load_balancing/) | spoveddevops | 4 |
+| [My experience in the job market as non-IT but freshly employed devops.](https://www.reddit.com/r/devops/comments/vweaez/my_experience_in_the_job_market_as_nonit_but/) | jury_rigger | 3 |
+| [BitBucket Setup - multiple Workspaces?](https://www.reddit.com/r/devops/comments/vw9yj2/bitbucket_setup_multiple_workspaces/) | mr-nobody1992 | 3 |
+| [traefik HTTP POST request net::ERR_CONNECTION_RESET](https://www.reddit.com/r/devops/comments/vwdw7h/traefik_http_post_request_neterr_connection_reset/) | GoRedPlanet | 2 |
+| [General Service Deployment questions](https://www.reddit.com/r/devops/comments/vw1xih/general_service_deployment_questions/) | lord_jabronious | 2 |
