@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I just migrated our SOA to Kubernetes on production and now I am getting more eyeballs on my LinkedIn than ever before.](https://www.reddit.com/r/devops/comments/vw83g8/i_just_migrated_our_soa_to_kubernetes_on/) | PartemConsilio | 64 |
-| [Junior DevOps struggling to shape a carreer path](https://www.reddit.com/r/devops/comments/vvwtzk/junior_devops_struggling_to_shape_a_carreer_path/) | Felix1178 | 57 |
-| [What programming languages do you use as DevOps?](https://www.reddit.com/r/devops/comments/vvweeo/what_programming_languages_do_you_use_as_devops/) | ev0xmusic | 41 |
-| [Wrote a tool to view your git commit history across multiple directories, ideal for standup.](https://www.reddit.com/r/devops/comments/vw312u/wrote_a_tool_to_view_your_git_commit_history/) | MultiverseJack | 15 |
-| [Portable/reusable dev environement](https://www.reddit.com/r/devops/comments/vw0ayh/portablereusable_dev_environement/) | Available_Mistake314 | 9 |
-| [ingress-nginx, clarification on load balancing](https://www.reddit.com/r/devops/comments/vvwxr6/ingressnginx_clarification_on_load_balancing/) | spoveddevops | 4 |
-| [My experience in the job market as non-IT but freshly employed devops.](https://www.reddit.com/r/devops/comments/vweaez/my_experience_in_the_job_market_as_nonit_but/) | jury_rigger | 3 |
-| [BitBucket Setup - multiple Workspaces?](https://www.reddit.com/r/devops/comments/vw9yj2/bitbucket_setup_multiple_workspaces/) | mr-nobody1992 | 3 |
-| [traefik HTTP POST request net::ERR_CONNECTION_RESET](https://www.reddit.com/r/devops/comments/vwdw7h/traefik_http_post_request_neterr_connection_reset/) | GoRedPlanet | 2 |
-| [General Service Deployment questions](https://www.reddit.com/r/devops/comments/vw1xih/general_service_deployment_questions/) | lord_jabronious | 2 |
+| [Building a time sheet application in AWS - it can't be this simple, can it?](https://www.reddit.com/r/devops/comments/vwmhoq/building_a_time_sheet_application_in_aws_it_cant/) | Marquis77 | 68 |
+| [How can I safely use git push in a build pipeline?](https://www.reddit.com/r/devops/comments/vwvb23/how_can_i_safely_use_git_push_in_a_build_pipeline/) | YakaryBovine | 31 |
+| [Would you consider a position in outsourcing company as a Devops if pay was good?](https://www.reddit.com/r/devops/comments/vwk98l/would_you_consider_a_position_in_outsourcing/) | pojzon_poe | 9 |
+| [Timeseries Database for 100M timeseries](https://www.reddit.com/r/devops/comments/vx65i4/timeseries_database_for_100m_timeseries/) | zuxqoj | 8 |
+| [Devs who are involved in the hiring process](https://www.reddit.com/r/devops/comments/vwihkp/devs_who_are_involved_in_the_hiring_process/) | locsandcrocs | 7 |
+| [Help - A little overwhelmed in DevOps](https://www.reddit.com/r/devops/comments/vwgu5b/help_a_little_overwhelmed_in_devops/) | Campbell229 | 2 |
+| [Full stack deployment advice](https://www.reddit.com/r/devops/comments/vx8pr2/full_stack_deployment_advice/) | paddy-fields | 2 |
+| [docker or lxc for dev integration ?](https://www.reddit.com/r/devops/comments/vwq6da/docker_or_lxc_for_dev_integration/) | -lemniscat- | 1 |
+| [Is there a terraform plugin/tool that shows changes in final entities, as opposed to the plan command which shows changes in resources](https://www.reddit.com/r/devops/comments/vx9b1u/is_there_a_terraform_plugintool_that_shows/) | jimmy_o | 1 |
+| [refactoring](https://www.reddit.com/r/devops/comments/vx7kn5/refactoring/) | Affectionate_Log999 | 0 |
