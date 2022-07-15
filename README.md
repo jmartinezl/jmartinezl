@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Anyone else find that smaller startups, and to an extent bigger companies, tend to "cargo cult" certain processes like in hiring and operating because "that's the way FAANG does it?"](https://www.reddit.com/r/devops/comments/vy8k2n/anyone_else_find_that_smaller_startups_and_to_an/) | IndieDiscovery | 184 |
-| [Policy as code tools](https://www.reddit.com/r/devops/comments/vy41bw/policy_as_code_tools/) | jgseven | 25 |
-| [Learning DevOps Concepts The Right Way](https://www.reddit.com/r/devops/comments/vy88tk/learning_devops_concepts_the_right_way/) | 13luckycaesar | 22 |
-| [DevOps online conference List - July 2022 update](https://www.reddit.com/r/devops/comments/vyozz6/devops_online_conference_list_july_2022_update/) | czerniga_it | 13 |
-| [Azure/Terraform interview questions?](https://www.reddit.com/r/devops/comments/vy41jv/azureterraform_interview_questions/) | __Mars__ | 7 |
-| [Are these interview red flags?](https://www.reddit.com/r/devops/comments/vybyzu/are_these_interview_red_flags/) | SpringsPanda | 6 |
-| [OCI and Terraform on free tier - Authentication error](https://www.reddit.com/r/devops/comments/vy2pae/oci_and_terraform_on_free_tier_authentication/) | Shanduur | 4 |
-| [DevOps educational content](https://www.reddit.com/r/devops/comments/vycv8d/devops_educational_content/) | PeacefulEnemy | 4 |
-| [docker-compose container + cert](https://www.reddit.com/r/devops/comments/vyrxg2/dockercompose_container_cert/) | dvarrui | 2 |
-| [Environments](https://www.reddit.com/r/devops/comments/vysc7g/environments/) | gdullus | 2 |
+| [Which project management tools implement agile development?](https://www.reddit.com/r/devops/comments/vz060v/which_project_management_tools_implement_agile/) | ruubysesh | 173 |
+| [Who wants some mentoring?](https://www.reddit.com/r/devops/comments/vyv1sq/who_wants_some_mentoring/) | penguinforpresident | 55 |
+| [What are your biggest frustrations with documentation?](https://www.reddit.com/r/devops/comments/vyw36v/what_are_your_biggest_frustrations_with/) | _conquistador | 33 |
+| [Build Something Real - the Cloud Resume Challenge Philosophy](https://www.reddit.com/r/devops/comments/vyzvju/build_something_real_the_cloud_resume_challenge/) | doodlebytes | 27 |
+| [Do you use a IaC CD Tool?](https://www.reddit.com/r/devops/comments/vzefyt/do_you_use_a_iac_cd_tool/) | zlancer1 | 7 |
+| [Have you ever deployed infrastructure on AWS China?](https://www.reddit.com/r/devops/comments/vyzgf2/have_you_ever_deployed_infrastructure_on_aws_china/) | ev0xmusic | 6 |
+| [Importing google workspace users and groups to LDAP/AD server](https://www.reddit.com/r/devops/comments/vzktcj/importing_google_workspace_users_and_groups_to/) | merunkovice4ever | 5 |
+| [Related to pipelines ( I am new)](https://www.reddit.com/r/devops/comments/vzij99/related_to_pipelines_i_am_new/) | jazz2hott | 4 |
+| [what is your strategy for publishing multi-environment docker images in Gitlab Container Registry?](https://www.reddit.com/r/devops/comments/vzi5pu/what_is_your_strategy_for_publishing/) | kingindanord | 3 |
+| [What are the best practices to be considered for hosting Active directory in AWS?](https://www.reddit.com/r/devops/comments/vzc1bo/what_are_the_best_practices_to_be_considered_for/) | cuproud | 3 |
