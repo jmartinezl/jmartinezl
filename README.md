@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Which project management tools implement agile development?](https://www.reddit.com/r/devops/comments/vz060v/which_project_management_tools_implement_agile/) | ruubysesh | 173 |
-| [Who wants some mentoring?](https://www.reddit.com/r/devops/comments/vyv1sq/who_wants_some_mentoring/) | penguinforpresident | 55 |
-| [What are your biggest frustrations with documentation?](https://www.reddit.com/r/devops/comments/vyw36v/what_are_your_biggest_frustrations_with/) | _conquistador | 33 |
-| [Build Something Real - the Cloud Resume Challenge Philosophy](https://www.reddit.com/r/devops/comments/vyzvju/build_something_real_the_cloud_resume_challenge/) | doodlebytes | 27 |
-| [Do you use a IaC CD Tool?](https://www.reddit.com/r/devops/comments/vzefyt/do_you_use_a_iac_cd_tool/) | zlancer1 | 7 |
-| [Have you ever deployed infrastructure on AWS China?](https://www.reddit.com/r/devops/comments/vyzgf2/have_you_ever_deployed_infrastructure_on_aws_china/) | ev0xmusic | 6 |
-| [Importing google workspace users and groups to LDAP/AD server](https://www.reddit.com/r/devops/comments/vzktcj/importing_google_workspace_users_and_groups_to/) | merunkovice4ever | 5 |
-| [Related to pipelines ( I am new)](https://www.reddit.com/r/devops/comments/vzij99/related_to_pipelines_i_am_new/) | jazz2hott | 4 |
-| [what is your strategy for publishing multi-environment docker images in Gitlab Container Registry?](https://www.reddit.com/r/devops/comments/vzi5pu/what_is_your_strategy_for_publishing/) | kingindanord | 3 |
-| [What are the best practices to be considered for hosting Active directory in AWS?](https://www.reddit.com/r/devops/comments/vzc1bo/what_are_the_best_practices_to_be_considered_for/) | cuproud | 3 |
+| [Getting Harrassed by datadog - rant, suggestions](https://www.reddit.com/r/devops/comments/vzpqsw/getting_harrassed_by_datadog_rant_suggestions/) | ubi313 | 178 |
+| [DevOps noob here, help needed with an API Gateway.](https://www.reddit.com/r/devops/comments/vzq9tf/devops_noob_here_help_needed_with_an_api_gateway/) | andystevens91 | 10 |
+| [Is it normal to feel intimidated by DevOps? A bit long, but I hope you benefit from it.](https://www.reddit.com/r/devops/comments/vzqpbr/is_it_normal_to_feel_intimidated_by_devops_a_bit/) | Curious_Fishing690 | 7 |
+| [your thoughts on Consul API Gateway?](https://www.reddit.com/r/devops/comments/w0c2p1/your_thoughts_on_consul_api_gateway/) | kingindanord | 5 |
+| [Github Actions -&gt; ArgoCD | Concurrency/Mutex per Job](https://www.reddit.com/r/devops/comments/vztss5/github_actions_argocd_concurrencymutex_per_job/) | FourKindsOfRice | 4 |
+| [How do you guys feel about 4/10 work weeks?](https://www.reddit.com/r/devops/comments/vzwpr5/how_do_you_guys_feel_about_410_work_weeks/) | SomedayGuy117 | 3 |
+| [APM Tracing options for Vercel](https://www.reddit.com/r/devops/comments/w004wa/apm_tracing_options_for_vercel/) | hellatipsy | 3 |
+| [Github Actions reusable workflow](https://www.reddit.com/r/devops/comments/vzwwdk/github_actions_reusable_workflow/) | lilamar31 | 2 |
+| [Help in jenkinsfile](https://www.reddit.com/r/devops/comments/w0e2fi/help_in_jenkinsfile/) | Destroychan | 1 |
+| [Error:- Reason: Initial configuration of the requested backend "s3"](https://www.reddit.com/r/devops/comments/vzwwuo/error_reason_initial_configuration_of_the/) | noob098098 | 1 |
