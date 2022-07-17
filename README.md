@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Getting Harrassed by datadog - rant, suggestions](https://www.reddit.com/r/devops/comments/vzpqsw/getting_harrassed_by_datadog_rant_suggestions/) | ubi313 | 178 |
-| [DevOps noob here, help needed with an API Gateway.](https://www.reddit.com/r/devops/comments/vzq9tf/devops_noob_here_help_needed_with_an_api_gateway/) | andystevens91 | 10 |
-| [Is it normal to feel intimidated by DevOps? A bit long, but I hope you benefit from it.](https://www.reddit.com/r/devops/comments/vzqpbr/is_it_normal_to_feel_intimidated_by_devops_a_bit/) | Curious_Fishing690 | 7 |
-| [your thoughts on Consul API Gateway?](https://www.reddit.com/r/devops/comments/w0c2p1/your_thoughts_on_consul_api_gateway/) | kingindanord | 5 |
-| [Github Actions -&gt; ArgoCD | Concurrency/Mutex per Job](https://www.reddit.com/r/devops/comments/vztss5/github_actions_argocd_concurrencymutex_per_job/) | FourKindsOfRice | 4 |
-| [How do you guys feel about 4/10 work weeks?](https://www.reddit.com/r/devops/comments/vzwpr5/how_do_you_guys_feel_about_410_work_weeks/) | SomedayGuy117 | 3 |
-| [APM Tracing options for Vercel](https://www.reddit.com/r/devops/comments/w004wa/apm_tracing_options_for_vercel/) | hellatipsy | 3 |
-| [Github Actions reusable workflow](https://www.reddit.com/r/devops/comments/vzwwdk/github_actions_reusable_workflow/) | lilamar31 | 2 |
-| [Help in jenkinsfile](https://www.reddit.com/r/devops/comments/w0e2fi/help_in_jenkinsfile/) | Destroychan | 1 |
-| [Error:- Reason: Initial configuration of the requested backend "s3"](https://www.reddit.com/r/devops/comments/vzwwuo/error_reason_initial_configuration_of_the/) | noob098098 | 1 |
+| [Questions to ask for first devops job?](https://www.reddit.com/r/devops/comments/w0hzq4/questions_to_ask_for_first_devops_job/) | Leveronni | 94 |
+| [Some handy kubectl shell functions](https://www.reddit.com/r/devops/comments/w0nuze/some_handy_kubectl_shell_functions/) | bhupixb_ | 17 |
+| [What is the best choice for a second programming language after Python for DevOps in modern job market?](https://www.reddit.com/r/devops/comments/w0sdhh/what_is_the_best_choice_for_a_second_programming/) | RP_m_13 | 15 |
+| [Using Argo CD and Kustomize for ConfigMap Rollouts](https://www.reddit.com/r/devops/comments/w0pa80/using_argo_cd_and_kustomize_for_configmap_rollouts/) | nfrankel | 1 |
+| [Email spamfilter middelware / inbound protection](https://www.reddit.com/r/devops/comments/w0owvn/email_spamfilter_middelware_inbound_protection/) | TwinnyNO | 1 |
+| [I'm getting a couple of interviews with tech startups. Is there any advice or things to watch out for going into these interviews?](https://www.reddit.com/r/devops/comments/w0o9x7/im_getting_a_couple_of_interviews_with_tech/) | sevenstreak | 0 |
