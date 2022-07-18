@@ -44,9 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Questions to ask for first devops job?](https://www.reddit.com/r/devops/comments/w0hzq4/questions_to_ask_for_first_devops_job/) | Leveronni | 94 |
-| [Some handy kubectl shell functions](https://www.reddit.com/r/devops/comments/w0nuze/some_handy_kubectl_shell_functions/) | bhupixb_ | 17 |
-| [What is the best choice for a second programming language after Python for DevOps in modern job market?](https://www.reddit.com/r/devops/comments/w0sdhh/what_is_the_best_choice_for_a_second_programming/) | RP_m_13 | 15 |
-| [Using Argo CD and Kustomize for ConfigMap Rollouts](https://www.reddit.com/r/devops/comments/w0pa80/using_argo_cd_and_kustomize_for_configmap_rollouts/) | nfrankel | 1 |
-| [Email spamfilter middelware / inbound protection](https://www.reddit.com/r/devops/comments/w0owvn/email_spamfilter_middelware_inbound_protection/) | TwinnyNO | 1 |
-| [I'm getting a couple of interviews with tech startups. Is there any advice or things to watch out for going into these interviews?](https://www.reddit.com/r/devops/comments/w0o9x7/im_getting_a_couple_of_interviews_with_tech/) | sevenstreak | 0 |
+| [Dear Datadog….](https://www.reddit.com/r/devops/comments/w1dfhp/dear_datadog/) | Jman1994678 | 307 |
+| [I present to you: The FART Stack!](https://www.reddit.com/r/devops/comments/w1jw2b/i_present_to_you_the_fart_stack/) | moldykobold | 45 |
+| [What is your preferred CI/CD tool?](https://www.reddit.com/r/devops/comments/w1chjk/what_is_your_preferred_cicd_tool/) | Leveronni | 38 |
+| [Running python when building a Docker image on AWS](https://www.reddit.com/r/devops/comments/w17dvz/running_python_when_building_a_docker_image_on_aws/) | pgcd | 30 |
+| [Old man- new path?](https://www.reddit.com/r/devops/comments/w1eq9o/old_man_new_path/) | This_ass_hole | 7 |
+| [Writing your own service discovery client for Apache APISIX](https://www.reddit.com/r/devops/comments/w1auu9/writing_your_own_service_discovery_client_for/) | nfrankel | 5 |
+| [What is your GOTO telemetry solution ?](https://www.reddit.com/r/devops/comments/w1bs04/what_is_your_goto_telemetry_solution/) | pojzon_poe | 3 |
+| [Got Amazon interview in few days, need advice and suggestions.](https://www.reddit.com/r/devops/comments/w1gaea/got_amazon_interview_in_few_days_need_advice_and/) | ashofspades | 3 |
+| [Mail service with highest deliverability](https://www.reddit.com/r/devops/comments/w1imuq/mail_service_with_highest_deliverability/) | u2nyr | 2 |
+| [Which countries have a higher demand for DevOps engineers](https://www.reddit.com/r/devops/comments/w1e2cl/which_countries_have_a_higher_demand_for_devops/) | canfather81 | 1 |
