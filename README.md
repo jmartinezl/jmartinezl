@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Dear Datadog….](https://www.reddit.com/r/devops/comments/w1dfhp/dear_datadog/) | Jman1994678 | 307 |
-| [I present to you: The FART Stack!](https://www.reddit.com/r/devops/comments/w1jw2b/i_present_to_you_the_fart_stack/) | moldykobold | 45 |
-| [What is your preferred CI/CD tool?](https://www.reddit.com/r/devops/comments/w1chjk/what_is_your_preferred_cicd_tool/) | Leveronni | 38 |
-| [Running python when building a Docker image on AWS](https://www.reddit.com/r/devops/comments/w17dvz/running_python_when_building_a_docker_image_on_aws/) | pgcd | 30 |
-| [Old man- new path?](https://www.reddit.com/r/devops/comments/w1eq9o/old_man_new_path/) | This_ass_hole | 7 |
-| [Writing your own service discovery client for Apache APISIX](https://www.reddit.com/r/devops/comments/w1auu9/writing_your_own_service_discovery_client_for/) | nfrankel | 5 |
-| [What is your GOTO telemetry solution ?](https://www.reddit.com/r/devops/comments/w1bs04/what_is_your_goto_telemetry_solution/) | pojzon_poe | 3 |
-| [Got Amazon interview in few days, need advice and suggestions.](https://www.reddit.com/r/devops/comments/w1gaea/got_amazon_interview_in_few_days_need_advice_and/) | ashofspades | 3 |
-| [Mail service with highest deliverability](https://www.reddit.com/r/devops/comments/w1imuq/mail_service_with_highest_deliverability/) | u2nyr | 2 |
-| [Which countries have a higher demand for DevOps engineers](https://www.reddit.com/r/devops/comments/w1e2cl/which_countries_have_a_higher_demand_for_devops/) | canfather81 | 1 |
+| [FYI: AWS SSO outage in us-east-1](https://www.reddit.com/r/devops/comments/w21yin/fyi_aws_sso_outage_in_useast1/) | TheAlmightyZach | 76 |
+| [One Cheat Sheet to rule them all?](https://www.reddit.com/r/devops/comments/w1zh5a/one_cheat_sheet_to_rule_them_all/) | ChadDa3mon | 56 |
+| [DevOps people - What are you called?](https://www.reddit.com/r/devops/comments/w1yk4b/devops_people_what_are_you_called/) | juzchillie | 47 |
+| [DevOps Project - Serverless Malware URL Checking Application](https://www.reddit.com/r/devops/comments/w2j6xz/devops_project_serverless_malware_url_checking/) | linuxtek_canada | 30 |
+| [Python and JavaScript DevOps use cases](https://www.reddit.com/r/devops/comments/w1z2tv/python_and_javascript_devops_use_cases/) | OpenCatalyst8 | 10 |
+| [Experience with Liquibase and similar software](https://www.reddit.com/r/devops/comments/w20zms/experience_with_liquibase_and_similar_software/) | saxopilatov | 8 |
+| [Gecho - HTTP echo service written in Go](https://www.reddit.com/r/devops/comments/w278vu/gecho_http_echo_service_written_in_go/) | dothash | 7 |
+| [DevOps Bulletin Newsletter - Issue 60](https://www.reddit.com/r/devops/comments/w1y96m/devops_bulletin_newsletter_issue_60/) | labouardy | 7 |
+| [Sample documentation for API Development](https://www.reddit.com/r/devops/comments/w2qo57/sample_documentation_for_api_development/) | Mobile-Victory9679 | 2 |
+| [Managing multiple AWS lambda via CICD](https://www.reddit.com/r/devops/comments/w25jji/managing_multiple_aws_lambda_via_cicd/) | physicsiscool | 2 |
