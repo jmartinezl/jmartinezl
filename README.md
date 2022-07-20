@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [FYI: AWS SSO outage in us-east-1](https://www.reddit.com/r/devops/comments/w21yin/fyi_aws_sso_outage_in_useast1/) | TheAlmightyZach | 76 |
-| [One Cheat Sheet to rule them all?](https://www.reddit.com/r/devops/comments/w1zh5a/one_cheat_sheet_to_rule_them_all/) | ChadDa3mon | 56 |
-| [DevOps people - What are you called?](https://www.reddit.com/r/devops/comments/w1yk4b/devops_people_what_are_you_called/) | juzchillie | 47 |
-| [DevOps Project - Serverless Malware URL Checking Application](https://www.reddit.com/r/devops/comments/w2j6xz/devops_project_serverless_malware_url_checking/) | linuxtek_canada | 30 |
-| [Python and JavaScript DevOps use cases](https://www.reddit.com/r/devops/comments/w1z2tv/python_and_javascript_devops_use_cases/) | OpenCatalyst8 | 10 |
-| [Experience with Liquibase and similar software](https://www.reddit.com/r/devops/comments/w20zms/experience_with_liquibase_and_similar_software/) | saxopilatov | 8 |
-| [Gecho - HTTP echo service written in Go](https://www.reddit.com/r/devops/comments/w278vu/gecho_http_echo_service_written_in_go/) | dothash | 7 |
-| [DevOps Bulletin Newsletter - Issue 60](https://www.reddit.com/r/devops/comments/w1y96m/devops_bulletin_newsletter_issue_60/) | labouardy | 7 |
-| [Sample documentation for API Development](https://www.reddit.com/r/devops/comments/w2qo57/sample_documentation_for_api_development/) | Mobile-Victory9679 | 2 |
-| [Managing multiple AWS lambda via CICD](https://www.reddit.com/r/devops/comments/w25jji/managing_multiple_aws_lambda_via_cicd/) | physicsiscool | 2 |
+| [Docker containers only being utilized a fraction of the time](https://www.reddit.com/r/devops/comments/w2wv44/docker_containers_only_being_utilized_a_fraction/) | Niller98 | 58 |
+| [Terraform Module Template](https://www.reddit.com/r/devops/comments/w32au0/terraform_module_template/) | shadycuz | 40 |
+| [Job Hunting?](https://www.reddit.com/r/devops/comments/w2ykq1/job_hunting/) | __Mars__ | 24 |
+| [How do you store and version control your kubernetes secrets?](https://www.reddit.com/r/devops/comments/w2t5i2/how_do_you_store_and_version_control_your/) | evoosa | 8 |
+| [Which software should I use for my use case ?](https://www.reddit.com/r/devops/comments/w3hxnj/which_software_should_i_use_for_my_use_case/) | AccurateGalette | 7 |
+| [Role based access to various 'back end' ops services in AWS](https://www.reddit.com/r/devops/comments/w2x21p/role_based_access_to_various_back_end_ops/) | right_closed_traffic | 6 |
+| [need information about development environments on kubernetes](https://www.reddit.com/r/devops/comments/w3iyo6/need_information_about_development_environments/) | TheBadBossy | 4 |
+| [Separate stage and production - best practice for deploy into production](https://www.reddit.com/r/devops/comments/w3kf01/separate_stage_and_production_best_practice_for/) | _zmuss_ | 3 |
+| [Gitflow users – What's your process for merging between develop/release/main?](https://www.reddit.com/r/devops/comments/w2zj5e/gitflow_users_whats_your_process_for_merging/) | kristianwindsor | 3 |
+| [Flutter Packages That Developers Should Know](https://www.reddit.com/r/devops/comments/w3j5pw/flutter_packages_that_developers_should_know/) | geeksforgeeks | 2 |
