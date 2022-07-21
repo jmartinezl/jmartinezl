@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Docker containers only being utilized a fraction of the time](https://www.reddit.com/r/devops/comments/w2wv44/docker_containers_only_being_utilized_a_fraction/) | Niller98 | 58 |
-| [Terraform Module Template](https://www.reddit.com/r/devops/comments/w32au0/terraform_module_template/) | shadycuz | 40 |
-| [Job Hunting?](https://www.reddit.com/r/devops/comments/w2ykq1/job_hunting/) | __Mars__ | 24 |
-| [How do you store and version control your kubernetes secrets?](https://www.reddit.com/r/devops/comments/w2t5i2/how_do_you_store_and_version_control_your/) | evoosa | 8 |
-| [Which software should I use for my use case ?](https://www.reddit.com/r/devops/comments/w3hxnj/which_software_should_i_use_for_my_use_case/) | AccurateGalette | 7 |
-| [Role based access to various 'back end' ops services in AWS](https://www.reddit.com/r/devops/comments/w2x21p/role_based_access_to_various_back_end_ops/) | right_closed_traffic | 6 |
-| [need information about development environments on kubernetes](https://www.reddit.com/r/devops/comments/w3iyo6/need_information_about_development_environments/) | TheBadBossy | 4 |
-| [Separate stage and production - best practice for deploy into production](https://www.reddit.com/r/devops/comments/w3kf01/separate_stage_and_production_best_practice_for/) | _zmuss_ | 3 |
-| [Gitflow users – What's your process for merging between develop/release/main?](https://www.reddit.com/r/devops/comments/w2zj5e/gitflow_users_whats_your_process_for_merging/) | kristianwindsor | 3 |
-| [Flutter Packages That Developers Should Know](https://www.reddit.com/r/devops/comments/w3j5pw/flutter_packages_that_developers_should_know/) | geeksforgeeks | 2 |
+| [How do you manage secrets?](https://www.reddit.com/r/devops/comments/w3uh4e/how_do_you_manage_secrets/) | funbike | 89 |
+| [Interview to hire bait and switch](https://www.reddit.com/r/devops/comments/w3y5j8/interview_to_hire_bait_and_switch/) | Spirited-Party-5252 | 54 |
+| [Is there general value in specializing in both AWS and Azure DevOps rather than focusing on only one?](https://www.reddit.com/r/devops/comments/w3me0w/is_there_general_value_in_specializing_in_both/) | DelicateJohnson | 10 |
+| [Scrumaster that the tries to micromanage](https://www.reddit.com/r/devops/comments/w4ejl1/scrumaster_that_the_tries_to_micromanage/) | Felix1178 | 7 |
+| [What VCS is good for binary files?](https://www.reddit.com/r/devops/comments/w3tpoa/what_vcs_is_good_for_binary_files/) | Hplr63 | 6 |
+| [Why does nobody seem to know what "imperative" and "declarative" actually mean?](https://www.reddit.com/r/devops/comments/w46wqv/why_does_nobody_seem_to_know_what_imperative_and/) | jaxxstorm | 3 |
+| [looking for small devops freelancing work](https://www.reddit.com/r/devops/comments/w3uqxl/looking_for_small_devops_freelancing_work/) | snake_py | 2 |
+| [What are your thoughts on using Terraform to manage application deployment](https://www.reddit.com/r/devops/comments/w3qw5w/what_are_your_thoughts_on_using_terraform_to/) | ProductGlittering851 | 2 |
+| [For one environment (dev, qa, prod...), should I have many DBs in a single GCP CloudSQL or should I have many CloudSQL instances, each with a single DB](https://www.reddit.com/r/devops/comments/w3n1nf/for_one_environment_dev_qa_prod_should_i_have/) | devops_wannabe | 2 |
+| [FluxCD: Monorepo with directory, branching or tagging strategy](https://www.reddit.com/r/devops/comments/w3ogh2/fluxcd_monorepo_with_directory_branching_or/) | harcher81 | 2 |
