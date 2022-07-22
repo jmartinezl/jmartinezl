@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you manage secrets?](https://www.reddit.com/r/devops/comments/w3uh4e/how_do_you_manage_secrets/) | funbike | 89 |
-| [Interview to hire bait and switch](https://www.reddit.com/r/devops/comments/w3y5j8/interview_to_hire_bait_and_switch/) | Spirited-Party-5252 | 54 |
-| [Is there general value in specializing in both AWS and Azure DevOps rather than focusing on only one?](https://www.reddit.com/r/devops/comments/w3me0w/is_there_general_value_in_specializing_in_both/) | DelicateJohnson | 10 |
-| [Scrumaster that the tries to micromanage](https://www.reddit.com/r/devops/comments/w4ejl1/scrumaster_that_the_tries_to_micromanage/) | Felix1178 | 7 |
-| [What VCS is good for binary files?](https://www.reddit.com/r/devops/comments/w3tpoa/what_vcs_is_good_for_binary_files/) | Hplr63 | 6 |
-| [Why does nobody seem to know what "imperative" and "declarative" actually mean?](https://www.reddit.com/r/devops/comments/w46wqv/why_does_nobody_seem_to_know_what_imperative_and/) | jaxxstorm | 3 |
-| [looking for small devops freelancing work](https://www.reddit.com/r/devops/comments/w3uqxl/looking_for_small_devops_freelancing_work/) | snake_py | 2 |
-| [What are your thoughts on using Terraform to manage application deployment](https://www.reddit.com/r/devops/comments/w3qw5w/what_are_your_thoughts_on_using_terraform_to/) | ProductGlittering851 | 2 |
-| [For one environment (dev, qa, prod...), should I have many DBs in a single GCP CloudSQL or should I have many CloudSQL instances, each with a single DB](https://www.reddit.com/r/devops/comments/w3n1nf/for_one_environment_dev_qa_prod_should_i_have/) | devops_wannabe | 2 |
-| [FluxCD: Monorepo with directory, branching or tagging strategy](https://www.reddit.com/r/devops/comments/w3ogh2/fluxcd_monorepo_with_directory_branching_or/) | harcher81 | 2 |
+| [UPDATE: Getting Harrassed by datadog](https://www.reddit.com/r/devops/comments/w4mvzs/update_getting_harrassed_by_datadog/) | ubi313 | 223 |
+| [I've only been at my cloud engineering job for a year, and now I'm getting reachouts for twice my pay.](https://www.reddit.com/r/devops/comments/w4msy0/ive_only_been_at_my_cloud_engineering_job_for_a/) | I_need_to_argue | 45 |
+| [cf2tf: A tool to automatically convert Cloudformation templates to Terraform](https://www.reddit.com/r/devops/comments/w4gw6z/cf2tf_a_tool_to_automatically_convert/) | shadycuz | 3 |
+| [Need advice. Feeling like an imposter at work.](https://www.reddit.com/r/devops/comments/w4pswj/need_advice_feeling_like_an_imposter_at_work/) | SuccessfulWish2736 | 3 |
+| [I still don’t understand why some are still against or unwilling to learn Kubernetes](https://www.reddit.com/r/devops/comments/w4piub/i_still_dont_understand_why_some_are_still/) | pinpinbo | 3 |
+| [Beginner at MLOps and DataOps](https://www.reddit.com/r/devops/comments/w4kbun/beginner_at_mlops_and_dataops/) | syzaak | 3 |
+| [is leetcode worth it ?](https://www.reddit.com/r/devops/comments/w55m48/is_leetcode_worth_it/) | FinnaGetRichh | 2 |
+| [Senior System Administrator Transitioning Into Devops](https://www.reddit.com/r/devops/comments/w4s1o6/senior_system_administrator_transitioning_into/) | Quit_Later | 2 |
+| [Has anyone been able to use templateRefs with containerSets in Argo Workflows?](https://www.reddit.com/r/devops/comments/w4mwhw/has_anyone_been_able_to_use_templaterefs_with/) | __papi_chulo__ | 2 |
+| [inventory database.](https://www.reddit.com/r/devops/comments/w4ogf3/inventory_database/) | vladoportos | 1 |
