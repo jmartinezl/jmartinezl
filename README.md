@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [UPDATE: Getting Harrassed by datadog](https://www.reddit.com/r/devops/comments/w4mvzs/update_getting_harrassed_by_datadog/) | ubi313 | 223 |
-| [I've only been at my cloud engineering job for a year, and now I'm getting reachouts for twice my pay.](https://www.reddit.com/r/devops/comments/w4msy0/ive_only_been_at_my_cloud_engineering_job_for_a/) | I_need_to_argue | 45 |
-| [cf2tf: A tool to automatically convert Cloudformation templates to Terraform](https://www.reddit.com/r/devops/comments/w4gw6z/cf2tf_a_tool_to_automatically_convert/) | shadycuz | 3 |
-| [Need advice. Feeling like an imposter at work.](https://www.reddit.com/r/devops/comments/w4pswj/need_advice_feeling_like_an_imposter_at_work/) | SuccessfulWish2736 | 3 |
-| [I still don’t understand why some are still against or unwilling to learn Kubernetes](https://www.reddit.com/r/devops/comments/w4piub/i_still_dont_understand_why_some_are_still/) | pinpinbo | 3 |
-| [Beginner at MLOps and DataOps](https://www.reddit.com/r/devops/comments/w4kbun/beginner_at_mlops_and_dataops/) | syzaak | 3 |
-| [is leetcode worth it ?](https://www.reddit.com/r/devops/comments/w55m48/is_leetcode_worth_it/) | FinnaGetRichh | 2 |
-| [Senior System Administrator Transitioning Into Devops](https://www.reddit.com/r/devops/comments/w4s1o6/senior_system_administrator_transitioning_into/) | Quit_Later | 2 |
-| [Has anyone been able to use templateRefs with containerSets in Argo Workflows?](https://www.reddit.com/r/devops/comments/w4mwhw/has_anyone_been_able_to_use_templaterefs_with/) | __papi_chulo__ | 2 |
-| [inventory database.](https://www.reddit.com/r/devops/comments/w4ogf3/inventory_database/) | vladoportos | 1 |
+| [Evaluating the top Terraform CI Platforms](https://www.reddit.com/r/devops/comments/w5fmta/evaluating_the_top_terraform_ci_platforms/) | BuildingDevOps | 111 |
+| [To make code review better, shouldn’t we have a proper checklist to search and find problems rather than searching for random bugs?](https://www.reddit.com/r/devops/comments/w5y7uc/to_make_code_review_better_shouldnt_we_have_a/) | BeginningPutter | 90 |
+| [The Rise of Observability (o11y): Neanderthals with logs to Astronauts with Instrument Panels](https://www.reddit.com/r/devops/comments/w5cmtl/the_rise_of_observability_o11y_neanderthals_with/) | hardwaresofton | 33 |
+| [how to speed up NA POS connection to Asian POS servers.](https://www.reddit.com/r/devops/comments/w5cihl/how_to_speed_up_na_pos_connection_to_asian_pos/) | movealongiamadroid | 3 |
+| [Heroku question about daily restarts](https://www.reddit.com/r/devops/comments/w5qpdj/heroku_question_about_daily_restarts/) | alejandrobrega | 2 |
+| [Hardware resource locking in CI/CD pipelines](https://www.reddit.com/r/devops/comments/w5u4w4/hardware_resource_locking_in_cicd_pipelines/) | BloodyFark | 2 |
+| [GKE Policy Automation: validate your cluster configurations](https://www.reddit.com/r/devops/comments/w5bty7/gke_policy_automation_validate_your_cluster/) | mikoSte | 2 |
+| [Docker for production env, testing, development, how to make it DRY and optimal?](https://www.reddit.com/r/devops/comments/w5xihx/docker_for_production_env_testing_development_how/) | neorr | 2 |
+| [Disaster Recovery](https://www.reddit.com/r/devops/comments/w5c7yw/disaster_recovery/) | Easy-Dragonfruit6606 | 2 |
+| [Gebug new release is out (v1.0.2) - now supports Homebrew installation](https://www.reddit.com/r/devops/comments/w5zrqp/gebug_new_release_is_out_v102_now_supports/) | moshebe_dev | 1 |
