@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Evaluating the top Terraform CI Platforms](https://www.reddit.com/r/devops/comments/w5fmta/evaluating_the_top_terraform_ci_platforms/) | BuildingDevOps | 111 |
-| [To make code review better, shouldn’t we have a proper checklist to search and find problems rather than searching for random bugs?](https://www.reddit.com/r/devops/comments/w5y7uc/to_make_code_review_better_shouldnt_we_have_a/) | BeginningPutter | 90 |
-| [The Rise of Observability (o11y): Neanderthals with logs to Astronauts with Instrument Panels](https://www.reddit.com/r/devops/comments/w5cmtl/the_rise_of_observability_o11y_neanderthals_with/) | hardwaresofton | 33 |
-| [how to speed up NA POS connection to Asian POS servers.](https://www.reddit.com/r/devops/comments/w5cihl/how_to_speed_up_na_pos_connection_to_asian_pos/) | movealongiamadroid | 3 |
-| [Heroku question about daily restarts](https://www.reddit.com/r/devops/comments/w5qpdj/heroku_question_about_daily_restarts/) | alejandrobrega | 2 |
-| [Hardware resource locking in CI/CD pipelines](https://www.reddit.com/r/devops/comments/w5u4w4/hardware_resource_locking_in_cicd_pipelines/) | BloodyFark | 2 |
-| [GKE Policy Automation: validate your cluster configurations](https://www.reddit.com/r/devops/comments/w5bty7/gke_policy_automation_validate_your_cluster/) | mikoSte | 2 |
-| [Docker for production env, testing, development, how to make it DRY and optimal?](https://www.reddit.com/r/devops/comments/w5xihx/docker_for_production_env_testing_development_how/) | neorr | 2 |
-| [Disaster Recovery](https://www.reddit.com/r/devops/comments/w5c7yw/disaster_recovery/) | Easy-Dragonfruit6606 | 2 |
-| [Gebug new release is out (v1.0.2) - now supports Homebrew installation](https://www.reddit.com/r/devops/comments/w5zrqp/gebug_new_release_is_out_v102_now_supports/) | moshebe_dev | 1 |
+| [Working as a "DevOps Engineer" but with caveats. Have the option of switching to Telco engineer. Interested and want to make a career in DevOps. Would this move be burning the bridges .](https://www.reddit.com/r/devops/comments/w6s4mu/working_as_a_devops_engineer_but_with_caveats/) | _suzzy1999_ | 10 |
+| [Advice needed for Automated E2E](https://www.reddit.com/r/devops/comments/w63h9k/advice_needed_for_automated_e2e/) | jonathon8903 | 2 |
+| [How do you go about learning new tools?](https://www.reddit.com/r/devops/comments/w6hsiw/how_do_you_go_about_learning_new_tools/) | DawsonHelms | 1 |
+| [[Suggestion/Help] Switched from Dev to Devops. Need suggestions regarding the Devops career.](https://www.reddit.com/r/devops/comments/w66npm/suggestionhelp_switched_from_dev_to_devops_need/) | Plenty_Ad_8967 | 0 |
+| [Utility or tool on Go](https://www.reddit.com/r/devops/comments/w65v6f/utility_or_tool_on_go/) | noswf | 0 |
+| [Untitled For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser](https://www.reddit.com/r/devops/comments/w6jc00/untitled_for_full_functionality_of_this_site_it/) | mans2022 | 0 |
+| [Built-in load balancing / auto-scaling of cloud platforms vs (cloud hosted) Kubernetes?](https://www.reddit.com/r/devops/comments/w66tqo/builtin_load_balancing_autoscaling_of_cloud/) | Jonathan-Todd | 0 |
+| [As a devops engineer what have your annual raises been like?](https://www.reddit.com/r/devops/comments/w6hu5v/as_a_devops_engineer_what_have_your_annual_raises/) | spTravel28 | 0 |
