@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Working as a "DevOps Engineer" but with caveats. Have the option of switching to Telco engineer. Interested and want to make a career in DevOps. Would this move be burning the bridges .](https://www.reddit.com/r/devops/comments/w6s4mu/working_as_a_devops_engineer_but_with_caveats/) | _suzzy1999_ | 10 |
-| [Advice needed for Automated E2E](https://www.reddit.com/r/devops/comments/w63h9k/advice_needed_for_automated_e2e/) | jonathon8903 | 2 |
-| [How do you go about learning new tools?](https://www.reddit.com/r/devops/comments/w6hsiw/how_do_you_go_about_learning_new_tools/) | DawsonHelms | 1 |
-| [[Suggestion/Help] Switched from Dev to Devops. Need suggestions regarding the Devops career.](https://www.reddit.com/r/devops/comments/w66npm/suggestionhelp_switched_from_dev_to_devops_need/) | Plenty_Ad_8967 | 0 |
-| [Utility or tool on Go](https://www.reddit.com/r/devops/comments/w65v6f/utility_or_tool_on_go/) | noswf | 0 |
-| [Untitled For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser](https://www.reddit.com/r/devops/comments/w6jc00/untitled_for_full_functionality_of_this_site_it/) | mans2022 | 0 |
-| [Built-in load balancing / auto-scaling of cloud platforms vs (cloud hosted) Kubernetes?](https://www.reddit.com/r/devops/comments/w66tqo/builtin_load_balancing_autoscaling_of_cloud/) | Jonathan-Todd | 0 |
-| [As a devops engineer what have your annual raises been like?](https://www.reddit.com/r/devops/comments/w6hu5v/as_a_devops_engineer_what_have_your_annual_raises/) | spTravel28 | 0 |
+| [What to do when Devops has reached a steady state?](https://www.reddit.com/r/devops/comments/w73mnj/what_to_do_when_devops_has_reached_a_steady_state/) | Jatalocks2 | 147 |
+| [Made a tool to convert kafka topic state into terraform](https://www.reddit.com/r/devops/comments/w72s1w/made_a_tool_to_convert_kafka_topic_state_into/) | trick63 | 18 |
+| [Where do you run your automation scripts in the initial phase of building the infrastructure](https://www.reddit.com/r/devops/comments/w7ibs8/where_do_you_run_your_automation_scripts_in_the/) | kingindanord | 3 |
+| [My Weekly DevOps Newsletter: #61 Seven-Day DevOps](https://www.reddit.com/r/devops/comments/w7kw4g/my_weekly_devops_newsletter_61_sevenday_devops/) | trantorians | 2 |
+| [Deciding between Telepresence vs Garden.io](https://www.reddit.com/r/devops/comments/w7h06l/deciding_between_telepresence_vs_gardenio/) | iLikeTheAss | 2 |
+| [What are the most informative or helpful concepts, diagrams and posts you ever found on the topics DevOps and Cloud?](https://www.reddit.com/r/devops/comments/w7j4rz/what_are_the_most_informative_or_helpful_concepts/) | AemonXVI | 1 |
+| [Semantic Versioning for IAC - iacver](https://www.reddit.com/r/devops/comments/w6xaqu/semantic_versioning_for_iac_iacver/) | t5bert | 1 |
+| [I didn't quite get the concept of in/out+inside rack bandwidth and how the read can exploit it but write can't?](https://www.reddit.com/r/devops/comments/w7coft/i_didnt_quite_get_the_concept_of_inoutinside_rack/) | gibbegj | 1 |
+| [DevOps isn't marketable any more](https://www.reddit.com/r/devops/comments/w7hqp1/devops_isnt_marketable_any_more/) | Honest_Priest | 1 |
+| [Automating creation of Grafana Alerts](https://www.reddit.com/r/devops/comments/w7lyo7/automating_creation_of_grafana_alerts/) | OrangeExpress | 1 |
