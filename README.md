@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What to do when Devops has reached a steady state?](https://www.reddit.com/r/devops/comments/w73mnj/what_to_do_when_devops_has_reached_a_steady_state/) | Jatalocks2 | 147 |
-| [Made a tool to convert kafka topic state into terraform](https://www.reddit.com/r/devops/comments/w72s1w/made_a_tool_to_convert_kafka_topic_state_into/) | trick63 | 18 |
-| [Where do you run your automation scripts in the initial phase of building the infrastructure](https://www.reddit.com/r/devops/comments/w7ibs8/where_do_you_run_your_automation_scripts_in_the/) | kingindanord | 3 |
-| [My Weekly DevOps Newsletter: #61 Seven-Day DevOps](https://www.reddit.com/r/devops/comments/w7kw4g/my_weekly_devops_newsletter_61_sevenday_devops/) | trantorians | 2 |
-| [Deciding between Telepresence vs Garden.io](https://www.reddit.com/r/devops/comments/w7h06l/deciding_between_telepresence_vs_gardenio/) | iLikeTheAss | 2 |
-| [What are the most informative or helpful concepts, diagrams and posts you ever found on the topics DevOps and Cloud?](https://www.reddit.com/r/devops/comments/w7j4rz/what_are_the_most_informative_or_helpful_concepts/) | AemonXVI | 1 |
-| [Semantic Versioning for IAC - iacver](https://www.reddit.com/r/devops/comments/w6xaqu/semantic_versioning_for_iac_iacver/) | t5bert | 1 |
-| [I didn't quite get the concept of in/out+inside rack bandwidth and how the read can exploit it but write can't?](https://www.reddit.com/r/devops/comments/w7coft/i_didnt_quite_get_the_concept_of_inoutinside_rack/) | gibbegj | 1 |
-| [DevOps isn't marketable any more](https://www.reddit.com/r/devops/comments/w7hqp1/devops_isnt_marketable_any_more/) | Honest_Priest | 1 |
-| [Automating creation of Grafana Alerts](https://www.reddit.com/r/devops/comments/w7lyo7/automating_creation_of_grafana_alerts/) | OrangeExpress | 1 |
+| [Which cloud provider are your favorite and why?](https://www.reddit.com/r/devops/comments/w7vhvj/which_cloud_provider_are_your_favorite_and_why/) | CerealBit | 83 |
+| [DevOps in game building](https://www.reddit.com/r/devops/comments/w7t4z4/devops_in_game_building/) | quiet0n3 | 20 |
+| [Does your organization have custom base images catalog?](https://www.reddit.com/r/devops/comments/w7qpft/does_your_organization_have_custom_base_images/) | redfluor | 10 |
+| [Better return for your time CKA cert or interview coding prep(lc,hr,etc)?](https://www.reddit.com/r/devops/comments/w863ip/better_return_for_your_time_cka_cert_or_interview/) | cn5171bn | 10 |
+| [Automated service remediation and databases](https://www.reddit.com/r/devops/comments/w87zpx/automated_service_remediation_and_databases/) | htom3heb | 6 |
+| [Need to upgrade myself as a devops, want to work on a personal project](https://www.reddit.com/r/devops/comments/w8d3do/need_to_upgrade_myself_as_a_devops_want_to_work/) | ashofspades | 2 |
+| [Will Ansible serve my purpose of Fleet Management for my Use Case in Industrial PCs?](https://www.reddit.com/r/devops/comments/w7vwi7/will_ansible_serve_my_purpose_of_fleet_management/) | dugindeep | 1 |
+| [Question: How do you deal with "function as a service" + cloud](https://www.reddit.com/r/devops/comments/w8eu0d/question_how_do_you_deal_with_function_as_a/) | 3lc4pit4n | 1 |
+| [Build a Jenkins job on a merge request to master](https://www.reddit.com/r/devops/comments/w7tost/build_a_jenkins_job_on_a_merge_request_to_master/) | HeadTea | 1 |
+| [the AWS SA pro cert and its career impact](https://www.reddit.com/r/devops/comments/w7o75r/the_aws_sa_pro_cert_and_its_career_impact/) | FinnaGetRichh | 0 |
