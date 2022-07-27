@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Which cloud provider are your favorite and why?](https://www.reddit.com/r/devops/comments/w7vhvj/which_cloud_provider_are_your_favorite_and_why/) | CerealBit | 83 |
-| [DevOps in game building](https://www.reddit.com/r/devops/comments/w7t4z4/devops_in_game_building/) | quiet0n3 | 20 |
-| [Does your organization have custom base images catalog?](https://www.reddit.com/r/devops/comments/w7qpft/does_your_organization_have_custom_base_images/) | redfluor | 10 |
-| [Better return for your time CKA cert or interview coding prep(lc,hr,etc)?](https://www.reddit.com/r/devops/comments/w863ip/better_return_for_your_time_cka_cert_or_interview/) | cn5171bn | 10 |
-| [Automated service remediation and databases](https://www.reddit.com/r/devops/comments/w87zpx/automated_service_remediation_and_databases/) | htom3heb | 6 |
-| [Need to upgrade myself as a devops, want to work on a personal project](https://www.reddit.com/r/devops/comments/w8d3do/need_to_upgrade_myself_as_a_devops_want_to_work/) | ashofspades | 2 |
-| [Will Ansible serve my purpose of Fleet Management for my Use Case in Industrial PCs?](https://www.reddit.com/r/devops/comments/w7vwi7/will_ansible_serve_my_purpose_of_fleet_management/) | dugindeep | 1 |
-| [Question: How do you deal with "function as a service" + cloud](https://www.reddit.com/r/devops/comments/w8eu0d/question_how_do_you_deal_with_function_as_a/) | 3lc4pit4n | 1 |
-| [Build a Jenkins job on a merge request to master](https://www.reddit.com/r/devops/comments/w7tost/build_a_jenkins_job_on_a_merge_request_to_master/) | HeadTea | 1 |
-| [the AWS SA pro cert and its career impact](https://www.reddit.com/r/devops/comments/w7o75r/the_aws_sa_pro_cert_and_its_career_impact/) | FinnaGetRichh | 0 |
+| [Crappy Culture Drives Burnout](https://www.reddit.com/r/devops/comments/w8vmwe/crappy_culture_drives_burnout/) | trelm249 | 134 |
+| [Would it be worth using a secrets management system?](https://www.reddit.com/r/devops/comments/w8ph3u/would_it_be_worth_using_a_secrets_management/) | Beginning_Actuary_54 | 64 |
+| [Are my salary expectations realistic?](https://www.reddit.com/r/devops/comments/w91vai/are_my_salary_expectations_realistic/) | SpiritedJellyfish454 | 10 |
+| [Cache Store for storing db tables with indexes](https://www.reddit.com/r/devops/comments/w8jhzz/cache_store_for_storing_db_tables_with_indexes/) | zuxqoj | 9 |
+| [Questions about Github Actions](https://www.reddit.com/r/devops/comments/w8oms9/questions_about_github_actions/) | nostradamefrus | 4 |
+| [How do you evaluate a secrets scanning product for source code?](https://www.reddit.com/r/devops/comments/w8z9uw/how_do_you_evaluate_a_secrets_scanning_product/) | ConsistentComment919 | 3 |
+| [Can you people please suggest a solution for the following problem?](https://www.reddit.com/r/devops/comments/w98szk/can_you_people_please_suggest_a_solution_for_the/) | mmddev | 2 |
+| [Are there any good OSS anomaly detection and forecasting tools for Prometheus?](https://www.reddit.com/r/devops/comments/w9bbs2/are_there_any_good_oss_anomaly_detection_and/) | jumperabg | 2 |
+| [What is "gh-readonly-queue/main/**"? (noob)](https://www.reddit.com/r/devops/comments/w952c4/what_is_ghreadonlyqueuemain_noob/) | thps2ontheps2 | 1 |
+| [Using Azure Key Vault to set proxy value in package.json in React](https://www.reddit.com/r/devops/comments/w8swai/using_azure_key_vault_to_set_proxy_value_in/) | Iamthebest98 | 1 |
