@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Crappy Culture Drives Burnout](https://www.reddit.com/r/devops/comments/w8vmwe/crappy_culture_drives_burnout/) | trelm249 | 134 |
-| [Would it be worth using a secrets management system?](https://www.reddit.com/r/devops/comments/w8ph3u/would_it_be_worth_using_a_secrets_management/) | Beginning_Actuary_54 | 64 |
-| [Are my salary expectations realistic?](https://www.reddit.com/r/devops/comments/w91vai/are_my_salary_expectations_realistic/) | SpiritedJellyfish454 | 10 |
-| [Cache Store for storing db tables with indexes](https://www.reddit.com/r/devops/comments/w8jhzz/cache_store_for_storing_db_tables_with_indexes/) | zuxqoj | 9 |
-| [Questions about Github Actions](https://www.reddit.com/r/devops/comments/w8oms9/questions_about_github_actions/) | nostradamefrus | 4 |
-| [How do you evaluate a secrets scanning product for source code?](https://www.reddit.com/r/devops/comments/w8z9uw/how_do_you_evaluate_a_secrets_scanning_product/) | ConsistentComment919 | 3 |
-| [Can you people please suggest a solution for the following problem?](https://www.reddit.com/r/devops/comments/w98szk/can_you_people_please_suggest_a_solution_for_the/) | mmddev | 2 |
-| [Are there any good OSS anomaly detection and forecasting tools for Prometheus?](https://www.reddit.com/r/devops/comments/w9bbs2/are_there_any_good_oss_anomaly_detection_and/) | jumperabg | 2 |
-| [What is "gh-readonly-queue/main/**"? (noob)](https://www.reddit.com/r/devops/comments/w952c4/what_is_ghreadonlyqueuemain_noob/) | thps2ontheps2 | 1 |
-| [Using Azure Key Vault to set proxy value in package.json in React](https://www.reddit.com/r/devops/comments/w8swai/using_azure_key_vault_to_set_proxy_value_in/) | Iamthebest98 | 1 |
+| [Most common devOps tasks?](https://www.reddit.com/r/devops/comments/w9id11/most_common_devops_tasks/) | RepresentativeNet509 | 48 |
+| [Open source tool to deploy cloud-agnostic Terraform](https://www.reddit.com/r/devops/comments/wa3wlt/open_source_tool_to_deploy_cloudagnostic_terraform/) | FearlessAnt | 24 |
+| [Planning to shift my profile to DevOps](https://www.reddit.com/r/devops/comments/w9ym4h/planning_to_shift_my_profile_to_devops/) | am3y777 | 19 |
+| [Allowing users to upload their code to reduce API latency?](https://www.reddit.com/r/devops/comments/wa0exi/allowing_users_to_upload_their_code_to_reduce_api/) | spongebaab | 11 |
+| [Who has good Axway APIM experience?](https://www.reddit.com/r/devops/comments/w9lhb7/who_has_good_axway_apim_experience/) | Y3PP3R | 6 |
+| [HC Vault Integration](https://www.reddit.com/r/devops/comments/w9l25h/hc_vault_integration/) | izner82 | 4 |
+| [TFS Question - Integration with GitHub](https://www.reddit.com/r/devops/comments/w9hlvv/tfs_question_integration_with_github/) | 404Developer | 3 |
+| [Single CICD pipeline for multiple API GW and multiple Lambda functions](https://www.reddit.com/r/devops/comments/w9fptg/single_cicd_pipeline_for_multiple_api_gw_and/) | go_analytical | 3 |
+| [CI and dev workflows for a solo dev](https://www.reddit.com/r/devops/comments/w9ry4v/ci_and_dev_workflows_for_a_solo_dev/) | Horror-Loan-4652 | 3 |
+| [How to combine Swagger Docs all in the Gateway](https://www.reddit.com/r/devops/comments/w9ut1a/how_to_combine_swagger_docs_all_in_the_gateway/) | TypicalWeekendWarior | 2 |
