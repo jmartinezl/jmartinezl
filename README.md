@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Most common devOps tasks?](https://www.reddit.com/r/devops/comments/w9id11/most_common_devops_tasks/) | RepresentativeNet509 | 48 |
-| [Open source tool to deploy cloud-agnostic Terraform](https://www.reddit.com/r/devops/comments/wa3wlt/open_source_tool_to_deploy_cloudagnostic_terraform/) | FearlessAnt | 24 |
-| [Planning to shift my profile to DevOps](https://www.reddit.com/r/devops/comments/w9ym4h/planning_to_shift_my_profile_to_devops/) | am3y777 | 19 |
-| [Allowing users to upload their code to reduce API latency?](https://www.reddit.com/r/devops/comments/wa0exi/allowing_users_to_upload_their_code_to_reduce_api/) | spongebaab | 11 |
-| [Who has good Axway APIM experience?](https://www.reddit.com/r/devops/comments/w9lhb7/who_has_good_axway_apim_experience/) | Y3PP3R | 6 |
-| [HC Vault Integration](https://www.reddit.com/r/devops/comments/w9l25h/hc_vault_integration/) | izner82 | 4 |
-| [TFS Question - Integration with GitHub](https://www.reddit.com/r/devops/comments/w9hlvv/tfs_question_integration_with_github/) | 404Developer | 3 |
-| [Single CICD pipeline for multiple API GW and multiple Lambda functions](https://www.reddit.com/r/devops/comments/w9fptg/single_cicd_pipeline_for_multiple_api_gw_and/) | go_analytical | 3 |
-| [CI and dev workflows for a solo dev](https://www.reddit.com/r/devops/comments/w9ry4v/ci_and_dev_workflows_for_a_solo_dev/) | Horror-Loan-4652 | 3 |
-| [How to combine Swagger Docs all in the Gateway](https://www.reddit.com/r/devops/comments/w9ut1a/how_to_combine_swagger_docs_all_in_the_gateway/) | TypicalWeekendWarior | 2 |
+| [How do you/company deal with secrets on ci/cd?](https://www.reddit.com/r/devops/comments/wajare/how_do_youcompany_deal_with_secrets_on_cicd/) | 115v | 93 |
+| [CI/CD stage to check community support of a package/library used in my repo?](https://www.reddit.com/r/devops/comments/waogv8/cicd_stage_to_check_community_support_of_a/) | daeisfresh | 9 |
+| [Confusion on how do I upgrade my job after being system administrator for 10 years](https://www.reddit.com/r/devops/comments/wakm9r/confusion_on_how_do_i_upgrade_my_job_after_being/) | destiny-isall | 7 |
+| [Odd question, need guidance](https://www.reddit.com/r/devops/comments/wabb7r/odd_question_need_guidance/) | laujac | 5 |
+| [What tools do you use for continuous feedback?](https://www.reddit.com/r/devops/comments/wadd1e/what_tools_do_you_use_for_continuous_feedback/) | devO11y | 4 |
+| [Multiple WP websites, high availability setup](https://www.reddit.com/r/devops/comments/wayvn9/multiple_wp_websites_high_availability_setup/) | Chefstars | 2 |
+| [Keeping track of new updates?](https://www.reddit.com/r/devops/comments/wayuda/keeping_track_of_new_updates/) | digitalshiva | 2 |
+| [Hashicorp vault with argocd plugins - what permissions do you guys use?](https://www.reddit.com/r/devops/comments/waeyt3/hashicorp_vault_with_argocd_plugins_what/) | dampersand | 2 |
+| [Configuring a DNS firewall for an EKS Cluster](https://www.reddit.com/r/devops/comments/way5sn/configuring_a_dns_firewall_for_an_eks_cluster/) | sg_pepehands69 | 2 |
+| [Automated vulnerability management](https://www.reddit.com/r/devops/comments/wagm54/automated_vulnerability_management/) | CoolBreeze549 | 2 |
