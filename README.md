@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you/company deal with secrets on ci/cd?](https://www.reddit.com/r/devops/comments/wajare/how_do_youcompany_deal_with_secrets_on_cicd/) | 115v | 93 |
-| [CI/CD stage to check community support of a package/library used in my repo?](https://www.reddit.com/r/devops/comments/waogv8/cicd_stage_to_check_community_support_of_a/) | daeisfresh | 9 |
-| [Confusion on how do I upgrade my job after being system administrator for 10 years](https://www.reddit.com/r/devops/comments/wakm9r/confusion_on_how_do_i_upgrade_my_job_after_being/) | destiny-isall | 7 |
-| [Odd question, need guidance](https://www.reddit.com/r/devops/comments/wabb7r/odd_question_need_guidance/) | laujac | 5 |
-| [What tools do you use for continuous feedback?](https://www.reddit.com/r/devops/comments/wadd1e/what_tools_do_you_use_for_continuous_feedback/) | devO11y | 4 |
-| [Multiple WP websites, high availability setup](https://www.reddit.com/r/devops/comments/wayvn9/multiple_wp_websites_high_availability_setup/) | Chefstars | 2 |
-| [Keeping track of new updates?](https://www.reddit.com/r/devops/comments/wayuda/keeping_track_of_new_updates/) | digitalshiva | 2 |
-| [Hashicorp vault with argocd plugins - what permissions do you guys use?](https://www.reddit.com/r/devops/comments/waeyt3/hashicorp_vault_with_argocd_plugins_what/) | dampersand | 2 |
-| [Configuring a DNS firewall for an EKS Cluster](https://www.reddit.com/r/devops/comments/way5sn/configuring_a_dns_firewall_for_an_eks_cluster/) | sg_pepehands69 | 2 |
-| [Automated vulnerability management](https://www.reddit.com/r/devops/comments/wagm54/automated_vulnerability_management/) | CoolBreeze549 | 2 |
+| [Is StackOverflow down?](https://www.reddit.com/r/devops/comments/wb6eb9/is_stackoverflow_down/) | zyzmog | 114 |
+| [What are some blogs, channels, websites etc. that keep up with latest trends in devops, where it’s headed and where it’s at](https://www.reddit.com/r/devops/comments/wb3mrg/what_are_some_blogs_channels_websites_etc_that/) | Spitefulmutant_ | 75 |
+| [Learning Project - CI/CD pipeline with a blog using github / aws / terraform /ansible](https://www.reddit.com/r/devops/comments/wbonks/learning_project_cicd_pipeline_with_a_blog_using/) | PlaneTry4277 | 15 |
+| [how do you design release pipelines?](https://www.reddit.com/r/devops/comments/wbiwxk/how_do_you_design_release_pipelines/) | learnamap | 13 |
+| [What would you most like to know about how other companies in your industry manage their cloud infrastructure?](https://www.reddit.com/r/devops/comments/wb5cb2/what_would_you_most_like_to_know_about_how_other/) | brian_steady | 11 |
+| [Is there anywhere to get interview practice?](https://www.reddit.com/r/devops/comments/wbb9z6/is_there_anywhere_to_get_interview_practice/) | minijtp | 5 |
+| [Private Cloud PaaS/IaaS Questions](https://www.reddit.com/r/devops/comments/wbow4e/private_cloud_paasiaas_questions/) | monorepo | 3 |
+| [Message broker as service integrator](https://www.reddit.com/r/devops/comments/wbr5m9/message_broker_as_service_integrator/) | Venthe | 2 |
+| [NodeJS and Javascript loading modules at runtime](https://www.reddit.com/r/devops/comments/wb4qs5/nodejs_and_javascript_loading_modules_at_runtime/) | jblaaa | 1 |
+| [How do you/Your team handle planning and scheduling of projects?](https://www.reddit.com/r/devops/comments/wbcri2/how_do_youyour_team_handle_planning_and/) | andrewsmd87 | 1 |
