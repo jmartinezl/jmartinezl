@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is StackOverflow down?](https://www.reddit.com/r/devops/comments/wb6eb9/is_stackoverflow_down/) | zyzmog | 114 |
-| [What are some blogs, channels, websites etc. that keep up with latest trends in devops, where it’s headed and where it’s at](https://www.reddit.com/r/devops/comments/wb3mrg/what_are_some_blogs_channels_websites_etc_that/) | Spitefulmutant_ | 75 |
-| [Learning Project - CI/CD pipeline with a blog using github / aws / terraform /ansible](https://www.reddit.com/r/devops/comments/wbonks/learning_project_cicd_pipeline_with_a_blog_using/) | PlaneTry4277 | 15 |
-| [how do you design release pipelines?](https://www.reddit.com/r/devops/comments/wbiwxk/how_do_you_design_release_pipelines/) | learnamap | 13 |
-| [What would you most like to know about how other companies in your industry manage their cloud infrastructure?](https://www.reddit.com/r/devops/comments/wb5cb2/what_would_you_most_like_to_know_about_how_other/) | brian_steady | 11 |
-| [Is there anywhere to get interview practice?](https://www.reddit.com/r/devops/comments/wbb9z6/is_there_anywhere_to_get_interview_practice/) | minijtp | 5 |
-| [Private Cloud PaaS/IaaS Questions](https://www.reddit.com/r/devops/comments/wbow4e/private_cloud_paasiaas_questions/) | monorepo | 3 |
-| [Message broker as service integrator](https://www.reddit.com/r/devops/comments/wbr5m9/message_broker_as_service_integrator/) | Venthe | 2 |
-| [NodeJS and Javascript loading modules at runtime](https://www.reddit.com/r/devops/comments/wb4qs5/nodejs_and_javascript_loading_modules_at_runtime/) | jblaaa | 1 |
-| [How do you/Your team handle planning and scheduling of projects?](https://www.reddit.com/r/devops/comments/wbcri2/how_do_youyour_team_handle_planning_and/) | andrewsmd87 | 1 |
+| [Unpopular opinion: As a hobbyist and professional, I kind of prefer Azure DevOps.](https://www.reddit.com/r/devops/comments/wbylex/unpopular_opinion_as_a_hobbyist_and_professional/) | Marquis77 | 143 |
+| [I no longer consider myself a DevOps specialist](https://www.reddit.com/r/devops/comments/wccmol/i_no_longer_consider_myself_a_devops_specialist/) | Frenzasaurus | 47 |
+| [How vital is Golang for Junior Devops if I already know Python?](https://www.reddit.com/r/devops/comments/wc4k0s/how_vital_is_golang_for_junior_devops_if_i/) | RP_m_13 | 16 |
+| [leave your book recommendation here :)](https://www.reddit.com/r/devops/comments/wcb8hw/leave_your_book_recommendation_here/) | FernandoJaimes | 11 |
+| [Load testing workflow for POST API calls](https://www.reddit.com/r/devops/comments/wck7zm/load_testing_workflow_for_post_api_calls/) | avinasht1997 | 4 |
+| [ASG deployment orchestration tool with rollbacks and custom checks](https://www.reddit.com/r/devops/comments/wc4drj/asg_deployment_orchestration_tool_with_rollbacks/) | pojzon_poe | 2 |
+| [online resources](https://www.reddit.com/r/devops/comments/wcizbf/online_resources/) | theharpretsingh | 1 |
+| [[Discussion] Sonatype Nexus vs JFrog Artifactory](https://www.reddit.com/r/devops/comments/wc7yir/discussion_sonatype_nexus_vs_jfrog_artifactory/) | de6u99er | 1 |
+| [Has anyone come across a great example of internal programmes for building devops skills across eng teams?](https://www.reddit.com/r/devops/comments/wc8m6g/has_anyone_come_across_a_great_example_of/) | Reifiery | 1 |
+| [automation - how do you use it?](https://www.reddit.com/r/devops/comments/wc7v0w/automation_how_do_you_use_it/) | A4orce84 | 0 |
