@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Devops Interview - Looking for tips](https://www.reddit.com/r/devops/comments/wcyf7q/devops_interview_looking_for_tips/) | Quit_Later | 33 |
-| [How to properly scale a Node server?](https://www.reddit.com/r/devops/comments/wctk3z/how_to_properly_scale_a_node_server/) | tfntfn | 16 |
-| [ansible actual state enforcement](https://www.reddit.com/r/devops/comments/wd2xtl/ansible_actual_state_enforcement/) | defcon54321 | 15 |
-| [How to practice Cloud for free without a credit card?](https://www.reddit.com/r/devops/comments/wda5tu/how_to_practice_cloud_for_free_without_a_credit/) | FalconVita | 13 |
-| [deciding which pipeline ( homebrewed or standardized )](https://www.reddit.com/r/devops/comments/wcvgrd/deciding_which_pipeline_homebrewed_or_standardized/) | Maghilvannan | 6 |
-| [Helm Vs Terraform](https://www.reddit.com/r/devops/comments/wd9d1b/helm_vs_terraform/) | PravenJohn | 3 |
-| [Should I get into DevOps or not ?](https://www.reddit.com/r/devops/comments/wczf04/should_i_get_into_devops_or_not/) | CryptographerUpset37 | 0 |
-| [I am forced to use VMWare to deploy my software on-premise. Can and should I use Docker on top of it?](https://www.reddit.com/r/devops/comments/wctjfi/i_am_forced_to_use_vmware_to_deploy_my_software/) | tonks456 | 0 |
-| [DOES 2022 Live from Las Vegas](https://www.reddit.com/r/devops/comments/wddcfu/does_2022_live_from_las_vegas/) | TreasaAnd | 0 |
-| [Best companies with proper and complex backend and "real" continuous delivery](https://www.reddit.com/r/devops/comments/wcyi3i/best_companies_with_proper_and_complex_backend/) | moustafa-7 | 0 |
+| [How to learn Python for AWS or DevOps use cases](https://www.reddit.com/r/devops/comments/wdycmr/how_to_learn_python_for_aws_or_devops_use_cases/) | West-Yam-5417 | 41 |
+| [blue-green deployments](https://www.reddit.com/r/devops/comments/wdiks5/bluegreen_deployments/) | mere-mortal1 | 12 |
+| [Monthly 'Shameless Self Promotion' thread - 2022/08](https://www.reddit.com/r/devops/comments/wdmva3/monthly_shameless_self_promotion_thread_202208/) | mthode | 8 |
+| [vault lookup all tokens](https://www.reddit.com/r/devops/comments/we7vma/vault_lookup_all_tokens/) | 357951 | 6 |
+| [Access opensearch dashboard hosted in private subnet](https://www.reddit.com/r/devops/comments/we8f3v/access_opensearch_dashboard_hosted_in_private/) | blank1993 | 3 |
+| [Need someone to manage our Azure infrastructure, pipelines, uptime etc - what role am I looking for?](https://www.reddit.com/r/devops/comments/we8t8h/need_someone_to_manage_our_azure_infrastructure/) | lockmc | 2 |
+| [Monthly 'Getting into DevOps' thread - 2022/08](https://www.reddit.com/r/devops/comments/wdmw2s/monthly_getting_into_devops_thread_202208/) | mthode | 2 |
+| [Nobody's talking about cloud costs. Why ?](https://www.reddit.com/r/devops/comments/we9i1x/nobodys_talking_about_cloud_costs_why/) | bubbling_under | 1 |
+| [Looking for a tool to manage a distributed server fleet](https://www.reddit.com/r/devops/comments/wdwsco/looking_for_a_tool_to_manage_a_distributed_server/) | nic_3 | 1 |
+| [Looking for SRE or DevOps/Cloud (entry level) opportunities or tips](https://www.reddit.com/r/devops/comments/wdyq3z/looking_for_sre_or_devopscloud_entry_level/) | cn5171bn | 1 |
