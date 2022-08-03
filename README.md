@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How to learn Python for AWS or DevOps use cases](https://www.reddit.com/r/devops/comments/wdycmr/how_to_learn_python_for_aws_or_devops_use_cases/) | West-Yam-5417 | 41 |
-| [blue-green deployments](https://www.reddit.com/r/devops/comments/wdiks5/bluegreen_deployments/) | mere-mortal1 | 12 |
-| [Monthly 'Shameless Self Promotion' thread - 2022/08](https://www.reddit.com/r/devops/comments/wdmva3/monthly_shameless_self_promotion_thread_202208/) | mthode | 8 |
-| [vault lookup all tokens](https://www.reddit.com/r/devops/comments/we7vma/vault_lookup_all_tokens/) | 357951 | 6 |
-| [Access opensearch dashboard hosted in private subnet](https://www.reddit.com/r/devops/comments/we8f3v/access_opensearch_dashboard_hosted_in_private/) | blank1993 | 3 |
-| [Need someone to manage our Azure infrastructure, pipelines, uptime etc - what role am I looking for?](https://www.reddit.com/r/devops/comments/we8t8h/need_someone_to_manage_our_azure_infrastructure/) | lockmc | 2 |
-| [Monthly 'Getting into DevOps' thread - 2022/08](https://www.reddit.com/r/devops/comments/wdmw2s/monthly_getting_into_devops_thread_202208/) | mthode | 2 |
-| [Nobody's talking about cloud costs. Why ?](https://www.reddit.com/r/devops/comments/we9i1x/nobodys_talking_about_cloud_costs_why/) | bubbling_under | 1 |
-| [Looking for a tool to manage a distributed server fleet](https://www.reddit.com/r/devops/comments/wdwsco/looking_for_a_tool_to_manage_a_distributed_server/) | nic_3 | 1 |
-| [Looking for SRE or DevOps/Cloud (entry level) opportunities or tips](https://www.reddit.com/r/devops/comments/wdyq3z/looking_for_sre_or_devopscloud_entry_level/) | cn5171bn | 1 |
+| [Which repo branches map to CICD pipelines as source repos?](https://www.reddit.com/r/devops/comments/wenvzj/which_repo_branches_map_to_cicd_pipelines_as/) | meeko-meeko | 35 |
+| [How to automate connecting to a new Kubernetes cluster (how to get the kube config automatically)?](https://www.reddit.com/r/devops/comments/weg3pj/how_to_automate_connecting_to_a_new_kubernetes/) | kicktheshin | 11 |
+| [Commercial Support for Jenkins](https://www.reddit.com/r/devops/comments/wezr1o/commercial_support_for_jenkins/) | Therianthropie | 8 |
+| [Thoughts about AWS Educate for beginners?](https://www.reddit.com/r/devops/comments/wef8ls/thoughts_about_aws_educate_for_beginners/) | FalconVita | 6 |
+| [Developer's Guide to AWS Costs](https://www.reddit.com/r/devops/comments/wefxld/developers_guide_to_aws_costs/) | BrianPRegan | 4 |
+| [Is learning LXC/LXD beneficial/useful for DevOps?](https://www.reddit.com/r/devops/comments/wehbc6/is_learning_lxclxd_beneficialuseful_for_devops/) | 13luckycaesar | 2 |
+| [How do website builders host unlimited websites with different subdomains &amp; databases, but only one code base?](https://www.reddit.com/r/devops/comments/wf3k7r/how_do_website_builders_host_unlimited_websites/) | cuistax | 1 |
+| [How do I integrate Teamcity with LDAPS on Google Workspace?](https://www.reddit.com/r/devops/comments/wecise/how_do_i_integrate_teamcity_with_ldaps_on_google/) | azertykitty | 1 |
+| [HashiCorp Vault: Terraform VS Ansible](https://www.reddit.com/r/devops/comments/wee5i3/hashicorp_vault_terraform_vs_ansible/) | BothAirline1 | 1 |
+| [what are my options? advice needed](https://www.reddit.com/r/devops/comments/wezp0a/what_are_my_options_advice_needed/) | foxzillax | 0 |
