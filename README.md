@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Which repo branches map to CICD pipelines as source repos?](https://www.reddit.com/r/devops/comments/wenvzj/which_repo_branches_map_to_cicd_pipelines_as/) | meeko-meeko | 35 |
-| [How to automate connecting to a new Kubernetes cluster (how to get the kube config automatically)?](https://www.reddit.com/r/devops/comments/weg3pj/how_to_automate_connecting_to_a_new_kubernetes/) | kicktheshin | 11 |
-| [Commercial Support for Jenkins](https://www.reddit.com/r/devops/comments/wezr1o/commercial_support_for_jenkins/) | Therianthropie | 8 |
-| [Thoughts about AWS Educate for beginners?](https://www.reddit.com/r/devops/comments/wef8ls/thoughts_about_aws_educate_for_beginners/) | FalconVita | 6 |
-| [Developer's Guide to AWS Costs](https://www.reddit.com/r/devops/comments/wefxld/developers_guide_to_aws_costs/) | BrianPRegan | 4 |
-| [Is learning LXC/LXD beneficial/useful for DevOps?](https://www.reddit.com/r/devops/comments/wehbc6/is_learning_lxclxd_beneficialuseful_for_devops/) | 13luckycaesar | 2 |
-| [How do website builders host unlimited websites with different subdomains &amp; databases, but only one code base?](https://www.reddit.com/r/devops/comments/wf3k7r/how_do_website_builders_host_unlimited_websites/) | cuistax | 1 |
-| [How do I integrate Teamcity with LDAPS on Google Workspace?](https://www.reddit.com/r/devops/comments/wecise/how_do_i_integrate_teamcity_with_ldaps_on_google/) | azertykitty | 1 |
-| [HashiCorp Vault: Terraform VS Ansible](https://www.reddit.com/r/devops/comments/wee5i3/hashicorp_vault_terraform_vs_ansible/) | BothAirline1 | 1 |
-| [what are my options? advice needed](https://www.reddit.com/r/devops/comments/wezp0a/what_are_my_options_advice_needed/) | foxzillax | 0 |
+| [I want to provide some free support for community, how should I start?](https://www.reddit.com/r/devops/comments/wfaiyx/i_want_to_provide_some_free_support_for_community/) | boomzero | 93 |
+| [I feel stupid almost being two years in DevOps](https://www.reddit.com/r/devops/comments/wfyj58/i_feel_stupid_almost_being_two_years_in_devops/) | byeblee | 9 |
+| [Azure devops Pipeline stuck at job queue](https://www.reddit.com/r/devops/comments/wfk46t/azure_devops_pipeline_stuck_at_job_queue/) | aliahsantech | 4 |
+| [Question about response times](https://www.reddit.com/r/devops/comments/wfogwj/question_about_response_times/) | Cutethulhu_ | 3 |
+| [Bitbucket Pipelines: I want to deploy a service in one container as a first step and run a postman collection against it in the next step. How do I do this?](https://www.reddit.com/r/devops/comments/wfhlr9/bitbucket_pipelines_i_want_to_deploy_a_service_in/) | Serend1p1ty | 3 |
+| [Introduction to The Value Flywheel Effect](https://www.reddit.com/r/devops/comments/wfz8sn/introduction_to_the_value_flywheel_effect/) | TreasaAnd | 2 |
+| [Any technical benefits to using serverless functions instead of auto-scaling containers?](https://www.reddit.com/r/devops/comments/wfbkh1/any_technical_benefits_to_using_serverless/) | dimitri_borgers | 2 |
+| [prometheus scrape instance](https://www.reddit.com/r/devops/comments/wfz92j/prometheus_scrape_instance/) | ema_eltuti | 1 |
+| [connect EC2 with OpenSearch Dashboard](https://www.reddit.com/r/devops/comments/wfx1z7/connect_ec2_with_opensearch_dashboard/) | blank1993 | 1 |
+| [Building architectures that are easy to upgrade](https://www.reddit.com/r/devops/comments/wfxrqr/building_architectures_that_are_easy_to_upgrade/) | plentifulfuture | 1 |
