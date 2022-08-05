@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I want to provide some free support for community, how should I start?](https://www.reddit.com/r/devops/comments/wfaiyx/i_want_to_provide_some_free_support_for_community/) | boomzero | 93 |
-| [I feel stupid almost being two years in DevOps](https://www.reddit.com/r/devops/comments/wfyj58/i_feel_stupid_almost_being_two_years_in_devops/) | byeblee | 9 |
-| [Azure devops Pipeline stuck at job queue](https://www.reddit.com/r/devops/comments/wfk46t/azure_devops_pipeline_stuck_at_job_queue/) | aliahsantech | 4 |
-| [Question about response times](https://www.reddit.com/r/devops/comments/wfogwj/question_about_response_times/) | Cutethulhu_ | 3 |
-| [Bitbucket Pipelines: I want to deploy a service in one container as a first step and run a postman collection against it in the next step. How do I do this?](https://www.reddit.com/r/devops/comments/wfhlr9/bitbucket_pipelines_i_want_to_deploy_a_service_in/) | Serend1p1ty | 3 |
-| [Introduction to The Value Flywheel Effect](https://www.reddit.com/r/devops/comments/wfz8sn/introduction_to_the_value_flywheel_effect/) | TreasaAnd | 2 |
-| [Any technical benefits to using serverless functions instead of auto-scaling containers?](https://www.reddit.com/r/devops/comments/wfbkh1/any_technical_benefits_to_using_serverless/) | dimitri_borgers | 2 |
-| [prometheus scrape instance](https://www.reddit.com/r/devops/comments/wfz92j/prometheus_scrape_instance/) | ema_eltuti | 1 |
-| [connect EC2 with OpenSearch Dashboard](https://www.reddit.com/r/devops/comments/wfx1z7/connect_ec2_with_opensearch_dashboard/) | blank1993 | 1 |
-| [Building architectures that are easy to upgrade](https://www.reddit.com/r/devops/comments/wfxrqr/building_architectures_that_are_easy_to_upgrade/) | plentifulfuture | 1 |
+| [People who don't document, why are the way that you are ?](https://www.reddit.com/r/devops/comments/wg47gf/people_who_dont_document_why_are_the_way_that_you/) | Sinister-Mephisto | 175 |
+| [Studying after work hours](https://www.reddit.com/r/devops/comments/wg9wrl/studying_after_work_hours/) | pasoii | 40 |
+| [CI/CD tool agnostic pipelines](https://www.reddit.com/r/devops/comments/wg514j/cicd_tool_agnostic_pipelines/) | KickTrue | 19 |
+| [a standalone monitoring system](https://www.reddit.com/r/devops/comments/wglunn/a_standalone_monitoring_system/) | watermelon_meow | 13 |
+| [Docker tags or digests in production?](https://www.reddit.com/r/devops/comments/wgfxht/docker_tags_or_digests_in_production/) | ChemTechGuy | 10 |
+| [Project: Running a local cluster with TLS, ArgoCD GitOps, Vault and a PostgreSQL operator](https://www.reddit.com/r/devops/comments/wg8wtu/project_running_a_local_cluster_with_tls_argocd/) | tsyklon_ | 8 |
+| [New release of my Kubernetes Cluster Project automated with Ansible](https://www.reddit.com/r/devops/comments/wgpd8b/new_release_of_my_kubernetes_cluster_project/) | ricsanfre | 3 |
+| [How do you validate your messaging/event APIs?](https://www.reddit.com/r/devops/comments/wg68qt/how_do_you_validate_your_messagingevent_apis/) | dominik-braun | 3 |
+| [Useful Tools for OpenShift development](https://www.reddit.com/r/devops/comments/wgmrvm/useful_tools_for_openshift_development/) | Khaotic_Kernel | 2 |
+| [AWS cloud solutions](https://www.reddit.com/r/devops/comments/wg6fsg/aws_cloud_solutions/) | Puzzleheaded-Algae96 | 2 |
