@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [People who don't document, why are the way that you are ?](https://www.reddit.com/r/devops/comments/wg47gf/people_who_dont_document_why_are_the_way_that_you/) | Sinister-Mephisto | 175 |
-| [Studying after work hours](https://www.reddit.com/r/devops/comments/wg9wrl/studying_after_work_hours/) | pasoii | 40 |
-| [CI/CD tool agnostic pipelines](https://www.reddit.com/r/devops/comments/wg514j/cicd_tool_agnostic_pipelines/) | KickTrue | 19 |
-| [a standalone monitoring system](https://www.reddit.com/r/devops/comments/wglunn/a_standalone_monitoring_system/) | watermelon_meow | 13 |
-| [Docker tags or digests in production?](https://www.reddit.com/r/devops/comments/wgfxht/docker_tags_or_digests_in_production/) | ChemTechGuy | 10 |
-| [Project: Running a local cluster with TLS, ArgoCD GitOps, Vault and a PostgreSQL operator](https://www.reddit.com/r/devops/comments/wg8wtu/project_running_a_local_cluster_with_tls_argocd/) | tsyklon_ | 8 |
-| [New release of my Kubernetes Cluster Project automated with Ansible](https://www.reddit.com/r/devops/comments/wgpd8b/new_release_of_my_kubernetes_cluster_project/) | ricsanfre | 3 |
-| [How do you validate your messaging/event APIs?](https://www.reddit.com/r/devops/comments/wg68qt/how_do_you_validate_your_messagingevent_apis/) | dominik-braun | 3 |
-| [Useful Tools for OpenShift development](https://www.reddit.com/r/devops/comments/wgmrvm/useful_tools_for_openshift_development/) | Khaotic_Kernel | 2 |
-| [AWS cloud solutions](https://www.reddit.com/r/devops/comments/wg6fsg/aws_cloud_solutions/) | Puzzleheaded-Algae96 | 2 |
+| [Demand for DevOps Engineers](https://www.reddit.com/r/devops/comments/wh1vd2/demand_for_devops_engineers/) | Disastrous-Diet4238 | 126 |
+| [Resources to learn networking, protocols](https://www.reddit.com/r/devops/comments/wh5qsh/resources_to_learn_networking_protocols/) | Apprehensive-Wheel18 | 8 |
+| [Drawing diagram](https://www.reddit.com/r/devops/comments/wgyoy1/drawing_diagram/) | anacondaonline | 8 |
+| [Retrieving secrets from Azure key vault](https://www.reddit.com/r/devops/comments/wha36i/retrieving_secrets_from_azure_key_vault/) | clvlndpete | 7 |
+| [Kubernetes and Helmfile Best Practices](https://www.reddit.com/r/devops/comments/wgwk3v/kubernetes_and_helmfile_best_practices/) | leonardots1802 | 6 |
+| [What framework or service do you use to build your documentation?](https://www.reddit.com/r/devops/comments/wh0xsa/what_framework_or_service_do_you_use_to_build/) | GabiNaali | 5 |
+| [The Rogers Outage of 2022 - Leaving Millions of Canadians Offline](https://www.reddit.com/r/devops/comments/wh2ivx/the_rogers_outage_of_2022_leaving_millions_of/) | devoopseng | 4 |
+| [Anyone doing Grafana Cloud-prometheus with Kubernetes and succeeded?](https://www.reddit.com/r/devops/comments/whj7w1/anyone_doing_grafana_cloudprometheus_with/) | evergreen-spacecat | 4 |
+| [What does Gruntworks actually do?](https://www.reddit.com/r/devops/comments/whkta0/what_does_gruntworks_actually_do/) | minimalniemand | 3 |
+| [Imposter syndrome as a entry level](https://www.reddit.com/r/devops/comments/whke5q/imposter_syndrome_as_a_entry_level/) | Different-Bat-3483 | 2 |
