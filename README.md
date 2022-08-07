@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Demand for DevOps Engineers](https://www.reddit.com/r/devops/comments/wh1vd2/demand_for_devops_engineers/) | Disastrous-Diet4238 | 126 |
-| [Resources to learn networking, protocols](https://www.reddit.com/r/devops/comments/wh5qsh/resources_to_learn_networking_protocols/) | Apprehensive-Wheel18 | 8 |
-| [Drawing diagram](https://www.reddit.com/r/devops/comments/wgyoy1/drawing_diagram/) | anacondaonline | 8 |
-| [Retrieving secrets from Azure key vault](https://www.reddit.com/r/devops/comments/wha36i/retrieving_secrets_from_azure_key_vault/) | clvlndpete | 7 |
-| [Kubernetes and Helmfile Best Practices](https://www.reddit.com/r/devops/comments/wgwk3v/kubernetes_and_helmfile_best_practices/) | leonardots1802 | 6 |
-| [What framework or service do you use to build your documentation?](https://www.reddit.com/r/devops/comments/wh0xsa/what_framework_or_service_do_you_use_to_build/) | GabiNaali | 5 |
-| [The Rogers Outage of 2022 - Leaving Millions of Canadians Offline](https://www.reddit.com/r/devops/comments/wh2ivx/the_rogers_outage_of_2022_leaving_millions_of/) | devoopseng | 4 |
-| [Anyone doing Grafana Cloud-prometheus with Kubernetes and succeeded?](https://www.reddit.com/r/devops/comments/whj7w1/anyone_doing_grafana_cloudprometheus_with/) | evergreen-spacecat | 4 |
-| [What does Gruntworks actually do?](https://www.reddit.com/r/devops/comments/whkta0/what_does_gruntworks_actually_do/) | minimalniemand | 3 |
-| [Imposter syndrome as a entry level](https://www.reddit.com/r/devops/comments/whke5q/imposter_syndrome_as_a_entry_level/) | Different-Bat-3483 | 2 |
+| [Which CI/CD learn first?](https://www.reddit.com/r/devops/comments/whnnex/which_cicd_learn_first/) | JackalJukovsky | 65 |
+| [Any developers work part time ;](https://www.reddit.com/r/devops/comments/whucba/any_developers_work_part_time/) | whitebird509 | 26 |
+| [Switching from Penetration Testing to DevOps](https://www.reddit.com/r/devops/comments/wi9o0l/switching_from_penetration_testing_to_devops/) | usamajr9 | 13 |
+| [Traces vs Logs - When to use each?](https://www.reddit.com/r/devops/comments/whyv63/traces_vs_logs_when_to_use_each/) | saltyrefrigerator | 7 |
+| [Looking for ways to practice DevOps](https://www.reddit.com/r/devops/comments/whqugx/looking_for_ways_to_practice_devops/) | freaturen | 5 |
+| [Can't add the extra space to the Root volume of the server](https://www.reddit.com/r/devops/comments/wi8x7u/cant_add_the_extra_space_to_the_root_volume_of/) | wolfofworld | 4 |
+| [Remote Work](https://www.reddit.com/r/devops/comments/wib81x/remote_work/) | AsparagusCorrect3116 | 3 |
+| [Referencing tags in resources with CloudFormation](https://www.reddit.com/r/devops/comments/wie4gi/referencing_tags_in_resources_with_cloudformation/) | ZimCanIT | 1 |
+| [When do you think we will start losing jobs?](https://www.reddit.com/r/devops/comments/whslg7/when_do_you_think_we_will_start_losing_jobs/) | Necessary_Feeling00 | 0 |
+| [What is currently the best monitoring tool?](https://www.reddit.com/r/devops/comments/wib008/what_is_currently_the_best_monitoring_tool/) | TheMightyJoseph | 0 |
