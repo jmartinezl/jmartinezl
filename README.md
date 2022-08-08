@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Which CI/CD learn first?](https://www.reddit.com/r/devops/comments/whnnex/which_cicd_learn_first/) | JackalJukovsky | 65 |
-| [Any developers work part time ;](https://www.reddit.com/r/devops/comments/whucba/any_developers_work_part_time/) | whitebird509 | 26 |
-| [Switching from Penetration Testing to DevOps](https://www.reddit.com/r/devops/comments/wi9o0l/switching_from_penetration_testing_to_devops/) | usamajr9 | 13 |
-| [Traces vs Logs - When to use each?](https://www.reddit.com/r/devops/comments/whyv63/traces_vs_logs_when_to_use_each/) | saltyrefrigerator | 7 |
-| [Looking for ways to practice DevOps](https://www.reddit.com/r/devops/comments/whqugx/looking_for_ways_to_practice_devops/) | freaturen | 5 |
-| [Can't add the extra space to the Root volume of the server](https://www.reddit.com/r/devops/comments/wi8x7u/cant_add_the_extra_space_to_the_root_volume_of/) | wolfofworld | 4 |
-| [Remote Work](https://www.reddit.com/r/devops/comments/wib81x/remote_work/) | AsparagusCorrect3116 | 3 |
-| [Referencing tags in resources with CloudFormation](https://www.reddit.com/r/devops/comments/wie4gi/referencing_tags_in_resources_with_cloudformation/) | ZimCanIT | 1 |
-| [When do you think we will start losing jobs?](https://www.reddit.com/r/devops/comments/whslg7/when_do_you_think_we_will_start_losing_jobs/) | Necessary_Feeling00 | 0 |
-| [What is currently the best monitoring tool?](https://www.reddit.com/r/devops/comments/wib008/what_is_currently_the_best_monitoring_tool/) | TheMightyJoseph | 0 |
+| [DevOps-ish jobs that involve considerable amount of coding?](https://www.reddit.com/r/devops/comments/wil5ax/devopsish_jobs_that_involve_considerable_amount/) | de_Rham | 92 |
+| [going back to college for cs?](https://www.reddit.com/r/devops/comments/wiqy6o/going_back_to_college_for_cs/) | Few-Chef4380 | 21 |
+| [Validating cloudFormation templates](https://www.reddit.com/r/devops/comments/wilsds/validating_cloudformation_templates/) | ZimCanIT | 16 |
+| [Kubernetes, Ansible and Terraform tooling in one docker image.](https://www.reddit.com/r/devops/comments/wj3myu/kubernetes_ansible_and_terraform_tooling_in_one/) | Bluxmit | 15 |
+| [personal cloud for practice at home](https://www.reddit.com/r/devops/comments/wihq0k/personal_cloud_for_practice_at_home/) | chochkobagera | 6 |
+| [help and advice wanted please](https://www.reddit.com/r/devops/comments/wiep5h/help_and_advice_wanted_please/) | tr0ubl3d1 | 6 |
+| [Stay and learn Devops or leave for the money?](https://www.reddit.com/r/devops/comments/wix6ek/stay_and_learn_devops_or_leave_for_the_money/) | nlnlnl123 | 2 |
+| [Azure Cosmos DB Zero to Hero Series - 1](https://www.reddit.com/r/devops/comments/wiypx8/azure_cosmos_db_zero_to_hero_series_1/) | Successful-Aide3077 | 2 |
+| [The best way to integrate terraform and Ansible](https://www.reddit.com/r/devops/comments/wj494p/the_best_way_to_integrate_terraform_and_ansible/) | amarao_san | 1 |
+| [seeing red flags with devops developer but not sure how to proceed](https://www.reddit.com/r/devops/comments/wj0gm1/seeing_red_flags_with_devops_developer_but_not/) | newyearusername | 0 |
