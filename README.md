@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps-ish jobs that involve considerable amount of coding?](https://www.reddit.com/r/devops/comments/wil5ax/devopsish_jobs_that_involve_considerable_amount/) | de_Rham | 92 |
-| [going back to college for cs?](https://www.reddit.com/r/devops/comments/wiqy6o/going_back_to_college_for_cs/) | Few-Chef4380 | 21 |
-| [Validating cloudFormation templates](https://www.reddit.com/r/devops/comments/wilsds/validating_cloudformation_templates/) | ZimCanIT | 16 |
-| [Kubernetes, Ansible and Terraform tooling in one docker image.](https://www.reddit.com/r/devops/comments/wj3myu/kubernetes_ansible_and_terraform_tooling_in_one/) | Bluxmit | 15 |
-| [personal cloud for practice at home](https://www.reddit.com/r/devops/comments/wihq0k/personal_cloud_for_practice_at_home/) | chochkobagera | 6 |
-| [help and advice wanted please](https://www.reddit.com/r/devops/comments/wiep5h/help_and_advice_wanted_please/) | tr0ubl3d1 | 6 |
-| [Stay and learn Devops or leave for the money?](https://www.reddit.com/r/devops/comments/wix6ek/stay_and_learn_devops_or_leave_for_the_money/) | nlnlnl123 | 2 |
-| [Azure Cosmos DB Zero to Hero Series - 1](https://www.reddit.com/r/devops/comments/wiypx8/azure_cosmos_db_zero_to_hero_series_1/) | Successful-Aide3077 | 2 |
-| [The best way to integrate terraform and Ansible](https://www.reddit.com/r/devops/comments/wj494p/the_best_way_to_integrate_terraform_and_ansible/) | amarao_san | 1 |
-| [seeing red flags with devops developer but not sure how to proceed](https://www.reddit.com/r/devops/comments/wj0gm1/seeing_red_flags_with_devops_developer_but_not/) | newyearusername | 0 |
+| [Hi r/devops we are two engineers who just quit their jobs at big tech and we want to help visualize microservice architectures in large corporations. Every developer should always know what services exist and how they relate to each other. How do your companies approach this problem?](https://www.reddit.com/r/devops/comments/wjdffe/hi_rdevops_we_are_two_engineers_who_just_quit/) | TheWhaleOfLondon | 87 |
+| [Who's NOT using Kubernetes these days and want to share their exciting bit/tooling?](https://www.reddit.com/r/devops/comments/wjxy0q/whos_not_using_kubernetes_these_days_and_want_to/) | chub79 | 27 |
+| [Manage Secrets on Kubernetes with ArgoCD and Vault](https://www.reddit.com/r/devops/comments/wjb6zm/manage_secrets_on_kubernetes_with_argocd_and_vault/) | piotr_minkowski | 26 |
+| [Are you using Helm for your service deployments?](https://www.reddit.com/r/devops/comments/wjwf78/are_you_using_helm_for_your_service_deployments/) | dominik-braun | 12 |
+| [What am I?](https://www.reddit.com/r/devops/comments/wjaf4w/what_am_i/) | matefeedkill | 9 |
+| [Should I pursue DevOps or Cybersecurity?](https://www.reddit.com/r/devops/comments/wjhjey/should_i_pursue_devops_or_cybersecurity/) | Sequel177 | 9 |
+| [Deploy each branch individually as part of CI/CD](https://www.reddit.com/r/devops/comments/wjda6n/deploy_each_branch_individually_as_part_of_cicd/) | Finaldzn | 6 |
+| [Does anyone know an opensource status page app ?](https://www.reddit.com/r/devops/comments/wjfkft/does_anyone_know_an_opensource_status_page_app/) | pojzon_poe | 4 |
+| [Resources on deploying Elixir app on AWS](https://www.reddit.com/r/devops/comments/wjxreu/resources_on_deploying_elixir_app_on_aws/) | jurgonaut | 3 |
+| [AWS managed services vs Hashicorp's Vault](https://www.reddit.com/r/devops/comments/wjar9n/aws_managed_services_vs_hashicorps_vault/) | kingindanord | 3 |
