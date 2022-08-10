@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Hi r/devops we are two engineers who just quit their jobs at big tech and we want to help visualize microservice architectures in large corporations. Every developer should always know what services exist and how they relate to each other. How do your companies approach this problem?](https://www.reddit.com/r/devops/comments/wjdffe/hi_rdevops_we_are_two_engineers_who_just_quit/) | TheWhaleOfLondon | 87 |
-| [Who's NOT using Kubernetes these days and want to share their exciting bit/tooling?](https://www.reddit.com/r/devops/comments/wjxy0q/whos_not_using_kubernetes_these_days_and_want_to/) | chub79 | 27 |
-| [Manage Secrets on Kubernetes with ArgoCD and Vault](https://www.reddit.com/r/devops/comments/wjb6zm/manage_secrets_on_kubernetes_with_argocd_and_vault/) | piotr_minkowski | 26 |
-| [Are you using Helm for your service deployments?](https://www.reddit.com/r/devops/comments/wjwf78/are_you_using_helm_for_your_service_deployments/) | dominik-braun | 12 |
-| [What am I?](https://www.reddit.com/r/devops/comments/wjaf4w/what_am_i/) | matefeedkill | 9 |
-| [Should I pursue DevOps or Cybersecurity?](https://www.reddit.com/r/devops/comments/wjhjey/should_i_pursue_devops_or_cybersecurity/) | Sequel177 | 9 |
-| [Deploy each branch individually as part of CI/CD](https://www.reddit.com/r/devops/comments/wjda6n/deploy_each_branch_individually_as_part_of_cicd/) | Finaldzn | 6 |
-| [Does anyone know an opensource status page app ?](https://www.reddit.com/r/devops/comments/wjfkft/does_anyone_know_an_opensource_status_page_app/) | pojzon_poe | 4 |
-| [Resources on deploying Elixir app on AWS](https://www.reddit.com/r/devops/comments/wjxreu/resources_on_deploying_elixir_app_on_aws/) | jurgonaut | 3 |
-| [AWS managed services vs Hashicorp's Vault](https://www.reddit.com/r/devops/comments/wjar9n/aws_managed_services_vs_hashicorps_vault/) | kingindanord | 3 |
+| [What do you use to visualize your infrastructure?](https://www.reddit.com/r/devops/comments/wkd2fd/what_do_you_use_to_visualize_your_infrastructure/) | mesamunefire | 84 |
+| [Don’t do this with your k8s health checks](https://www.reddit.com/r/devops/comments/wk43td/dont_do_this_with_your_k8s_health_checks/) | m1dN05 | 61 |
+| [Thoughts on having git branch always in sync with prod?](https://www.reddit.com/r/devops/comments/wkn206/thoughts_on_having_git_branch_always_in_sync_with/) | sudoaptupdate | 4 |
+| [How over provisioned is everyone's kube cluster?](https://www.reddit.com/r/devops/comments/wkcr6s/how_over_provisioned_is_everyones_kube_cluster/) | peterlai2 | 4 |
+| [ever asked for your old job back?](https://www.reddit.com/r/devops/comments/wk5bok/ever_asked_for_your_old_job_back/) | PeachyOG | 3 |
+| [What is the point of even having a resume, or a github, or a "resume site" anymore?](https://www.reddit.com/r/devops/comments/wkg6m9/what_is_the_point_of_even_having_a_resume_or_a/) | Marquis77 | 2 |
+| [Visualize nested directory structure / git repo](https://www.reddit.com/r/devops/comments/wkv2r2/visualize_nested_directory_structure_git_repo/) | keftes | 2 |
+| [Managing CI/CD for an arbitrary number of docker files in a single repository](https://www.reddit.com/r/devops/comments/wkdexx/managing_cicd_for_an_arbitrary_number_of_docker/) | jsxgd | 2 |
+| [(Jenkins/GitLab) Webhook triggered when a user is assigned](https://www.reddit.com/r/devops/comments/wkt74b/jenkinsgitlab_webhook_triggered_when_a_user_is/) | HeadTea | 2 |
+| [[Question] Accessing internal GKE resources from external IP](https://www.reddit.com/r/devops/comments/wkvfcw/question_accessing_internal_gke_resources_from/) | Sanevi | 1 |
