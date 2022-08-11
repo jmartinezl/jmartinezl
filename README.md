@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What do you use to visualize your infrastructure?](https://www.reddit.com/r/devops/comments/wkd2fd/what_do_you_use_to_visualize_your_infrastructure/) | mesamunefire | 84 |
-| [Don’t do this with your k8s health checks](https://www.reddit.com/r/devops/comments/wk43td/dont_do_this_with_your_k8s_health_checks/) | m1dN05 | 61 |
-| [Thoughts on having git branch always in sync with prod?](https://www.reddit.com/r/devops/comments/wkn206/thoughts_on_having_git_branch_always_in_sync_with/) | sudoaptupdate | 4 |
-| [How over provisioned is everyone's kube cluster?](https://www.reddit.com/r/devops/comments/wkcr6s/how_over_provisioned_is_everyones_kube_cluster/) | peterlai2 | 4 |
-| [ever asked for your old job back?](https://www.reddit.com/r/devops/comments/wk5bok/ever_asked_for_your_old_job_back/) | PeachyOG | 3 |
-| [What is the point of even having a resume, or a github, or a "resume site" anymore?](https://www.reddit.com/r/devops/comments/wkg6m9/what_is_the_point_of_even_having_a_resume_or_a/) | Marquis77 | 2 |
-| [Visualize nested directory structure / git repo](https://www.reddit.com/r/devops/comments/wkv2r2/visualize_nested_directory_structure_git_repo/) | keftes | 2 |
-| [Managing CI/CD for an arbitrary number of docker files in a single repository](https://www.reddit.com/r/devops/comments/wkdexx/managing_cicd_for_an_arbitrary_number_of_docker/) | jsxgd | 2 |
-| [(Jenkins/GitLab) Webhook triggered when a user is assigned](https://www.reddit.com/r/devops/comments/wkt74b/jenkinsgitlab_webhook_triggered_when_a_user_is/) | HeadTea | 2 |
-| [[Question] Accessing internal GKE resources from external IP](https://www.reddit.com/r/devops/comments/wkvfcw/question_accessing_internal_gke_resources_from/) | Sanevi | 1 |
+| [The devops illusion](https://www.reddit.com/r/devops/comments/wl60sa/the_devops_illusion/) | Detective-Jerkop | 115 |
+| [Ansible for configuring Windows domain joined servers](https://www.reddit.com/r/devops/comments/wkyto4/ansible_for_configuring_windows_domain_joined/) | InfiniteAd86 | 8 |
+| [[INTERVIEW] - Junior DevOps](https://www.reddit.com/r/devops/comments/wl6qzc/interview_junior_devops/) | rhysmcn | 5 |
+| [What comes first in CI workflow, Linters or Unitests?And why?](https://www.reddit.com/r/devops/comments/wlpfmm/what_comes_first_in_ci_workflow_linters_or/) | Affectionate_Log999 | 4 |
+| [Looking at implementing SAST tools in the workplace](https://www.reddit.com/r/devops/comments/wletul/looking_at_implementing_sast_tools_in_the/) | progjourney1 | 3 |
+| [Issues with setting up networking in Podman for Prometheus Containers;](https://www.reddit.com/r/devops/comments/wl5oec/issues_with_setting_up_networking_in_podman_for/) | Extra_Shirt_4004 | 3 |
+| [How to know which jenkins agent to use?](https://www.reddit.com/r/devops/comments/wlojac/how_to_know_which_jenkins_agent_to_use/) | izner82 | 3 |
+| [Monitor 3rd party APIs](https://www.reddit.com/r/devops/comments/wlbfbz/monitor_3rd_party_apis/) | freetoplay123 | 2 |
+| [Would you recommend Ansible to manage targets without python?](https://www.reddit.com/r/devops/comments/wlllmw/would_you_recommend_ansible_to_manage_targets/) | giorgiga | 1 |
+| [Where do you store your IaC source manifests/playbooks? (Best Practices)](https://www.reddit.com/r/devops/comments/wl719w/where_do_you_store_your_iac_source/) | meeko-meeko | 1 |
