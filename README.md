@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [The devops illusion](https://www.reddit.com/r/devops/comments/wl60sa/the_devops_illusion/) | Detective-Jerkop | 115 |
-| [Ansible for configuring Windows domain joined servers](https://www.reddit.com/r/devops/comments/wkyto4/ansible_for_configuring_windows_domain_joined/) | InfiniteAd86 | 8 |
-| [[INTERVIEW] - Junior DevOps](https://www.reddit.com/r/devops/comments/wl6qzc/interview_junior_devops/) | rhysmcn | 5 |
-| [What comes first in CI workflow, Linters or Unitests?And why?](https://www.reddit.com/r/devops/comments/wlpfmm/what_comes_first_in_ci_workflow_linters_or/) | Affectionate_Log999 | 4 |
-| [Looking at implementing SAST tools in the workplace](https://www.reddit.com/r/devops/comments/wletul/looking_at_implementing_sast_tools_in_the/) | progjourney1 | 3 |
-| [Issues with setting up networking in Podman for Prometheus Containers;](https://www.reddit.com/r/devops/comments/wl5oec/issues_with_setting_up_networking_in_podman_for/) | Extra_Shirt_4004 | 3 |
-| [How to know which jenkins agent to use?](https://www.reddit.com/r/devops/comments/wlojac/how_to_know_which_jenkins_agent_to_use/) | izner82 | 3 |
-| [Monitor 3rd party APIs](https://www.reddit.com/r/devops/comments/wlbfbz/monitor_3rd_party_apis/) | freetoplay123 | 2 |
-| [Would you recommend Ansible to manage targets without python?](https://www.reddit.com/r/devops/comments/wlllmw/would_you_recommend_ansible_to_manage_targets/) | giorgiga | 1 |
-| [Where do you store your IaC source manifests/playbooks? (Best Practices)](https://www.reddit.com/r/devops/comments/wl719w/where_do_you_store_your_iac_source/) | meeko-meeko | 1 |
+| [I made a website that helps you do Cloud practical projects for free](https://www.reddit.com/r/devops/comments/wlqii4/i_made_a_website_that_helps_you_do_cloud/) | HisoDB | 213 |
+| [git rebase](https://www.reddit.com/r/devops/comments/wm17jc/git_rebase/) | freeriderblack | 41 |
+| [What FaaS tech are you running? Non cloud(lambda etc)](https://www.reddit.com/r/devops/comments/wm6lpt/what_faas_tech_are_you_running_non_cloudlambda_etc/) | Helpyourbromike | 8 |
+| [Make your zip packages for lambdas (and many more use cases) idempotent with a zip-drop-in replacement](https://www.reddit.com/r/devops/comments/wmj3m9/make_your_zip_packages_for_lambdas_and_many_more/) | R3ym4nn | 4 |
+| [message processing](https://www.reddit.com/r/devops/comments/wmj3fn/message_processing/) | anacondaonline | 3 |
+| [how to secure against DoW for small enterprises](https://www.reddit.com/r/devops/comments/wmjdff/how_to_secure_against_dow_for_small_enterprises/) | ForgotPassAgain34 | 3 |
+| [[Career Advice] How can i continue in a devops role](https://www.reddit.com/r/devops/comments/wmj37o/career_advice_how_can_i_continue_in_a_devops_role/) | Plenty_Ad_8967 | 3 |
+| [Storing secrets in encrypted artifacts?](https://www.reddit.com/r/devops/comments/wmiqbu/storing_secrets_in_encrypted_artifacts/) | Bulky_Aardvark_1335 | 3 |
+| [What do I need to learn to create a CI pipeline?](https://www.reddit.com/r/devops/comments/wlud18/what_do_i_need_to_learn_to_create_a_ci_pipeline/) | Kotik112 | 2 |
+| [pre commit hooks configuration for linters](https://www.reddit.com/r/devops/comments/wmf0xh/pre_commit_hooks_configuration_for_linters/) | Affectionate_Log999 | 1 |
