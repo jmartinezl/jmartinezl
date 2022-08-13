@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I made a website that helps you do Cloud practical projects for free](https://www.reddit.com/r/devops/comments/wlqii4/i_made_a_website_that_helps_you_do_cloud/) | HisoDB | 213 |
-| [git rebase](https://www.reddit.com/r/devops/comments/wm17jc/git_rebase/) | freeriderblack | 41 |
-| [What FaaS tech are you running? Non cloud(lambda etc)](https://www.reddit.com/r/devops/comments/wm6lpt/what_faas_tech_are_you_running_non_cloudlambda_etc/) | Helpyourbromike | 8 |
-| [Make your zip packages for lambdas (and many more use cases) idempotent with a zip-drop-in replacement](https://www.reddit.com/r/devops/comments/wmj3m9/make_your_zip_packages_for_lambdas_and_many_more/) | R3ym4nn | 4 |
-| [message processing](https://www.reddit.com/r/devops/comments/wmj3fn/message_processing/) | anacondaonline | 3 |
-| [how to secure against DoW for small enterprises](https://www.reddit.com/r/devops/comments/wmjdff/how_to_secure_against_dow_for_small_enterprises/) | ForgotPassAgain34 | 3 |
-| [[Career Advice] How can i continue in a devops role](https://www.reddit.com/r/devops/comments/wmj37o/career_advice_how_can_i_continue_in_a_devops_role/) | Plenty_Ad_8967 | 3 |
-| [Storing secrets in encrypted artifacts?](https://www.reddit.com/r/devops/comments/wmiqbu/storing_secrets_in_encrypted_artifacts/) | Bulky_Aardvark_1335 | 3 |
-| [What do I need to learn to create a CI pipeline?](https://www.reddit.com/r/devops/comments/wlud18/what_do_i_need_to_learn_to_create_a_ci_pipeline/) | Kotik112 | 2 |
-| [pre commit hooks configuration for linters](https://www.reddit.com/r/devops/comments/wmf0xh/pre_commit_hooks_configuration_for_linters/) | Affectionate_Log999 | 1 |
+| [What's the best tagging strategy for you?](https://www.reddit.com/r/devops/comments/wmzh8e/whats_the_best_tagging_strategy_for_you/) | cebidhem | 36 |
+| [How to handle cross-repo dependencies?](https://www.reddit.com/r/devops/comments/wmo3sk/how_to_handle_crossrepo_dependencies/) | ueyg | 24 |
+| [Am I missing something as a student learning to become a DevOps](https://www.reddit.com/r/devops/comments/wn96a2/am_i_missing_something_as_a_student_learning_to/) | atrocioussage | 8 |
+| [What are your tips when it comes to learning multi cloud](https://www.reddit.com/r/devops/comments/wn3vvy/what_are_your_tips_when_it_comes_to_learning/) | zerotwo21 | 5 |
+| [Opinions on StackStorm?](https://www.reddit.com/r/devops/comments/wnag0t/opinions_on_stackstorm/) | Benutzernutzer | 3 |
+| [What devops skills lead to highest pay?](https://www.reddit.com/r/devops/comments/wmjwx6/what_devops_skills_lead_to_highest_pay/) | gerd50501 | 2 |
+| [Help - Overwhelmed by the amount of tooling](https://www.reddit.com/r/devops/comments/wmmfk4/help_overwhelmed_by_the_amount_of_tooling/) | Leading_Bluejay_3973 | 2 |
+| [SAM Deploy](https://www.reddit.com/r/devops/comments/wmqi40/sam_deploy/) | anacondaonline | 1 |
+| [How to handle environment specific configuration of Cloud VMs](https://www.reddit.com/r/devops/comments/wmrij3/how_to_handle_environment_specific_configuration/) | insulind | 1 |
+| [Do u put code quality checks(linters, formators, type checks) inside CI even if u use it in pre commit hooks?Or just putting it in pre commit hook is enough?](https://www.reddit.com/r/devops/comments/wnaki5/do_u_put_code_quality_checkslinters_formators/) | Affectionate_Log999 | 1 |
