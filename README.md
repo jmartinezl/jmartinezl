@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What's the best tagging strategy for you?](https://www.reddit.com/r/devops/comments/wmzh8e/whats_the_best_tagging_strategy_for_you/) | cebidhem | 36 |
-| [How to handle cross-repo dependencies?](https://www.reddit.com/r/devops/comments/wmo3sk/how_to_handle_crossrepo_dependencies/) | ueyg | 24 |
-| [Am I missing something as a student learning to become a DevOps](https://www.reddit.com/r/devops/comments/wn96a2/am_i_missing_something_as_a_student_learning_to/) | atrocioussage | 8 |
-| [What are your tips when it comes to learning multi cloud](https://www.reddit.com/r/devops/comments/wn3vvy/what_are_your_tips_when_it_comes_to_learning/) | zerotwo21 | 5 |
-| [Opinions on StackStorm?](https://www.reddit.com/r/devops/comments/wnag0t/opinions_on_stackstorm/) | Benutzernutzer | 3 |
-| [What devops skills lead to highest pay?](https://www.reddit.com/r/devops/comments/wmjwx6/what_devops_skills_lead_to_highest_pay/) | gerd50501 | 2 |
-| [Help - Overwhelmed by the amount of tooling](https://www.reddit.com/r/devops/comments/wmmfk4/help_overwhelmed_by_the_amount_of_tooling/) | Leading_Bluejay_3973 | 2 |
-| [SAM Deploy](https://www.reddit.com/r/devops/comments/wmqi40/sam_deploy/) | anacondaonline | 1 |
-| [How to handle environment specific configuration of Cloud VMs](https://www.reddit.com/r/devops/comments/wmrij3/how_to_handle_environment_specific_configuration/) | insulind | 1 |
-| [Do u put code quality checks(linters, formators, type checks) inside CI even if u use it in pre commit hooks?Or just putting it in pre commit hook is enough?](https://www.reddit.com/r/devops/comments/wnaki5/do_u_put_code_quality_checkslinters_formators/) | Affectionate_Log999 | 1 |
+| [need help.fuked up while changing the ssh port.](https://www.reddit.com/r/devops/comments/wnd9b8/need_helpfuked_up_while_changing_the_ssh_port/) | neerajjoon | 73 |
+| [What is your Docker image tagging strategy?](https://www.reddit.com/r/devops/comments/wnhisp/what_is_your_docker_image_tagging_strategy/) | dernat71 | 29 |
+| [Will a MacBook Pro with M1 limit me for DevOps ?](https://www.reddit.com/r/devops/comments/wnuwok/will_a_macbook_pro_with_m1_limit_me_for_devops/) | TheWaraba | 12 |
+| [Websites that are similiar to Goodreads for a small project](https://www.reddit.com/r/devops/comments/wnq63a/websites_that_are_similiar_to_goodreads_for_a/) | freaturen | 4 |
+| [How can i estimate the cost of the cloud infrastructure needed for an application](https://www.reddit.com/r/devops/comments/wo4356/how_can_i_estimate_the_cost_of_the_cloud/) | prcessor | 2 |
+| [horizontal connector in draw.io ?](https://www.reddit.com/r/devops/comments/wnznj3/horizontal_connector_in_drawio/) | anacondaonline | 1 |
+| [[AWS] Can't run SQL instance on my cluster](https://www.reddit.com/r/devops/comments/wnldjg/aws_cant_run_sql_instance_on_my_cluster/) | Rageman3000 | 0 |
+| [How to sell into you?](https://www.reddit.com/r/devops/comments/wntx5h/how_to_sell_into_you/) | georgeBarkley12 | 0 |
+| [DevOps roadmap 2022](https://www.reddit.com/r/devops/comments/wnyb2j/devops_roadmap_2022/) | Saiyampathak | 0 |
