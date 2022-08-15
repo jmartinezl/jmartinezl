@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [need help.fuked up while changing the ssh port.](https://www.reddit.com/r/devops/comments/wnd9b8/need_helpfuked_up_while_changing_the_ssh_port/) | neerajjoon | 73 |
-| [What is your Docker image tagging strategy?](https://www.reddit.com/r/devops/comments/wnhisp/what_is_your_docker_image_tagging_strategy/) | dernat71 | 29 |
-| [Will a MacBook Pro with M1 limit me for DevOps ?](https://www.reddit.com/r/devops/comments/wnuwok/will_a_macbook_pro_with_m1_limit_me_for_devops/) | TheWaraba | 12 |
-| [Websites that are similiar to Goodreads for a small project](https://www.reddit.com/r/devops/comments/wnq63a/websites_that_are_similiar_to_goodreads_for_a/) | freaturen | 4 |
-| [How can i estimate the cost of the cloud infrastructure needed for an application](https://www.reddit.com/r/devops/comments/wo4356/how_can_i_estimate_the_cost_of_the_cloud/) | prcessor | 2 |
-| [horizontal connector in draw.io ?](https://www.reddit.com/r/devops/comments/wnznj3/horizontal_connector_in_drawio/) | anacondaonline | 1 |
-| [[AWS] Can't run SQL instance on my cluster](https://www.reddit.com/r/devops/comments/wnldjg/aws_cant_run_sql_instance_on_my_cluster/) | Rageman3000 | 0 |
-| [How to sell into you?](https://www.reddit.com/r/devops/comments/wntx5h/how_to_sell_into_you/) | georgeBarkley12 | 0 |
-| [DevOps roadmap 2022](https://www.reddit.com/r/devops/comments/wnyb2j/devops_roadmap_2022/) | Saiyampathak | 0 |
+| [Finding it hard to transition from DevOps to Dev](https://www.reddit.com/r/devops/comments/wounp5/finding_it_hard_to_transition_from_devops_to_dev/) | lachyBalboa | 18 |
+| [Frontend and Backend same domain, how to setup?](https://www.reddit.com/r/devops/comments/wonhs5/frontend_and_backend_same_domain_how_to_setup/) | cybernetics_engineer | 16 |
+| [Leadership perspective DevOps - resources?](https://www.reddit.com/r/devops/comments/wo57nh/leadership_perspective_devops_resources/) | Middle-Bug-9169 | 13 |
+| [Why could Ansible be bad for large businesses?](https://www.reddit.com/r/devops/comments/wotlnu/why_could_ansible_be_bad_for_large_businesses/) | shameless_caps | 10 |
+| [Which tool to let my qemu disk be partitioned for my golden image? Cloud-Init or Ansible?](https://www.reddit.com/r/devops/comments/wo6to4/which_tool_to_let_my_qemu_disk_be_partitioned_for/) | dugindeep | 5 |
+| [Deploy Docker images on Google Cloud Run using GitHub Actions and Workload Identity Authentication](https://www.reddit.com/r/devops/comments/wogl4j/deploy_docker_images_on_google_cloud_run_using/) | nohtype | 4 |
+| [This page was served from NGINX on ReactOS!](https://www.reddit.com/r/devops/comments/wourdw/this_page_was_served_from_nginx_on_reactos/) | Jeditobe | 3 |
+| [Link desktop Minikube with wsl2 Ubuntu](https://www.reddit.com/r/devops/comments/wo56t2/link_desktop_minikube_with_wsl2_ubuntu/) | Fantastic-Swim511 | 2 |
+| [vscode remote containers with docker compose](https://www.reddit.com/r/devops/comments/worq3s/vscode_remote_containers_with_docker_compose/) | 357951 | 1 |
+| [Docker certification (DCA)](https://www.reddit.com/r/devops/comments/woqwze/docker_certification_dca/) | jayyyyy_12 | 1 |
