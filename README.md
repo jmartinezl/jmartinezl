@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Finding it hard to transition from DevOps to Dev](https://www.reddit.com/r/devops/comments/wounp5/finding_it_hard_to_transition_from_devops_to_dev/) | lachyBalboa | 18 |
-| [Frontend and Backend same domain, how to setup?](https://www.reddit.com/r/devops/comments/wonhs5/frontend_and_backend_same_domain_how_to_setup/) | cybernetics_engineer | 16 |
-| [Leadership perspective DevOps - resources?](https://www.reddit.com/r/devops/comments/wo57nh/leadership_perspective_devops_resources/) | Middle-Bug-9169 | 13 |
-| [Why could Ansible be bad for large businesses?](https://www.reddit.com/r/devops/comments/wotlnu/why_could_ansible_be_bad_for_large_businesses/) | shameless_caps | 10 |
-| [Which tool to let my qemu disk be partitioned for my golden image? Cloud-Init or Ansible?](https://www.reddit.com/r/devops/comments/wo6to4/which_tool_to_let_my_qemu_disk_be_partitioned_for/) | dugindeep | 5 |
-| [Deploy Docker images on Google Cloud Run using GitHub Actions and Workload Identity Authentication](https://www.reddit.com/r/devops/comments/wogl4j/deploy_docker_images_on_google_cloud_run_using/) | nohtype | 4 |
-| [This page was served from NGINX on ReactOS!](https://www.reddit.com/r/devops/comments/wourdw/this_page_was_served_from_nginx_on_reactos/) | Jeditobe | 3 |
-| [Link desktop Minikube with wsl2 Ubuntu](https://www.reddit.com/r/devops/comments/wo56t2/link_desktop_minikube_with_wsl2_ubuntu/) | Fantastic-Swim511 | 2 |
-| [vscode remote containers with docker compose](https://www.reddit.com/r/devops/comments/worq3s/vscode_remote_containers_with_docker_compose/) | 357951 | 1 |
-| [Docker certification (DCA)](https://www.reddit.com/r/devops/comments/woqwze/docker_certification_dca/) | jayyyyy_12 | 1 |
+| [Creating a dev 'container' to make it easier on first timers](https://www.reddit.com/r/devops/comments/wp4ck3/creating_a_dev_container_to_make_it_easier_on/) | SigmaSixShooter | 50 |
+| [How do you manage microservices API versions and branching strategies?](https://www.reddit.com/r/devops/comments/wpdku5/how_do_you_manage_microservices_api_versions_and/) | kennyisworkinghard | 30 |
+| [Blog post series on observability with OpenTelemetry](https://www.reddit.com/r/devops/comments/wp1xof/blog_post_series_on_observability_with/) | chillysurfer | 21 |
+| [The cloud has an isolation problem: PostgreSQL vulnerabilities affect multiple cloud vendors | Wiz Blog](https://www.reddit.com/r/devops/comments/wp3k1a/the_cloud_has_an_isolation_problem_postgresql/) | Shadonovitch | 19 |
+| [How to upscale your talents as a DevOps Engineer](https://www.reddit.com/r/devops/comments/wp3myd/how_to_upscale_your_talents_as_a_devops_engineer/) | chandrash3khar | 11 |
+| [Help with pipeline](https://www.reddit.com/r/devops/comments/wp1r1z/help_with_pipeline/) | wildmonkeoO | 5 |
+| [Checking domain with other cloudfront distribution - boto3](https://www.reddit.com/r/devops/comments/wozslz/checking_domain_with_other_cloudfront/) | autodevops | 5 |
+| [What are the best tools for Advanced Security Scans similar to GitHub Enterprise](https://www.reddit.com/r/devops/comments/wp85r6/what_are_the_best_tools_for_advanced_security/) | kev0406 | 2 |
+| [OIDC auth or Keyvault for github actions IaC](https://www.reddit.com/r/devops/comments/wps1qx/oidc_auth_or_keyvault_for_github_actions_iac/) | Boppenwack | 2 |
+| [Devops as potential career option.](https://www.reddit.com/r/devops/comments/wpofhx/devops_as_potential_career_option/) | gajrajgchouhan_ | 2 |
