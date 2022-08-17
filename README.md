@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Creating a dev 'container' to make it easier on first timers](https://www.reddit.com/r/devops/comments/wp4ck3/creating_a_dev_container_to_make_it_easier_on/) | SigmaSixShooter | 50 |
-| [How do you manage microservices API versions and branching strategies?](https://www.reddit.com/r/devops/comments/wpdku5/how_do_you_manage_microservices_api_versions_and/) | kennyisworkinghard | 30 |
-| [Blog post series on observability with OpenTelemetry](https://www.reddit.com/r/devops/comments/wp1xof/blog_post_series_on_observability_with/) | chillysurfer | 21 |
-| [The cloud has an isolation problem: PostgreSQL vulnerabilities affect multiple cloud vendors | Wiz Blog](https://www.reddit.com/r/devops/comments/wp3k1a/the_cloud_has_an_isolation_problem_postgresql/) | Shadonovitch | 19 |
-| [How to upscale your talents as a DevOps Engineer](https://www.reddit.com/r/devops/comments/wp3myd/how_to_upscale_your_talents_as_a_devops_engineer/) | chandrash3khar | 11 |
-| [Help with pipeline](https://www.reddit.com/r/devops/comments/wp1r1z/help_with_pipeline/) | wildmonkeoO | 5 |
-| [Checking domain with other cloudfront distribution - boto3](https://www.reddit.com/r/devops/comments/wozslz/checking_domain_with_other_cloudfront/) | autodevops | 5 |
-| [What are the best tools for Advanced Security Scans similar to GitHub Enterprise](https://www.reddit.com/r/devops/comments/wp85r6/what_are_the_best_tools_for_advanced_security/) | kev0406 | 2 |
-| [OIDC auth or Keyvault for github actions IaC](https://www.reddit.com/r/devops/comments/wps1qx/oidc_auth_or_keyvault_for_github_actions_iac/) | Boppenwack | 2 |
-| [Devops as potential career option.](https://www.reddit.com/r/devops/comments/wpofhx/devops_as_potential_career_option/) | gajrajgchouhan_ | 2 |
+| [I think I suck at Networking](https://www.reddit.com/r/devops/comments/wpu10u/i_think_i_suck_at_networking/) | wooof359 | 215 |
+| [How to do trunk based development with GitHub](https://www.reddit.com/r/devops/comments/wq1ht2/how_to_do_trunk_based_development_with_github/) | Resurr3ction | 16 |
+| [AWS SSO + G Suite sync](https://www.reddit.com/r/devops/comments/wpwnpe/aws_sso_g_suite_sync/) | calibrono | 5 |
+| [Feeling Lost](https://www.reddit.com/r/devops/comments/wq6u88/feeling_lost/) | onetwoknockout | 4 |
+| [Why use Terraform vs Azure Rest API?](https://www.reddit.com/r/devops/comments/wq4hru/why_use_terraform_vs_azure_rest_api/) | cs_legend_93 | 3 |
+| [Kubernetes Management - specialist tools vs all in one](https://www.reddit.com/r/devops/comments/wq9m8j/kubernetes_management_specialist_tools_vs_all_in/) | DiHannay | 3 |
+| [Do i need a CS degree?](https://www.reddit.com/r/devops/comments/wqkcrx/do_i_need_a_cs_degree/) | prisonbird | 3 |
+| [What challenges did you face once you gave devs access to Jenkins jobs?](https://www.reddit.com/r/devops/comments/wq1od2/what_challenges_did_you_face_once_you_gave_devs/) | zohar275 | 2 |
+| [Troubleshooting vscode .devcontainer](https://www.reddit.com/r/devops/comments/wqm88t/troubleshooting_vscode_devcontainer/) | 357951 | 2 |
+| [Exposing Kubernetes-deployed services through OSB?](https://www.reddit.com/r/devops/comments/wqkwxv/exposing_kubernetesdeployed_services_through_osb/) | extra_rice | 2 |
