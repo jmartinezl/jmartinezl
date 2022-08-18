@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I think I suck at Networking](https://www.reddit.com/r/devops/comments/wpu10u/i_think_i_suck_at_networking/) | wooof359 | 215 |
-| [How to do trunk based development with GitHub](https://www.reddit.com/r/devops/comments/wq1ht2/how_to_do_trunk_based_development_with_github/) | Resurr3ction | 16 |
-| [AWS SSO + G Suite sync](https://www.reddit.com/r/devops/comments/wpwnpe/aws_sso_g_suite_sync/) | calibrono | 5 |
-| [Feeling Lost](https://www.reddit.com/r/devops/comments/wq6u88/feeling_lost/) | onetwoknockout | 4 |
-| [Why use Terraform vs Azure Rest API?](https://www.reddit.com/r/devops/comments/wq4hru/why_use_terraform_vs_azure_rest_api/) | cs_legend_93 | 3 |
-| [Kubernetes Management - specialist tools vs all in one](https://www.reddit.com/r/devops/comments/wq9m8j/kubernetes_management_specialist_tools_vs_all_in/) | DiHannay | 3 |
-| [Do i need a CS degree?](https://www.reddit.com/r/devops/comments/wqkcrx/do_i_need_a_cs_degree/) | prisonbird | 3 |
-| [What challenges did you face once you gave devs access to Jenkins jobs?](https://www.reddit.com/r/devops/comments/wq1od2/what_challenges_did_you_face_once_you_gave_devs/) | zohar275 | 2 |
-| [Troubleshooting vscode .devcontainer](https://www.reddit.com/r/devops/comments/wqm88t/troubleshooting_vscode_devcontainer/) | 357951 | 2 |
-| [Exposing Kubernetes-deployed services through OSB?](https://www.reddit.com/r/devops/comments/wqkwxv/exposing_kubernetesdeployed_services_through_osb/) | extra_rice | 2 |
+| [I'm moving on to a bigger and better job](https://www.reddit.com/r/devops/comments/wqyh0p/im_moving_on_to_a_bigger_and_better_job/) | bashalltheway | 111 |
+| [My first DevOps Role giving me crippling anxiety](https://www.reddit.com/r/devops/comments/wr3ho5/my_first_devops_role_giving_me_crippling_anxiety/) | Shannkz | 45 |
+| [Average salary in Portugal](https://www.reddit.com/r/devops/comments/wqnfmd/average_salary_in_portugal/) | sock_templar | 30 |
+| [I am excited that I transitioned to a DevOps role (unintentionally) at my new job](https://www.reddit.com/r/devops/comments/wqv4m6/i_am_excited_that_i_transitioned_to_a_devops_role/) | dugindeep | 28 |
+| [Where to start in trying to get into DevOps](https://www.reddit.com/r/devops/comments/wr9swz/where_to_start_in_trying_to_get_into_devops/) | dazzledtamarind | 10 |
+| [Linux engineer coming to terms with devops](https://www.reddit.com/r/devops/comments/wreged/linux_engineer_coming_to_terms_with_devops/) | housejunior | 9 |
+| [Jenkins dynamic slaves using Podman](https://www.reddit.com/r/devops/comments/wqq1c3/jenkins_dynamic_slaves_using_podman/) | Actual_Tree | 7 |
+| [How do you measure DORA Metrics](https://www.reddit.com/r/devops/comments/wrenci/how_do_you_measure_dora_metrics/) | zohar275 | 4 |
+| [How We Implement CD (Continuous Deployment) for TinySnap product](https://www.reddit.com/r/devops/comments/wrbhec/how_we_implement_cd_continuous_deployment_for/) | luobaishun | 4 |
+| [CacheDetailHeader isn't doing its job on Apache. What exactly went wrong with my configuration to cause it to miss out adding details on what the reverse proxy is suppose to be doing to cache the documents?](https://www.reddit.com/r/devops/comments/wr82xj/cachedetailheader_isnt_doing_its_job_on_apache/) | Sweet_Comparison_449 | 3 |
