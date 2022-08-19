@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I'm moving on to a bigger and better job](https://www.reddit.com/r/devops/comments/wqyh0p/im_moving_on_to_a_bigger_and_better_job/) | bashalltheway | 111 |
-| [My first DevOps Role giving me crippling anxiety](https://www.reddit.com/r/devops/comments/wr3ho5/my_first_devops_role_giving_me_crippling_anxiety/) | Shannkz | 45 |
-| [Average salary in Portugal](https://www.reddit.com/r/devops/comments/wqnfmd/average_salary_in_portugal/) | sock_templar | 30 |
-| [I am excited that I transitioned to a DevOps role (unintentionally) at my new job](https://www.reddit.com/r/devops/comments/wqv4m6/i_am_excited_that_i_transitioned_to_a_devops_role/) | dugindeep | 28 |
-| [Where to start in trying to get into DevOps](https://www.reddit.com/r/devops/comments/wr9swz/where_to_start_in_trying_to_get_into_devops/) | dazzledtamarind | 10 |
-| [Linux engineer coming to terms with devops](https://www.reddit.com/r/devops/comments/wreged/linux_engineer_coming_to_terms_with_devops/) | housejunior | 9 |
-| [Jenkins dynamic slaves using Podman](https://www.reddit.com/r/devops/comments/wqq1c3/jenkins_dynamic_slaves_using_podman/) | Actual_Tree | 7 |
-| [How do you measure DORA Metrics](https://www.reddit.com/r/devops/comments/wrenci/how_do_you_measure_dora_metrics/) | zohar275 | 4 |
-| [How We Implement CD (Continuous Deployment) for TinySnap product](https://www.reddit.com/r/devops/comments/wrbhec/how_we_implement_cd_continuous_deployment_for/) | luobaishun | 4 |
-| [CacheDetailHeader isn't doing its job on Apache. What exactly went wrong with my configuration to cause it to miss out adding details on what the reverse proxy is suppose to be doing to cache the documents?](https://www.reddit.com/r/devops/comments/wr82xj/cachedetailheader_isnt_doing_its_job_on_apache/) | Sweet_Comparison_449 | 3 |
+| [IT's sad to see money get burned](https://www.reddit.com/r/devops/comments/wrrilu/its_sad_to_see_money_get_burned/) | Buttwallaby | 246 |
+| [DevOps 'for beginners' Stream?](https://www.reddit.com/r/devops/comments/ws8xsu/devops_for_beginners_stream/) | saltyvagrant | 29 |
+| [DevOps Beginnger Projects](https://www.reddit.com/r/devops/comments/wrjb4x/devops_beginnger_projects/) | Pitzii | 27 |
+| [How do you maintain your programming skills during dry spells?](https://www.reddit.com/r/devops/comments/wroa76/how_do_you_maintain_your_programming_skills/) | SO012215 | 13 |
+| [How to give a good presentation](https://www.reddit.com/r/devops/comments/wri08w/how_to_give_a_good_presentation/) | ExtensionResearcher2 | 12 |
+| [Hi! For engineers recently having their performance/compensation review within current company. How much raise did you got?](https://www.reddit.com/r/devops/comments/wrkdvu/hi_for_engineers_recently_having_their/) | Adventurous_Rain_279 | 4 |
+| [AWS ECS AutoScaling does not scale down automatically](https://www.reddit.com/r/devops/comments/ws7n7l/aws_ecs_autoscaling_does_not_scale_down/) | blank1993 | 3 |
+| [Team title](https://www.reddit.com/r/devops/comments/ws4zim/team_title/) | TripleBzz | 2 |
+| [IaC and DevOps](https://www.reddit.com/r/devops/comments/ws60c2/iac_and_devops/) | yanggang20202024 | 2 |
+| [Entry Level Devops Job](https://www.reddit.com/r/devops/comments/ws4m2a/entry_level_devops_job/) | acer2525 | 2 |
