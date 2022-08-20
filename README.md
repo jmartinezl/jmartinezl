@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [IT's sad to see money get burned](https://www.reddit.com/r/devops/comments/wrrilu/its_sad_to_see_money_get_burned/) | Buttwallaby | 246 |
-| [DevOps 'for beginners' Stream?](https://www.reddit.com/r/devops/comments/ws8xsu/devops_for_beginners_stream/) | saltyvagrant | 29 |
-| [DevOps Beginnger Projects](https://www.reddit.com/r/devops/comments/wrjb4x/devops_beginnger_projects/) | Pitzii | 27 |
-| [How do you maintain your programming skills during dry spells?](https://www.reddit.com/r/devops/comments/wroa76/how_do_you_maintain_your_programming_skills/) | SO012215 | 13 |
-| [How to give a good presentation](https://www.reddit.com/r/devops/comments/wri08w/how_to_give_a_good_presentation/) | ExtensionResearcher2 | 12 |
-| [Hi! For engineers recently having their performance/compensation review within current company. How much raise did you got?](https://www.reddit.com/r/devops/comments/wrkdvu/hi_for_engineers_recently_having_their/) | Adventurous_Rain_279 | 4 |
-| [AWS ECS AutoScaling does not scale down automatically](https://www.reddit.com/r/devops/comments/ws7n7l/aws_ecs_autoscaling_does_not_scale_down/) | blank1993 | 3 |
-| [Team title](https://www.reddit.com/r/devops/comments/ws4zim/team_title/) | TripleBzz | 2 |
-| [IaC and DevOps](https://www.reddit.com/r/devops/comments/ws60c2/iac_and_devops/) | yanggang20202024 | 2 |
-| [Entry Level Devops Job](https://www.reddit.com/r/devops/comments/ws4m2a/entry_level_devops_job/) | acer2525 | 2 |
+| [AWS Elastic Beanstalk vs AWS Lambda vs AWS EC2 auto scaling](https://www.reddit.com/r/devops/comments/wsxm4j/aws_elastic_beanstalk_vs_aws_lambda_vs_aws_ec2/) | dellm4800 | 19 |
+| [Starting new position in Devops](https://www.reddit.com/r/devops/comments/wsrxbc/starting_new_position_in_devops/) | fineapple22332 | 17 |
+| [Create and manage your private WireGuard mesh with NetBird and Keycloak](https://www.reddit.com/r/devops/comments/wsfeu2/create_and_manage_your_private_wireguard_mesh/) | wiretrustee | 13 |
+| [How do you handle application deployments when app changes are dependent on database changes (old and new version are not compatible)](https://www.reddit.com/r/devops/comments/wsm0so/how_do_you_handle_application_deployments_when/) | pojzon_poe | 8 |
+| [too many tools and a bit confused](https://www.reddit.com/r/devops/comments/wsnvpe/too_many_tools_and_a_bit_confused/) | chris_redz | 6 |
+| [What are you using for release orchestration?](https://www.reddit.com/r/devops/comments/wsciwz/what_are_you_using_for_release_orchestration/) | gex80 | 5 |
+| [Environment variables on a site hosted on S3, is this impossible?](https://www.reddit.com/r/devops/comments/wt45id/environment_variables_on_a_site_hosted_on_s3_is/) | Vanthian | 4 |
+| [[GitHub Actions] Can you get cmd access to services, like you can normally with docker?](https://www.reddit.com/r/devops/comments/wscth4/github_actions_can_you_get_cmd_access_to_services/) | well_that_went_wrong | 3 |
+| [What services are included in Oracle Cloud's free tier?](https://www.reddit.com/r/devops/comments/wsxmhm/what_services_are_included_in_oracle_clouds_free/) | timlee126 | 3 |
+| [Rolling vs all-at-once deployments](https://www.reddit.com/r/devops/comments/wsdlxn/rolling_vs_allatonce_deployments/) | eirc | 2 |
