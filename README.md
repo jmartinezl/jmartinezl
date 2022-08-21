@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [AWS Elastic Beanstalk vs AWS Lambda vs AWS EC2 auto scaling](https://www.reddit.com/r/devops/comments/wsxm4j/aws_elastic_beanstalk_vs_aws_lambda_vs_aws_ec2/) | dellm4800 | 19 |
-| [Starting new position in Devops](https://www.reddit.com/r/devops/comments/wsrxbc/starting_new_position_in_devops/) | fineapple22332 | 17 |
-| [Create and manage your private WireGuard mesh with NetBird and Keycloak](https://www.reddit.com/r/devops/comments/wsfeu2/create_and_manage_your_private_wireguard_mesh/) | wiretrustee | 13 |
-| [How do you handle application deployments when app changes are dependent on database changes (old and new version are not compatible)](https://www.reddit.com/r/devops/comments/wsm0so/how_do_you_handle_application_deployments_when/) | pojzon_poe | 8 |
-| [too many tools and a bit confused](https://www.reddit.com/r/devops/comments/wsnvpe/too_many_tools_and_a_bit_confused/) | chris_redz | 6 |
-| [What are you using for release orchestration?](https://www.reddit.com/r/devops/comments/wsciwz/what_are_you_using_for_release_orchestration/) | gex80 | 5 |
-| [Environment variables on a site hosted on S3, is this impossible?](https://www.reddit.com/r/devops/comments/wt45id/environment_variables_on_a_site_hosted_on_s3_is/) | Vanthian | 4 |
-| [[GitHub Actions] Can you get cmd access to services, like you can normally with docker?](https://www.reddit.com/r/devops/comments/wscth4/github_actions_can_you_get_cmd_access_to_services/) | well_that_went_wrong | 3 |
-| [What services are included in Oracle Cloud's free tier?](https://www.reddit.com/r/devops/comments/wsxmhm/what_services_are_included_in_oracle_clouds_free/) | timlee126 | 3 |
-| [Rolling vs all-at-once deployments](https://www.reddit.com/r/devops/comments/wsdlxn/rolling_vs_allatonce_deployments/) | eirc | 2 |
+| [What do you like about your current job?](https://www.reddit.com/r/devops/comments/wtipvx/what_do_you_like_about_your_current_job/) | Obj_Sea | 45 |
+| [best ci/cd self-hosted tool?](https://www.reddit.com/r/devops/comments/wtj1f4/best_cicd_selfhosted_tool/) | SavesTheWorld2021 | 17 |
+| [Poor Man's Global Traffic Manager](https://www.reddit.com/r/devops/comments/wtha6w/poor_mans_global_traffic_manager/) | yarmak | 14 |
+| [DevOps Architect Interview at AWS - Looking for Prep Tips](https://www.reddit.com/r/devops/comments/wtcuvr/devops_architect_interview_at_aws_looking_for/) | blockforgecapital | 9 |
+| [Where does provisioning fit into the DevOps lifecycle?](https://www.reddit.com/r/devops/comments/wtjg3e/where_does_provisioning_fit_into_the_devops/) | yanggang20202024 | 8 |
+| [Kubesess - Session management tool for kubctl!](https://www.reddit.com/r/devops/comments/wt5yft/kubesess_session_management_tool_for_kubctl/) | R2ID6I | 7 |
+| [What's my worth?](https://www.reddit.com/r/devops/comments/wt71d0/whats_my_worth/) | onuras | 6 |
+| [whats the most cost-effective auto-scale (managed database/serverless) option?](https://www.reddit.com/r/devops/comments/wtqssm/whats_the_most_costeffective_autoscale_managed/) | mrnothing- | 1 |
+| [aws cloud security certifications](https://www.reddit.com/r/devops/comments/wtxufo/aws_cloud_security_certifications/) | Captain-Husky | 1 |
+| [Apple M2 xcode-select issue](https://www.reddit.com/r/devops/comments/wtbcp9/apple_m2_xcodeselect_issue/) | allywilson | 1 |
