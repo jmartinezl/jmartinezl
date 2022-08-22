@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What do you like about your current job?](https://www.reddit.com/r/devops/comments/wtipvx/what_do_you_like_about_your_current_job/) | Obj_Sea | 45 |
-| [best ci/cd self-hosted tool?](https://www.reddit.com/r/devops/comments/wtj1f4/best_cicd_selfhosted_tool/) | SavesTheWorld2021 | 17 |
-| [Poor Man's Global Traffic Manager](https://www.reddit.com/r/devops/comments/wtha6w/poor_mans_global_traffic_manager/) | yarmak | 14 |
-| [DevOps Architect Interview at AWS - Looking for Prep Tips](https://www.reddit.com/r/devops/comments/wtcuvr/devops_architect_interview_at_aws_looking_for/) | blockforgecapital | 9 |
-| [Where does provisioning fit into the DevOps lifecycle?](https://www.reddit.com/r/devops/comments/wtjg3e/where_does_provisioning_fit_into_the_devops/) | yanggang20202024 | 8 |
-| [Kubesess - Session management tool for kubctl!](https://www.reddit.com/r/devops/comments/wt5yft/kubesess_session_management_tool_for_kubctl/) | R2ID6I | 7 |
-| [What's my worth?](https://www.reddit.com/r/devops/comments/wt71d0/whats_my_worth/) | onuras | 6 |
-| [whats the most cost-effective auto-scale (managed database/serverless) option?](https://www.reddit.com/r/devops/comments/wtqssm/whats_the_most_costeffective_autoscale_managed/) | mrnothing- | 1 |
-| [aws cloud security certifications](https://www.reddit.com/r/devops/comments/wtxufo/aws_cloud_security_certifications/) | Captain-Husky | 1 |
-| [Apple M2 xcode-select issue](https://www.reddit.com/r/devops/comments/wtbcp9/apple_m2_xcodeselect_issue/) | allywilson | 1 |
+| [Renovate, a Dependabot alternative](https://www.reddit.com/r/devops/comments/wu26l0/renovate_a_dependabot_alternative/) | nfrankel | 95 |
+| [DevOps Project Ideas for experience](https://www.reddit.com/r/devops/comments/wuetf4/devops_project_ideas_for_experience/) | Beardwin | 58 |
+| [Salary Sharing Thread August 2022](https://www.reddit.com/r/devops/comments/wu84a0/salary_sharing_thread_august_2022/) | notechmajor | 36 |
+| [ACG vs Pluralsight vs Udemy](https://www.reddit.com/r/devops/comments/wu28a0/acg_vs_pluralsight_vs_udemy/) | LightofAngels | 30 |
+| [Podcast Recommendations](https://www.reddit.com/r/devops/comments/wueppf/podcast_recommendations/) | Samsarra | 5 |
+| [Why do you guys think projects like cdk or cdktf or cdk8s doesnt seem to be picking up traction](https://www.reddit.com/r/devops/comments/wuljbh/why_do_you_guys_think_projects_like_cdk_or_cdktf/) | franz_see | 3 |
+| [using azure devops deployment pipeline to write git repo to a server/machine](https://www.reddit.com/r/devops/comments/wuptpp/using_azure_devops_deployment_pipeline_to_write/) | Tullsokk | 2 |
+| [a small tool to maximize ethernet rx/tx ring buffer](https://www.reddit.com/r/devops/comments/wuixis/a_small_tool_to_maximize_ethernet_rxtx_ring_buffer/) | watermelon_meow | 2 |
+| [I am having problems trying to host a React Vite app on Github Pages.](https://www.reddit.com/r/devops/comments/wuqk8s/i_am_having_problems_trying_to_host_a_react_vite/) | dinoucs | 2 |
+| [File systems, disk systems](https://www.reddit.com/r/devops/comments/wupocl/file_systems_disk_systems/) | dzirden | 2 |
