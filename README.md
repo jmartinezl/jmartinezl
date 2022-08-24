@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Devs don't want to do Ops...](https://www.reddit.com/r/devops/comments/wusvc9/devs_dont_want_to_do_ops/) | scarey102 | 133 |
-| [Requesting a backlog review and/or deployment process meeting during interviews](https://www.reddit.com/r/devops/comments/wv6bm1/requesting_a_backlog_review_andor_deployment/) | that_dude_dane | 35 |
-| [How to answer when someone asks “How do you do devops?”](https://www.reddit.com/r/devops/comments/wv9q7n/how_to_answer_when_someone_asks_how_do_you_do/) | ladydontmine | 31 |
-| [Do you regret getting into DevOps?](https://www.reddit.com/r/devops/comments/wuu0dd/do_you_regret_getting_into_devops/) | Shannkz | 21 |
-| [I created a HUGO blog about making a HUGO blog (the DevOps way!)](https://www.reddit.com/r/devops/comments/wv1grd/i_created_a_hugo_blog_about_making_a_hugo_blog/) | RogueStargun | 15 |
-| [What is a Developer Experience Engineer?](https://www.reddit.com/r/devops/comments/wvfpjs/what_is_a_developer_experience_engineer/) | zohar275 | 13 |
-| [How many different technologies do you work with?](https://www.reddit.com/r/devops/comments/wv1hsu/how_many_different_technologies_do_you_work_with/) | RepresentativeNet509 | 6 |
-| [How do you manage API keys in 2022?](https://www.reddit.com/r/devops/comments/wvdhw7/how_do_you_manage_api_keys_in_2022/) | dangtony98 | 5 |
-| [How useful are RED (rate, error and duration) metrics for individual services in an event driven architecture](https://www.reddit.com/r/devops/comments/wuspm3/how_useful_are_red_rate_error_and_duration/) | pranay01 | 4 |
-| [Error in CLOUDFORMAtion](https://www.reddit.com/r/devops/comments/wvlw59/error_in_cloudformation/) | anacondaonline | 4 |
+| [Should I be salty?](https://www.reddit.com/r/devops/comments/ww3xt7/should_i_be_salty/) | fckDNS4life | 62 |
+| [DevOps Job Title](https://www.reddit.com/r/devops/comments/wvno38/devops_job_title/) | WheresITWaldo | 42 |
+| [How do I give cloud hosted servers access to a few resources on company network?](https://www.reddit.com/r/devops/comments/wvoorr/how_do_i_give_cloud_hosted_servers_access_to_a/) | Nicolaum | 3 |
+| [DevOps solutions for automotive](https://www.reddit.com/r/devops/comments/wvnc85/devops_solutions_for_automotive/) | Ill-Dance-7562 | 3 |
+| [Configuration Manage for large clusters](https://www.reddit.com/r/devops/comments/wvwn76/configuration_manage_for_large_clusters/) | Zestyclose_Cricket49 | 3 |
+| [Starting career in DevOps](https://www.reddit.com/r/devops/comments/ww4t1l/starting_career_in_devops/) | zeppnzee13 | 2 |
+| [DevOps/SRE/Agile/PMO/Lean](https://www.reddit.com/r/devops/comments/wvzqea/devopssreagilepmolean/) | TheSLR722 | 2 |
+| [Anyone working at AWS (Specifically Europe)?](https://www.reddit.com/r/devops/comments/wwdvsk/anyone_working_at_aws_specifically_europe/) | neowiz92 | 2 |
+| [SBOM management](https://www.reddit.com/r/devops/comments/wweobh/sbom_management/) | nevotheless | 1 |
+| [RabbitMQ Summit 2022 - Hybrid Event - London](https://www.reddit.com/r/devops/comments/wwh6mv/rabbitmq_summit_2022_hybrid_event_london/) | erlangsolutions | 1 |
