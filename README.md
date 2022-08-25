@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Should I be salty?](https://www.reddit.com/r/devops/comments/ww3xt7/should_i_be_salty/) | fckDNS4life | 62 |
-| [DevOps Job Title](https://www.reddit.com/r/devops/comments/wvno38/devops_job_title/) | WheresITWaldo | 42 |
-| [How do I give cloud hosted servers access to a few resources on company network?](https://www.reddit.com/r/devops/comments/wvoorr/how_do_i_give_cloud_hosted_servers_access_to_a/) | Nicolaum | 3 |
-| [DevOps solutions for automotive](https://www.reddit.com/r/devops/comments/wvnc85/devops_solutions_for_automotive/) | Ill-Dance-7562 | 3 |
-| [Configuration Manage for large clusters](https://www.reddit.com/r/devops/comments/wvwn76/configuration_manage_for_large_clusters/) | Zestyclose_Cricket49 | 3 |
-| [Starting career in DevOps](https://www.reddit.com/r/devops/comments/ww4t1l/starting_career_in_devops/) | zeppnzee13 | 2 |
-| [DevOps/SRE/Agile/PMO/Lean](https://www.reddit.com/r/devops/comments/wvzqea/devopssreagilepmolean/) | TheSLR722 | 2 |
-| [Anyone working at AWS (Specifically Europe)?](https://www.reddit.com/r/devops/comments/wwdvsk/anyone_working_at_aws_specifically_europe/) | neowiz92 | 2 |
-| [SBOM management](https://www.reddit.com/r/devops/comments/wweobh/sbom_management/) | nevotheless | 1 |
-| [RabbitMQ Summit 2022 - Hybrid Event - London](https://www.reddit.com/r/devops/comments/wwh6mv/rabbitmq_summit_2022_hybrid_event_london/) | erlangsolutions | 1 |
+| [K8s encourages people to deploy really complex infrastructure without understanding how it works](https://www.reddit.com/r/devops/comments/wwpo91/k8s_encourages_people_to_deploy_really_complex/) | billionairesexwizard | 348 |
+| [gatekeeping developer](https://www.reddit.com/r/devops/comments/wwplwo/gatekeeping_developer/) | trelm249 | 54 |
+| [Where do experienced DeVOps ppl hang out online ?](https://www.reddit.com/r/devops/comments/wwow74/where_do_experienced_devops_ppl_hang_out_online/) | pojzon_poe | 18 |
+| [An ops-to-SRE story, and a request for learning resources [long]](https://www.reddit.com/r/devops/comments/wwrei9/an_opstosre_story_and_a_request_for_learning/) | thoughtfix | 10 |
+| [Company decide to use kafka (msk)](https://www.reddit.com/r/devops/comments/wwmou7/company_decide_to_use_kafka_msk/) | midlevelmybutt | 8 |
+| [Networking primer](https://www.reddit.com/r/devops/comments/wx3hk1/networking_primer/) | cauthon | 3 |
+| [How to store and treat ansible playbooks and trraform projects in a deployment?](https://www.reddit.com/r/devops/comments/wwsz2v/how_to_store_and_treat_ansible_playbooks_and/) | Linkandzelda | 3 |
+| [How do you price infrastructure/hosting to clients?](https://www.reddit.com/r/devops/comments/wwnqpa/how_do_you_price_infrastructurehosting_to_clients/) | braqut_todd | 3 |
+| [Computation and interpretation of mean time to resolve?](https://www.reddit.com/r/devops/comments/wxb44a/computation_and_interpretation_of_mean_time_to/) | Sergiogiogio | 3 |
+| [how to deploy a host that's on another vpn?](https://www.reddit.com/r/devops/comments/wwm52k/how_to_deploy_a_host_thats_on_another_vpn/) | queBurro | 2 |
