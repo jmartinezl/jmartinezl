@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [K8s encourages people to deploy really complex infrastructure without understanding how it works](https://www.reddit.com/r/devops/comments/wwpo91/k8s_encourages_people_to_deploy_really_complex/) | billionairesexwizard | 348 |
-| [gatekeeping developer](https://www.reddit.com/r/devops/comments/wwplwo/gatekeeping_developer/) | trelm249 | 54 |
-| [Where do experienced DeVOps ppl hang out online ?](https://www.reddit.com/r/devops/comments/wwow74/where_do_experienced_devops_ppl_hang_out_online/) | pojzon_poe | 18 |
-| [An ops-to-SRE story, and a request for learning resources [long]](https://www.reddit.com/r/devops/comments/wwrei9/an_opstosre_story_and_a_request_for_learning/) | thoughtfix | 10 |
-| [Company decide to use kafka (msk)](https://www.reddit.com/r/devops/comments/wwmou7/company_decide_to_use_kafka_msk/) | midlevelmybutt | 8 |
-| [Networking primer](https://www.reddit.com/r/devops/comments/wx3hk1/networking_primer/) | cauthon | 3 |
-| [How to store and treat ansible playbooks and trraform projects in a deployment?](https://www.reddit.com/r/devops/comments/wwsz2v/how_to_store_and_treat_ansible_playbooks_and/) | Linkandzelda | 3 |
-| [How do you price infrastructure/hosting to clients?](https://www.reddit.com/r/devops/comments/wwnqpa/how_do_you_price_infrastructurehosting_to_clients/) | braqut_todd | 3 |
-| [Computation and interpretation of mean time to resolve?](https://www.reddit.com/r/devops/comments/wxb44a/computation_and_interpretation_of_mean_time_to/) | Sergiogiogio | 3 |
-| [how to deploy a host that's on another vpn?](https://www.reddit.com/r/devops/comments/wwm52k/how_to_deploy_a_host_thats_on_another_vpn/) | queBurro | 2 |
+| [Compilers encourage developers to deploy really complex machine code without understanding how it works](https://www.reddit.com/r/devops/comments/wxf6yj/compilers_encourage_developers_to_deploy_really/) | flagbearer223 | 366 |
+| [how to scale Infrastructure Consulting business](https://www.reddit.com/r/devops/comments/wxpmm0/how_to_scale_infrastructure_consulting_business/) | Dubinko | 8 |
+| [How do you verify the safety of database schema migrations?](https://www.reddit.com/r/devops/comments/wy2byn/how_do_you_verify_the_safety_of_database_schema/) | rotemtam | 8 |
+| [How to build multi-architecture Docker images?](https://www.reddit.com/r/devops/comments/wy78ed/how_to_build_multiarchitecture_docker_images/) | Realistic-Cap6526 | 7 |
+| [DevOps 'for beginners' Stream (follow up)](https://www.reddit.com/r/devops/comments/wxge6g/devops_for_beginners_stream_follow_up/) | saltyvagrant | 7 |
+| [my 2 cents about CNCF CKA curriculum training resources](https://www.reddit.com/r/devops/comments/wxokbt/my_2_cents_about_cncf_cka_curriculum_training/) | pier4r | 4 |
+| [Does an nginx-ingress-controller need a default-http-backend?](https://www.reddit.com/r/devops/comments/wxt6v8/does_an_nginxingresscontroller_need_a/) | shiftv | 4 |
+| [An Update from Heroku](https://www.reddit.com/r/devops/comments/wxkd88/an_update_from_heroku/) | thedankzone | 4 |
+| [Have "point and click" azure cloud experience but not Devops, how can I break into this field](https://www.reddit.com/r/devops/comments/wxoffx/have_point_and_click_azure_cloud_experience_but/) | PlaneTry4277 | 3 |
+| [Concerned about where my current job is at career wise. Should I be?](https://www.reddit.com/r/devops/comments/wxkxhs/concerned_about_where_my_current_job_is_at_career/) | SomeUnsureThrowaway | 3 |
