@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Compilers encourage developers to deploy really complex machine code without understanding how it works](https://www.reddit.com/r/devops/comments/wxf6yj/compilers_encourage_developers_to_deploy_really/) | flagbearer223 | 366 |
-| [how to scale Infrastructure Consulting business](https://www.reddit.com/r/devops/comments/wxpmm0/how_to_scale_infrastructure_consulting_business/) | Dubinko | 8 |
-| [How do you verify the safety of database schema migrations?](https://www.reddit.com/r/devops/comments/wy2byn/how_do_you_verify_the_safety_of_database_schema/) | rotemtam | 8 |
-| [How to build multi-architecture Docker images?](https://www.reddit.com/r/devops/comments/wy78ed/how_to_build_multiarchitecture_docker_images/) | Realistic-Cap6526 | 7 |
-| [DevOps 'for beginners' Stream (follow up)](https://www.reddit.com/r/devops/comments/wxge6g/devops_for_beginners_stream_follow_up/) | saltyvagrant | 7 |
-| [my 2 cents about CNCF CKA curriculum training resources](https://www.reddit.com/r/devops/comments/wxokbt/my_2_cents_about_cncf_cka_curriculum_training/) | pier4r | 4 |
-| [Does an nginx-ingress-controller need a default-http-backend?](https://www.reddit.com/r/devops/comments/wxt6v8/does_an_nginxingresscontroller_need_a/) | shiftv | 4 |
-| [An Update from Heroku](https://www.reddit.com/r/devops/comments/wxkd88/an_update_from_heroku/) | thedankzone | 4 |
-| [Have "point and click" azure cloud experience but not Devops, how can I break into this field](https://www.reddit.com/r/devops/comments/wxoffx/have_point_and_click_azure_cloud_experience_but/) | PlaneTry4277 | 3 |
-| [Concerned about where my current job is at career wise. Should I be?](https://www.reddit.com/r/devops/comments/wxkxhs/concerned_about_where_my_current_job_is_at_career/) | SomeUnsureThrowaway | 3 |
+| [Need help with CI/CD for Containers](https://www.reddit.com/r/devops/comments/wymxs6/need_help_with_cicd_for_containers/) | PenguinGerman | 22 |
+| [what your observability stack in 2022 looks like](https://www.reddit.com/r/devops/comments/wytllq/what_your_observability_stack_in_2022_looks_like/) | prajax_ | 12 |
+| [npm-offline-mirror](https://www.reddit.com/r/devops/comments/wyn25f/npmofflinemirror/) | BlueJeansAndRain | 12 |
+| [Choosing an IaC tool](https://www.reddit.com/r/devops/comments/wyjmd4/choosing_an_iac_tool/) | jaxxstorm | 10 |
+| [k8s nginx ingress target-rewrite doesn't seem to be working](https://www.reddit.com/r/devops/comments/wybqgk/k8s_nginx_ingress_targetrewrite_doesnt_seem_to_be/) | glebmaister | 7 |
+| [DevOps Role - How much dev, how much ops](https://www.reddit.com/r/devops/comments/wyvrz8/devops_role_how_much_dev_how_much_ops/) | consultant82 | 7 |
+| [How do you collaborate?](https://www.reddit.com/r/devops/comments/wyfgrr/how_do_you_collaborate/) | pleegor | 2 |
+| [package configuration system (Like Rez)](https://www.reddit.com/r/devops/comments/wyo4p0/package_configuration_system_like_rez/) | BearChinsIsEseLuvin | 1 |
+| [Is there a way to make a fully portable dev setup?](https://www.reddit.com/r/devops/comments/wyz0d1/is_there_a_way_to_make_a_fully_portable_dev_setup/) | ins0mniac13 | 1 |
+| [Is devops is the right position for me?](https://www.reddit.com/r/devops/comments/wyk8a6/is_devops_is_the_right_position_for_me/) | samnano | 1 |
