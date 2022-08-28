@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Need help with CI/CD for Containers](https://www.reddit.com/r/devops/comments/wymxs6/need_help_with_cicd_for_containers/) | PenguinGerman | 22 |
-| [what your observability stack in 2022 looks like](https://www.reddit.com/r/devops/comments/wytllq/what_your_observability_stack_in_2022_looks_like/) | prajax_ | 12 |
-| [npm-offline-mirror](https://www.reddit.com/r/devops/comments/wyn25f/npmofflinemirror/) | BlueJeansAndRain | 12 |
-| [Choosing an IaC tool](https://www.reddit.com/r/devops/comments/wyjmd4/choosing_an_iac_tool/) | jaxxstorm | 10 |
-| [k8s nginx ingress target-rewrite doesn't seem to be working](https://www.reddit.com/r/devops/comments/wybqgk/k8s_nginx_ingress_targetrewrite_doesnt_seem_to_be/) | glebmaister | 7 |
-| [DevOps Role - How much dev, how much ops](https://www.reddit.com/r/devops/comments/wyvrz8/devops_role_how_much_dev_how_much_ops/) | consultant82 | 7 |
-| [How do you collaborate?](https://www.reddit.com/r/devops/comments/wyfgrr/how_do_you_collaborate/) | pleegor | 2 |
-| [package configuration system (Like Rez)](https://www.reddit.com/r/devops/comments/wyo4p0/package_configuration_system_like_rez/) | BearChinsIsEseLuvin | 1 |
-| [Is there a way to make a fully portable dev setup?](https://www.reddit.com/r/devops/comments/wyz0d1/is_there_a_way_to_make_a_fully_portable_dev_setup/) | ins0mniac13 | 1 |
-| [Is devops is the right position for me?](https://www.reddit.com/r/devops/comments/wyk8a6/is_devops_is_the_right_position_for_me/) | samnano | 1 |
+| [How do you handle working with government contractors in DevOps?](https://www.reddit.com/r/devops/comments/wz7qhu/how_do_you_handle_working_with_government/) | coderite | 62 |
+| [exercises for learning docker](https://www.reddit.com/r/devops/comments/wz1i32/exercises_for_learning_docker/) | gerd50501 | 18 |
+| [GH Actions - Cascading Workflow](https://www.reddit.com/r/devops/comments/wzctmr/gh_actions_cascading_workflow/) | dragons_fire77 | 15 |
+| [[Article] Deploy a static website on AWS with Terraform](https://www.reddit.com/r/devops/comments/wz4iry/article_deploy_a_static_website_on_aws_with/) | boodyvo | 7 |
+| [Linux Cheat Sheet](https://www.reddit.com/r/devops/comments/wzt14x/linux_cheat_sheet/) | bxtgeek | 4 |
+| [Upgrade OS Kubernetes Nodes on Production](https://www.reddit.com/r/devops/comments/wz53dz/upgrade_os_kubernetes_nodes_on_production/) | RezkMike | 2 |
+| [I passed my first round interview with the head of the cloud department. I have another round, this time with the CTO and HR at the same time. After, I'm meeting the cloud team. What are things that I should expect for this interview? Any tips?](https://www.reddit.com/r/devops/comments/wzdpq4/i_passed_my_first_round_interview_with_the_head/) | Ordinary_Oil3520 | 2 |
+| [Laptop suggestions.](https://www.reddit.com/r/devops/comments/wzcytc/laptop_suggestions/) | Spitefulmutant_ | 0 |
+| [Cloud Architectural approaches for my webapp](https://www.reddit.com/r/devops/comments/wzg2we/cloud_architectural_approaches_for_my_webapp/) | itsdir0 | 0 |
