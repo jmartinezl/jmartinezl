@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you handle working with government contractors in DevOps?](https://www.reddit.com/r/devops/comments/wz7qhu/how_do_you_handle_working_with_government/) | coderite | 62 |
-| [exercises for learning docker](https://www.reddit.com/r/devops/comments/wz1i32/exercises_for_learning_docker/) | gerd50501 | 18 |
-| [GH Actions - Cascading Workflow](https://www.reddit.com/r/devops/comments/wzctmr/gh_actions_cascading_workflow/) | dragons_fire77 | 15 |
-| [[Article] Deploy a static website on AWS with Terraform](https://www.reddit.com/r/devops/comments/wz4iry/article_deploy_a_static_website_on_aws_with/) | boodyvo | 7 |
-| [Linux Cheat Sheet](https://www.reddit.com/r/devops/comments/wzt14x/linux_cheat_sheet/) | bxtgeek | 4 |
-| [Upgrade OS Kubernetes Nodes on Production](https://www.reddit.com/r/devops/comments/wz53dz/upgrade_os_kubernetes_nodes_on_production/) | RezkMike | 2 |
-| [I passed my first round interview with the head of the cloud department. I have another round, this time with the CTO and HR at the same time. After, I'm meeting the cloud team. What are things that I should expect for this interview? Any tips?](https://www.reddit.com/r/devops/comments/wzdpq4/i_passed_my_first_round_interview_with_the_head/) | Ordinary_Oil3520 | 2 |
-| [Laptop suggestions.](https://www.reddit.com/r/devops/comments/wzcytc/laptop_suggestions/) | Spitefulmutant_ | 0 |
-| [Cloud Architectural approaches for my webapp](https://www.reddit.com/r/devops/comments/wzg2we/cloud_architectural_approaches_for_my_webapp/) | itsdir0 | 0 |
+| [DevOps 'for Beginners' (final notice)](https://www.reddit.com/r/devops/comments/wzyles/devops_for_beginners_final_notice/) | saltyvagrant | 137 |
+| [LastPass Suffers Data Breach, Source Code Stolen](https://www.reddit.com/r/devops/comments/x0h5es/lastpass_suffers_data_breach_source_code_stolen/) | Glad_Living3908 | 45 |
+| [What do you all think about meditation is it pertains to better handling stress on the job?](https://www.reddit.com/r/devops/comments/x0blc9/what_do_you_all_think_about_meditation_is_it/) | IndieDiscovery | 19 |
+| [how useful do people find traces?](https://www.reddit.com/r/devops/comments/x02ent/how_useful_do_people_find_traces/) | NormalUserThirty | 8 |
+| [What is the best practice for deploying networking components with terraform](https://www.reddit.com/r/devops/comments/x0if8l/what_is_the_best_practice_for_deploying/) | kristianfzr | 2 |
+| [Research on technical debt management in the video game industry](https://www.reddit.com/r/devops/comments/x0friw/research_on_technical_debt_management_in_the/) | ZealousNescient | 2 |
+| [Need an opinion --&gt; QA to QE transition](https://www.reddit.com/r/devops/comments/x0307p/need_an_opinion_qa_to_qe_transition/) | NedkoHristov | 2 |
+| [Any input from the community about Cloud Architect VS Cloud devops (AWS)](https://www.reddit.com/r/devops/comments/x0muki/any_input_from_the_community_about_cloud/) | tamuzp | 1 |
+| [Selenium for Web Appljcation Automation](https://www.reddit.com/r/devops/comments/x02o15/selenium_for_web_appljcation_automation/) | Binemax | 0 |
+| [Referencing and EC2 instance's region](https://www.reddit.com/r/devops/comments/wzvf0g/referencing_and_ec2_instances_region/) | ZimCanIT | 0 |
