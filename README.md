@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps 'for Beginners' (final notice)](https://www.reddit.com/r/devops/comments/wzyles/devops_for_beginners_final_notice/) | saltyvagrant | 137 |
-| [LastPass Suffers Data Breach, Source Code Stolen](https://www.reddit.com/r/devops/comments/x0h5es/lastpass_suffers_data_breach_source_code_stolen/) | Glad_Living3908 | 45 |
-| [What do you all think about meditation is it pertains to better handling stress on the job?](https://www.reddit.com/r/devops/comments/x0blc9/what_do_you_all_think_about_meditation_is_it/) | IndieDiscovery | 19 |
-| [how useful do people find traces?](https://www.reddit.com/r/devops/comments/x02ent/how_useful_do_people_find_traces/) | NormalUserThirty | 8 |
-| [What is the best practice for deploying networking components with terraform](https://www.reddit.com/r/devops/comments/x0if8l/what_is_the_best_practice_for_deploying/) | kristianfzr | 2 |
-| [Research on technical debt management in the video game industry](https://www.reddit.com/r/devops/comments/x0friw/research_on_technical_debt_management_in_the/) | ZealousNescient | 2 |
-| [Need an opinion --&gt; QA to QE transition](https://www.reddit.com/r/devops/comments/x0307p/need_an_opinion_qa_to_qe_transition/) | NedkoHristov | 2 |
-| [Any input from the community about Cloud Architect VS Cloud devops (AWS)](https://www.reddit.com/r/devops/comments/x0muki/any_input_from_the_community_about_cloud/) | tamuzp | 1 |
-| [Selenium for Web Appljcation Automation](https://www.reddit.com/r/devops/comments/x02o15/selenium_for_web_appljcation_automation/) | Binemax | 0 |
-| [Referencing and EC2 instance's region](https://www.reddit.com/r/devops/comments/wzvf0g/referencing_and_ec2_instances_region/) | ZimCanIT | 0 |
+| [How to get better at programming while doing DevOps at work?](https://www.reddit.com/r/devops/comments/x19tgc/how_to_get_better_at_programming_while_doing/) | Mammoth_Cache | 50 |
+| [terraform engineering strategies, Part 1 - make your modules thread safe](https://www.reddit.com/r/devops/comments/x0rknm/terraform_engineering_strategies_part_1_make_your/) | Perfekt_Nerd | 26 |
+| [Hemmelig.app - Self hosted secret sharing application](https://www.reddit.com/r/devops/comments/x0zfh1/hemmeligapp_self_hosted_secret_sharing_application/) | dothash | 22 |
+| [How to safely terraform secrets manager secrets via terraform without vault?](https://www.reddit.com/r/devops/comments/x0ptmr/how_to_safely_terraform_secrets_manager_secrets/) | midlevelmybutt | 16 |
+| [Do you use Preview Environments?](https://www.reddit.com/r/devops/comments/x1bp3m/do_you_use_preview_environments/) | ev0xmusic | 7 |
+| [Recommendations for DS and Algo courses and boot camp](https://www.reddit.com/r/devops/comments/x18g3s/recommendations_for_ds_and_algo_courses_and_boot/) | Psychological_Money8 | 3 |
+| [opinions on my devop career entry plans?](https://www.reddit.com/r/devops/comments/x0vgcz/opinions_on_my_devop_career_entry_plans/) | johnj922 | 2 |
+| [Django with enabled Debug Mode, DB accounts and API Keys more than 3.1k are exposed.](https://www.reddit.com/r/devops/comments/x17dkr/django_with_enabled_debug_mode_db_accounts_and/) | Glad_Living3908 | 2 |
+| [Who decides what tools to use where you work?](https://www.reddit.com/r/devops/comments/x0qib3/who_decides_what_tools_to_use_where_you_work/) | ty4834 | 1 |
+| [Trunk based development release strategy](https://www.reddit.com/r/devops/comments/x1ear0/trunk_based_development_release_strategy/) | h4v3st | 1 |
