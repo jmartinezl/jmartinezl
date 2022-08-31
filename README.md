@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How to get better at programming while doing DevOps at work?](https://www.reddit.com/r/devops/comments/x19tgc/how_to_get_better_at_programming_while_doing/) | Mammoth_Cache | 50 |
-| [terraform engineering strategies, Part 1 - make your modules thread safe](https://www.reddit.com/r/devops/comments/x0rknm/terraform_engineering_strategies_part_1_make_your/) | Perfekt_Nerd | 26 |
-| [Hemmelig.app - Self hosted secret sharing application](https://www.reddit.com/r/devops/comments/x0zfh1/hemmeligapp_self_hosted_secret_sharing_application/) | dothash | 22 |
-| [How to safely terraform secrets manager secrets via terraform without vault?](https://www.reddit.com/r/devops/comments/x0ptmr/how_to_safely_terraform_secrets_manager_secrets/) | midlevelmybutt | 16 |
-| [Do you use Preview Environments?](https://www.reddit.com/r/devops/comments/x1bp3m/do_you_use_preview_environments/) | ev0xmusic | 7 |
-| [Recommendations for DS and Algo courses and boot camp](https://www.reddit.com/r/devops/comments/x18g3s/recommendations_for_ds_and_algo_courses_and_boot/) | Psychological_Money8 | 3 |
-| [opinions on my devop career entry plans?](https://www.reddit.com/r/devops/comments/x0vgcz/opinions_on_my_devop_career_entry_plans/) | johnj922 | 2 |
-| [Django with enabled Debug Mode, DB accounts and API Keys more than 3.1k are exposed.](https://www.reddit.com/r/devops/comments/x17dkr/django_with_enabled_debug_mode_db_accounts_and/) | Glad_Living3908 | 2 |
-| [Who decides what tools to use where you work?](https://www.reddit.com/r/devops/comments/x0qib3/who_decides_what_tools_to_use_where_you_work/) | ty4834 | 1 |
-| [Trunk based development release strategy](https://www.reddit.com/r/devops/comments/x1ear0/trunk_based_development_release_strategy/) | h4v3st | 1 |
+| [New director hire, suspicious behavior?](https://www.reddit.com/r/devops/comments/x1we0e/new_director_hire_suspicious_behavior/) | duebina | 76 |
+| [PowerShell and DevOps - How Much PowerShell Do I Need to Know](https://www.reddit.com/r/devops/comments/x1j3vf/powershell_and_devops_how_much_powershell_do_i/) | _jim-jimmer | 15 |
+| [Why using cdk8s in Golang instead of native K8s API?](https://www.reddit.com/r/devops/comments/x1qi7b/why_using_cdk8s_in_golang_instead_of_native_k8s/) | sbaete | 13 |
+| [Tool for managing deploys that rely on multiple codebase dependencies](https://www.reddit.com/r/devops/comments/x1q6mp/tool_for_managing_deploys_that_rely_on_multiple/) | SpicyBroseph | 10 |
+| [Can a Github action fail to deploy new code without returning an error message, and how do you debug this?](https://www.reddit.com/r/devops/comments/x1xxqh/can_a_github_action_fail_to_deploy_new_code/) | maxifederer | 9 |
+| [Advise on leveling up those monitoring skills](https://www.reddit.com/r/devops/comments/x1ojz3/advise_on_leveling_up_those_monitoring_skills/) | Regrau | 9 |
+| [Thoughts on Opentelemetry?](https://www.reddit.com/r/devops/comments/x29ztw/thoughts_on_opentelemetry/) | Interesting_Rule5541 | 2 |
+| [The best solution to Deploy OVF file on VMware ?](https://www.reddit.com/r/devops/comments/x1ulrd/the_best_solution_to_deploy_ovf_file_on_vmware/) | Zurattos | 2 |
+| [Question: is Azure Kubernetes Services a good solution to a peak scaling problem for a small app ecosystem?](https://www.reddit.com/r/devops/comments/x1qya3/question_is_azure_kubernetes_services_a_good/) | Vijchti | 2 |
+| [Implementing code signing and verification](https://www.reddit.com/r/devops/comments/x1i4lg/implementing_code_signing_and_verification/) | thegoof121 | 2 |
