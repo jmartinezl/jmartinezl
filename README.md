@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [New director hire, suspicious behavior?](https://www.reddit.com/r/devops/comments/x1we0e/new_director_hire_suspicious_behavior/) | duebina | 76 |
-| [PowerShell and DevOps - How Much PowerShell Do I Need to Know](https://www.reddit.com/r/devops/comments/x1j3vf/powershell_and_devops_how_much_powershell_do_i/) | _jim-jimmer | 15 |
-| [Why using cdk8s in Golang instead of native K8s API?](https://www.reddit.com/r/devops/comments/x1qi7b/why_using_cdk8s_in_golang_instead_of_native_k8s/) | sbaete | 13 |
-| [Tool for managing deploys that rely on multiple codebase dependencies](https://www.reddit.com/r/devops/comments/x1q6mp/tool_for_managing_deploys_that_rely_on_multiple/) | SpicyBroseph | 10 |
-| [Can a Github action fail to deploy new code without returning an error message, and how do you debug this?](https://www.reddit.com/r/devops/comments/x1xxqh/can_a_github_action_fail_to_deploy_new_code/) | maxifederer | 9 |
-| [Advise on leveling up those monitoring skills](https://www.reddit.com/r/devops/comments/x1ojz3/advise_on_leveling_up_those_monitoring_skills/) | Regrau | 9 |
-| [Thoughts on Opentelemetry?](https://www.reddit.com/r/devops/comments/x29ztw/thoughts_on_opentelemetry/) | Interesting_Rule5541 | 2 |
-| [The best solution to Deploy OVF file on VMware ?](https://www.reddit.com/r/devops/comments/x1ulrd/the_best_solution_to_deploy_ovf_file_on_vmware/) | Zurattos | 2 |
-| [Question: is Azure Kubernetes Services a good solution to a peak scaling problem for a small app ecosystem?](https://www.reddit.com/r/devops/comments/x1qya3/question_is_azure_kubernetes_services_a_good/) | Vijchti | 2 |
-| [Implementing code signing and verification](https://www.reddit.com/r/devops/comments/x1i4lg/implementing_code_signing_and_verification/) | thegoof121 | 2 |
+| [Microsoft DevOps training and Labs are awful](https://www.reddit.com/r/devops/comments/x2ph3y/microsoft_devops_training_and_labs_are_awful/) | DaprasDaMonk | 80 |
+| [What is expected of a Cloud Engineer with 2 years experience?](https://www.reddit.com/r/devops/comments/x2oeg0/what_is_expected_of_a_cloud_engineer_with_2_years/) | JordanDreddit | 34 |
+| [Surprise of the day: AWS SES server on a Spamhaus blocklist](https://www.reddit.com/r/devops/comments/x2ec6n/surprise_of_the_day_aws_ses_server_on_a_spamhaus/) | hardwaresofton | 18 |
+| [Gitlab-ci + Kubernetes + Helm chart + OCI is a highly scalable combination](https://www.reddit.com/r/devops/comments/x2zy26/gitlabci_kubernetes_helm_chart_oci_is_a_highly/) | GreenAstronaut6179 | 17 |
+| [Working in "DevOps" (air quotes)](https://www.reddit.com/r/devops/comments/x2i7kc/working_in_devops_air_quotes/) | 9070932767 | 7 |
+| [Diagram as Code for Jenkins Pipelines](https://www.reddit.com/r/devops/comments/x2hsev/diagram_as_code_for_jenkins_pipelines/) | mattwaddy | 6 |
+| [Bursting compute for compilation in AWS](https://www.reddit.com/r/devops/comments/x2lczy/bursting_compute_for_compilation_in_aws/) | astnbomb | 6 |
+| [Does anyone participate in this event - "OpenTelemetry &amp; Kubernetes"? (sounds interesting)](https://www.reddit.com/r/devops/comments/x2eyoq/does_anyone_participate_in_this_event/) | Interesting_Rule5541 | 5 |
+| [Best practice managing Helm chart in own repository via ArgoCD?](https://www.reddit.com/r/devops/comments/x2ndyl/best_practice_managing_helm_chart_in_own/) | chucky484 | 5 |
+| [Structuring Packer Files](https://www.reddit.com/r/devops/comments/x2l1ct/structuring_packer_files/) | HR8316 | 4 |
