@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Microsoft DevOps training and Labs are awful](https://www.reddit.com/r/devops/comments/x2ph3y/microsoft_devops_training_and_labs_are_awful/) | DaprasDaMonk | 80 |
-| [What is expected of a Cloud Engineer with 2 years experience?](https://www.reddit.com/r/devops/comments/x2oeg0/what_is_expected_of_a_cloud_engineer_with_2_years/) | JordanDreddit | 34 |
-| [Surprise of the day: AWS SES server on a Spamhaus blocklist](https://www.reddit.com/r/devops/comments/x2ec6n/surprise_of_the_day_aws_ses_server_on_a_spamhaus/) | hardwaresofton | 18 |
-| [Gitlab-ci + Kubernetes + Helm chart + OCI is a highly scalable combination](https://www.reddit.com/r/devops/comments/x2zy26/gitlabci_kubernetes_helm_chart_oci_is_a_highly/) | GreenAstronaut6179 | 17 |
-| [Working in "DevOps" (air quotes)](https://www.reddit.com/r/devops/comments/x2i7kc/working_in_devops_air_quotes/) | 9070932767 | 7 |
-| [Diagram as Code for Jenkins Pipelines](https://www.reddit.com/r/devops/comments/x2hsev/diagram_as_code_for_jenkins_pipelines/) | mattwaddy | 6 |
-| [Bursting compute for compilation in AWS](https://www.reddit.com/r/devops/comments/x2lczy/bursting_compute_for_compilation_in_aws/) | astnbomb | 6 |
-| [Does anyone participate in this event - "OpenTelemetry &amp; Kubernetes"? (sounds interesting)](https://www.reddit.com/r/devops/comments/x2eyoq/does_anyone_participate_in_this_event/) | Interesting_Rule5541 | 5 |
-| [Best practice managing Helm chart in own repository via ArgoCD?](https://www.reddit.com/r/devops/comments/x2ndyl/best_practice_managing_helm_chart_in_own/) | chucky484 | 5 |
-| [Structuring Packer Files](https://www.reddit.com/r/devops/comments/x2l1ct/structuring_packer_files/) | HR8316 | 4 |
+| [Best resources to learn devops](https://www.reddit.com/r/devops/comments/x3f26l/best_resources_to_learn_devops/) | djangocuAli | 34 |
+| [Monthly 'Getting into DevOps' thread - 2022/09](https://www.reddit.com/r/devops/comments/x3nai0/monthly_getting_into_devops_thread_202209/) | mthode | 22 |
+| [Network Diagrams](https://www.reddit.com/r/devops/comments/x3hf9e/network_diagrams/) | Imworkingrightnow123 | 17 |
+| [Jenkins CI or CI/CD](https://www.reddit.com/r/devops/comments/x3bhk4/jenkins_ci_or_cicd/) | acer2525 | 15 |
+| [BotKube 0.13 Released](https://www.reddit.com/r/devops/comments/x3wjzl/botkube_013_released/) | botkube | 8 |
+| [CI/CD for jobs outside of SWE?](https://www.reddit.com/r/devops/comments/x3clgu/cicd_for_jobs_outside_of_swe/) | NotMyDeepState | 7 |
+| [Applications version per environment dashboard in ADO](https://www.reddit.com/r/devops/comments/x3kw4v/applications_version_per_environment_dashboard_in/) | shiiqalka | 5 |
+| [do application performance issues impact business metrics? how do you quantify business impact of issues in deployed application](https://www.reddit.com/r/devops/comments/x3vbzt/do_application_performance_issues_impact_business/) | pranay01 | 4 |
+| [Cloudformation workflow](https://www.reddit.com/r/devops/comments/x3duk6/cloudformation_workflow/) | techdweeb321 | 4 |
+| [Team credentials/secrets/config management (acl, groups etc)](https://www.reddit.com/r/devops/comments/x3wbw2/team_credentialssecretsconfig_management_acl/) | hexwit | 1 |
