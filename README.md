@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Best resources to learn devops](https://www.reddit.com/r/devops/comments/x3f26l/best_resources_to_learn_devops/) | djangocuAli | 34 |
-| [Monthly 'Getting into DevOps' thread - 2022/09](https://www.reddit.com/r/devops/comments/x3nai0/monthly_getting_into_devops_thread_202209/) | mthode | 22 |
-| [Network Diagrams](https://www.reddit.com/r/devops/comments/x3hf9e/network_diagrams/) | Imworkingrightnow123 | 17 |
-| [Jenkins CI or CI/CD](https://www.reddit.com/r/devops/comments/x3bhk4/jenkins_ci_or_cicd/) | acer2525 | 15 |
-| [BotKube 0.13 Released](https://www.reddit.com/r/devops/comments/x3wjzl/botkube_013_released/) | botkube | 8 |
-| [CI/CD for jobs outside of SWE?](https://www.reddit.com/r/devops/comments/x3clgu/cicd_for_jobs_outside_of_swe/) | NotMyDeepState | 7 |
-| [Applications version per environment dashboard in ADO](https://www.reddit.com/r/devops/comments/x3kw4v/applications_version_per_environment_dashboard_in/) | shiiqalka | 5 |
-| [do application performance issues impact business metrics? how do you quantify business impact of issues in deployed application](https://www.reddit.com/r/devops/comments/x3vbzt/do_application_performance_issues_impact_business/) | pranay01 | 4 |
-| [Cloudformation workflow](https://www.reddit.com/r/devops/comments/x3duk6/cloudformation_workflow/) | techdweeb321 | 4 |
-| [Team credentials/secrets/config management (acl, groups etc)](https://www.reddit.com/r/devops/comments/x3wbw2/team_credentialssecretsconfig_management_acl/) | hexwit | 1 |
+| [How much "advanced" git does everyone see/do?](https://www.reddit.com/r/devops/comments/x4c22x/how_much_advanced_git_does_everyone_seedo/) | remotebanjo | 45 |
+| [I wanted a more visual way to swap between AWS profiles, so I put together a Mac MenuBar app to help](https://www.reddit.com/r/devops/comments/x4ci4k/i_wanted_a_more_visual_way_to_swap_between_aws/) | coned_miro | 38 |
+| [course or book for learning to setup a ci/cd pipeline?](https://www.reddit.com/r/devops/comments/x4l1rg/course_or_book_for_learning_to_setup_a_cicd/) | dsmedium | 24 |
+| [EKS - How do worker nodes in multiple AZ communicate with API Servers](https://www.reddit.com/r/devops/comments/x40vzn/eks_how_do_worker_nodes_in_multiple_az/) | kingindanord | 12 |
+| [What is something most educators won't say when asked about which to learn AWS, GCP or Azure?](https://www.reddit.com/r/devops/comments/x462ct/what_is_something_most_educators_wont_say_when/) | 13luckycaesar | 8 |
+| [What are the pros and cons of terraform workspaces Vs different folders in practice for your use case?](https://www.reddit.com/r/devops/comments/x4qlg5/what_are_the_pros_and_cons_of_terraform/) | nullpackets | 8 |
+| [Docker Practice](https://www.reddit.com/r/devops/comments/x4f6es/docker_practice/) | Fragrant_Dot_3465 | 6 |
+| [[Discussion] How can I grow as a solo DevOps in a startup?](https://www.reddit.com/r/devops/comments/x42clz/discussion_how_can_i_grow_as_a_solo_devops_in_a/) | rbZaid | 2 |
+| [Ci/CD .net pipeline](https://www.reddit.com/r/devops/comments/x471c3/cicd_net_pipeline/) | OkAcanthocephala1450 | 2 |
+| [DevOps Roadmap Question](https://www.reddit.com/r/devops/comments/x48jeh/devops_roadmap_question/) | acer2525 | 1 |
