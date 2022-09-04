@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How much "advanced" git does everyone see/do?](https://www.reddit.com/r/devops/comments/x4c22x/how_much_advanced_git_does_everyone_seedo/) | remotebanjo | 45 |
-| [I wanted a more visual way to swap between AWS profiles, so I put together a Mac MenuBar app to help](https://www.reddit.com/r/devops/comments/x4ci4k/i_wanted_a_more_visual_way_to_swap_between_aws/) | coned_miro | 38 |
-| [course or book for learning to setup a ci/cd pipeline?](https://www.reddit.com/r/devops/comments/x4l1rg/course_or_book_for_learning_to_setup_a_cicd/) | dsmedium | 24 |
-| [EKS - How do worker nodes in multiple AZ communicate with API Servers](https://www.reddit.com/r/devops/comments/x40vzn/eks_how_do_worker_nodes_in_multiple_az/) | kingindanord | 12 |
-| [What is something most educators won't say when asked about which to learn AWS, GCP or Azure?](https://www.reddit.com/r/devops/comments/x462ct/what_is_something_most_educators_wont_say_when/) | 13luckycaesar | 8 |
-| [What are the pros and cons of terraform workspaces Vs different folders in practice for your use case?](https://www.reddit.com/r/devops/comments/x4qlg5/what_are_the_pros_and_cons_of_terraform/) | nullpackets | 8 |
-| [Docker Practice](https://www.reddit.com/r/devops/comments/x4f6es/docker_practice/) | Fragrant_Dot_3465 | 6 |
-| [[Discussion] How can I grow as a solo DevOps in a startup?](https://www.reddit.com/r/devops/comments/x42clz/discussion_how_can_i_grow_as_a_solo_devops_in_a/) | rbZaid | 2 |
-| [Ci/CD .net pipeline](https://www.reddit.com/r/devops/comments/x471c3/cicd_net_pipeline/) | OkAcanthocephala1450 | 2 |
-| [DevOps Roadmap Question](https://www.reddit.com/r/devops/comments/x48jeh/devops_roadmap_question/) | acer2525 | 1 |
+| [UI for Apache Kafka - An open-source tool for monitoring and managing Apache Kafka Clusters](https://www.reddit.com/r/devops/comments/x53x7v/ui_for_apache_kafka_an_opensource_tool_for/) | firig1965 | 85 |
+| [Whats your general purpose scripting language of choice?](https://www.reddit.com/r/devops/comments/x4v1o9/whats_your_general_purpose_scripting_language_of/) | hhjhjkhjkl | 53 |
+| [DevOps Job Hunting Question](https://www.reddit.com/r/devops/comments/x5e0f9/devops_job_hunting_question/) | acer2525 | 12 |
+| [Where to learn about the basics of what functions to use for plotting metrics in graphs?](https://www.reddit.com/r/devops/comments/x51bct/where_to_learn_about_the_basics_of_what_functions/) | kannan_ak | 4 |
+| [Where does IaC fit in your workflow?](https://www.reddit.com/r/devops/comments/x5kjvb/where_does_iac_fit_in_your_workflow/) | sherifalaa55 | 3 |
+| [On prem to cloud migration](https://www.reddit.com/r/devops/comments/x5kv85/on_prem_to_cloud_migration/) | Edoc_intel | 2 |
+| [What insights, course of events or change of your characteristics changed your career for the better? (and into a leadership role)](https://www.reddit.com/r/devops/comments/x53k02/what_insights_course_of_events_or_change_of_your/) | AemonXVI | 1 |
+| [Without googling it, what does platform engineering mean to you?](https://www.reddit.com/r/devops/comments/x5j3ia/without_googling_it_what_does_platform/) | DevsyOpsy | 0 |
+| [ArgoCD](https://www.reddit.com/r/devops/comments/x4wo9j/argocd/) | kk24680 | 0 |
