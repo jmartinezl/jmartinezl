@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [UI for Apache Kafka - An open-source tool for monitoring and managing Apache Kafka Clusters](https://www.reddit.com/r/devops/comments/x53x7v/ui_for_apache_kafka_an_opensource_tool_for/) | firig1965 | 85 |
-| [Whats your general purpose scripting language of choice?](https://www.reddit.com/r/devops/comments/x4v1o9/whats_your_general_purpose_scripting_language_of/) | hhjhjkhjkl | 53 |
-| [DevOps Job Hunting Question](https://www.reddit.com/r/devops/comments/x5e0f9/devops_job_hunting_question/) | acer2525 | 12 |
-| [Where to learn about the basics of what functions to use for plotting metrics in graphs?](https://www.reddit.com/r/devops/comments/x51bct/where_to_learn_about_the_basics_of_what_functions/) | kannan_ak | 4 |
-| [Where does IaC fit in your workflow?](https://www.reddit.com/r/devops/comments/x5kjvb/where_does_iac_fit_in_your_workflow/) | sherifalaa55 | 3 |
-| [On prem to cloud migration](https://www.reddit.com/r/devops/comments/x5kv85/on_prem_to_cloud_migration/) | Edoc_intel | 2 |
-| [What insights, course of events or change of your characteristics changed your career for the better? (and into a leadership role)](https://www.reddit.com/r/devops/comments/x53k02/what_insights_course_of_events_or_change_of_your/) | AemonXVI | 1 |
-| [Without googling it, what does platform engineering mean to you?](https://www.reddit.com/r/devops/comments/x5j3ia/without_googling_it_what_does_platform/) | DevsyOpsy | 0 |
-| [ArgoCD](https://www.reddit.com/r/devops/comments/x4wo9j/argocd/) | kk24680 | 0 |
+| [DevOps in the Games Industry](https://www.reddit.com/r/devops/comments/x5n2x3/devops_in_the_games_industry/) | Heck_ | 70 |
+| [Whith Heroku ending free-tier subscriptions, where should one host a free database?](https://www.reddit.com/r/devops/comments/x5ykhv/whith_heroku_ending_freetier_subscriptions_where/) | Wahw11 | 50 |
+| [Security PM to DevSecOps roadmap. Am i on the right track?](https://www.reddit.com/r/devops/comments/x5lxiv/security_pm_to_devsecops_roadmap_am_i_on_the/) | x8668 | 34 |
+| [How likely am I to get interviews with the following:](https://www.reddit.com/r/devops/comments/x60beu/how_likely_am_i_to_get_interviews_with_the/) | External_Cow_2662 | 21 |
+| [I've written an excessive guide to tackle some of the tricky scenarios when dealing with CircleCI &amp; the Shell](https://www.reddit.com/r/devops/comments/x5qvbu/ive_written_an_excessive_guide_to_tackle_some_of/) | 6UpsideDownTrees | 19 |
+| [5 Liveness and Readiness Probes' Default Values You MUST Know](https://www.reddit.com/r/devops/comments/x6dngz/5_liveness_and_readiness_probes_default_values/) | Shimon_Tolts | 12 |
+| [Self-hosted email is the hardest it's ever been, but also the easiest.](https://www.reddit.com/r/devops/comments/x65x0i/selfhosted_email_is_the_hardest_its_ever_been_but/) | hardwaresofton | 8 |
+| [A quick glance at the Kubernetes Gateway API](https://www.reddit.com/r/devops/comments/x5tbak/a_quick_glance_at_the_kubernetes_gateway_api/) | nfrankel | 7 |
+| [MongoDB best suited in which usecase](https://www.reddit.com/r/devops/comments/x69gn8/mongodb_best_suited_in_which_usecase/) | zuxqoj | 5 |
+| [Continuous Delivery on Kubernetes with Argo CD and Datree](https://www.reddit.com/r/devops/comments/x6bw50/continuous_delivery_on_kubernetes_with_argo_cd/) | piotr_minkowski | 5 |
