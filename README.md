@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps in the Games Industry](https://www.reddit.com/r/devops/comments/x5n2x3/devops_in_the_games_industry/) | Heck_ | 70 |
-| [Whith Heroku ending free-tier subscriptions, where should one host a free database?](https://www.reddit.com/r/devops/comments/x5ykhv/whith_heroku_ending_freetier_subscriptions_where/) | Wahw11 | 50 |
-| [Security PM to DevSecOps roadmap. Am i on the right track?](https://www.reddit.com/r/devops/comments/x5lxiv/security_pm_to_devsecops_roadmap_am_i_on_the/) | x8668 | 34 |
-| [How likely am I to get interviews with the following:](https://www.reddit.com/r/devops/comments/x60beu/how_likely_am_i_to_get_interviews_with_the/) | External_Cow_2662 | 21 |
-| [I've written an excessive guide to tackle some of the tricky scenarios when dealing with CircleCI &amp; the Shell](https://www.reddit.com/r/devops/comments/x5qvbu/ive_written_an_excessive_guide_to_tackle_some_of/) | 6UpsideDownTrees | 19 |
-| [5 Liveness and Readiness Probes' Default Values You MUST Know](https://www.reddit.com/r/devops/comments/x6dngz/5_liveness_and_readiness_probes_default_values/) | Shimon_Tolts | 12 |
-| [Self-hosted email is the hardest it's ever been, but also the easiest.](https://www.reddit.com/r/devops/comments/x65x0i/selfhosted_email_is_the_hardest_its_ever_been_but/) | hardwaresofton | 8 |
-| [A quick glance at the Kubernetes Gateway API](https://www.reddit.com/r/devops/comments/x5tbak/a_quick_glance_at_the_kubernetes_gateway_api/) | nfrankel | 7 |
-| [MongoDB best suited in which usecase](https://www.reddit.com/r/devops/comments/x69gn8/mongodb_best_suited_in_which_usecase/) | zuxqoj | 5 |
-| [Continuous Delivery on Kubernetes with Argo CD and Datree](https://www.reddit.com/r/devops/comments/x6bw50/continuous_delivery_on_kubernetes_with_argo_cd/) | piotr_minkowski | 5 |
+| [DevOps Starter Stack](https://www.reddit.com/r/devops/comments/x6uea3/devops_starter_stack/) | stevedoesitall | 65 |
+| [Authenticate to AWS the "right" way](https://www.reddit.com/r/devops/comments/x6yiwf/authenticate_to_aws_the_right_way/) | jaxxstorm | 23 |
+| [Career advice for DevOps Engineer](https://www.reddit.com/r/devops/comments/x6nqsj/career_advice_for_devops_engineer/) | Felix1178 | 20 |
+| [Does a nagstamon equivalent for new relic exists ?](https://www.reddit.com/r/devops/comments/x6f6hy/does_a_nagstamon_equivalent_for_new_relic_exists/) | CMageti | 6 |
+| [Looking for some guidance in learning devops (advancing my career)](https://www.reddit.com/r/devops/comments/x6eo6p/looking_for_some_guidance_in_learning_devops/) | Lincxx | 3 |
+| [Incoming mail processing](https://www.reddit.com/r/devops/comments/x6ioy2/incoming_mail_processing/) | alesseon | 3 |
+| [How do you prioritize the update of vulnerable 3rd party packages?](https://www.reddit.com/r/devops/comments/x72ayn/how_do_you_prioritize_the_update_of_vulnerable/) | ConsistentComment919 | 3 |
+| [Maintaining dozens of Bitbucket Pipelines (Cloud)](https://www.reddit.com/r/devops/comments/x71iis/maintaining_dozens_of_bitbucket_pipelines_cloud/) | HyperactiveWeasel | 2 |
+| [Issue with the Remote - Containers plug in. I think the vscode extension fails to install on my docker image but I am not sure. Example below.](https://www.reddit.com/r/devops/comments/x6zfcv/issue_with_the_remote_containers_plug_in_i_think/) | kalavala93 | 1 |
+| [Is a reverse proxy necessary to handle subdomains for new users?](https://www.reddit.com/r/devops/comments/x717p8/is_a_reverse_proxy_necessary_to_handle_subdomains/) | whenwilliwin | 1 |
