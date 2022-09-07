@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps Starter Stack](https://www.reddit.com/r/devops/comments/x6uea3/devops_starter_stack/) | stevedoesitall | 65 |
-| [Authenticate to AWS the "right" way](https://www.reddit.com/r/devops/comments/x6yiwf/authenticate_to_aws_the_right_way/) | jaxxstorm | 23 |
-| [Career advice for DevOps Engineer](https://www.reddit.com/r/devops/comments/x6nqsj/career_advice_for_devops_engineer/) | Felix1178 | 20 |
-| [Does a nagstamon equivalent for new relic exists ?](https://www.reddit.com/r/devops/comments/x6f6hy/does_a_nagstamon_equivalent_for_new_relic_exists/) | CMageti | 6 |
-| [Looking for some guidance in learning devops (advancing my career)](https://www.reddit.com/r/devops/comments/x6eo6p/looking_for_some_guidance_in_learning_devops/) | Lincxx | 3 |
-| [Incoming mail processing](https://www.reddit.com/r/devops/comments/x6ioy2/incoming_mail_processing/) | alesseon | 3 |
-| [How do you prioritize the update of vulnerable 3rd party packages?](https://www.reddit.com/r/devops/comments/x72ayn/how_do_you_prioritize_the_update_of_vulnerable/) | ConsistentComment919 | 3 |
-| [Maintaining dozens of Bitbucket Pipelines (Cloud)](https://www.reddit.com/r/devops/comments/x71iis/maintaining_dozens_of_bitbucket_pipelines_cloud/) | HyperactiveWeasel | 2 |
-| [Issue with the Remote - Containers plug in. I think the vscode extension fails to install on my docker image but I am not sure. Example below.](https://www.reddit.com/r/devops/comments/x6zfcv/issue_with_the_remote_containers_plug_in_i_think/) | kalavala93 | 1 |
-| [Is a reverse proxy necessary to handle subdomains for new users?](https://www.reddit.com/r/devops/comments/x717p8/is_a_reverse_proxy_necessary_to_handle_subdomains/) | whenwilliwin | 1 |
+| [Free on-call pay calculator for those who use PagerDuty](https://www.reddit.com/r/devops/comments/x79rhm/free_oncall_pay_calculator_for_those_who_use/) | shared_ptr | 119 |
+| [Self-taught DevOps engineers who were hired in the last couple years: what did your study/cert list look like?](https://www.reddit.com/r/devops/comments/x7o8xg/selftaught_devops_engineers_who_were_hired_in_the/) | External_Cow_2662 | 72 |
+| [An intuitive feature-rich top tool for monitoring MySQL in real time](https://www.reddit.com/r/devops/comments/x7keyo/an_intuitive_featurerich_top_tool_for_monitoring/) | dydomby | 23 |
+| [Bay Area Devops Meet up with Free Sushi](https://www.reddit.com/r/devops/comments/x7mh1j/bay_area_devops_meet_up_with_free_sushi/) | Bellenoire9713 | 18 |
+| [How to test "zero downtime deployments"?](https://www.reddit.com/r/devops/comments/x7gkln/how_to_test_zero_downtime_deployments/) | bluepuma77 | 13 |
+| [How long to wait before updating third party dependency versions?](https://www.reddit.com/r/devops/comments/x7cbvu/how_long_to_wait_before_updating_third_party/) | Yug123321 | 9 |
+| [Implementing a "Google Cloud Shell" for native cloud development?](https://www.reddit.com/r/devops/comments/x7xlup/implementing_a_google_cloud_shell_for_native/) | MrScotchyScotch | 7 |
+| [Kubernetes “whoami” service with Traefik](https://www.reddit.com/r/devops/comments/x7kjs1/kubernetes_whoami_service_with_traefik/) | spilcm | 4 |
+| [How to add secrets inside YML file in GitHub actions](https://www.reddit.com/r/devops/comments/x82d0m/how_to_add_secrets_inside_yml_file_in_github/) | Mahmoud_Rabie | 2 |
+| [Hi all, what splunk commands do you all use to monitor Jenkins logs?](https://www.reddit.com/r/devops/comments/x7znwg/hi_all_what_splunk_commands_do_you_all_use_to/) | 4thtimeacharm | 2 |
