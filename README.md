@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Free on-call pay calculator for those who use PagerDuty](https://www.reddit.com/r/devops/comments/x79rhm/free_oncall_pay_calculator_for_those_who_use/) | shared_ptr | 119 |
-| [Self-taught DevOps engineers who were hired in the last couple years: what did your study/cert list look like?](https://www.reddit.com/r/devops/comments/x7o8xg/selftaught_devops_engineers_who_were_hired_in_the/) | External_Cow_2662 | 72 |
-| [An intuitive feature-rich top tool for monitoring MySQL in real time](https://www.reddit.com/r/devops/comments/x7keyo/an_intuitive_featurerich_top_tool_for_monitoring/) | dydomby | 23 |
-| [Bay Area Devops Meet up with Free Sushi](https://www.reddit.com/r/devops/comments/x7mh1j/bay_area_devops_meet_up_with_free_sushi/) | Bellenoire9713 | 18 |
-| [How to test "zero downtime deployments"?](https://www.reddit.com/r/devops/comments/x7gkln/how_to_test_zero_downtime_deployments/) | bluepuma77 | 13 |
-| [How long to wait before updating third party dependency versions?](https://www.reddit.com/r/devops/comments/x7cbvu/how_long_to_wait_before_updating_third_party/) | Yug123321 | 9 |
-| [Implementing a "Google Cloud Shell" for native cloud development?](https://www.reddit.com/r/devops/comments/x7xlup/implementing_a_google_cloud_shell_for_native/) | MrScotchyScotch | 7 |
-| [Kubernetes “whoami” service with Traefik](https://www.reddit.com/r/devops/comments/x7kjs1/kubernetes_whoami_service_with_traefik/) | spilcm | 4 |
-| [How to add secrets inside YML file in GitHub actions](https://www.reddit.com/r/devops/comments/x82d0m/how_to_add_secrets_inside_yml_file_in_github/) | Mahmoud_Rabie | 2 |
-| [Hi all, what splunk commands do you all use to monitor Jenkins logs?](https://www.reddit.com/r/devops/comments/x7znwg/hi_all_what_splunk_commands_do_you_all_use_to/) | 4thtimeacharm | 2 |
+| [I failed this hacker rank assessment today](https://www.reddit.com/r/devops/comments/x8n2yp/i_failed_this_hacker_rank_assessment_today/) | LaOnionLaUnion | 85 |
+| [SRE - Process to handle incident management](https://www.reddit.com/r/devops/comments/x8746c/sre_process_to_handle_incident_management/) | Plenty_Ad_8967 | 23 |
+| [Version Control System which is best for me?](https://www.reddit.com/r/devops/comments/x8i02f/version_control_system_which_is_best_for_me/) | 404Developer | 7 |
+| [How do you share DevOps central costs (salaries, equipment) across other teams?](https://www.reddit.com/r/devops/comments/x88je6/how_do_you_share_devops_central_costs_salaries/) | MikeyPearce | 7 |
+| [HA Access To Private Network from WireGuard Mesh](https://www.reddit.com/r/devops/comments/x8efal/ha_access_to_private_network_from_wireguard_mesh/) | wiretrustee | 7 |
+| [Monitoring Plan or Templates](https://www.reddit.com/r/devops/comments/x8bq7o/monitoring_plan_or_templates/) | Sebasterd_09 | 3 |
+| [I made an environment variable management service - Portunus](https://www.reddit.com/r/devops/comments/x8alb7/i_made_an_environment_variable_management_service/) | CodingPerson | 3 |
+| [port connectivity](https://www.reddit.com/r/devops/comments/x8xexj/port_connectivity/) | anacondaonline | 2 |
+| [Inherited a project, what further improvements should I look to add?](https://www.reddit.com/r/devops/comments/x8ohl3/inherited_a_project_what_further_improvements/) | ClearH | 2 |
+| [How to solve this scenario via automation?](https://www.reddit.com/r/devops/comments/x8qbfi/how_to_solve_this_scenario_via_automation/) | No-Investigator7458 | 2 |
