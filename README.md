@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I failed this hacker rank assessment today](https://www.reddit.com/r/devops/comments/x8n2yp/i_failed_this_hacker_rank_assessment_today/) | LaOnionLaUnion | 85 |
-| [SRE - Process to handle incident management](https://www.reddit.com/r/devops/comments/x8746c/sre_process_to_handle_incident_management/) | Plenty_Ad_8967 | 23 |
-| [Version Control System which is best for me?](https://www.reddit.com/r/devops/comments/x8i02f/version_control_system_which_is_best_for_me/) | 404Developer | 7 |
-| [How do you share DevOps central costs (salaries, equipment) across other teams?](https://www.reddit.com/r/devops/comments/x88je6/how_do_you_share_devops_central_costs_salaries/) | MikeyPearce | 7 |
-| [HA Access To Private Network from WireGuard Mesh](https://www.reddit.com/r/devops/comments/x8efal/ha_access_to_private_network_from_wireguard_mesh/) | wiretrustee | 7 |
-| [Monitoring Plan or Templates](https://www.reddit.com/r/devops/comments/x8bq7o/monitoring_plan_or_templates/) | Sebasterd_09 | 3 |
-| [I made an environment variable management service - Portunus](https://www.reddit.com/r/devops/comments/x8alb7/i_made_an_environment_variable_management_service/) | CodingPerson | 3 |
-| [port connectivity](https://www.reddit.com/r/devops/comments/x8xexj/port_connectivity/) | anacondaonline | 2 |
-| [Inherited a project, what further improvements should I look to add?](https://www.reddit.com/r/devops/comments/x8ohl3/inherited_a_project_what_further_improvements/) | ClearH | 2 |
-| [How to solve this scenario via automation?](https://www.reddit.com/r/devops/comments/x8qbfi/how_to_solve_this_scenario_via_automation/) | No-Investigator7458 | 2 |
+| [Learn Docker &amp; Kubernetes - The Easy Way](https://www.reddit.com/r/devops/comments/x98rpc/learn_docker_kubernetes_the_easy_way/) | percybolmer | 163 |
+| [Children's Guide to Zero Trust Access](https://www.reddit.com/r/devops/comments/x9ffe9/childrens_guide_to_zero_trust_access/) | Pomerium_CMo | 6 |
+| [Central location for network/DevOps documentation?](https://www.reddit.com/r/devops/comments/x9090t/central_location_for_networkdevops_documentation/) | jmoe816 | 6 |
+| [Product support engineer - Looking to start my career in DevOps. Any suggestions, advice and guidance is appreciated.](https://www.reddit.com/r/devops/comments/x957gq/product_support_engineer_looking_to_start_my/) | NeroKnight07 | 5 |
+| [Help with CI/CD ssh password](https://www.reddit.com/r/devops/comments/x95nnf/help_with_cicd_ssh_password/) | ema_eltuti | 3 |
+| [Transitioning from doing DevOps into talking about DevOps.](https://www.reddit.com/r/devops/comments/x9sqge/transitioning_from_doing_devops_into_talking/) | hdghoginthemist | 2 |
+| [Getting a junior role with no prior work experience?](https://www.reddit.com/r/devops/comments/x9b6jd/getting_a_junior_role_with_no_prior_work/) | Kowalski_Analysius | 2 |
+| [virtual environment was not created successfully because ensurepip is not available](https://www.reddit.com/r/devops/comments/x9apwk/virtual_environment_was_not_created_successfully/) | parapand | 1 |
+| [questions about my use case and gitlab ci/cd](https://www.reddit.com/r/devops/comments/x927ew/questions_about_my_use_case_and_gitlab_cicd/) | Belutak | 1 |
+| [WhiteList LoadBalancer](https://www.reddit.com/r/devops/comments/x931lq/whitelist_loadbalancer/) | AlanSc_ | 1 |
