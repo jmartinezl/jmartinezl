@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Learn Docker &amp; Kubernetes - The Easy Way](https://www.reddit.com/r/devops/comments/x98rpc/learn_docker_kubernetes_the_easy_way/) | percybolmer | 163 |
-| [Children's Guide to Zero Trust Access](https://www.reddit.com/r/devops/comments/x9ffe9/childrens_guide_to_zero_trust_access/) | Pomerium_CMo | 6 |
-| [Central location for network/DevOps documentation?](https://www.reddit.com/r/devops/comments/x9090t/central_location_for_networkdevops_documentation/) | jmoe816 | 6 |
-| [Product support engineer - Looking to start my career in DevOps. Any suggestions, advice and guidance is appreciated.](https://www.reddit.com/r/devops/comments/x957gq/product_support_engineer_looking_to_start_my/) | NeroKnight07 | 5 |
-| [Help with CI/CD ssh password](https://www.reddit.com/r/devops/comments/x95nnf/help_with_cicd_ssh_password/) | ema_eltuti | 3 |
-| [Transitioning from doing DevOps into talking about DevOps.](https://www.reddit.com/r/devops/comments/x9sqge/transitioning_from_doing_devops_into_talking/) | hdghoginthemist | 2 |
-| [Getting a junior role with no prior work experience?](https://www.reddit.com/r/devops/comments/x9b6jd/getting_a_junior_role_with_no_prior_work/) | Kowalski_Analysius | 2 |
-| [virtual environment was not created successfully because ensurepip is not available](https://www.reddit.com/r/devops/comments/x9apwk/virtual_environment_was_not_created_successfully/) | parapand | 1 |
-| [questions about my use case and gitlab ci/cd](https://www.reddit.com/r/devops/comments/x927ew/questions_about_my_use_case_and_gitlab_cicd/) | Belutak | 1 |
-| [WhiteList LoadBalancer](https://www.reddit.com/r/devops/comments/x931lq/whitelist_loadbalancer/) | AlanSc_ | 1 |
+| [Was told to study "We recommend that you brush up on networking concepts and general software systems architecture." What does this mean?](https://www.reddit.com/r/devops/comments/x9vzpo/was_told_to_study_we_recommend_that_you_brush_up/) | INFLATABLE_CUCUMBER | 47 |
+| [How do you study effectively ?](https://www.reddit.com/r/devops/comments/xa8gcl/how_do_you_study_effectively/) | hiamanon1 | 47 |
+| [Should I have a dedicated deployment of my API for each service that uses it?](https://www.reddit.com/r/devops/comments/xa4vmw/should_i_have_a_dedicated_deployment_of_my_api/) | kristianwindsor | 16 |
+| [production engineer at quant firm?](https://www.reddit.com/r/devops/comments/x9z0od/production_engineer_at_quant_firm/) | mortishere | 15 |
+| [Trying to set up a simple red/green dashboard using prometheus](https://www.reddit.com/r/devops/comments/x9x6h5/trying_to_set_up_a_simple_redgreen_dashboard/) | Ag0r | 14 |
+| [Complex open source with varied components for testing](https://www.reddit.com/r/devops/comments/x9wxbg/complex_open_source_with_varied_components_for/) | siddharthnibjiya | 7 |
+| [What is the difference between a Devops engineer and Cloud engineer?](https://www.reddit.com/r/devops/comments/xakkwx/what_is_the_difference_between_a_devops_engineer/) | Worth_Savings4337 | 5 |
+| [Value mapping technique](https://www.reddit.com/r/devops/comments/x9vw4x/value_mapping_technique/) | midzom | 5 |
+| [Pipeline suggestions](https://www.reddit.com/r/devops/comments/xa7ndq/pipeline_suggestions/) | fbjerggaard | 3 |
+| [Surf CLI for DevOps - Free Text Search across your infrastructure platforms via CLI](https://www.reddit.com/r/devops/comments/xaliqe/surf_cli_for_devops_free_text_search_across_your/) | Isan-Rivkin | 2 |
