@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Was told to study "We recommend that you brush up on networking concepts and general software systems architecture." What does this mean?](https://www.reddit.com/r/devops/comments/x9vzpo/was_told_to_study_we_recommend_that_you_brush_up/) | INFLATABLE_CUCUMBER | 47 |
-| [How do you study effectively ?](https://www.reddit.com/r/devops/comments/xa8gcl/how_do_you_study_effectively/) | hiamanon1 | 47 |
-| [Should I have a dedicated deployment of my API for each service that uses it?](https://www.reddit.com/r/devops/comments/xa4vmw/should_i_have_a_dedicated_deployment_of_my_api/) | kristianwindsor | 16 |
-| [production engineer at quant firm?](https://www.reddit.com/r/devops/comments/x9z0od/production_engineer_at_quant_firm/) | mortishere | 15 |
-| [Trying to set up a simple red/green dashboard using prometheus](https://www.reddit.com/r/devops/comments/x9x6h5/trying_to_set_up_a_simple_redgreen_dashboard/) | Ag0r | 14 |
-| [Complex open source with varied components for testing](https://www.reddit.com/r/devops/comments/x9wxbg/complex_open_source_with_varied_components_for/) | siddharthnibjiya | 7 |
-| [What is the difference between a Devops engineer and Cloud engineer?](https://www.reddit.com/r/devops/comments/xakkwx/what_is_the_difference_between_a_devops_engineer/) | Worth_Savings4337 | 5 |
-| [Value mapping technique](https://www.reddit.com/r/devops/comments/x9vw4x/value_mapping_technique/) | midzom | 5 |
-| [Pipeline suggestions](https://www.reddit.com/r/devops/comments/xa7ndq/pipeline_suggestions/) | fbjerggaard | 3 |
-| [Surf CLI for DevOps - Free Text Search across your infrastructure platforms via CLI](https://www.reddit.com/r/devops/comments/xaliqe/surf_cli_for_devops_free_text_search_across_your/) | Isan-Rivkin | 2 |
+| [how do you convince a developer to adopt the basics (reusable code, unit tests, CI/CD, etc) - especially those who are "self taught"/cowboy coding/lone starter types that seem to be resistant to working together because they think it'll impose/change THEIR way of working? esp in non-trad companies?](https://www.reddit.com/r/devops/comments/xb5vbc/how_do_you_convince_a_developer_to_adopt_the/) | sbuxthro | 104 |
+| [How do you build your connections outside your workplace](https://www.reddit.com/r/devops/comments/xaux5x/how_do_you_build_your_connections_outside_your/) | KK2526 | 24 |
+| [Git hosting Ansible roles - how to do it?](https://www.reddit.com/r/devops/comments/xaxa8n/git_hosting_ansible_roles_how_to_do_it/) | viorelfmt | 8 |
+| [Solution to privately serve files on S3?](https://www.reddit.com/r/devops/comments/xaox47/solution_to_privately_serve_files_on_s3/) | cauthon | 5 |
+| [How to deploy to Linode within a CircleCI workflow](https://www.reddit.com/r/devops/comments/xbf1es/how_to_deploy_to_linode_within_a_circleci_workflow/) | next-dev | 2 |
+| [Should I mention my complex torrenting setup ("home media center") in my CV given that's... illegal?](https://www.reddit.com/r/devops/comments/xb68xb/should_i_mention_my_complex_torrenting_setup_home/) | PopularPianistPaul | 1 |
+| [Configuration and Feature Flighting](https://www.reddit.com/r/devops/comments/xb092q/configuration_and_feature_flighting/) | AppealNaive | 1 |
+| [What you prefer about the Cloud compared to run everything on premise and if you could have it "your way" in how the business is run what you would change at your current job ? (on both the linux or windows tech stack/network)](https://www.reddit.com/r/devops/comments/xb8km5/what_you_prefer_about_the_cloud_compared_to_run/) | Dereference_operator | 0 |
+| [Suggest me some old-school DevOps course (no containers)](https://www.reddit.com/r/devops/comments/xaoqnm/suggest_me_some_oldschool_devops_course_no/) | muhib21 | 0 |
+| [ELI5: Why is sudo chmod 777 /var/run/docker.sock bad?](https://www.reddit.com/r/devops/comments/xat9g6/eli5_why_is_sudo_chmod_777_varrundockersock_bad/) | t5bert | 0 |
