@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [how do you convince a developer to adopt the basics (reusable code, unit tests, CI/CD, etc) - especially those who are "self taught"/cowboy coding/lone starter types that seem to be resistant to working together because they think it'll impose/change THEIR way of working? esp in non-trad companies?](https://www.reddit.com/r/devops/comments/xb5vbc/how_do_you_convince_a_developer_to_adopt_the/) | sbuxthro | 104 |
-| [How do you build your connections outside your workplace](https://www.reddit.com/r/devops/comments/xaux5x/how_do_you_build_your_connections_outside_your/) | KK2526 | 24 |
-| [Git hosting Ansible roles - how to do it?](https://www.reddit.com/r/devops/comments/xaxa8n/git_hosting_ansible_roles_how_to_do_it/) | viorelfmt | 8 |
-| [Solution to privately serve files on S3?](https://www.reddit.com/r/devops/comments/xaox47/solution_to_privately_serve_files_on_s3/) | cauthon | 5 |
-| [How to deploy to Linode within a CircleCI workflow](https://www.reddit.com/r/devops/comments/xbf1es/how_to_deploy_to_linode_within_a_circleci_workflow/) | next-dev | 2 |
-| [Should I mention my complex torrenting setup ("home media center") in my CV given that's... illegal?](https://www.reddit.com/r/devops/comments/xb68xb/should_i_mention_my_complex_torrenting_setup_home/) | PopularPianistPaul | 1 |
-| [Configuration and Feature Flighting](https://www.reddit.com/r/devops/comments/xb092q/configuration_and_feature_flighting/) | AppealNaive | 1 |
-| [What you prefer about the Cloud compared to run everything on premise and if you could have it "your way" in how the business is run what you would change at your current job ? (on both the linux or windows tech stack/network)](https://www.reddit.com/r/devops/comments/xb8km5/what_you_prefer_about_the_cloud_compared_to_run/) | Dereference_operator | 0 |
-| [Suggest me some old-school DevOps course (no containers)](https://www.reddit.com/r/devops/comments/xaoqnm/suggest_me_some_oldschool_devops_course_no/) | muhib21 | 0 |
-| [ELI5: Why is sudo chmod 777 /var/run/docker.sock bad?](https://www.reddit.com/r/devops/comments/xat9g6/eli5_why_is_sudo_chmod_777_varrundockersock_bad/) | t5bert | 0 |
+| [Writing is on the wall at the startup I work at](https://www.reddit.com/r/devops/comments/xbo24n/writing_is_on_the_wall_at_the_startup_i_work_at/) | RumRogerz | 117 |
+| [How is a site reliability engineer different than a DevOps engineer](https://www.reddit.com/r/devops/comments/xbof0a/how_is_a_site_reliability_engineer_different_than/) | IAMABDULLAHSHEIK | 9 |
+| [Would you rather use Shell scripting or Python?](https://www.reddit.com/r/devops/comments/xc5z1y/would_you_rather_use_shell_scripting_or_python/) | JohnSamWick | 4 |
+| [New to devops which books to learn from](https://www.reddit.com/r/devops/comments/xc4t5j/new_to_devops_which_books_to_learn_from/) | CompetitiveJudge4761 | 4 |
+| [How do you structure your kubernetes cluster?](https://www.reddit.com/r/devops/comments/xc7hbs/how_do_you_structure_your_kubernetes_cluster/) | izner82 | 4 |
+| [Yet another Jenkins pipelines tutorial](https://www.reddit.com/r/devops/comments/xbypy9/yet_another_jenkins_pipelines_tutorial/) | ioah86 | 3 |
+| [What are the Hallmarks of an Expression Engine Site?](https://www.reddit.com/r/devops/comments/xc5pio/what_are_the_hallmarks_of_an_expression_engine/) | pLeThOrAx | 2 |
+| [Reduce cost of storing logs and metrics](https://www.reddit.com/r/devops/comments/xc7gu1/reduce_cost_of_storing_logs_and_metrics/) | siddharthnibjiya | 2 |
+| [Kubernetes (or honestly any) Pipeline best practices/additions](https://www.reddit.com/r/devops/comments/xc4u0o/kubernetes_or_honestly_any_pipeline_best/) | worthsuffering | 2 |
+| [Istio Service Mesh with ALB in EKS](https://www.reddit.com/r/devops/comments/xbk4v9/istio_service_mesh_with_alb_in_eks/) | neeltom92 | 2 |
