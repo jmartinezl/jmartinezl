@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Writing is on the wall at the startup I work at](https://www.reddit.com/r/devops/comments/xbo24n/writing_is_on_the_wall_at_the_startup_i_work_at/) | RumRogerz | 117 |
-| [How is a site reliability engineer different than a DevOps engineer](https://www.reddit.com/r/devops/comments/xbof0a/how_is_a_site_reliability_engineer_different_than/) | IAMABDULLAHSHEIK | 9 |
-| [Would you rather use Shell scripting or Python?](https://www.reddit.com/r/devops/comments/xc5z1y/would_you_rather_use_shell_scripting_or_python/) | JohnSamWick | 4 |
-| [New to devops which books to learn from](https://www.reddit.com/r/devops/comments/xc4t5j/new_to_devops_which_books_to_learn_from/) | CompetitiveJudge4761 | 4 |
-| [How do you structure your kubernetes cluster?](https://www.reddit.com/r/devops/comments/xc7hbs/how_do_you_structure_your_kubernetes_cluster/) | izner82 | 4 |
-| [Yet another Jenkins pipelines tutorial](https://www.reddit.com/r/devops/comments/xbypy9/yet_another_jenkins_pipelines_tutorial/) | ioah86 | 3 |
-| [What are the Hallmarks of an Expression Engine Site?](https://www.reddit.com/r/devops/comments/xc5pio/what_are_the_hallmarks_of_an_expression_engine/) | pLeThOrAx | 2 |
-| [Reduce cost of storing logs and metrics](https://www.reddit.com/r/devops/comments/xc7gu1/reduce_cost_of_storing_logs_and_metrics/) | siddharthnibjiya | 2 |
-| [Kubernetes (or honestly any) Pipeline best practices/additions](https://www.reddit.com/r/devops/comments/xc4u0o/kubernetes_or_honestly_any_pipeline_best/) | worthsuffering | 2 |
-| [Istio Service Mesh with ALB in EKS](https://www.reddit.com/r/devops/comments/xbk4v9/istio_service_mesh_with_alb_in_eks/) | neeltom92 | 2 |
+| [Is it a bad idea to store secrets in code?](https://www.reddit.com/r/devops/comments/xcz764/is_it_a_bad_idea_to_store_secrets_in_code/) | cavalcantnm | 57 |
+| [How do you debug a docker container of a minimal linux distro?](https://www.reddit.com/r/devops/comments/xcrv9p/how_do_you_debug_a_docker_container_of_a_minimal/) | sharpbranches | 44 |
+| [Helm release time-to-live(TTL) to schedule automatic release uninstallation](https://www.reddit.com/r/devops/comments/xccp1m/helm_release_timetolivettl_to_schedule_automatic/) | rtpro1 | 34 |
+| [Difference between these yaml basics](https://www.reddit.com/r/devops/comments/xcdzer/difference_between_these_yaml_basics/) | alexander_lafayette | 11 |
+| [How do you roll out a multi-stage deployment with ArgoCD?](https://www.reddit.com/r/devops/comments/xcm8ww/how_do_you_roll_out_a_multistage_deployment_with/) | kingledion | 10 |
+| [(Containers) Multi stages builds?](https://www.reddit.com/r/devops/comments/xckbeo/containers_multi_stages_builds/) | gaelfr38 | 10 |
+| [Helm Release Time-To-Live(TTL) for Temporary Environments](https://www.reddit.com/r/devops/comments/xcckvm/helm_release_timetolivettl_for_temporary/) | Virtual-Tune-7236 | 9 |
+| [How to manage Config as Code when multiple versions are in production simultaneously](https://www.reddit.com/r/devops/comments/xclope/how_to_manage_config_as_code_when_multiple/) | TastyWheat7 | 6 |
+| [Where to include binary dependecy?](https://www.reddit.com/r/devops/comments/xcj06s/where_to_include_binary_dependecy/) | DensePineapple | 5 |
+| [Multi-Tiered and Multi-Region Container Registry Deployment Pattern and Best Practice Recommendation](https://www.reddit.com/r/devops/comments/xcfjr1/multitiered_and_multiregion_container_registry/) | International_Ad2823 | 4 |
