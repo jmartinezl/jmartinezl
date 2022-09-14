@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is it a bad idea to store secrets in code?](https://www.reddit.com/r/devops/comments/xcz764/is_it_a_bad_idea_to_store_secrets_in_code/) | cavalcantnm | 57 |
-| [How do you debug a docker container of a minimal linux distro?](https://www.reddit.com/r/devops/comments/xcrv9p/how_do_you_debug_a_docker_container_of_a_minimal/) | sharpbranches | 44 |
-| [Helm release time-to-live(TTL) to schedule automatic release uninstallation](https://www.reddit.com/r/devops/comments/xccp1m/helm_release_timetolivettl_to_schedule_automatic/) | rtpro1 | 34 |
-| [Difference between these yaml basics](https://www.reddit.com/r/devops/comments/xcdzer/difference_between_these_yaml_basics/) | alexander_lafayette | 11 |
-| [How do you roll out a multi-stage deployment with ArgoCD?](https://www.reddit.com/r/devops/comments/xcm8ww/how_do_you_roll_out_a_multistage_deployment_with/) | kingledion | 10 |
-| [(Containers) Multi stages builds?](https://www.reddit.com/r/devops/comments/xckbeo/containers_multi_stages_builds/) | gaelfr38 | 10 |
-| [Helm Release Time-To-Live(TTL) for Temporary Environments](https://www.reddit.com/r/devops/comments/xcckvm/helm_release_timetolivettl_for_temporary/) | Virtual-Tune-7236 | 9 |
-| [How to manage Config as Code when multiple versions are in production simultaneously](https://www.reddit.com/r/devops/comments/xclope/how_to_manage_config_as_code_when_multiple/) | TastyWheat7 | 6 |
-| [Where to include binary dependecy?](https://www.reddit.com/r/devops/comments/xcj06s/where_to_include_binary_dependecy/) | DensePineapple | 5 |
-| [Multi-Tiered and Multi-Region Container Registry Deployment Pattern and Best Practice Recommendation](https://www.reddit.com/r/devops/comments/xcfjr1/multitiered_and_multiregion_container_registry/) | International_Ad2823 | 4 |
+| [Unemployed sysadmin looking for help in focusing on devops training](https://www.reddit.com/r/devops/comments/xdjira/unemployed_sysadmin_looking_for_help_in_focusing/) | jokebreath | 66 |
+| [Where does the happy medium of a job exist in DevOps?](https://www.reddit.com/r/devops/comments/xd6x3d/where_does_the_happy_medium_of_a_job_exist_in/) | PieMajestic9249 | 12 |
+| [Worst/longest "legacy" shell script encountered?](https://www.reddit.com/r/devops/comments/xdhxsa/worstlongest_legacy_shell_script_encountered/) | 9070932767 | 10 |
+| [Favorite way to build AMIs in Jenkins?](https://www.reddit.com/r/devops/comments/xdj3os/favorite_way_to_build_amis_in_jenkins/) | kristianwindsor | 3 |
+| [How do you guys do your DevOps security assessments? (dependency management, cve severity rating analysis &amp; signoff)](https://www.reddit.com/r/devops/comments/xdxrwj/how_do_you_guys_do_your_devops_security/) | AemonXVI | 2 |
+| [How do you fix encoded string issues when injecting arguments into a Docker container?](https://www.reddit.com/r/devops/comments/xdgh3w/how_do_you_fix_encoded_string_issues_when/) | sharpbranches | 1 |
+| [Get a value from a certain key](https://www.reddit.com/r/devops/comments/xdzx8k/get_a_value_from_a_certain_key/) | HeadTea | 1 |
+| [Deployment YAMLs management tips/methods](https://www.reddit.com/r/devops/comments/xdz86g/deployment_yamls_management_tipsmethods/) | pavelz | 1 |
+| [Bicep target scope Subscription, create ressources into a resource group](https://www.reddit.com/r/devops/comments/xd901r/bicep_target_scope_subscription_create_ressources/) | JNikolaj | 1 |
+| [.net core integration testing database](https://www.reddit.com/r/devops/comments/xdf68z/net_core_integration_testing_database/) | bokobaba13 | 1 |
