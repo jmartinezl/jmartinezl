@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Unemployed sysadmin looking for help in focusing on devops training](https://www.reddit.com/r/devops/comments/xdjira/unemployed_sysadmin_looking_for_help_in_focusing/) | jokebreath | 66 |
-| [Where does the happy medium of a job exist in DevOps?](https://www.reddit.com/r/devops/comments/xd6x3d/where_does_the_happy_medium_of_a_job_exist_in/) | PieMajestic9249 | 12 |
-| [Worst/longest "legacy" shell script encountered?](https://www.reddit.com/r/devops/comments/xdhxsa/worstlongest_legacy_shell_script_encountered/) | 9070932767 | 10 |
-| [Favorite way to build AMIs in Jenkins?](https://www.reddit.com/r/devops/comments/xdj3os/favorite_way_to_build_amis_in_jenkins/) | kristianwindsor | 3 |
-| [How do you guys do your DevOps security assessments? (dependency management, cve severity rating analysis &amp; signoff)](https://www.reddit.com/r/devops/comments/xdxrwj/how_do_you_guys_do_your_devops_security/) | AemonXVI | 2 |
-| [How do you fix encoded string issues when injecting arguments into a Docker container?](https://www.reddit.com/r/devops/comments/xdgh3w/how_do_you_fix_encoded_string_issues_when/) | sharpbranches | 1 |
-| [Get a value from a certain key](https://www.reddit.com/r/devops/comments/xdzx8k/get_a_value_from_a_certain_key/) | HeadTea | 1 |
-| [Deployment YAMLs management tips/methods](https://www.reddit.com/r/devops/comments/xdz86g/deployment_yamls_management_tipsmethods/) | pavelz | 1 |
-| [Bicep target scope Subscription, create ressources into a resource group](https://www.reddit.com/r/devops/comments/xd901r/bicep_target_scope_subscription_create_ressources/) | JNikolaj | 1 |
-| [.net core integration testing database](https://www.reddit.com/r/devops/comments/xdf68z/net_core_integration_testing_database/) | bokobaba13 | 1 |
+| [SWE to DevOps](https://www.reddit.com/r/devops/comments/xe1lnj/swe_to_devops/) | Horus_Anubis | 50 |
+| [Best book on kubernetes?](https://www.reddit.com/r/devops/comments/xeiokr/best_book_on_kubernetes/) | IAMABDULLAHSHEIK | 35 |
+| [How have you defined your Engineering competencies for DevOps Engineers?](https://www.reddit.com/r/devops/comments/xe38l8/how_have_you_defined_your_engineering/) | TTT94 | 28 |
+| [DevOps vs Cloud Engineer](https://www.reddit.com/r/devops/comments/xeojcd/devops_vs_cloud_engineer/) | RAM_Cache | 17 |
+| [Best Practice when using private Gitlab container registry - who should authenticate?](https://www.reddit.com/r/devops/comments/xecwkq/best_practice_when_using_private_gitlab_container/) | jnfinity | 15 |
+| [Student in Cybersecurity, looking to work in DevOps.](https://www.reddit.com/r/devops/comments/xe77r7/student_in_cybersecurity_looking_to_work_in_devops/) | LordMunchu | 13 |
+| [Podman &lt;-&gt; Docker switch?](https://www.reddit.com/r/devops/comments/xe2es0/podman_docker_switch/) | FreeVariable | 11 |
+| [Running post-deployment pipelines after ArgoCD. Alternatives to GitOps-Connector ?](https://www.reddit.com/r/devops/comments/xe9oxs/running_postdeployment_pipelines_after_argocd/) | pojzon_poe | 10 |
+| [Databricks CI CD with Github](https://www.reddit.com/r/devops/comments/xek70v/databricks_ci_cd_with_github/) | masriran | 7 |
+| [VPA in prod](https://www.reddit.com/r/devops/comments/xe3euf/vpa_in_prod/) | zippoplease1 | 6 |
