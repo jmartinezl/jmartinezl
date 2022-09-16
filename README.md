@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [SWE to DevOps](https://www.reddit.com/r/devops/comments/xe1lnj/swe_to_devops/) | Horus_Anubis | 50 |
-| [Best book on kubernetes?](https://www.reddit.com/r/devops/comments/xeiokr/best_book_on_kubernetes/) | IAMABDULLAHSHEIK | 35 |
-| [How have you defined your Engineering competencies for DevOps Engineers?](https://www.reddit.com/r/devops/comments/xe38l8/how_have_you_defined_your_engineering/) | TTT94 | 28 |
-| [DevOps vs Cloud Engineer](https://www.reddit.com/r/devops/comments/xeojcd/devops_vs_cloud_engineer/) | RAM_Cache | 17 |
-| [Best Practice when using private Gitlab container registry - who should authenticate?](https://www.reddit.com/r/devops/comments/xecwkq/best_practice_when_using_private_gitlab_container/) | jnfinity | 15 |
-| [Student in Cybersecurity, looking to work in DevOps.](https://www.reddit.com/r/devops/comments/xe77r7/student_in_cybersecurity_looking_to_work_in_devops/) | LordMunchu | 13 |
-| [Podman &lt;-&gt; Docker switch?](https://www.reddit.com/r/devops/comments/xe2es0/podman_docker_switch/) | FreeVariable | 11 |
-| [Running post-deployment pipelines after ArgoCD. Alternatives to GitOps-Connector ?](https://www.reddit.com/r/devops/comments/xe9oxs/running_postdeployment_pipelines_after_argocd/) | pojzon_poe | 10 |
-| [Databricks CI CD with Github](https://www.reddit.com/r/devops/comments/xek70v/databricks_ci_cd_with_github/) | masriran | 7 |
-| [VPA in prod](https://www.reddit.com/r/devops/comments/xe3euf/vpa_in_prod/) | zippoplease1 | 6 |
+| [Am I the only one, or is Azure really taking off?](https://www.reddit.com/r/devops/comments/xf2qxw/am_i_the_only_one_or_is_azure_really_taking_off/) | Marquis77 | 140 |
+| [Senior DevOps Interviews](https://www.reddit.com/r/devops/comments/xfjshf/senior_devops_interviews/) | Obj_Sea | 23 |
+| [DevOps academy](https://www.reddit.com/r/devops/comments/xfm07w/devops_academy/) | djnokka | 4 |
+| [Platforms like harness, CTO.ai, and others - what do you think of them?](https://www.reddit.com/r/devops/comments/xfmp4s/platforms_like_harness_ctoai_and_others_what_do/) | icewatercoffee | 2 |
+| [DevOps Matrix with principles and tools for every development stage?](https://www.reddit.com/r/devops/comments/xflthw/devops_matrix_with_principles_and_tools_for_every/) | AemonXVI | 2 |
+| [Application / Service idea for DevOps?](https://www.reddit.com/r/devops/comments/xf87b4/application_service_idea_for_devops/) | gangstabunniez | 2 |
+| [Top DevOps Trends in 2022](https://www.reddit.com/r/devops/comments/xfkc6b/top_devops_trends_in_2022/) | HippieSwat | 1 |
+| [How would you implement a policy-based CI/CD pipeline?](https://www.reddit.com/r/devops/comments/xf8dno/how_would_you_implement_a_policybased_cicd/) | MissedFieldGoal | 1 |
+| [EKS + ALB + WAF - do we need extra Nginx Ingress for security / compliance?](https://www.reddit.com/r/devops/comments/xflz6e/eks_alb_waf_do_we_need_extra_nginx_ingress_for/) | calibrono | 1 |
+| [Which CPU sie better for docker containers? Intel Xeon E3-1270v6 vs Intel Xeon D1540 ?](https://www.reddit.com/r/devops/comments/xflaua/which_cpu_sie_better_for_docker_containers_intel/) | robokonk | 0 |
