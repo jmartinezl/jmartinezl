@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Am I the only one, or is Azure really taking off?](https://www.reddit.com/r/devops/comments/xf2qxw/am_i_the_only_one_or_is_azure_really_taking_off/) | Marquis77 | 140 |
-| [Senior DevOps Interviews](https://www.reddit.com/r/devops/comments/xfjshf/senior_devops_interviews/) | Obj_Sea | 23 |
-| [DevOps academy](https://www.reddit.com/r/devops/comments/xfm07w/devops_academy/) | djnokka | 4 |
-| [Platforms like harness, CTO.ai, and others - what do you think of them?](https://www.reddit.com/r/devops/comments/xfmp4s/platforms_like_harness_ctoai_and_others_what_do/) | icewatercoffee | 2 |
-| [DevOps Matrix with principles and tools for every development stage?](https://www.reddit.com/r/devops/comments/xflthw/devops_matrix_with_principles_and_tools_for_every/) | AemonXVI | 2 |
-| [Application / Service idea for DevOps?](https://www.reddit.com/r/devops/comments/xf87b4/application_service_idea_for_devops/) | gangstabunniez | 2 |
-| [Top DevOps Trends in 2022](https://www.reddit.com/r/devops/comments/xfkc6b/top_devops_trends_in_2022/) | HippieSwat | 1 |
-| [How would you implement a policy-based CI/CD pipeline?](https://www.reddit.com/r/devops/comments/xf8dno/how_would_you_implement_a_policybased_cicd/) | MissedFieldGoal | 1 |
-| [EKS + ALB + WAF - do we need extra Nginx Ingress for security / compliance?](https://www.reddit.com/r/devops/comments/xflz6e/eks_alb_waf_do_we_need_extra_nginx_ingress_for/) | calibrono | 1 |
-| [Which CPU sie better for docker containers? Intel Xeon E3-1270v6 vs Intel Xeon D1540 ?](https://www.reddit.com/r/devops/comments/xflaua/which_cpu_sie_better_for_docker_containers_intel/) | robokonk | 0 |
+| [Is production VPC access via VPN an anti-pattern?](https://www.reddit.com/r/devops/comments/xfzmlv/is_production_vpc_access_via_vpn_an_antipattern/) | t5bert | 39 |
+| [How much on-call compensation to ask for?](https://www.reddit.com/r/devops/comments/xfw2fy/how_much_oncall_compensation_to_ask_for/) | always_avg | 19 |
+| [Kubefirst open source application delivery and infrastructure management platform](https://www.reddit.com/r/devops/comments/xgfg3m/kubefirst_open_source_application_delivery_and/) | olensmar | 12 |
+| [Entry-Level Cloud/DevOps Expectation?](https://www.reddit.com/r/devops/comments/xg9pq1/entrylevel_clouddevops_expectation/) | yanggang20202024 | 12 |
+| [how would you build an opinionated webapp build &amp; deploy to EKS with a random testing url ?](https://www.reddit.com/r/devops/comments/xg428v/how_would_you_build_an_opinionated_webapp_build/) | sandys1 | 8 |
+| [CloudWatch Metrics: Stop averaging,start percentiling](https://www.reddit.com/r/devops/comments/xfvrh7/cloudwatch_metrics_stop_averagingstart/) | itsmemattchung | 4 |
+| [Local development approach for cloud native solutions](https://www.reddit.com/r/devops/comments/xfrrfy/local_development_approach_for_cloud_native/) | pingus-angry-dad | 3 |
+| [How do services like Databricks create and configure infra on my acc?](https://www.reddit.com/r/devops/comments/xg3n1z/how_do_services_like_databricks_create_and/) | BudweiserMagnum | 3 |
+| [Finding an image with vulnerabilities?](https://www.reddit.com/r/devops/comments/xg4bs2/finding_an_image_with_vulnerabilities/) | gangstabunniez | 3 |
+| [A bit of an out there DevOps question.](https://www.reddit.com/r/devops/comments/xft5xn/a_bit_of_an_out_there_devops_question/) | crg711 | 3 |
