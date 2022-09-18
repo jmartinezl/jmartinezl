@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is production VPC access via VPN an anti-pattern?](https://www.reddit.com/r/devops/comments/xfzmlv/is_production_vpc_access_via_vpn_an_antipattern/) | t5bert | 39 |
-| [How much on-call compensation to ask for?](https://www.reddit.com/r/devops/comments/xfw2fy/how_much_oncall_compensation_to_ask_for/) | always_avg | 19 |
-| [Kubefirst open source application delivery and infrastructure management platform](https://www.reddit.com/r/devops/comments/xgfg3m/kubefirst_open_source_application_delivery_and/) | olensmar | 12 |
-| [Entry-Level Cloud/DevOps Expectation?](https://www.reddit.com/r/devops/comments/xg9pq1/entrylevel_clouddevops_expectation/) | yanggang20202024 | 12 |
-| [how would you build an opinionated webapp build &amp; deploy to EKS with a random testing url ?](https://www.reddit.com/r/devops/comments/xg428v/how_would_you_build_an_opinionated_webapp_build/) | sandys1 | 8 |
-| [CloudWatch Metrics: Stop averaging,start percentiling](https://www.reddit.com/r/devops/comments/xfvrh7/cloudwatch_metrics_stop_averagingstart/) | itsmemattchung | 4 |
-| [Local development approach for cloud native solutions](https://www.reddit.com/r/devops/comments/xfrrfy/local_development_approach_for_cloud_native/) | pingus-angry-dad | 3 |
-| [How do services like Databricks create and configure infra on my acc?](https://www.reddit.com/r/devops/comments/xg3n1z/how_do_services_like_databricks_create_and/) | BudweiserMagnum | 3 |
-| [Finding an image with vulnerabilities?](https://www.reddit.com/r/devops/comments/xg4bs2/finding_an_image_with_vulnerabilities/) | gangstabunniez | 3 |
-| [A bit of an out there DevOps question.](https://www.reddit.com/r/devops/comments/xft5xn/a_bit_of_an_out_there_devops_question/) | crg711 | 3 |
+| [People say to concentrate while learning, but with DevOps how is that possible?](https://www.reddit.com/r/devops/comments/xgm7ni/people_say_to_concentrate_while_learning_but_with/) | 13luckycaesar | 37 |
+| [Devops Apprenticeship](https://www.reddit.com/r/devops/comments/xgoy91/devops_apprenticeship/) | Perfect-Side-7168 | 34 |
+| [kubernetes-sec-alert: Track Kubernetes CVEs by native GitHub notifications!](https://www.reddit.com/r/devops/comments/xh8psm/kubernetessecalert_track_kubernetes_cves_by/) | mostafahussein | 13 |
+| [Any advice for a new DevOps implementation?](https://www.reddit.com/r/devops/comments/xgtr68/any_advice_for_a_new_devops_implementation/) | MissedFieldGoal | 9 |
+| [Is JavaScript in DevOPS a good option?](https://www.reddit.com/r/devops/comments/xh8hef/is_javascript_in_devops_a_good_option/) | RefSnow | 8 |
+| [Need Help: Issue with the Remote - Containers VScode plug in. Example below.](https://www.reddit.com/r/devops/comments/xgu14o/need_help_issue_with_the_remote_containers_vscode/) | kalavala93 | 7 |
+| [If you're an existing Datadog or New Relic customer, how is their customer service?](https://www.reddit.com/r/devops/comments/xhaev0/if_youre_an_existing_datadog_or_new_relic/) | siddharthnibjiya | 6 |
+| [Production pipelines are tested in production](https://www.reddit.com/r/devops/comments/xhcdhp/production_pipelines_are_tested_in_production/) | amarao_san | 4 |
+| [Do you have a recommendation for learning Devops related ot deploying big data pipelines?](https://www.reddit.com/r/devops/comments/xgofzr/do_you_have_a_recommendation_for_learning_devops/) | swapripper | 3 |
+| [Remote Linux machine - Suggestions?](https://www.reddit.com/r/devops/comments/xglak6/remote_linux_machine_suggestions/) | NeroKnight07 | 0 |
