@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [People say to concentrate while learning, but with DevOps how is that possible?](https://www.reddit.com/r/devops/comments/xgm7ni/people_say_to_concentrate_while_learning_but_with/) | 13luckycaesar | 37 |
-| [Devops Apprenticeship](https://www.reddit.com/r/devops/comments/xgoy91/devops_apprenticeship/) | Perfect-Side-7168 | 34 |
-| [kubernetes-sec-alert: Track Kubernetes CVEs by native GitHub notifications!](https://www.reddit.com/r/devops/comments/xh8psm/kubernetessecalert_track_kubernetes_cves_by/) | mostafahussein | 13 |
-| [Any advice for a new DevOps implementation?](https://www.reddit.com/r/devops/comments/xgtr68/any_advice_for_a_new_devops_implementation/) | MissedFieldGoal | 9 |
-| [Is JavaScript in DevOPS a good option?](https://www.reddit.com/r/devops/comments/xh8hef/is_javascript_in_devops_a_good_option/) | RefSnow | 8 |
-| [Need Help: Issue with the Remote - Containers VScode plug in. Example below.](https://www.reddit.com/r/devops/comments/xgu14o/need_help_issue_with_the_remote_containers_vscode/) | kalavala93 | 7 |
-| [If you're an existing Datadog or New Relic customer, how is their customer service?](https://www.reddit.com/r/devops/comments/xhaev0/if_youre_an_existing_datadog_or_new_relic/) | siddharthnibjiya | 6 |
-| [Production pipelines are tested in production](https://www.reddit.com/r/devops/comments/xhcdhp/production_pipelines_are_tested_in_production/) | amarao_san | 4 |
-| [Do you have a recommendation for learning Devops related ot deploying big data pipelines?](https://www.reddit.com/r/devops/comments/xgofzr/do_you_have_a_recommendation_for_learning_devops/) | swapripper | 3 |
-| [Remote Linux machine - Suggestions?](https://www.reddit.com/r/devops/comments/xglak6/remote_linux_machine_suggestions/) | NeroKnight07 | 0 |
+| [Is FinOps a thing already?](https://www.reddit.com/r/devops/comments/xhvcvb/is_finops_a_thing_already/) | heavyrain123 | 51 |
+| [What are some entry level projects that I can make as a beginner to learn quickly?](https://www.reddit.com/r/devops/comments/xi5c4o/what_are_some_entry_level_projects_that_i_can/) | iiexistenzeii | 20 |
+| [Right AWS Certificate](https://www.reddit.com/r/devops/comments/xho8vq/right_aws_certificate/) | biggbrother23 | 15 |
+| [Books recommendation for learning about networks - IPv4, LAN, WAN, and others](https://www.reddit.com/r/devops/comments/xhhs43/books_recommendation_for_learning_about_networks/) | 13luckycaesar | 5 |
+| [Need to log nearly 1M requests-responses in 10 mins ? So which Stack should I choose?](https://www.reddit.com/r/devops/comments/xi3po4/need_to_log_nearly_1m_requestsresponses_in_10/) | Enforcerboy | 3 |
+| [Scaling Your Web Applications With Heroku - Guide](https://www.reddit.com/r/devops/comments/xi9ty3/scaling_your_web_applications_with_heroku_guide/) | thumbsdrivesmecrazy | 1 |
+| [Introduction to Kubernetes extensibility](https://www.reddit.com/r/devops/comments/xhlj7g/introduction_to_kubernetes_extensibility/) | nfrankel | 1 |
+| [Has anyone used Sololearn?](https://www.reddit.com/r/devops/comments/xhykjg/has_anyone_used_sololearn/) | TheEarlyStation22 | 1 |
+| [Datadog Alert](https://www.reddit.com/r/devops/comments/xhmzn8/datadog_alert/) | wlramsey | 1 |
