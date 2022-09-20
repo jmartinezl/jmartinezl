@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is FinOps a thing already?](https://www.reddit.com/r/devops/comments/xhvcvb/is_finops_a_thing_already/) | heavyrain123 | 51 |
-| [What are some entry level projects that I can make as a beginner to learn quickly?](https://www.reddit.com/r/devops/comments/xi5c4o/what_are_some_entry_level_projects_that_i_can/) | iiexistenzeii | 20 |
-| [Right AWS Certificate](https://www.reddit.com/r/devops/comments/xho8vq/right_aws_certificate/) | biggbrother23 | 15 |
-| [Books recommendation for learning about networks - IPv4, LAN, WAN, and others](https://www.reddit.com/r/devops/comments/xhhs43/books_recommendation_for_learning_about_networks/) | 13luckycaesar | 5 |
-| [Need to log nearly 1M requests-responses in 10 mins ? So which Stack should I choose?](https://www.reddit.com/r/devops/comments/xi3po4/need_to_log_nearly_1m_requestsresponses_in_10/) | Enforcerboy | 3 |
-| [Scaling Your Web Applications With Heroku - Guide](https://www.reddit.com/r/devops/comments/xi9ty3/scaling_your_web_applications_with_heroku_guide/) | thumbsdrivesmecrazy | 1 |
-| [Introduction to Kubernetes extensibility](https://www.reddit.com/r/devops/comments/xhlj7g/introduction_to_kubernetes_extensibility/) | nfrankel | 1 |
-| [Has anyone used Sololearn?](https://www.reddit.com/r/devops/comments/xhykjg/has_anyone_used_sololearn/) | TheEarlyStation22 | 1 |
-| [Datadog Alert](https://www.reddit.com/r/devops/comments/xhmzn8/datadog_alert/) | wlramsey | 1 |
+| [Dealing with supervisor contacting me on the weekends](https://www.reddit.com/r/devops/comments/xif4b3/dealing_with_supervisor_contacting_me_on_the/) | choihanthrowaway | 118 |
+| [Devops: An Idea so Good, No One Admits They Don’t Do It](https://www.reddit.com/r/devops/comments/xj0ahd/devops_an_idea_so_good_no_one_admits_they_dont_do/) | vivekbis | 36 |
+| [Free ebook: Transitioning from Monolith to Microservices Handbook](https://www.reddit.com/r/devops/comments/xie177/free_ebook_transitioning_from_monolith_to/) | tomasfern | 15 |
+| [Anyone Here Experiencing Slow GitLab Docker Build on Amazon Linux?](https://www.reddit.com/r/devops/comments/xiuny8/anyone_here_experiencing_slow_gitlab_docker_build/) | panthersfan61 | 8 |
+| [Would you want a button to copy Terraform/Crossplane/Pulumi manifests directly from your cloud UI?](https://www.reddit.com/r/devops/comments/xj5oy5/would_you_want_a_button_to_copy/) | Stringel | 6 |
+| [Internal Developer Platforms - what toolchain would you use for Maven + NPM + K8 projects?](https://www.reddit.com/r/devops/comments/xj1jxg/internal_developer_platforms_what_toolchain_would/) | AemonXVI | 6 |
+| [I need a suggestion about how to configure docker logs, promtail and logs rotation](https://www.reddit.com/r/devops/comments/xj5z67/i_need_a_suggestion_about_how_to_configure_docker/) | hexwit | 4 |
+| [Cheapest options for running small(ish) experiments?](https://www.reddit.com/r/devops/comments/xieojk/cheapest_options_for_running_smallish_experiments/) | extra_rice | 4 |
+| [cloud guru or cloud academy](https://www.reddit.com/r/devops/comments/xidjxi/cloud_guru_or_cloud_academy/) | alon359 | 1 |
+| [Traditional .net SaaS hosted in Windows VMs for legacy reasons and deploying to Azure. Given this limiting scenario what flows and tooling would you recommend.](https://www.reddit.com/r/devops/comments/xifc4d/traditional_net_saas_hosted_in_windows_vms_for/) | popladx | 1 |
