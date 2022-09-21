@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Dealing with supervisor contacting me on the weekends](https://www.reddit.com/r/devops/comments/xif4b3/dealing_with_supervisor_contacting_me_on_the/) | choihanthrowaway | 118 |
-| [Devops: An Idea so Good, No One Admits They Don’t Do It](https://www.reddit.com/r/devops/comments/xj0ahd/devops_an_idea_so_good_no_one_admits_they_dont_do/) | vivekbis | 36 |
-| [Free ebook: Transitioning from Monolith to Microservices Handbook](https://www.reddit.com/r/devops/comments/xie177/free_ebook_transitioning_from_monolith_to/) | tomasfern | 15 |
-| [Anyone Here Experiencing Slow GitLab Docker Build on Amazon Linux?](https://www.reddit.com/r/devops/comments/xiuny8/anyone_here_experiencing_slow_gitlab_docker_build/) | panthersfan61 | 8 |
-| [Would you want a button to copy Terraform/Crossplane/Pulumi manifests directly from your cloud UI?](https://www.reddit.com/r/devops/comments/xj5oy5/would_you_want_a_button_to_copy/) | Stringel | 6 |
-| [Internal Developer Platforms - what toolchain would you use for Maven + NPM + K8 projects?](https://www.reddit.com/r/devops/comments/xj1jxg/internal_developer_platforms_what_toolchain_would/) | AemonXVI | 6 |
-| [I need a suggestion about how to configure docker logs, promtail and logs rotation](https://www.reddit.com/r/devops/comments/xj5z67/i_need_a_suggestion_about_how_to_configure_docker/) | hexwit | 4 |
-| [Cheapest options for running small(ish) experiments?](https://www.reddit.com/r/devops/comments/xieojk/cheapest_options_for_running_smallish_experiments/) | extra_rice | 4 |
-| [cloud guru or cloud academy](https://www.reddit.com/r/devops/comments/xidjxi/cloud_guru_or_cloud_academy/) | alon359 | 1 |
-| [Traditional .net SaaS hosted in Windows VMs for legacy reasons and deploying to Azure. Given this limiting scenario what flows and tooling would you recommend.](https://www.reddit.com/r/devops/comments/xifc4d/traditional_net_saas_hosted_in_windows_vms_for/) | popladx | 1 |
+| [Is your company running its entire infrastructure in cloud?](https://www.reddit.com/r/devops/comments/xjelxo/is_your_company_running_its_entire_infrastructure/) | wired_ronin | 74 |
+| [Best resources for quick DevOps learning](https://www.reddit.com/r/devops/comments/xjbcqj/best_resources_for_quick_devops_learning/) | Human-number-579 | 35 |
+| [is it a bad practice to have your EKS cluster in the same VPC as your RDS cluster](https://www.reddit.com/r/devops/comments/xjh4se/is_it_a_bad_practice_to_have_your_eks_cluster_in/) | kingindanord | 27 |
+| [Comparing o11y data collectors and pipelines](https://www.reddit.com/r/devops/comments/xjoosk/comparing_o11y_data_collectors_and_pipelines/) | RunningJay | 19 |
+| [How might one go about starting to architect region failover into an existing product deployment?](https://www.reddit.com/r/devops/comments/xjb1qt/how_might_one_go_about_starting_to_architect/) | oOFishbowlOo | 3 |
+| [Managing multiple Route53 zones in multiple account](https://www.reddit.com/r/devops/comments/xjkify/managing_multiple_route53_zones_in_multiple/) | benewcolo | 2 |
+| [Light weight Tool to run Ansible Commands?](https://www.reddit.com/r/devops/comments/xjkskv/light_weight_tool_to_run_ansible_commands/) | ITMonkeys | 2 |
+| [How We Built Qovery - a Cloud deployment platform](https://www.reddit.com/r/devops/comments/xjx10v/how_we_built_qovery_a_cloud_deployment_platform/) | ev0xmusic | 2 |
+| [What are some ways to create temporary environments for testing or running automated tests as part of the pipeline?](https://www.reddit.com/r/devops/comments/xjnc9y/what_are_some_ways_to_create_temporary/) | Aggravating-Ice-6773 | 1 |
+| [Using nomad to deploy simple qemu images](https://www.reddit.com/r/devops/comments/xjkb6r/using_nomad_to_deploy_simple_qemu_images/) | EinalButtocks | 1 |
