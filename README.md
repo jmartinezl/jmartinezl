@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is your company running its entire infrastructure in cloud?](https://www.reddit.com/r/devops/comments/xjelxo/is_your_company_running_its_entire_infrastructure/) | wired_ronin | 74 |
-| [Best resources for quick DevOps learning](https://www.reddit.com/r/devops/comments/xjbcqj/best_resources_for_quick_devops_learning/) | Human-number-579 | 35 |
-| [is it a bad practice to have your EKS cluster in the same VPC as your RDS cluster](https://www.reddit.com/r/devops/comments/xjh4se/is_it_a_bad_practice_to_have_your_eks_cluster_in/) | kingindanord | 27 |
-| [Comparing o11y data collectors and pipelines](https://www.reddit.com/r/devops/comments/xjoosk/comparing_o11y_data_collectors_and_pipelines/) | RunningJay | 19 |
-| [How might one go about starting to architect region failover into an existing product deployment?](https://www.reddit.com/r/devops/comments/xjb1qt/how_might_one_go_about_starting_to_architect/) | oOFishbowlOo | 3 |
-| [Managing multiple Route53 zones in multiple account](https://www.reddit.com/r/devops/comments/xjkify/managing_multiple_route53_zones_in_multiple/) | benewcolo | 2 |
-| [Light weight Tool to run Ansible Commands?](https://www.reddit.com/r/devops/comments/xjkskv/light_weight_tool_to_run_ansible_commands/) | ITMonkeys | 2 |
-| [How We Built Qovery - a Cloud deployment platform](https://www.reddit.com/r/devops/comments/xjx10v/how_we_built_qovery_a_cloud_deployment_platform/) | ev0xmusic | 2 |
-| [What are some ways to create temporary environments for testing or running automated tests as part of the pipeline?](https://www.reddit.com/r/devops/comments/xjnc9y/what_are_some_ways_to_create_temporary/) | Aggravating-Ice-6773 | 1 |
-| [Using nomad to deploy simple qemu images](https://www.reddit.com/r/devops/comments/xjkb6r/using_nomad_to_deploy_simple_qemu_images/) | EinalButtocks | 1 |
+| [What's going on with Devops/SRE/Cloud Engineer interviews?](https://www.reddit.com/r/devops/comments/xl1ojo/whats_going_on_with_devopssrecloud_engineer/) | L0rdB_ | 250 |
+| [Open-Source AWS audit tool for security and misconfiguration](https://www.reddit.com/r/devops/comments/xl5pc6/opensource_aws_audit_tool_for_security_and/) | AntidoteK | 13 |
+| [How to automate an entire processing + training job with a custom docker container which has some inputs/parameters which need to be specified -- AWS](https://www.reddit.com/r/devops/comments/xl0ejt/how_to_automate_an_entire_processing_training_job/) | RaunchyAppleSauce | 9 |
+| [Idiot trying to break into DevOps needs some advice](https://www.reddit.com/r/devops/comments/xlb6r0/idiot_trying_to_break_into_devops_needs_some/) | themightybamboozler | 8 |
+| [Job Interview - Presentation Help!](https://www.reddit.com/r/devops/comments/xkzibw/job_interview_presentation_help/) | pajmage | 5 |
+| [Terraform newb question on replication](https://www.reddit.com/r/devops/comments/xlanm5/terraform_newb_question_on_replication/) | hiamanon1 | 2 |
+| [RethinkDB alternatives](https://www.reddit.com/r/devops/comments/xlmpi2/rethinkdb_alternatives/) | Environmental_Ad3877 | 2 |
+| [IT Support Recognition](https://www.reddit.com/r/devops/comments/xlf7kx/it_support_recognition/) | External-Boat-2421 | 2 |
+| [Career progression in Devops](https://www.reddit.com/r/devops/comments/xl1qpy/career_progression_in_devops/) | KarthikMoger | 2 |
+| [help this child decide if DevOps for him or not](https://www.reddit.com/r/devops/comments/xl97qc/help_this_child_decide_if_devops_for_him_or_not/) | AwaysGays | 0 |
