@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What's going on with Devops/SRE/Cloud Engineer interviews?](https://www.reddit.com/r/devops/comments/xl1ojo/whats_going_on_with_devopssrecloud_engineer/) | L0rdB_ | 250 |
-| [Open-Source AWS audit tool for security and misconfiguration](https://www.reddit.com/r/devops/comments/xl5pc6/opensource_aws_audit_tool_for_security_and/) | AntidoteK | 13 |
-| [How to automate an entire processing + training job with a custom docker container which has some inputs/parameters which need to be specified -- AWS](https://www.reddit.com/r/devops/comments/xl0ejt/how_to_automate_an_entire_processing_training_job/) | RaunchyAppleSauce | 9 |
-| [Idiot trying to break into DevOps needs some advice](https://www.reddit.com/r/devops/comments/xlb6r0/idiot_trying_to_break_into_devops_needs_some/) | themightybamboozler | 8 |
-| [Job Interview - Presentation Help!](https://www.reddit.com/r/devops/comments/xkzibw/job_interview_presentation_help/) | pajmage | 5 |
-| [Terraform newb question on replication](https://www.reddit.com/r/devops/comments/xlanm5/terraform_newb_question_on_replication/) | hiamanon1 | 2 |
-| [RethinkDB alternatives](https://www.reddit.com/r/devops/comments/xlmpi2/rethinkdb_alternatives/) | Environmental_Ad3877 | 2 |
-| [IT Support Recognition](https://www.reddit.com/r/devops/comments/xlf7kx/it_support_recognition/) | External-Boat-2421 | 2 |
-| [Career progression in Devops](https://www.reddit.com/r/devops/comments/xl1qpy/career_progression_in_devops/) | KarthikMoger | 2 |
-| [help this child decide if DevOps for him or not](https://www.reddit.com/r/devops/comments/xl97qc/help_this_child_decide_if_devops_for_him_or_not/) | AwaysGays | 0 |
+| [Another team is passing off the work I did as theirs for a company hackathon](https://www.reddit.com/r/devops/comments/xm2lrf/another_team_is_passing_off_the_work_i_did_as/) | fico86 | 192 |
+| [End User Acceptance](https://www.reddit.com/r/devops/comments/xlw4jr/end_user_acceptance/) | SupremoSpider | 22 |
+| [Effectively Manage GitHub Actions Artifacts to Deploy Releases](https://www.reddit.com/r/devops/comments/xm1fek/effectively_manage_github_actions_artifacts_to/) | adbertram | 17 |
+| [You get 500 new servers tomorrow. How do you onboard them DevOps style?](https://www.reddit.com/r/devops/comments/xmcxx5/you_get_500_new_servers_tomorrow_how_do_you/) | a_a_ronc | 14 |
+| [Why Jenkins?](https://www.reddit.com/r/devops/comments/xmdtqt/why_jenkins/) | _Draxxus_ | 12 |
+| [What tools does your company use for CI/CD ?](https://www.reddit.com/r/devops/comments/xm39sx/what_tools_does_your_company_use_for_cicd/) | xCaptainNutz | 10 |
+| [Experience with Apple Silicon?](https://www.reddit.com/r/devops/comments/xm38m3/experience_with_apple_silicon/) | smiller171 | 9 |
+| [how did you get good at iac-cloudformation](https://www.reddit.com/r/devops/comments/xmlawn/how_did_you_get_good_at_iaccloudformation/) | Honest_Priest | 6 |
+| [What does your company do to allow developers (and others) to make adhoc queries (select or update) on prod db in a way that is compliant with soc2?](https://www.reddit.com/r/devops/comments/xmf1zo/what_does_your_company_do_to_allow_developers_and/) | realatomkirk | 4 |
+| [So, yeah, why don't we have a wiki for this subreddit? [RANT?]](https://www.reddit.com/r/devops/comments/xm7p19/so_yeah_why_dont_we_have_a_wiki_for_this/) | AemonXVI | 4 |
