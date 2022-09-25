@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Another team is passing off the work I did as theirs for a company hackathon](https://www.reddit.com/r/devops/comments/xm2lrf/another_team_is_passing_off_the_work_i_did_as/) | fico86 | 192 |
-| [End User Acceptance](https://www.reddit.com/r/devops/comments/xlw4jr/end_user_acceptance/) | SupremoSpider | 22 |
-| [Effectively Manage GitHub Actions Artifacts to Deploy Releases](https://www.reddit.com/r/devops/comments/xm1fek/effectively_manage_github_actions_artifacts_to/) | adbertram | 17 |
-| [You get 500 new servers tomorrow. How do you onboard them DevOps style?](https://www.reddit.com/r/devops/comments/xmcxx5/you_get_500_new_servers_tomorrow_how_do_you/) | a_a_ronc | 14 |
-| [Why Jenkins?](https://www.reddit.com/r/devops/comments/xmdtqt/why_jenkins/) | _Draxxus_ | 12 |
-| [What tools does your company use for CI/CD ?](https://www.reddit.com/r/devops/comments/xm39sx/what_tools_does_your_company_use_for_cicd/) | xCaptainNutz | 10 |
-| [Experience with Apple Silicon?](https://www.reddit.com/r/devops/comments/xm38m3/experience_with_apple_silicon/) | smiller171 | 9 |
-| [how did you get good at iac-cloudformation](https://www.reddit.com/r/devops/comments/xmlawn/how_did_you_get_good_at_iaccloudformation/) | Honest_Priest | 6 |
-| [What does your company do to allow developers (and others) to make adhoc queries (select or update) on prod db in a way that is compliant with soc2?](https://www.reddit.com/r/devops/comments/xmf1zo/what_does_your_company_do_to_allow_developers_and/) | realatomkirk | 4 |
-| [So, yeah, why don't we have a wiki for this subreddit? [RANT?]](https://www.reddit.com/r/devops/comments/xm7p19/so_yeah_why_dont_we_have_a_wiki_for_this/) | AemonXVI | 4 |
+| [What groundbreaking new technology inspires you?](https://www.reddit.com/r/devops/comments/xmsmbg/what_groundbreaking_new_technology_inspires_you/) | DangerClose90 | 143 |
+| [5 Year into the DevOps industry and here's my learnings and experiences documented in git (~300 DevOps Tasks)](https://www.reddit.com/r/devops/comments/xnj147/5_year_into_the_devops_industry_and_heres_my/) | codeaprendiz | 88 |
+| [Mid DevOps Engineer knowledge/expertise](https://www.reddit.com/r/devops/comments/xn0vno/mid_devops_engineer_knowledgeexpertise/) | Lvu22 | 52 |
+| [Do you think employers respect aws certifications?](https://www.reddit.com/r/devops/comments/xninat/do_you_think_employers_respect_aws_certifications/) | alon359 | 13 |
+| [What are your strategies to become familiar with an already established code base with release pipelines ones?](https://www.reddit.com/r/devops/comments/xnffcz/what_are_your_strategies_to_become_familiar_with/) | insaneroadrage | 4 |
+| [[Help] Price of containers, Memory usages and general picture](https://www.reddit.com/r/devops/comments/xmsqhh/help_price_of_containers_memory_usages_and/) | Cinghiamenisco | 3 |
+| [Whats best in class for AWS Lambda CI/CD tooling](https://www.reddit.com/r/devops/comments/xn3lwv/whats_best_in_class_for_aws_lambda_cicd_tooling/) | segap | 2 |
+| [How do you isolate changes for stage vs prod in version control](https://www.reddit.com/r/devops/comments/xn4cqc/how_do_you_isolate_changes_for_stage_vs_prod_in/) | screwyro | 2 |
+| [Help me decide whether I should take up new role in my current company before targeting Devops/Cloud Engineer positions](https://www.reddit.com/r/devops/comments/xn30z5/help_me_decide_whether_i_should_take_up_new_role/) | DataFreakk | 2 |
+| [Cloud computing adoption survey: University research](https://www.reddit.com/r/devops/comments/xnja09/cloud_computing_adoption_survey_university/) | apaquadri | 2 |
