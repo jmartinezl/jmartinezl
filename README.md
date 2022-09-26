@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What groundbreaking new technology inspires you?](https://www.reddit.com/r/devops/comments/xmsmbg/what_groundbreaking_new_technology_inspires_you/) | DangerClose90 | 143 |
-| [5 Year into the DevOps industry and here's my learnings and experiences documented in git (~300 DevOps Tasks)](https://www.reddit.com/r/devops/comments/xnj147/5_year_into_the_devops_industry_and_heres_my/) | codeaprendiz | 88 |
-| [Mid DevOps Engineer knowledge/expertise](https://www.reddit.com/r/devops/comments/xn0vno/mid_devops_engineer_knowledgeexpertise/) | Lvu22 | 52 |
-| [Do you think employers respect aws certifications?](https://www.reddit.com/r/devops/comments/xninat/do_you_think_employers_respect_aws_certifications/) | alon359 | 13 |
-| [What are your strategies to become familiar with an already established code base with release pipelines ones?](https://www.reddit.com/r/devops/comments/xnffcz/what_are_your_strategies_to_become_familiar_with/) | insaneroadrage | 4 |
-| [[Help] Price of containers, Memory usages and general picture](https://www.reddit.com/r/devops/comments/xmsqhh/help_price_of_containers_memory_usages_and/) | Cinghiamenisco | 3 |
-| [Whats best in class for AWS Lambda CI/CD tooling](https://www.reddit.com/r/devops/comments/xn3lwv/whats_best_in_class_for_aws_lambda_cicd_tooling/) | segap | 2 |
-| [How do you isolate changes for stage vs prod in version control](https://www.reddit.com/r/devops/comments/xn4cqc/how_do_you_isolate_changes_for_stage_vs_prod_in/) | screwyro | 2 |
-| [Help me decide whether I should take up new role in my current company before targeting Devops/Cloud Engineer positions](https://www.reddit.com/r/devops/comments/xn30z5/help_me_decide_whether_i_should_take_up_new_role/) | DataFreakk | 2 |
-| [Cloud computing adoption survey: University research](https://www.reddit.com/r/devops/comments/xnja09/cloud_computing_adoption_survey_university/) | apaquadri | 2 |
+| [Analysis of DevOps subreddit posts (past 12 months)](https://www.reddit.com/r/devops/comments/xo3z4a/analysis_of_devops_subreddit_posts_past_12_months/) | wfh-without-pants | 78 |
+| [Is Github Actions really production ready for large corporation ?](https://www.reddit.com/r/devops/comments/xnstjn/is_github_actions_really_production_ready_for/) | smsly42 | 23 |
+| [Confused on which DevOps tools to learn first.](https://www.reddit.com/r/devops/comments/xoeym2/confused_on_which_devops_tools_to_learn_first/) | Zanda256 | 8 |
+| [DevOps recap for week 38/2022](https://www.reddit.com/r/devops/comments/xofip7/devops_recap_for_week_382022/) | xojoc2 | 5 |
+| [Career advice (Newton method)](https://www.reddit.com/r/devops/comments/xog59u/career_advice_newton_method/) | davei7 | 2 |
+| [When to run database migrations?](https://www.reddit.com/r/devops/comments/xntjb4/when_to_run_database_migrations/) | cybernetics_engineer | 1 |
+| [Own Code End-to-End?](https://www.reddit.com/r/devops/comments/xnv76o/own_code_endtoend/) | DenizenEvil | 1 |
+| [SSL and S3 bucket](https://www.reddit.com/r/devops/comments/xocbv3/ssl_and_s3_bucket/) | anacondaonline | 0 |
+| [Non Flaky CI/CD Provider](https://www.reddit.com/r/devops/comments/xntjja/non_flaky_cicd_provider/) | fobos78 | 0 |
+| [Interview practice websites?](https://www.reddit.com/r/devops/comments/xnw57e/interview_practice_websites/) | i_pioneer | 0 |
