@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Analysis of DevOps subreddit posts (past 12 months)](https://www.reddit.com/r/devops/comments/xo3z4a/analysis_of_devops_subreddit_posts_past_12_months/) | wfh-without-pants | 78 |
-| [Is Github Actions really production ready for large corporation ?](https://www.reddit.com/r/devops/comments/xnstjn/is_github_actions_really_production_ready_for/) | smsly42 | 23 |
-| [Confused on which DevOps tools to learn first.](https://www.reddit.com/r/devops/comments/xoeym2/confused_on_which_devops_tools_to_learn_first/) | Zanda256 | 8 |
-| [DevOps recap for week 38/2022](https://www.reddit.com/r/devops/comments/xofip7/devops_recap_for_week_382022/) | xojoc2 | 5 |
-| [Career advice (Newton method)](https://www.reddit.com/r/devops/comments/xog59u/career_advice_newton_method/) | davei7 | 2 |
-| [When to run database migrations?](https://www.reddit.com/r/devops/comments/xntjb4/when_to_run_database_migrations/) | cybernetics_engineer | 1 |
-| [Own Code End-to-End?](https://www.reddit.com/r/devops/comments/xnv76o/own_code_endtoend/) | DenizenEvil | 1 |
-| [SSL and S3 bucket](https://www.reddit.com/r/devops/comments/xocbv3/ssl_and_s3_bucket/) | anacondaonline | 0 |
-| [Non Flaky CI/CD Provider](https://www.reddit.com/r/devops/comments/xntjja/non_flaky_cicd_provider/) | fobos78 | 0 |
-| [Interview practice websites?](https://www.reddit.com/r/devops/comments/xnw57e/interview_practice_websites/) | i_pioneer | 0 |
+| [From Net Engineer to DevOps](https://www.reddit.com/r/devops/comments/xox4vp/from_net_engineer_to_devops/) | lemmesee122 | 51 |
+| [CICD - How to simply build and deploy from git to a Linux server using GitHub Actions.](https://www.reddit.com/r/devops/comments/xp9bb1/cicd_how_to_simply_build_and_deploy_from_git_to_a/) | oscar230 | 15 |
+| [Feedback on my service downtime tool](https://www.reddit.com/r/devops/comments/xop8gd/feedback_on_my_service_downtime_tool/) | fasteddie31003 | 9 |
+| [Implementing an infrastructure with triple MongoDB redundancy](https://www.reddit.com/r/devops/comments/xoz0z2/implementing_an_infrastructure_with_triple/) | darkcatpirate | 7 |
+| [IT Apprenticeship Coach](https://www.reddit.com/r/devops/comments/xpe10x/it_apprenticeship_coach/) | JPTH97 | 5 |
+| [Towards Observability, Research &amp; Master Thesis: Asking for Insights and Ideas](https://www.reddit.com/r/devops/comments/xpekpw/towards_observability_research_master_thesis/) | gamingsocke | 4 |
+| [Azure function app vs Aws SAM](https://www.reddit.com/r/devops/comments/xp5rvw/azure_function_app_vs_aws_sam/) | ExtensionResearcher2 | 4 |
+| [is now a good time for job change](https://www.reddit.com/r/devops/comments/xp4337/is_now_a_good_time_for_job_change/) | kkt_98 | 2 |
+| [Running rapidly upgradeable code](https://www.reddit.com/r/devops/comments/xox1b1/running_rapidly_upgradeable_code/) | mr_claw | 2 |
+| [[Question] Decrease Docker image's build time](https://www.reddit.com/r/devops/comments/xpd799/question_decrease_docker_images_build_time/) | groovy-sky | 1 |
