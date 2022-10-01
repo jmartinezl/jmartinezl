@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing. Post yours as well if you also have one!](https://www.reddit.com/r/devops/comments/xroe19/heres_a_playlist_of_7_hours_of_music_i_use_to/) | soundtrackrr | 61 |
-| [Got turned down for a job, seeking advice](https://www.reddit.com/r/devops/comments/xrgnpp/got_turned_down_for_a_job_seeking_advice/) | sock_templar | 46 |
-| [Why Not Jenkins? Pros and Cons of an old system! (Prove me wrong!)](https://www.reddit.com/r/devops/comments/xrc267/why_not_jenkins_pros_and_cons_of_an_old_system/) | NonpareilNick | 45 |
-| [I need a hiring managers opinion on my resume](https://www.reddit.com/r/devops/comments/xrfo3k/i_need_a_hiring_managers_opinion_on_my_resume/) | RumRogerz | 24 |
-| [Can anyone ELI5 k8s object: prioritylevelconfiguration](https://www.reddit.com/r/devops/comments/xr6opx/can_anyone_eli5_k8s_object/) | izner82 | 5 |
-| [Does it ever get better?](https://www.reddit.com/r/devops/comments/xrinrb/does_it_ever_get_better/) | CoffeeBruin | 4 |
-| [New Cluster API Provider Integration Hetzner released - now with Kubernetes 1.25 support and full e2e coverage sponsored by Hetzner :tada:](https://www.reddit.com/r/devops/comments/xrxzd2/new_cluster_api_provider_integration_hetzner/) | sbaete | 3 |
-| [BrowserStack vs. LambdaTest](https://www.reddit.com/r/devops/comments/xr9peg/browserstack_vs_lambdatest/) | XxTheKennedyxX | 3 |
-| [multiple databases with the same name?](https://www.reddit.com/r/devops/comments/xriw95/multiple_databases_with_the_same_name/) | uncmnsense | 2 |
-| [Same backup job takes double the time on identical machines with same network bandwith but in different countries. Why?](https://www.reddit.com/r/devops/comments/xrvyro/same_backup_job_takes_double_the_time_on/) | PackedTrebuchet | 2 |
+| [Does kubernetes get easier over time? Or is it always a pain to configure everything correctly.](https://www.reddit.com/r/devops/comments/xs8lei/does_kubernetes_get_easier_over_time_or_is_it/) | flippedalid | 124 |
+| [Can we stop lumping in CD with CI?](https://www.reddit.com/r/devops/comments/xsja83/can_we_stop_lumping_in_cd_with_ci/) | huge-goth-dong | 54 |
+| [Does anyone even *like* Kubernetes?](https://www.reddit.com/r/devops/comments/xss63g/does_anyone_even_like_kubernetes/) | General_Importance17 | 17 |
+| [No sandbox environment?](https://www.reddit.com/r/devops/comments/xs36wx/no_sandbox_environment/) | kitchensclosed | 15 |
+| [Creating a Basic CI/CD Pipeline](https://www.reddit.com/r/devops/comments/xrzxxw/creating_a_basic_cicd_pipeline/) | sober_programmer | 11 |
+| [does anyone despise hackerrank or alike during interviews?](https://www.reddit.com/r/devops/comments/xsbgam/does_anyone_despise_hackerrank_or_alike_during/) | jlew24asu | 9 |
+| [How to set up a repo of repos for argo gitops?](https://www.reddit.com/r/devops/comments/xs90or/how_to_set_up_a_repo_of_repos_for_argo_gitops/) | H34vyGunn3r | 7 |
+| [[Netmaker / Traefik] Can private network hosts use legit SSL certificates as one from Let's Encrypt?](https://www.reddit.com/r/devops/comments/xsraov/netmaker_traefik_can_private_network_hosts_use/) | Hell4Ge | 2 |
+| [Pairing languages with tools/tasks.](https://www.reddit.com/r/devops/comments/xsa58a/pairing_languages_with_toolstasks/) | PSanma | 1 |
+| [Autoscaling Databases](https://www.reddit.com/r/devops/comments/xs2cy4/autoscaling_databases/) | ThisIsntMyId | 0 |
