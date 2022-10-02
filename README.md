@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does kubernetes get easier over time? Or is it always a pain to configure everything correctly.](https://www.reddit.com/r/devops/comments/xs8lei/does_kubernetes_get_easier_over_time_or_is_it/) | flippedalid | 124 |
-| [Can we stop lumping in CD with CI?](https://www.reddit.com/r/devops/comments/xsja83/can_we_stop_lumping_in_cd_with_ci/) | huge-goth-dong | 54 |
-| [Does anyone even *like* Kubernetes?](https://www.reddit.com/r/devops/comments/xss63g/does_anyone_even_like_kubernetes/) | General_Importance17 | 17 |
-| [No sandbox environment?](https://www.reddit.com/r/devops/comments/xs36wx/no_sandbox_environment/) | kitchensclosed | 15 |
-| [Creating a Basic CI/CD Pipeline](https://www.reddit.com/r/devops/comments/xrzxxw/creating_a_basic_cicd_pipeline/) | sober_programmer | 11 |
-| [does anyone despise hackerrank or alike during interviews?](https://www.reddit.com/r/devops/comments/xsbgam/does_anyone_despise_hackerrank_or_alike_during/) | jlew24asu | 9 |
-| [How to set up a repo of repos for argo gitops?](https://www.reddit.com/r/devops/comments/xs90or/how_to_set_up_a_repo_of_repos_for_argo_gitops/) | H34vyGunn3r | 7 |
-| [[Netmaker / Traefik] Can private network hosts use legit SSL certificates as one from Let's Encrypt?](https://www.reddit.com/r/devops/comments/xsraov/netmaker_traefik_can_private_network_hosts_use/) | Hell4Ge | 2 |
-| [Pairing languages with tools/tasks.](https://www.reddit.com/r/devops/comments/xsa58a/pairing_languages_with_toolstasks/) | PSanma | 1 |
-| [Autoscaling Databases](https://www.reddit.com/r/devops/comments/xs2cy4/autoscaling_databases/) | ThisIsntMyId | 0 |
+| [Not Sure If I'm Just Bad... Or Imposter Syndrome... Or Under Resourced](https://www.reddit.com/r/devops/comments/xt631h/not_sure_if_im_just_bad_or_imposter_syndrome_or/) | Kronsik | 19 |
+| [Helm - Beginners Tutorial](https://www.reddit.com/r/devops/comments/xtbeoq/helm_beginners_tutorial/) | DevOps-Journey | 19 |
+| [AWS monitoring and alerts as code](https://www.reddit.com/r/devops/comments/xthgdp/aws_monitoring_and_alerts_as_code/) | Purple-Inevitable-73 | 10 |
+| [How has the regular work day changed for you from when you started to where you are now?](https://www.reddit.com/r/devops/comments/xtj7v2/how_has_the_regular_work_day_changed_for_you_from/) | Ordinary_Oil3520 | 7 |
+| [What are some of the newer cloud native trends/products you are actively watching](https://www.reddit.com/r/devops/comments/xt518e/what_are_some_of_the_newer_cloud_native/) | adelowo | 5 |
+| [Docker Compose to Kubernetes](https://www.reddit.com/r/devops/comments/xszll3/docker_compose_to_kubernetes/) | uraaga | 5 |
+| [An architectural problem with packet forwarding](https://www.reddit.com/r/devops/comments/xt8004/an_architectural_problem_with_packet_forwarding/) | ScionOfYaska | 3 |
+| [Serverless Gpu architecture](https://www.reddit.com/r/devops/comments/xt21pp/serverless_gpu_architecture/) | enigmae | 1 |
+| [Cloud computing adoption survey: University research](https://www.reddit.com/r/devops/comments/xti8ay/cloud_computing_adoption_survey_university/) | apaquadri | 1 |
+| [Tech killing innovation?](https://www.reddit.com/r/devops/comments/xtgrt8/tech_killing_innovation/) | Brushdirtoffshoulder | 0 |
