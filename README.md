@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Not Sure If I'm Just Bad... Or Imposter Syndrome... Or Under Resourced](https://www.reddit.com/r/devops/comments/xt631h/not_sure_if_im_just_bad_or_imposter_syndrome_or/) | Kronsik | 19 |
-| [Helm - Beginners Tutorial](https://www.reddit.com/r/devops/comments/xtbeoq/helm_beginners_tutorial/) | DevOps-Journey | 19 |
-| [AWS monitoring and alerts as code](https://www.reddit.com/r/devops/comments/xthgdp/aws_monitoring_and_alerts_as_code/) | Purple-Inevitable-73 | 10 |
-| [How has the regular work day changed for you from when you started to where you are now?](https://www.reddit.com/r/devops/comments/xtj7v2/how_has_the_regular_work_day_changed_for_you_from/) | Ordinary_Oil3520 | 7 |
-| [What are some of the newer cloud native trends/products you are actively watching](https://www.reddit.com/r/devops/comments/xt518e/what_are_some_of_the_newer_cloud_native/) | adelowo | 5 |
-| [Docker Compose to Kubernetes](https://www.reddit.com/r/devops/comments/xszll3/docker_compose_to_kubernetes/) | uraaga | 5 |
-| [An architectural problem with packet forwarding](https://www.reddit.com/r/devops/comments/xt8004/an_architectural_problem_with_packet_forwarding/) | ScionOfYaska | 3 |
-| [Serverless Gpu architecture](https://www.reddit.com/r/devops/comments/xt21pp/serverless_gpu_architecture/) | enigmae | 1 |
-| [Cloud computing adoption survey: University research](https://www.reddit.com/r/devops/comments/xti8ay/cloud_computing_adoption_survey_university/) | apaquadri | 1 |
-| [Tech killing innovation?](https://www.reddit.com/r/devops/comments/xtgrt8/tech_killing_innovation/) | Brushdirtoffshoulder | 0 |
+| [Front-end focused engineer, trying to get a handle on dev-ops](https://www.reddit.com/r/devops/comments/xttn2k/frontend_focused_engineer_trying_to_get_a_handle/) | NerdBlood | 49 |
+| [ArgoCD - app of apps - platform workloads &amp; multiple application teams' workloads](https://www.reddit.com/r/devops/comments/xu2s8r/argocd_app_of_apps_platform_workloads_multiple/) | 0x4ddd | 43 |
+| [How much networking should a DevOps to know ?](https://www.reddit.com/r/devops/comments/xu0dws/how_much_networking_should_a_devops_to_know/) | millennium_falc0n | 22 |
+| [3 Year Sys Admin wanting to get into DevOps. Where shall I start from](https://www.reddit.com/r/devops/comments/xudore/3_year_sys_admin_wanting_to_get_into_devops_where/) | llMrMatrixll | 12 |
+| [Learn the Ins-and-Outs of Gitlab CI for DevOps](https://www.reddit.com/r/devops/comments/xubl17/learn_the_insandouts_of_gitlab_ci_for_devops/) | adbertram | 7 |
+| [ECS resources for infra admins and developers](https://www.reddit.com/r/devops/comments/xtqfdy/ecs_resources_for_infra_admins_and_developers/) | LocksmithRound9835 | 6 |
+| [Monthly 'Getting into DevOps' thread - 2022/09](https://www.reddit.com/r/devops/comments/xu9n66/monthly_getting_into_devops_thread_202209/) | mthode | 5 |
+| [Jenkins wont start](https://www.reddit.com/r/devops/comments/xug5g1/jenkins_wont_start/) | hitmanjd | 3 |
+| [Those who have started their own company, how did you do it?](https://www.reddit.com/r/devops/comments/xugj0g/those_who_have_started_their_own_company_how_did/) | phazer193 | 1 |
+| [MicroK8s - Getting Started](https://www.reddit.com/r/devops/comments/xuem2s/microk8s_getting_started/) | lazy_coder123 | 1 |
