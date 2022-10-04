@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Front-end focused engineer, trying to get a handle on dev-ops](https://www.reddit.com/r/devops/comments/xttn2k/frontend_focused_engineer_trying_to_get_a_handle/) | NerdBlood | 49 |
-| [ArgoCD - app of apps - platform workloads &amp; multiple application teams' workloads](https://www.reddit.com/r/devops/comments/xu2s8r/argocd_app_of_apps_platform_workloads_multiple/) | 0x4ddd | 43 |
-| [How much networking should a DevOps to know ?](https://www.reddit.com/r/devops/comments/xu0dws/how_much_networking_should_a_devops_to_know/) | millennium_falc0n | 22 |
-| [3 Year Sys Admin wanting to get into DevOps. Where shall I start from](https://www.reddit.com/r/devops/comments/xudore/3_year_sys_admin_wanting_to_get_into_devops_where/) | llMrMatrixll | 12 |
-| [Learn the Ins-and-Outs of Gitlab CI for DevOps](https://www.reddit.com/r/devops/comments/xubl17/learn_the_insandouts_of_gitlab_ci_for_devops/) | adbertram | 7 |
-| [ECS resources for infra admins and developers](https://www.reddit.com/r/devops/comments/xtqfdy/ecs_resources_for_infra_admins_and_developers/) | LocksmithRound9835 | 6 |
-| [Monthly 'Getting into DevOps' thread - 2022/09](https://www.reddit.com/r/devops/comments/xu9n66/monthly_getting_into_devops_thread_202209/) | mthode | 5 |
-| [Jenkins wont start](https://www.reddit.com/r/devops/comments/xug5g1/jenkins_wont_start/) | hitmanjd | 3 |
-| [Those who have started their own company, how did you do it?](https://www.reddit.com/r/devops/comments/xugj0g/those_who_have_started_their_own_company_how_did/) | phazer193 | 1 |
-| [MicroK8s - Getting Started](https://www.reddit.com/r/devops/comments/xuem2s/microk8s_getting_started/) | lazy_coder123 | 1 |
+| [Do you guys use Python classes in your day-to-day devops code?](https://www.reddit.com/r/devops/comments/xujhiy/do_you_guys_use_python_classes_in_your_daytoday/) | kicktheshin | 73 |
+| [OIDC with github actions and security](https://www.reddit.com/r/devops/comments/xumlnj/oidc_with_github_actions_and_security/) | segap | 24 |
+| [Discussion (Fortnite servers offline for maintenance): Is it that hard to maintain zero downtime maintenance/update for such big games/projects?](https://www.reddit.com/r/devops/comments/xv832k/discussion_fortnite_servers_offline_for/) | _itsEnigma | 18 |
+| [Azure DevOps Pypi packages incident](https://www.reddit.com/r/devops/comments/xujpdo/azure_devops_pypi_packages_incident/) | tehehetehehe | 10 |
+| [AWS Interview…](https://www.reddit.com/r/devops/comments/xv0sj5/aws_interview/) | Optimal_Jicama9422 | 10 |
+| [Kpi and sla for devops](https://www.reddit.com/r/devops/comments/xutzay/kpi_and_sla_for_devops/) | melbogia | 8 |
+| [Unleash opens up Constraints for OSS Users](https://www.reddit.com/r/devops/comments/xvd92c/unleash_opens_up_constraints_for_oss_users/) | snorlaxmorlax | 4 |
+| [Anyone know anything about this DEVOPS course in the University of Chicago?](https://www.reddit.com/r/devops/comments/xupvrd/anyone_know_anything_about_this_devops_course_in/) | Don_Belga | 4 |
+| [SRE/devops requirements](https://www.reddit.com/r/devops/comments/xvatxo/sredevops_requirements/) | Xtreme_Core | 2 |
+| [Kubernetes External Secrets Operator](https://www.reddit.com/r/devops/comments/xuqx3r/kubernetes_external_secrets_operator/) | Nathan-I | 2 |
