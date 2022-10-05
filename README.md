@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do you guys use Python classes in your day-to-day devops code?](https://www.reddit.com/r/devops/comments/xujhiy/do_you_guys_use_python_classes_in_your_daytoday/) | kicktheshin | 73 |
-| [OIDC with github actions and security](https://www.reddit.com/r/devops/comments/xumlnj/oidc_with_github_actions_and_security/) | segap | 24 |
-| [Discussion (Fortnite servers offline for maintenance): Is it that hard to maintain zero downtime maintenance/update for such big games/projects?](https://www.reddit.com/r/devops/comments/xv832k/discussion_fortnite_servers_offline_for/) | _itsEnigma | 18 |
-| [Azure DevOps Pypi packages incident](https://www.reddit.com/r/devops/comments/xujpdo/azure_devops_pypi_packages_incident/) | tehehetehehe | 10 |
-| [AWS Interview…](https://www.reddit.com/r/devops/comments/xv0sj5/aws_interview/) | Optimal_Jicama9422 | 10 |
-| [Kpi and sla for devops](https://www.reddit.com/r/devops/comments/xutzay/kpi_and_sla_for_devops/) | melbogia | 8 |
-| [Unleash opens up Constraints for OSS Users](https://www.reddit.com/r/devops/comments/xvd92c/unleash_opens_up_constraints_for_oss_users/) | snorlaxmorlax | 4 |
-| [Anyone know anything about this DEVOPS course in the University of Chicago?](https://www.reddit.com/r/devops/comments/xupvrd/anyone_know_anything_about_this_devops_course_in/) | Don_Belga | 4 |
-| [SRE/devops requirements](https://www.reddit.com/r/devops/comments/xvatxo/sredevops_requirements/) | Xtreme_Core | 2 |
-| [Kubernetes External Secrets Operator](https://www.reddit.com/r/devops/comments/xuqx3r/kubernetes_external_secrets_operator/) | Nathan-I | 2 |
+| [Tech World With Nana. Opinions?](https://www.reddit.com/r/devops/comments/xvhuse/tech_world_with_nana_opinions/) | miguel-elote | 139 |
+| [Are You Using A Staging Env?](https://www.reddit.com/r/devops/comments/xvmj2f/are_you_using_a_staging_env/) | benaffleks | 6 |
+| [Enabling and maintaining a cost conscious culture. At every level.](https://www.reddit.com/r/devops/comments/xvjlu0/enabling_and_maintaining_a_cost_conscious_culture/) | labouardy | 4 |
+| [Can anyone provide me with some good usecase for Golang](https://www.reddit.com/r/devops/comments/xvf27f/can_anyone_provide_me_with_some_good_usecase_for/) | izner82 | 4 |
+| [Common GitHub dependabot file across org?](https://www.reddit.com/r/devops/comments/xvh9t1/common_github_dependabot_file_across_org/) | ajbrun86 | 3 |
+| [Client with Azure driven by powershell, asking for coding standards review](https://www.reddit.com/r/devops/comments/xvu54c/client_with_azure_driven_by_powershell_asking_for/) | rogerrongway | 2 |
+| [tmpl8 - An Open Source Tool I Made for Templating Shell Commands](https://www.reddit.com/r/devops/comments/xw2bcw/tmpl8_an_open_source_tool_i_made_for_templating/) | MattA2930 | 1 |
+| [What monitoring solutions do you guys use and why did you pick them?](https://www.reddit.com/r/devops/comments/xw66cx/what_monitoring_solutions_do_you_guys_use_and_why/) | ThisIsntMyId | 1 |
+| [Thinking about switching from Windows (WSL2) to Mac](https://www.reddit.com/r/devops/comments/xvpi4r/thinking_about_switching_from_windows_wsl2_to_mac/) | oromboro | 1 |
+| [Installing newer Powershell version using Packer / Azure Image Builder](https://www.reddit.com/r/devops/comments/xvf3me/installing_newer_powershell_version_using_packer/) | a8ree | 1 |
