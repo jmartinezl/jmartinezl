@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Tech World With Nana. Opinions?](https://www.reddit.com/r/devops/comments/xvhuse/tech_world_with_nana_opinions/) | miguel-elote | 139 |
-| [Are You Using A Staging Env?](https://www.reddit.com/r/devops/comments/xvmj2f/are_you_using_a_staging_env/) | benaffleks | 6 |
-| [Enabling and maintaining a cost conscious culture. At every level.](https://www.reddit.com/r/devops/comments/xvjlu0/enabling_and_maintaining_a_cost_conscious_culture/) | labouardy | 4 |
-| [Can anyone provide me with some good usecase for Golang](https://www.reddit.com/r/devops/comments/xvf27f/can_anyone_provide_me_with_some_good_usecase_for/) | izner82 | 4 |
-| [Common GitHub dependabot file across org?](https://www.reddit.com/r/devops/comments/xvh9t1/common_github_dependabot_file_across_org/) | ajbrun86 | 3 |
-| [Client with Azure driven by powershell, asking for coding standards review](https://www.reddit.com/r/devops/comments/xvu54c/client_with_azure_driven_by_powershell_asking_for/) | rogerrongway | 2 |
-| [tmpl8 - An Open Source Tool I Made for Templating Shell Commands](https://www.reddit.com/r/devops/comments/xw2bcw/tmpl8_an_open_source_tool_i_made_for_templating/) | MattA2930 | 1 |
-| [What monitoring solutions do you guys use and why did you pick them?](https://www.reddit.com/r/devops/comments/xw66cx/what_monitoring_solutions_do_you_guys_use_and_why/) | ThisIsntMyId | 1 |
-| [Thinking about switching from Windows (WSL2) to Mac](https://www.reddit.com/r/devops/comments/xvpi4r/thinking_about_switching_from_windows_wsl2_to_mac/) | oromboro | 1 |
-| [Installing newer Powershell version using Packer / Azure Image Builder](https://www.reddit.com/r/devops/comments/xvf3me/installing_newer_powershell_version_using_packer/) | a8ree | 1 |
+| [DevOps related roles without Support Tickets or Oncall?](https://www.reddit.com/r/devops/comments/xwa7ob/devops_related_roles_without_support_tickets_or/) | Cheap_Ranger_2665 | 85 |
+| [Tooling vs Platform](https://www.reddit.com/r/devops/comments/xwpqh0/tooling_vs_platform/) | legba | 53 |
+| [other job titles for devops](https://www.reddit.com/r/devops/comments/xwez2q/other_job_titles_for_devops/) | modern_medicine_isnt | 31 |
+| [Article: The evolution of containers and why Docker is so complex — an overview for the many layers that structure the Docker engine](https://www.reddit.com/r/devops/comments/xwdmn4/article_the_evolution_of_containers_and_why/) | dabomb007 | 25 |
+| [Internal SSL Certs on Kubernetes Microservices](https://www.reddit.com/r/devops/comments/xwrjid/internal_ssl_certs_on_kubernetes_microservices/) | -lousyd | 13 |
+| [EKS cluster created using EKSCTL with API server endpoint access Public](https://www.reddit.com/r/devops/comments/xwab5r/eks_cluster_created_using_eksctl_with_api_server/) | neeltom92 | 12 |
+| [GitOps affect on Developer Experience](https://www.reddit.com/r/devops/comments/xwzljd/gitops_affect_on_developer_experience/) | zohar275 | 10 |
+| [Do you use SLO dashboards in your organization?](https://www.reddit.com/r/devops/comments/xwpd1f/do_you_use_slo_dashboards_in_your_organization/) | pranay01 | 9 |
+| [Huge performance degradation in Ubuntu 20.04](https://www.reddit.com/r/devops/comments/xx11bf/huge_performance_degradation_in_ubuntu_2004/) | Successful-Injury-38 | 8 |
+| [What do you typically carry to work as a devops engineer? Is your bag usually packed with stuff or are you more of a lightweight carrier?](https://www.reddit.com/r/devops/comments/xwlgit/what_do_you_typically_carry_to_work_as_a_devops/) | Ordinary_Oil3520 | 4 |
