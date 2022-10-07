@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps related roles without Support Tickets or Oncall?](https://www.reddit.com/r/devops/comments/xwa7ob/devops_related_roles_without_support_tickets_or/) | Cheap_Ranger_2665 | 85 |
-| [Tooling vs Platform](https://www.reddit.com/r/devops/comments/xwpqh0/tooling_vs_platform/) | legba | 53 |
-| [other job titles for devops](https://www.reddit.com/r/devops/comments/xwez2q/other_job_titles_for_devops/) | modern_medicine_isnt | 31 |
-| [Article: The evolution of containers and why Docker is so complex — an overview for the many layers that structure the Docker engine](https://www.reddit.com/r/devops/comments/xwdmn4/article_the_evolution_of_containers_and_why/) | dabomb007 | 25 |
-| [Internal SSL Certs on Kubernetes Microservices](https://www.reddit.com/r/devops/comments/xwrjid/internal_ssl_certs_on_kubernetes_microservices/) | -lousyd | 13 |
-| [EKS cluster created using EKSCTL with API server endpoint access Public](https://www.reddit.com/r/devops/comments/xwab5r/eks_cluster_created_using_eksctl_with_api_server/) | neeltom92 | 12 |
-| [GitOps affect on Developer Experience](https://www.reddit.com/r/devops/comments/xwzljd/gitops_affect_on_developer_experience/) | zohar275 | 10 |
-| [Do you use SLO dashboards in your organization?](https://www.reddit.com/r/devops/comments/xwpd1f/do_you_use_slo_dashboards_in_your_organization/) | pranay01 | 9 |
-| [Huge performance degradation in Ubuntu 20.04](https://www.reddit.com/r/devops/comments/xx11bf/huge_performance_degradation_in_ubuntu_2004/) | Successful-Injury-38 | 8 |
-| [What do you typically carry to work as a devops engineer? Is your bag usually packed with stuff or are you more of a lightweight carrier?](https://www.reddit.com/r/devops/comments/xwlgit/what_do_you_typically_carry_to_work_as_a_devops/) | Ordinary_Oil3520 | 4 |
+| [Scaling Your Team From 5 to 250 Engineers: A Complete Guide](https://www.reddit.com/r/devops/comments/xx94ss/scaling_your_team_from_5_to_250_engineers_a/) | carmacharma | 265 |
+| [Changed a job and I like it, but they already want me to very soon to replace a guy who is a part-time scrum master and it feels bad](https://www.reddit.com/r/devops/comments/xx8yzh/changed_a_job_and_i_like_it_but_they_already_want/) | Writerro | 10 |
+| [Moving from Docker Swarm to Nomad](https://www.reddit.com/r/devops/comments/xx8g1a/moving_from_docker_swarm_to_nomad/) | nerdyviking88 | 8 |
+| [Another trunk based development question..](https://www.reddit.com/r/devops/comments/xxl8p6/another_trunk_based_development_question/) | Merejo | 6 |
+| [What CI tool would you recommend to learn right now?](https://www.reddit.com/r/devops/comments/xxa5hm/what_ci_tool_would_you_recommend_to_learn_right/) | RP_m_13 | 5 |
+| [Without a PM, who should create stories/tasks and manage the epics?](https://www.reddit.com/r/devops/comments/xx8flw/without_a_pm_who_should_create_storiestasks_and/) | KingOfTheBigSigh | 4 |
+| [What schools are great for a devops career?](https://www.reddit.com/r/devops/comments/xx6tn8/what_schools_are_great_for_a_devops_career/) | The-Names-Matt | 4 |
+| [Is the AWS Certified DevOps Engineer (DOP-C01) worth taking?](https://www.reddit.com/r/devops/comments/xx89sr/is_the_aws_certified_devops_engineer_dopc01_worth/) | langenoirx | 4 |
+| [self-signed SSL](https://www.reddit.com/r/devops/comments/xx87so/selfsigned_ssl/) | user21013 | 3 |
+| [Static Code Analysis using Semgrep App](https://www.reddit.com/r/devops/comments/xxx23j/static_code_analysis_using_semgrep_app/) | bughunterx | 3 |
