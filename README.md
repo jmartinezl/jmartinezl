@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Scaling Your Team From 5 to 250 Engineers: A Complete Guide](https://www.reddit.com/r/devops/comments/xx94ss/scaling_your_team_from_5_to_250_engineers_a/) | carmacharma | 265 |
-| [Changed a job and I like it, but they already want me to very soon to replace a guy who is a part-time scrum master and it feels bad](https://www.reddit.com/r/devops/comments/xx8yzh/changed_a_job_and_i_like_it_but_they_already_want/) | Writerro | 10 |
-| [Moving from Docker Swarm to Nomad](https://www.reddit.com/r/devops/comments/xx8g1a/moving_from_docker_swarm_to_nomad/) | nerdyviking88 | 8 |
-| [Another trunk based development question..](https://www.reddit.com/r/devops/comments/xxl8p6/another_trunk_based_development_question/) | Merejo | 6 |
-| [What CI tool would you recommend to learn right now?](https://www.reddit.com/r/devops/comments/xxa5hm/what_ci_tool_would_you_recommend_to_learn_right/) | RP_m_13 | 5 |
-| [Without a PM, who should create stories/tasks and manage the epics?](https://www.reddit.com/r/devops/comments/xx8flw/without_a_pm_who_should_create_storiestasks_and/) | KingOfTheBigSigh | 4 |
-| [What schools are great for a devops career?](https://www.reddit.com/r/devops/comments/xx6tn8/what_schools_are_great_for_a_devops_career/) | The-Names-Matt | 4 |
-| [Is the AWS Certified DevOps Engineer (DOP-C01) worth taking?](https://www.reddit.com/r/devops/comments/xx89sr/is_the_aws_certified_devops_engineer_dopc01_worth/) | langenoirx | 4 |
-| [self-signed SSL](https://www.reddit.com/r/devops/comments/xx87so/selfsigned_ssl/) | user21013 | 3 |
-| [Static Code Analysis using Semgrep App](https://www.reddit.com/r/devops/comments/xxx23j/static_code_analysis_using_semgrep_app/) | bughunterx | 3 |
+| [3 years in Devops, still need help from seniors to get work done.](https://www.reddit.com/r/devops/comments/xy8ljw/3_years_in_devops_still_need_help_from_seniors_to/) | TransitWizard | 106 |
+| [Data Quality Comparison on AWS Glue and Great Expectations/Updated with V3 API](https://www.reddit.com/r/devops/comments/xy1eci/data_quality_comparison_on_aws_glue_and_great/) | Witer1945 | 57 |
+| [Is devops-guy the next generation of anykey-guy?](https://www.reddit.com/r/devops/comments/xynxqo/is_devopsguy_the_next_generation_of_anykeyguy/) | amarao_san | 41 |
+| [Wtf are Kumquat Servers?](https://www.reddit.com/r/devops/comments/xxxeuv/wtf_are_kumquat_servers/) | fuzzydaemon | 31 |
+| [Managing Workflows with OpenShift](https://www.reddit.com/r/devops/comments/xy8l14/managing_workflows_with_openshift/) | Khaotic_Kernel | 15 |
+| [What proxy/caching/middleware SOLUTIONS are You folks to keep copies of external dependencieS?](https://www.reddit.com/r/devops/comments/xy6ic4/what_proxycachingmiddleware_solutions_are_you/) | br-rand | 8 |
+| [I see the Drone CI extension on Docker Desktop. Does this mean we can do CI from our laptops?](https://www.reddit.com/r/devops/comments/xy28o1/i_see_the_drone_ci_extension_on_docker_desktop/) | John_Cult | 5 |
+| [Guideline for distribute apps on IBM Cloud catalog](https://www.reddit.com/r/devops/comments/xynbn3/guideline_for_distribute_apps_on_ibm_cloud_catalog/) | LewisStudying | 4 |
+| [Anyone else feel guilty for ignoring their email inbox in lieu of direct Slack notifications?](https://www.reddit.com/r/devops/comments/xy5mcc/anyone_else_feel_guilty_for_ignoring_their_email/) | hou8182 | 4 |
+| [How to get the current date in the make file in windows](https://www.reddit.com/r/devops/comments/xyd138/how_to_get_the_current_date_in_the_make_file_in/) | Comfortable_Tax6302 | 2 |
