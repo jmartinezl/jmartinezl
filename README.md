@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [3 years in Devops, still need help from seniors to get work done.](https://www.reddit.com/r/devops/comments/xy8ljw/3_years_in_devops_still_need_help_from_seniors_to/) | TransitWizard | 106 |
-| [Data Quality Comparison on AWS Glue and Great Expectations/Updated with V3 API](https://www.reddit.com/r/devops/comments/xy1eci/data_quality_comparison_on_aws_glue_and_great/) | Witer1945 | 57 |
-| [Is devops-guy the next generation of anykey-guy?](https://www.reddit.com/r/devops/comments/xynxqo/is_devopsguy_the_next_generation_of_anykeyguy/) | amarao_san | 41 |
-| [Wtf are Kumquat Servers?](https://www.reddit.com/r/devops/comments/xxxeuv/wtf_are_kumquat_servers/) | fuzzydaemon | 31 |
-| [Managing Workflows with OpenShift](https://www.reddit.com/r/devops/comments/xy8l14/managing_workflows_with_openshift/) | Khaotic_Kernel | 15 |
-| [What proxy/caching/middleware SOLUTIONS are You folks to keep copies of external dependencieS?](https://www.reddit.com/r/devops/comments/xy6ic4/what_proxycachingmiddleware_solutions_are_you/) | br-rand | 8 |
-| [I see the Drone CI extension on Docker Desktop. Does this mean we can do CI from our laptops?](https://www.reddit.com/r/devops/comments/xy28o1/i_see_the_drone_ci_extension_on_docker_desktop/) | John_Cult | 5 |
-| [Guideline for distribute apps on IBM Cloud catalog](https://www.reddit.com/r/devops/comments/xynbn3/guideline_for_distribute_apps_on_ibm_cloud_catalog/) | LewisStudying | 4 |
-| [Anyone else feel guilty for ignoring their email inbox in lieu of direct Slack notifications?](https://www.reddit.com/r/devops/comments/xy5mcc/anyone_else_feel_guilty_for_ignoring_their_email/) | hou8182 | 4 |
-| [How to get the current date in the make file in windows](https://www.reddit.com/r/devops/comments/xyd138/how_to_get_the_current_date_in_the_make_file_in/) | Comfortable_Tax6302 | 2 |
+| [Great resource](https://www.reddit.com/r/devops/comments/xz9sa7/great_resource/) | geekjdv | 56 |
+| [DataDog Custom Metrics](https://www.reddit.com/r/devops/comments/xyugd0/datadog_custom_metrics/) | Critical_Primary2834 | 12 |
+| [Schema migrations on RDS from github actions](https://www.reddit.com/r/devops/comments/xz4gvm/schema_migrations_on_rds_from_github_actions/) | nilocg | 6 |
+| [How to do 1:1:2 traffic loadbalancing for 3 apps in K8s with ingress?](https://www.reddit.com/r/devops/comments/xzgk4e/how_to_do_112_traffic_loadbalancing_for_3_apps_in/) | FreeYellow6768 | 2 |
+| [DevSecOps Azure](https://www.reddit.com/r/devops/comments/xz88j3/devsecops_azure/) | ArtistYay | 1 |
+| [SSL Cert issue Ubuntu EC2 Wordpress site](https://www.reddit.com/r/devops/comments/xyso1c/ssl_cert_issue_ubuntu_ec2_wordpress_site/) | hitmanjd | 0 |
+| [How do you separate your vpc network?](https://www.reddit.com/r/devops/comments/xzc9dz/how_do_you_separate_your_vpc_network/) | izner82 | 0 |
