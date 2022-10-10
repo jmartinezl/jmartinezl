@@ -44,10 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Great resource](https://www.reddit.com/r/devops/comments/xz9sa7/great_resource/) | geekjdv | 56 |
-| [DataDog Custom Metrics](https://www.reddit.com/r/devops/comments/xyugd0/datadog_custom_metrics/) | Critical_Primary2834 | 12 |
-| [Schema migrations on RDS from github actions](https://www.reddit.com/r/devops/comments/xz4gvm/schema_migrations_on_rds_from_github_actions/) | nilocg | 6 |
-| [How to do 1:1:2 traffic loadbalancing for 3 apps in K8s with ingress?](https://www.reddit.com/r/devops/comments/xzgk4e/how_to_do_112_traffic_loadbalancing_for_3_apps_in/) | FreeYellow6768 | 2 |
-| [DevSecOps Azure](https://www.reddit.com/r/devops/comments/xz88j3/devsecops_azure/) | ArtistYay | 1 |
-| [SSL Cert issue Ubuntu EC2 Wordpress site](https://www.reddit.com/r/devops/comments/xyso1c/ssl_cert_issue_ubuntu_ec2_wordpress_site/) | hitmanjd | 0 |
-| [How do you separate your vpc network?](https://www.reddit.com/r/devops/comments/xzc9dz/how_do_you_separate_your_vpc_network/) | izner82 | 0 |
+| [How do you work on personal projects when services are so expensive?](https://www.reddit.com/r/devops/comments/xzk63q/how_do_you_work_on_personal_projects_when/) | Squab77 | 150 |
+| [How do you distinguish between end to end and integration testing?](https://www.reddit.com/r/devops/comments/xztk9a/how_do_you_distinguish_between_end_to_end_and/) | Charles_Stover | 47 |
+| [How to deal with an already shitty status quo?](https://www.reddit.com/r/devops/comments/y0bzon/how_to_deal_with_an_already_shitty_status_quo/) | shindigin | 19 |
+| [What is the most esoteric database found in your production environment?](https://www.reddit.com/r/devops/comments/y01yke/what_is_the_most_esoteric_database_found_in_your/) | pinpinbo | 11 |
+| [Build system for a multi repo project](https://www.reddit.com/r/devops/comments/y05xdi/build_system_for_a_multi_repo_project/) | Hadokuv | 10 |
+| [Is deploying a Nomad config the same as deploying back end code to a server?](https://www.reddit.com/r/devops/comments/y06ua3/is_deploying_a_nomad_config_the_same_as_deploying/) | mobiletiplord | 9 |
+| [New job + Anxiety help?](https://www.reddit.com/r/devops/comments/xzo0zy/new_job_anxiety_help/) | Relevant-Sun | 7 |
+| [What is the difference between the term api testing and interface testing?](https://www.reddit.com/r/devops/comments/xzqfkg/what_is_the_difference_between_the_term_api/) | PickandRoll | 6 |
+| [what questions to ask to the interviewer?](https://www.reddit.com/r/devops/comments/xzrwfb/what_questions_to_ask_to_the_interviewer/) | IAMABDULLAHSHEIK | 4 |
+| [Getting build log on failed Concourse Task?](https://www.reddit.com/r/devops/comments/xzygqd/getting_build_log_on_failed_concourse_task/) | thumperj | 4 |
