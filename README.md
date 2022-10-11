@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you work on personal projects when services are so expensive?](https://www.reddit.com/r/devops/comments/xzk63q/how_do_you_work_on_personal_projects_when/) | Squab77 | 150 |
-| [How do you distinguish between end to end and integration testing?](https://www.reddit.com/r/devops/comments/xztk9a/how_do_you_distinguish_between_end_to_end_and/) | Charles_Stover | 47 |
-| [How to deal with an already shitty status quo?](https://www.reddit.com/r/devops/comments/y0bzon/how_to_deal_with_an_already_shitty_status_quo/) | shindigin | 19 |
-| [What is the most esoteric database found in your production environment?](https://www.reddit.com/r/devops/comments/y01yke/what_is_the_most_esoteric_database_found_in_your/) | pinpinbo | 11 |
-| [Build system for a multi repo project](https://www.reddit.com/r/devops/comments/y05xdi/build_system_for_a_multi_repo_project/) | Hadokuv | 10 |
-| [Is deploying a Nomad config the same as deploying back end code to a server?](https://www.reddit.com/r/devops/comments/y06ua3/is_deploying_a_nomad_config_the_same_as_deploying/) | mobiletiplord | 9 |
-| [New job + Anxiety help?](https://www.reddit.com/r/devops/comments/xzo0zy/new_job_anxiety_help/) | Relevant-Sun | 7 |
-| [What is the difference between the term api testing and interface testing?](https://www.reddit.com/r/devops/comments/xzqfkg/what_is_the_difference_between_the_term_api/) | PickandRoll | 6 |
-| [what questions to ask to the interviewer?](https://www.reddit.com/r/devops/comments/xzrwfb/what_questions_to_ask_to_the_interviewer/) | IAMABDULLAHSHEIK | 4 |
-| [Getting build log on failed Concourse Task?](https://www.reddit.com/r/devops/comments/xzygqd/getting_build_log_on_failed_concourse_task/) | thumperj | 4 |
+| [I just canceled a technical interview due to the “assignment”. [Sanity check]](https://www.reddit.com/r/devops/comments/y0gows/i_just_canceled_a_technical_interview_due_to_the/) | bruj0and | 644 |
+| [Is devops really fancy name for sysadmin in many companies?](https://www.reddit.com/r/devops/comments/y14d3z/is_devops_really_fancy_name_for_sysadmin_in_many/) | themadman00 | 31 |
+| [Patterns for deploying application infrastructure in ArgoCD based GitOps setup](https://www.reddit.com/r/devops/comments/y0glfi/patterns_for_deploying_application_infrastructure/) | TheCoolDrop | 12 |
+| [Skipping GitHub Actions jobs while maintaining branch protection rules that require them](https://www.reddit.com/r/devops/comments/y0ku2a/skipping_github_actions_jobs_while_maintaining/) | hattrick1492 | 11 |
+| [Question: Docsets for SQL Server and other proprietary programs](https://www.reddit.com/r/devops/comments/y15faz/question_docsets_for_sql_server_and_other/) | opec125 | 5 |
+| [loops in packer - dynamic sources/builds](https://www.reddit.com/r/devops/comments/y0swq2/loops_in_packer_dynamic_sourcesbuilds/) | Flat-Speaker566 | 3 |
+| [Gradle and Software composition analysis](https://www.reddit.com/r/devops/comments/y0n45s/gradle_and_software_composition_analysis/) | tsvangison | 2 |
+| [DevOps Improvement Plan](https://www.reddit.com/r/devops/comments/y1610c/devops_improvement_plan/) | trellix78 | 2 |
+| [Best conventions to go to 2023](https://www.reddit.com/r/devops/comments/y0nxgs/best_conventions_to_go_to_2023/) | rstowel | 2 |
+| [Auth0 logs to... Grafana?](https://www.reddit.com/r/devops/comments/y15ggj/auth0_logs_to_grafana/) | CommissionNo9617 | 2 |
