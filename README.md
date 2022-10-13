@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| ["2022" CI/CD design](https://www.reddit.com/r/devops/comments/y1nftk/2022_cicd_design/) | united_fan | 62 |
-| [If a docker container is in deployment how do you exchange that to another newer docker container seamlessly (from user's perspective)?](https://www.reddit.com/r/devops/comments/y1c6g3/if_a_docker_container_is_in_deployment_how_do_you/) | glassAlloy | 56 |
-| [Need Some Advice For My New Role As Junior DevOps Engineer](https://www.reddit.com/r/devops/comments/y1pyla/need_some_advice_for_my_new_role_as_junior_devops/) | irenesarrow | 17 |
-| [Botkube 0.14 released (and it won't spam you anymore)](https://www.reddit.com/r/devops/comments/y1caxb/botkube_014_released_and_it_wont_spam_you_anymore/) | olensmar | 5 |
-| [Remote Job Board for Devops](https://www.reddit.com/r/devops/comments/y1cgzt/remote_job_board_for_devops/) | nearfal08 | 4 |
-| [AWS re:invent 2022 - what to see](https://www.reddit.com/r/devops/comments/y1m1z0/aws_reinvent_2022_what_to_see/) | muliwuli | 4 |
-| [GitHub actions workflow updating file in different repo, trouble keeping things in sync.](https://www.reddit.com/r/devops/comments/y20fjk/github_actions_workflow_updating_file_in/) | Macscroge | 3 |
-| [Sonatype Nexus PRO only compatible with AWS S3 - Why](https://www.reddit.com/r/devops/comments/y1z0m1/sonatype_nexus_pro_only_compatible_with_aws_s3_why/) | danileau | 2 |
-| [Rsync with Jenkins](https://www.reddit.com/r/devops/comments/y1ztsu/rsync_with_jenkins/) | mildburn | 2 |
-| [AWS Lambda with MSK trigger](https://www.reddit.com/r/devops/comments/y1ctns/aws_lambda_with_msk_trigger/) | razswamy | 2 |
+| [Is 80% of what you do at a large company just navigating how to get things done in the organization?](https://www.reddit.com/r/devops/comments/y2a2p4/is_80_of_what_you_do_at_a_large_company_just/) | IntelletiveConsult | 527 |
+| [Project: Kubernetes Cluster on Oracle Free Tier using Terraform &amp; Ansible](https://www.reddit.com/r/devops/comments/y2qao8/project_kubernetes_cluster_on_oracle_free_tier/) | solamarpreet | 14 |
+| [EKS/GKE vs self managed Kuberbetes on cloud instances](https://www.reddit.com/r/devops/comments/y26bh0/eksgke_vs_self_managed_kuberbetes_on_cloud/) | Vonderchicken | 9 |
+| [trial period ended after a month because a no documentation, bad communication, knowledge silo boss didn't like my pointing out Plesk and pet VPSes aren't scalable. I was hired to "audit and modernize", and I feel scammed.](https://www.reddit.com/r/devops/comments/y2vdz5/trial_period_ended_after_a_month_because_a_no/) | Le_Vagabond | 5 |
+| [Opensource services similar to Sonarcloud ?](https://www.reddit.com/r/devops/comments/y240eh/opensource_services_similar_to_sonarcloud/) | North_Analyst_1426 | 5 |
+| [The feature request for a "allow-failure" option on GitHub Actions now almost has one thousand thumbs up](https://www.reddit.com/r/devops/comments/y2t6b9/the_feature_request_for_a_allowfailure_option_on/) | Balance- | 3 |
+| [Most stories I develop against have the requirements changed multiple times during sprint.. is this normal?](https://www.reddit.com/r/devops/comments/y27gx9/most_stories_i_develop_against_have_the/) | swiftsparky | 3 |
+| [Is there a need to balance cloud with on-premise](https://www.reddit.com/r/devops/comments/y2r4gu/is_there_a_need_to_balance_cloud_with_onpremise/) | pranay01 | 2 |
+| [azure application insight](https://www.reddit.com/r/devops/comments/y28cye/azure_application_insight/) | anacondaonline | 1 |
+| [Question about handling variables in packer and teraform](https://www.reddit.com/r/devops/comments/y2mm50/question_about_handling_variables_in_packer_and/) | Kipling89 | 1 |
