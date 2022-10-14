@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is 80% of what you do at a large company just navigating how to get things done in the organization?](https://www.reddit.com/r/devops/comments/y2a2p4/is_80_of_what_you_do_at_a_large_company_just/) | IntelletiveConsult | 527 |
-| [Project: Kubernetes Cluster on Oracle Free Tier using Terraform &amp; Ansible](https://www.reddit.com/r/devops/comments/y2qao8/project_kubernetes_cluster_on_oracle_free_tier/) | solamarpreet | 14 |
-| [EKS/GKE vs self managed Kuberbetes on cloud instances](https://www.reddit.com/r/devops/comments/y26bh0/eksgke_vs_self_managed_kuberbetes_on_cloud/) | Vonderchicken | 9 |
-| [trial period ended after a month because a no documentation, bad communication, knowledge silo boss didn't like my pointing out Plesk and pet VPSes aren't scalable. I was hired to "audit and modernize", and I feel scammed.](https://www.reddit.com/r/devops/comments/y2vdz5/trial_period_ended_after_a_month_because_a_no/) | Le_Vagabond | 5 |
-| [Opensource services similar to Sonarcloud ?](https://www.reddit.com/r/devops/comments/y240eh/opensource_services_similar_to_sonarcloud/) | North_Analyst_1426 | 5 |
-| [The feature request for a "allow-failure" option on GitHub Actions now almost has one thousand thumbs up](https://www.reddit.com/r/devops/comments/y2t6b9/the_feature_request_for_a_allowfailure_option_on/) | Balance- | 3 |
-| [Most stories I develop against have the requirements changed multiple times during sprint.. is this normal?](https://www.reddit.com/r/devops/comments/y27gx9/most_stories_i_develop_against_have_the/) | swiftsparky | 3 |
-| [Is there a need to balance cloud with on-premise](https://www.reddit.com/r/devops/comments/y2r4gu/is_there_a_need_to_balance_cloud_with_onpremise/) | pranay01 | 2 |
-| [azure application insight](https://www.reddit.com/r/devops/comments/y28cye/azure_application_insight/) | anacondaonline | 1 |
-| [Question about handling variables in packer and teraform](https://www.reddit.com/r/devops/comments/y2mm50/question_about_handling_variables_in_packer_and/) | Kipling89 | 1 |
+| [Results of the study: How stressful is working in DevOps?](https://www.reddit.com/r/devops/comments/y30kjs/results_of_the_study_how_stressful_is_working_in/) | spacelift-io | 261 |
+| ["Paved Road" Internal PaaS](https://www.reddit.com/r/devops/comments/y3fcoz/paved_road_internal_paas/) | mouthbuster | 15 |
+| [How do you manage your patching for cloud VMs (like EC2 instances)?](https://www.reddit.com/r/devops/comments/y2yxr6/how_do_you_manage_your_patching_for_cloud_vms/) | Bailey-96 | 9 |
+| [Who's running Crossplane in Production?](https://www.reddit.com/r/devops/comments/y3fo9p/whos_running_crossplane_in_production/) | Rockinoutt | 7 |
+| [24/7 services and global teams](https://www.reddit.com/r/devops/comments/y35o0e/247_services_and_global_teams/) | [deleted] | 3 |
+| [Running Cypress Tests in Parallel Using Docker Compose](https://www.reddit.com/r/devops/comments/y3407l/running_cypress_tests_in_parallel_using_docker/) | devpie_2815 | 2 |
+| [How to save on ALB costs when deploying a simple fargate container on AWS?](https://www.reddit.com/r/devops/comments/y3jk4o/how_to_save_on_alb_costs_when_deploying_a_simple/) | goeatsomesoup | 2 |
+| [Hacktoberfest Open-Source DevOps Virtual Event (An Invite to r/DevOps!)](https://www.reddit.com/r/devops/comments/y3fbeg/hacktoberfest_opensource_devops_virtual_event_an/) | HoyaMaxa | 2 |
+| [Get another AWS certification or learn something else?](https://www.reddit.com/r/devops/comments/y388te/get_another_aws_certification_or_learn_something/) | always_avg | 2 |
+| [Devops considered part of Product development?](https://www.reddit.com/r/devops/comments/y3rsy5/devops_considered_part_of_product_development/) | themadman00 | 2 |
