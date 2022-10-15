@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Results of the study: How stressful is working in DevOps?](https://www.reddit.com/r/devops/comments/y30kjs/results_of_the_study_how_stressful_is_working_in/) | spacelift-io | 261 |
-| ["Paved Road" Internal PaaS](https://www.reddit.com/r/devops/comments/y3fcoz/paved_road_internal_paas/) | mouthbuster | 15 |
-| [How do you manage your patching for cloud VMs (like EC2 instances)?](https://www.reddit.com/r/devops/comments/y2yxr6/how_do_you_manage_your_patching_for_cloud_vms/) | Bailey-96 | 9 |
-| [Who's running Crossplane in Production?](https://www.reddit.com/r/devops/comments/y3fo9p/whos_running_crossplane_in_production/) | Rockinoutt | 7 |
-| [24/7 services and global teams](https://www.reddit.com/r/devops/comments/y35o0e/247_services_and_global_teams/) | [deleted] | 3 |
-| [Running Cypress Tests in Parallel Using Docker Compose](https://www.reddit.com/r/devops/comments/y3407l/running_cypress_tests_in_parallel_using_docker/) | devpie_2815 | 2 |
-| [How to save on ALB costs when deploying a simple fargate container on AWS?](https://www.reddit.com/r/devops/comments/y3jk4o/how_to_save_on_alb_costs_when_deploying_a_simple/) | goeatsomesoup | 2 |
-| [Hacktoberfest Open-Source DevOps Virtual Event (An Invite to r/DevOps!)](https://www.reddit.com/r/devops/comments/y3fbeg/hacktoberfest_opensource_devops_virtual_event_an/) | HoyaMaxa | 2 |
-| [Get another AWS certification or learn something else?](https://www.reddit.com/r/devops/comments/y388te/get_another_aws_certification_or_learn_something/) | always_avg | 2 |
-| [Devops considered part of Product development?](https://www.reddit.com/r/devops/comments/y3rsy5/devops_considered_part_of_product_development/) | themadman00 | 2 |
+| [Any Platform to Excercise DevOps methods like we get for programming languages like CodeChef or HackerRank??](https://www.reddit.com/r/devops/comments/y3s8p2/any_platform_to_excercise_devops_methods_like_we/) | DCGMechanics | 79 |
+| [recently graduated software engineering student doing infrastructure - i like it, but am i shooting myself in the foot in the long run by doing less complex programming?](https://www.reddit.com/r/devops/comments/y3sld5/recently_graduated_software_engineering_student/) | V3Qn117x0UFQ | 78 |
+| [Is there an Industry Standard CI/CD tool? (or some contenders for that title?)](https://www.reddit.com/r/devops/comments/y4aipe/is_there_an_industry_standard_cicd_tool_or_some/) | Any_Masterpiece9385 | 34 |
+| [[Circle CI] How can i block merging in github until successful deployment check](https://www.reddit.com/r/devops/comments/y3tmo8/circle_ci_how_can_i_block_merging_in_github_until/) | witoutshoes | 11 |
+| [Personal liability in the event of a breach](https://www.reddit.com/r/devops/comments/y3xjvm/personal_liability_in_the_event_of_a_breach/) | t5bert | 10 |
+| [How should data population/cleanup scripts be ran in production?](https://www.reddit.com/r/devops/comments/y3yuw4/how_should_data_populationcleanup_scripts_be_ran/) | kristianwindsor | 5 |
+| [Best Training Platform?](https://www.reddit.com/r/devops/comments/y43m0u/best_training_platform/) | J93T | 4 |
+| [lightweight and simple worker agents for Windows machines?](https://www.reddit.com/r/devops/comments/y41zsm/lightweight_and_simple_worker_agents_for_windows/) | polyphonyrequiem | 3 |
+| [In an ideal DevOps setting, where is the people in the loop?](https://www.reddit.com/r/devops/comments/y42ncb/in_an_ideal_devops_setting_where_is_the_people_in/) | User6RE001 | 3 |
+| [In reality, how possible is an always releasable trunk branch?](https://www.reddit.com/r/devops/comments/y3xub4/in_reality_how_possible_is_an_always_releasable/) | ajbrun86 | 2 |
