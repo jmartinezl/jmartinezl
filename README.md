@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Any Platform to Excercise DevOps methods like we get for programming languages like CodeChef or HackerRank??](https://www.reddit.com/r/devops/comments/y3s8p2/any_platform_to_excercise_devops_methods_like_we/) | DCGMechanics | 79 |
-| [recently graduated software engineering student doing infrastructure - i like it, but am i shooting myself in the foot in the long run by doing less complex programming?](https://www.reddit.com/r/devops/comments/y3sld5/recently_graduated_software_engineering_student/) | V3Qn117x0UFQ | 78 |
-| [Is there an Industry Standard CI/CD tool? (or some contenders for that title?)](https://www.reddit.com/r/devops/comments/y4aipe/is_there_an_industry_standard_cicd_tool_or_some/) | Any_Masterpiece9385 | 34 |
-| [[Circle CI] How can i block merging in github until successful deployment check](https://www.reddit.com/r/devops/comments/y3tmo8/circle_ci_how_can_i_block_merging_in_github_until/) | witoutshoes | 11 |
-| [Personal liability in the event of a breach](https://www.reddit.com/r/devops/comments/y3xjvm/personal_liability_in_the_event_of_a_breach/) | t5bert | 10 |
-| [How should data population/cleanup scripts be ran in production?](https://www.reddit.com/r/devops/comments/y3yuw4/how_should_data_populationcleanup_scripts_be_ran/) | kristianwindsor | 5 |
-| [Best Training Platform?](https://www.reddit.com/r/devops/comments/y43m0u/best_training_platform/) | J93T | 4 |
-| [lightweight and simple worker agents for Windows machines?](https://www.reddit.com/r/devops/comments/y41zsm/lightweight_and_simple_worker_agents_for_windows/) | polyphonyrequiem | 3 |
-| [In an ideal DevOps setting, where is the people in the loop?](https://www.reddit.com/r/devops/comments/y42ncb/in_an_ideal_devops_setting_where_is_the_people_in/) | User6RE001 | 3 |
-| [In reality, how possible is an always releasable trunk branch?](https://www.reddit.com/r/devops/comments/y3xub4/in_reality_how_possible_is_an_always_releasable/) | ajbrun86 | 2 |
+| [Benefits/drawbacks of edge-based API gateways?](https://www.reddit.com/r/devops/comments/y4rivf/benefitsdrawbacks_of_edgebased_api_gateways/) | Trk-5000 | 44 |
+| [Why is EKS (and AWS in general) so much more convoluted than GKE/GCP?](https://www.reddit.com/r/devops/comments/y5am95/why_is_eks_and_aws_in_general_so_much_more/) | ArtDeep4462 | 41 |
+| [European cloud app platform?](https://www.reddit.com/r/devops/comments/y4pn3y/european_cloud_app_platform/) | carstenjaksch | 39 |
+| [Discussion: What about Continuous Delivery and Dave Farley?](https://www.reddit.com/r/devops/comments/y4od8y/discussion_what_about_continuous_delivery_and/) | goshkoBliat | 16 |
+| [Proxmox, packer Ubuntu autoinstall](https://www.reddit.com/r/devops/comments/y52mef/proxmox_packer_ubuntu_autoinstall/) | Kipling89 | 15 |
+| [Where can I find source code that I can practice devops with?](https://www.reddit.com/r/devops/comments/y4xgip/where_can_i_find_source_code_that_i_can_practice/) | EW_IO | 14 |
+| [Google Cloud Security Challenge](https://www.reddit.com/r/devops/comments/y4mz66/google_cloud_security_challenge/) | RstarPhoneix | 10 |
+| [What does your internal platform look like?](https://www.reddit.com/r/devops/comments/y59tuk/what_does_your_internal_platform_look_like/) | rtpro1 | 2 |
+| [How to add in one .htpasswd file in nginx access to two different domain?](https://www.reddit.com/r/devops/comments/y5bx0g/how_to_add_in_one_htpasswd_file_in_nginx_access/) | mxcdh | 2 |
+| [ECRs free tier size limitation...](https://www.reddit.com/r/devops/comments/y5bovc/ecrs_free_tier_size_limitation/) | Worried-Diamond-6674 | 2 |
