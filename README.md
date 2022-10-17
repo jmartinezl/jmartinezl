@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Benefits/drawbacks of edge-based API gateways?](https://www.reddit.com/r/devops/comments/y4rivf/benefitsdrawbacks_of_edgebased_api_gateways/) | Trk-5000 | 44 |
-| [Why is EKS (and AWS in general) so much more convoluted than GKE/GCP?](https://www.reddit.com/r/devops/comments/y5am95/why_is_eks_and_aws_in_general_so_much_more/) | ArtDeep4462 | 41 |
-| [European cloud app platform?](https://www.reddit.com/r/devops/comments/y4pn3y/european_cloud_app_platform/) | carstenjaksch | 39 |
-| [Discussion: What about Continuous Delivery and Dave Farley?](https://www.reddit.com/r/devops/comments/y4od8y/discussion_what_about_continuous_delivery_and/) | goshkoBliat | 16 |
-| [Proxmox, packer Ubuntu autoinstall](https://www.reddit.com/r/devops/comments/y52mef/proxmox_packer_ubuntu_autoinstall/) | Kipling89 | 15 |
-| [Where can I find source code that I can practice devops with?](https://www.reddit.com/r/devops/comments/y4xgip/where_can_i_find_source_code_that_i_can_practice/) | EW_IO | 14 |
-| [Google Cloud Security Challenge](https://www.reddit.com/r/devops/comments/y4mz66/google_cloud_security_challenge/) | RstarPhoneix | 10 |
-| [What does your internal platform look like?](https://www.reddit.com/r/devops/comments/y59tuk/what_does_your_internal_platform_look_like/) | rtpro1 | 2 |
-| [How to add in one .htpasswd file in nginx access to two different domain?](https://www.reddit.com/r/devops/comments/y5bx0g/how_to_add_in_one_htpasswd_file_in_nginx_access/) | mxcdh | 2 |
-| [ECRs free tier size limitation...](https://www.reddit.com/r/devops/comments/y5bovc/ecrs_free_tier_size_limitation/) | Worried-Diamond-6674 | 2 |
+| [Advice transitioning from Software Development to DevOps while unemployed with outdated skills?](https://www.reddit.com/r/devops/comments/y5yde3/advice_transitioning_from_software_development_to/) | MoreCatsThanBrains | 39 |
+| [Books for DevOps](https://www.reddit.com/r/devops/comments/y5n005/books_for_devops/) | omagdy7 | 35 |
+| [I wrote a tool to speed up the testing stage by 95%](https://www.reddit.com/r/devops/comments/y653qa/i_wrote_a_tool_to_speed_up_the_testing_stage_by_95/) | yuvalsteuer | 26 |
+| [IaC relation to DevOps](https://www.reddit.com/r/devops/comments/y5q2cy/iac_relation_to_devops/) | acer2525 | 23 |
+| [Interesting Twitter thread - free training](https://www.reddit.com/r/devops/comments/y5xexi/interesting_twitter_thread_free_training/) | Fit-Strain5146 | 18 |
+| [Trying to learn pre-commit - how to handle multiple hooks in a small monorepo with different paths?](https://www.reddit.com/r/devops/comments/y5gfkb/trying_to_learn_precommit_how_to_handle_multiple/) | Marquis77 | 17 |
+| [Entry Level DevOps Question](https://www.reddit.com/r/devops/comments/y5oxeb/entry_level_devops_question/) | yanggang20202024 | 5 |
+| [Tips for a new Jr. DevOps Engineer](https://www.reddit.com/r/devops/comments/y5mn7t/tips_for_a_new_jr_devops_engineer/) | gains_and_brains | 4 |
+| [Novice developer needs advice on pushing code from local to prod](https://www.reddit.com/r/devops/comments/y5ih9j/novice_developer_needs_advice_on_pushing_code/) | Vulcan_MasterRace | 4 |
+| [How do you approach static code analysis, unit testing, and overall strategy in your CI pipelines?](https://www.reddit.com/r/devops/comments/y5x46c/how_do_you_approach_static_code_analysis_unit/) | Marquis77 | 4 |
