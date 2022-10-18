@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Advice transitioning from Software Development to DevOps while unemployed with outdated skills?](https://www.reddit.com/r/devops/comments/y5yde3/advice_transitioning_from_software_development_to/) | MoreCatsThanBrains | 39 |
-| [Books for DevOps](https://www.reddit.com/r/devops/comments/y5n005/books_for_devops/) | omagdy7 | 35 |
-| [I wrote a tool to speed up the testing stage by 95%](https://www.reddit.com/r/devops/comments/y653qa/i_wrote_a_tool_to_speed_up_the_testing_stage_by_95/) | yuvalsteuer | 26 |
-| [IaC relation to DevOps](https://www.reddit.com/r/devops/comments/y5q2cy/iac_relation_to_devops/) | acer2525 | 23 |
-| [Interesting Twitter thread - free training](https://www.reddit.com/r/devops/comments/y5xexi/interesting_twitter_thread_free_training/) | Fit-Strain5146 | 18 |
-| [Trying to learn pre-commit - how to handle multiple hooks in a small monorepo with different paths?](https://www.reddit.com/r/devops/comments/y5gfkb/trying_to_learn_precommit_how_to_handle_multiple/) | Marquis77 | 17 |
-| [Entry Level DevOps Question](https://www.reddit.com/r/devops/comments/y5oxeb/entry_level_devops_question/) | yanggang20202024 | 5 |
-| [Tips for a new Jr. DevOps Engineer](https://www.reddit.com/r/devops/comments/y5mn7t/tips_for_a_new_jr_devops_engineer/) | gains_and_brains | 4 |
-| [Novice developer needs advice on pushing code from local to prod](https://www.reddit.com/r/devops/comments/y5ih9j/novice_developer_needs_advice_on_pushing_code/) | Vulcan_MasterRace | 4 |
-| [How do you approach static code analysis, unit testing, and overall strategy in your CI pipelines?](https://www.reddit.com/r/devops/comments/y5x46c/how_do_you_approach_static_code_analysis_unit/) | Marquis77 | 4 |
+| [GitOps features within Portainer + GitHub Actions](https://www.reddit.com/r/devops/comments/y6k8zz/gitops_features_within_portainer_github_actions/) | DiHannay | 49 |
+| [how many of yall run entire on-premises infrastructure vs either hybrid or cloud only?](https://www.reddit.com/r/devops/comments/y6e8oo/how_many_of_yall_run_entire_onpremises/) | GeneralCanada3 | 42 |
+| [What are some of your core devops books?](https://www.reddit.com/r/devops/comments/y6osu8/what_are_some_of_your_core_devops_books/) | SurewhyNot2022 | 20 |
+| [Conflict between engineers and sales](https://www.reddit.com/r/devops/comments/y6p525/conflict_between_engineers_and_sales/) | CodeMonkey24816 | 17 |
+| [Super light monitoring and alerting stack for personal projects](https://www.reddit.com/r/devops/comments/y6zy58/super_light_monitoring_and_alerting_stack_for/) | WagwanKenobi | 15 |
+| [What VSCode Customizations and Plugins do you use for optimal workflow?](https://www.reddit.com/r/devops/comments/y6z5mf/what_vscode_customizations_and_plugins_do_you_use/) | AemonXVI | 6 |
+| [Fastest, financially efficient way to deploy GPUs?](https://www.reddit.com/r/devops/comments/y70kh1/fastest_financially_efficient_way_to_deploy_gpus/) | EnvironmentOptimal98 | 6 |
+| [Company has a crazy plan to bring sales and developers together, is it realistic?](https://www.reddit.com/r/devops/comments/y6z80v/company_has_a_crazy_plan_to_bring_sales_and/) | onynixia | 5 |
+| [Move from Data Analyst to DevOps](https://www.reddit.com/r/devops/comments/y6nvz0/move_from_data_analyst_to_devops/) | s1shoaib | 3 |
+| [Help with CI/CD using multi-repo in Github Actions](https://www.reddit.com/r/devops/comments/y6cycp/help_with_cicd_using_multirepo_in_github_actions/) | snipeymk | 3 |
