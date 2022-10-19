@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [GitOps features within Portainer + GitHub Actions](https://www.reddit.com/r/devops/comments/y6k8zz/gitops_features_within_portainer_github_actions/) | DiHannay | 49 |
-| [how many of yall run entire on-premises infrastructure vs either hybrid or cloud only?](https://www.reddit.com/r/devops/comments/y6e8oo/how_many_of_yall_run_entire_onpremises/) | GeneralCanada3 | 42 |
-| [What are some of your core devops books?](https://www.reddit.com/r/devops/comments/y6osu8/what_are_some_of_your_core_devops_books/) | SurewhyNot2022 | 20 |
-| [Conflict between engineers and sales](https://www.reddit.com/r/devops/comments/y6p525/conflict_between_engineers_and_sales/) | CodeMonkey24816 | 17 |
-| [Super light monitoring and alerting stack for personal projects](https://www.reddit.com/r/devops/comments/y6zy58/super_light_monitoring_and_alerting_stack_for/) | WagwanKenobi | 15 |
-| [What VSCode Customizations and Plugins do you use for optimal workflow?](https://www.reddit.com/r/devops/comments/y6z5mf/what_vscode_customizations_and_plugins_do_you_use/) | AemonXVI | 6 |
-| [Fastest, financially efficient way to deploy GPUs?](https://www.reddit.com/r/devops/comments/y70kh1/fastest_financially_efficient_way_to_deploy_gpus/) | EnvironmentOptimal98 | 6 |
-| [Company has a crazy plan to bring sales and developers together, is it realistic?](https://www.reddit.com/r/devops/comments/y6z80v/company_has_a_crazy_plan_to_bring_sales_and/) | onynixia | 5 |
-| [Move from Data Analyst to DevOps](https://www.reddit.com/r/devops/comments/y6nvz0/move_from_data_analyst_to_devops/) | s1shoaib | 3 |
-| [Help with CI/CD using multi-repo in Github Actions](https://www.reddit.com/r/devops/comments/y6cycp/help_with_cicd_using_multirepo_in_github_actions/) | snipeymk | 3 |
+| [Software engineers who transitioned into DevOps, or vice versa... do you like the choice you made? Any regrets?](https://www.reddit.com/r/devops/comments/y7khf2/software_engineers_who_transitioned_into_devops/) | yabbagabbamappa | 83 |
+| [leave a full time job for an internship](https://www.reddit.com/r/devops/comments/y7f0q1/leave_a_full_time_job_for_an_internship/) | Superbebe9876 | 21 |
+| [How are you building docker images for Apple M1?](https://www.reddit.com/r/devops/comments/y75ouj/how_are_you_building_docker_images_for_apple_m1/) | vortexman100 | 21 |
+| [DevOps without support](https://www.reddit.com/r/devops/comments/y7eree/devops_without_support/) | MozillaTux | 13 |
+| [A discussion about optimal DB design for saving aggregations](https://www.reddit.com/r/devops/comments/y7apj3/a_discussion_about_optimal_db_design_for_saving/) | igaloly | 6 |
+| [Which Lets Encrypt client to use?](https://www.reddit.com/r/devops/comments/y807h3/which_lets_encrypt_client_to_use/) | Thulrok | 4 |
+| [Guys, I'm building a docker image to build my project APK. I have a small doubt.](https://www.reddit.com/r/devops/comments/y7d3ku/guys_im_building_a_docker_image_to_build_my/) | cyber5234 | 4 |
+| [Gradual Update of the AWS Java SDK in the SpringBoot Project](https://www.reddit.com/r/devops/comments/y7ylw0/gradual_update_of_the_aws_java_sdk_in_the/) | BrightDevs | 3 |
+| [I feel like I'm glorified sysadmin, need some direction](https://www.reddit.com/r/devops/comments/y7y0sj/i_feel_like_im_glorified_sysadmin_need_some/) | workerbeeninja | 2 |
+| [Ready-to-use Day 2 production recipe?](https://www.reddit.com/r/devops/comments/y7ieb6/readytouse_day_2_production_recipe/) | Siggi3D | 1 |
