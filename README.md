@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Software engineers who transitioned into DevOps, or vice versa... do you like the choice you made? Any regrets?](https://www.reddit.com/r/devops/comments/y7khf2/software_engineers_who_transitioned_into_devops/) | yabbagabbamappa | 83 |
-| [leave a full time job for an internship](https://www.reddit.com/r/devops/comments/y7f0q1/leave_a_full_time_job_for_an_internship/) | Superbebe9876 | 21 |
-| [How are you building docker images for Apple M1?](https://www.reddit.com/r/devops/comments/y75ouj/how_are_you_building_docker_images_for_apple_m1/) | vortexman100 | 21 |
-| [DevOps without support](https://www.reddit.com/r/devops/comments/y7eree/devops_without_support/) | MozillaTux | 13 |
-| [A discussion about optimal DB design for saving aggregations](https://www.reddit.com/r/devops/comments/y7apj3/a_discussion_about_optimal_db_design_for_saving/) | igaloly | 6 |
-| [Which Lets Encrypt client to use?](https://www.reddit.com/r/devops/comments/y807h3/which_lets_encrypt_client_to_use/) | Thulrok | 4 |
-| [Guys, I'm building a docker image to build my project APK. I have a small doubt.](https://www.reddit.com/r/devops/comments/y7d3ku/guys_im_building_a_docker_image_to_build_my/) | cyber5234 | 4 |
-| [Gradual Update of the AWS Java SDK in the SpringBoot Project](https://www.reddit.com/r/devops/comments/y7ylw0/gradual_update_of_the_aws_java_sdk_in_the/) | BrightDevs | 3 |
-| [I feel like I'm glorified sysadmin, need some direction](https://www.reddit.com/r/devops/comments/y7y0sj/i_feel_like_im_glorified_sysadmin_need_some/) | workerbeeninja | 2 |
-| [Ready-to-use Day 2 production recipe?](https://www.reddit.com/r/devops/comments/y7ieb6/readytouse_day_2_production_recipe/) | Siggi3D | 1 |
+| [Leaving job with no job lined up officially](https://www.reddit.com/r/devops/comments/y8ipqz/leaving_job_with_no_job_lined_up_officially/) | runescapefisher | 63 |
+| [Saga continues—DevOps vs politics](https://www.reddit.com/r/devops/comments/y82620/saga_continuesdevops_vs_politics/) | trellix78 | 33 |
+| [Amazed with pulumi](https://www.reddit.com/r/devops/comments/y8418w/amazed_with_pulumi/) | akali1987 | 23 |
+| [Pushd and Popd](https://www.reddit.com/r/devops/comments/y8ddas/pushd_and_popd/) | computer_haver_456 | 10 |
+| [Continuous Deploy an ASP.NET Core Web App in GCP Cloud Run](https://www.reddit.com/r/devops/comments/y8emmx/continuous_deploy_an_aspnet_core_web_app_in_gcp/) | navulerao | 5 |
+| [CODEPipeline to deploy infrastucture with terraform](https://www.reddit.com/r/devops/comments/y8sxhz/codepipeline_to_deploy_infrastucture_with/) | nilocg | 5 |
+| [MariaDB Data-in-use Encryption using Intel SGX](https://www.reddit.com/r/devops/comments/y8hakm/mariadb_datainuse_encryption_using_intel_sgx/) | sebgaj | 3 |
+| [How to deploy a microservices eco-system ?](https://www.reddit.com/r/devops/comments/y8vknz/how_to_deploy_a_microservices_ecosystem/) | br4infreze | 3 |
+| [How is normal reverse proxy like nginx etc different from ingress controller?](https://www.reddit.com/r/devops/comments/y8i8my/how_is_normal_reverse_proxy_like_nginx_etc/) | Enforcerboy | 3 |
+| [How can a beginner or experienced developer gain more work experience?](https://www.reddit.com/r/devops/comments/y8vzfg/how_can_a_beginner_or_experienced_developer_gain/) | SaifAlnuaimi | 3 |
