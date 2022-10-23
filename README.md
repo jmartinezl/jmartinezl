@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I have a small application on AWS. How do I put it all in one repo that could be deployed as-is, without needing to use the AWS website?](https://www.reddit.com/r/devops/comments/ya3isu/i_have_a_small_application_on_aws_how_do_i_put_it/) | kikechan | 34 |
-| [What would you expect a level 1 engineer to be doing/learning within their first year?](https://www.reddit.com/r/devops/comments/ya2vbe/what_would_you_expect_a_level_1_engineer_to_be/) | mustangally3714 | 13 |
-| [GitOps on Docker using Portainer](https://www.reddit.com/r/devops/comments/yaezln/gitops_on_docker_using_portainer/) | linuxshots | 13 |
-| [how to apply CICD in github to deploy in aws ec2 instance?](https://www.reddit.com/r/devops/comments/yajlio/how_to_apply_cicd_in_github_to_deploy_in_aws_ec2/) | Ok_Side_6654 | 5 |
-| [Options for Application Configuration Management (e.g. ConfigHub)?](https://www.reddit.com/r/devops/comments/y9vtzi/options_for_application_configuration_management/) | Shambloroni | 3 |
-| [Database Subsetting and Relational Data Browsing Tool.](https://www.reddit.com/r/devops/comments/yajusm/database_subsetting_and_relational_data_browsing/) | Apprehensive-Fix-996 | 3 |
-| [API Export/Import CI/CD pipeline](https://www.reddit.com/r/devops/comments/yaffid/api_exportimport_cicd_pipeline/) | boydeee | 3 |
-| [metalbear-co/mirrord: Connect your local process and your cloud environment, and run local code in cloud conditions.](https://www.reddit.com/r/devops/comments/y9ufvs/metalbearcomirrord_connect_your_local_process_and/) | nfrankel | 2 |
-| [CI/CD](https://www.reddit.com/r/devops/comments/yaf6pc/cicd/) | the-weird-dude | 2 |
-| [Using Brev to auto-manage AWS instances to cut usage costs](https://www.reddit.com/r/devops/comments/ya1olc/using_brev_to_automanage_aws_instances_to_cut/) | samlhuillier3 | 0 |
+| [Does anyone know how to make these diagrams?](https://www.reddit.com/r/devops/comments/yaz8z6/does_anyone_know_how_to_make_these_diagrams/) | Philipp_Axt | 66 |
+| [Any learning resources on HPC architecture?](https://www.reddit.com/r/devops/comments/yanjh4/any_learning_resources_on_hpc_architecture/) | irenesarrow | 13 |
+| [Doing work-based projects in the free time vs burnout](https://www.reddit.com/r/devops/comments/ybcqwb/doing_workbased_projects_in_the_free_time_vs/) | burburowykoniak | 11 |
+| [Minecraft server deployment to DO from Github Actions](https://www.reddit.com/r/devops/comments/yax9n2/minecraft_server_deployment_to_do_from_github/) | Thesoreon | 7 |
+| [Terraform AWS api gateway](https://www.reddit.com/r/devops/comments/ybb3ky/terraform_aws_api_gateway/) | DerBomberDerHerzen | 6 |
+| [Simple stack for deploying full stack applications using Pulumi?](https://www.reddit.com/r/devops/comments/ybeh9i/simple_stack_for_deploying_full_stack/) | recycled_bin | 4 |
+| [How to Use the GitHub Actions Matrix Strategy in Deployments](https://www.reddit.com/r/devops/comments/ybfcq5/how_to_use_the_github_actions_matrix_strategy_in/) | adbertram | 4 |
+| [Is DevOps the best way out of service desk and into software development (for me)?](https://www.reddit.com/r/devops/comments/yay5nx/is_devops_the_best_way_out_of_service_desk_and/) | recursive_incursion | 2 |
+| [How to enable self-service DevOps with Terraform Cloud](https://www.reddit.com/r/devops/comments/ybct0w/how_to_enable_selfservice_devops_with_terraform/) | rtpro1 | 1 |
+| [Is it possible to work as devops/sre completely outside faang?](https://www.reddit.com/r/devops/comments/yb90dl/is_it_possible_to_work_as_devopssre_completely/) | Althoughw | 0 |
