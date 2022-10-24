@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does anyone know how to make these diagrams?](https://www.reddit.com/r/devops/comments/yaz8z6/does_anyone_know_how_to_make_these_diagrams/) | Philipp_Axt | 66 |
-| [Any learning resources on HPC architecture?](https://www.reddit.com/r/devops/comments/yanjh4/any_learning_resources_on_hpc_architecture/) | irenesarrow | 13 |
-| [Doing work-based projects in the free time vs burnout](https://www.reddit.com/r/devops/comments/ybcqwb/doing_workbased_projects_in_the_free_time_vs/) | burburowykoniak | 11 |
-| [Minecraft server deployment to DO from Github Actions](https://www.reddit.com/r/devops/comments/yax9n2/minecraft_server_deployment_to_do_from_github/) | Thesoreon | 7 |
-| [Terraform AWS api gateway](https://www.reddit.com/r/devops/comments/ybb3ky/terraform_aws_api_gateway/) | DerBomberDerHerzen | 6 |
-| [Simple stack for deploying full stack applications using Pulumi?](https://www.reddit.com/r/devops/comments/ybeh9i/simple_stack_for_deploying_full_stack/) | recycled_bin | 4 |
-| [How to Use the GitHub Actions Matrix Strategy in Deployments](https://www.reddit.com/r/devops/comments/ybfcq5/how_to_use_the_github_actions_matrix_strategy_in/) | adbertram | 4 |
-| [Is DevOps the best way out of service desk and into software development (for me)?](https://www.reddit.com/r/devops/comments/yay5nx/is_devops_the_best_way_out_of_service_desk_and/) | recursive_incursion | 2 |
-| [How to enable self-service DevOps with Terraform Cloud](https://www.reddit.com/r/devops/comments/ybct0w/how_to_enable_selfservice_devops_with_terraform/) | rtpro1 | 1 |
-| [Is it possible to work as devops/sre completely outside faang?](https://www.reddit.com/r/devops/comments/yb90dl/is_it_possible_to_work_as_devopssre_completely/) | Althoughw | 0 |
+| [ELK deployment advice](https://www.reddit.com/r/devops/comments/yboysz/elk_deployment_advice/) | konghi009 | 40 |
+| [sending logs to central storage from all ELK instances](https://www.reddit.com/r/devops/comments/ybrqsb/sending_logs_to_central_storage_from_all_elk/) | frank998 | 30 |
+| [Suggestion on plan to deep dive into devops part of application in production.](https://www.reddit.com/r/devops/comments/yc5pnj/suggestion_on_plan_to_deep_dive_into_devops_part/) | grafi_dev | 7 |
+| [Terraform modules that create the same resource](https://www.reddit.com/r/devops/comments/yc1qtr/terraform_modules_that_create_the_same_resource/) | simoncpu | 6 |
+| [Need advice on new role](https://www.reddit.com/r/devops/comments/ybwee1/need_advice_on_new_role/) | sleepallday19 | 6 |
+| [Who would you target as a marketing campaign for devops services?](https://www.reddit.com/r/devops/comments/ybnp6s/who_would_you_target_as_a_marketing_campaign_for/) | topsy_here | 4 |
+| [Open Source Tool like Heroku on Kubernetes](https://www.reddit.com/r/devops/comments/ybrauo/open_source_tool_like_heroku_on_kubernetes/) | alhafoudh | 3 |
+| [GitOps with Advanced Cluster Management for Kubernetes](https://www.reddit.com/r/devops/comments/yc8bp8/gitops_with_advanced_cluster_management_for/) | piotr_minkowski | 3 |
+| [Sending OpenTelemetry data over an MQTT connection](https://www.reddit.com/r/devops/comments/yc7p85/sending_opentelemetry_data_over_an_mqtt_connection/) | JumboEukaryote | 2 |
+| [Running cypress tests for svelte app with Github Actions](https://www.reddit.com/r/devops/comments/ybxzs4/running_cypress_tests_for_svelte_app_with_github/) | FarAssumption6971 | 2 |
