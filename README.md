@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [ELK deployment advice](https://www.reddit.com/r/devops/comments/yboysz/elk_deployment_advice/) | konghi009 | 40 |
-| [sending logs to central storage from all ELK instances](https://www.reddit.com/r/devops/comments/ybrqsb/sending_logs_to_central_storage_from_all_elk/) | frank998 | 30 |
-| [Suggestion on plan to deep dive into devops part of application in production.](https://www.reddit.com/r/devops/comments/yc5pnj/suggestion_on_plan_to_deep_dive_into_devops_part/) | grafi_dev | 7 |
-| [Terraform modules that create the same resource](https://www.reddit.com/r/devops/comments/yc1qtr/terraform_modules_that_create_the_same_resource/) | simoncpu | 6 |
-| [Need advice on new role](https://www.reddit.com/r/devops/comments/ybwee1/need_advice_on_new_role/) | sleepallday19 | 6 |
-| [Who would you target as a marketing campaign for devops services?](https://www.reddit.com/r/devops/comments/ybnp6s/who_would_you_target_as_a_marketing_campaign_for/) | topsy_here | 4 |
-| [Open Source Tool like Heroku on Kubernetes](https://www.reddit.com/r/devops/comments/ybrauo/open_source_tool_like_heroku_on_kubernetes/) | alhafoudh | 3 |
-| [GitOps with Advanced Cluster Management for Kubernetes](https://www.reddit.com/r/devops/comments/yc8bp8/gitops_with_advanced_cluster_management_for/) | piotr_minkowski | 3 |
-| [Sending OpenTelemetry data over an MQTT connection](https://www.reddit.com/r/devops/comments/yc7p85/sending_opentelemetry_data_over_an_mqtt_connection/) | JumboEukaryote | 2 |
-| [Running cypress tests for svelte app with Github Actions](https://www.reddit.com/r/devops/comments/ybxzs4/running_cypress_tests_for_svelte_app_with_github/) | FarAssumption6971 | 2 |
+| [New OSS Project: Helm-Dashboard, the missing UI for Helm](https://www.reddit.com/r/devops/comments/yccfb5/new_oss_project_helmdashboard_the_missing_ui_for/) | Udi_Hofesh | 113 |
+| [Terraform -&gt; Ansible -&gt; Kubernetes -&gt; Docker Containers](https://www.reddit.com/r/devops/comments/ycup6d/terraform_ansible_kubernetes_docker_containers/) | extremexample | 46 |
+| [DevOps Interview questions](https://www.reddit.com/r/devops/comments/ycjmhv/devops_interview_questions/) | Apprehensive_Tea_980 | 27 |
+| [Devs deploying to Production and separation of duties?](https://www.reddit.com/r/devops/comments/ycdafh/devs_deploying_to_production_and_separation_of/) | jdbt8 | 16 |
+| [DevOps Projects](https://www.reddit.com/r/devops/comments/yd2k77/devops_projects/) | Krishan_Shamod | 8 |
+| [DevOps Bulletin - Issue #74: AWS prices in your Google Sheets](https://www.reddit.com/r/devops/comments/ycdy1i/devops_bulletin_issue_74_aws_prices_in_your/) | labouardy | 8 |
+| [Nginx service of type LoadBalancer vs ingress (using nginx-ingress) vs ingress + nginx service of type ClusterIP ?](https://www.reddit.com/r/devops/comments/yd1dgd/nginx_service_of_type_loadbalancer_vs_ingress/) | UblaHuaGobar | 3 |
+| [Handling DB Migrations in a GitOps workflow with Docker-Compose](https://www.reddit.com/r/devops/comments/ycajtv/handling_db_migrations_in_a_gitops_workflow_with/) | kasvith | 3 |
+| [Where do you generate your trace header?](https://www.reddit.com/r/devops/comments/ycmyqc/where_do_you_generate_your_trace_header/) | Mr_brightsider | 2 |
+| [PagerDuty schedule optimization model in Nextmv.io](https://www.reddit.com/r/devops/comments/ycf3lu/pagerduty_schedule_optimization_model_in_nextmvio/) | roopher | 2 |
