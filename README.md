@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [New OSS Project: Helm-Dashboard, the missing UI for Helm](https://www.reddit.com/r/devops/comments/yccfb5/new_oss_project_helmdashboard_the_missing_ui_for/) | Udi_Hofesh | 113 |
-| [Terraform -&gt; Ansible -&gt; Kubernetes -&gt; Docker Containers](https://www.reddit.com/r/devops/comments/ycup6d/terraform_ansible_kubernetes_docker_containers/) | extremexample | 46 |
-| [DevOps Interview questions](https://www.reddit.com/r/devops/comments/ycjmhv/devops_interview_questions/) | Apprehensive_Tea_980 | 27 |
-| [Devs deploying to Production and separation of duties?](https://www.reddit.com/r/devops/comments/ycdafh/devs_deploying_to_production_and_separation_of/) | jdbt8 | 16 |
-| [DevOps Projects](https://www.reddit.com/r/devops/comments/yd2k77/devops_projects/) | Krishan_Shamod | 8 |
-| [DevOps Bulletin - Issue #74: AWS prices in your Google Sheets](https://www.reddit.com/r/devops/comments/ycdy1i/devops_bulletin_issue_74_aws_prices_in_your/) | labouardy | 8 |
-| [Nginx service of type LoadBalancer vs ingress (using nginx-ingress) vs ingress + nginx service of type ClusterIP ?](https://www.reddit.com/r/devops/comments/yd1dgd/nginx_service_of_type_loadbalancer_vs_ingress/) | UblaHuaGobar | 3 |
-| [Handling DB Migrations in a GitOps workflow with Docker-Compose](https://www.reddit.com/r/devops/comments/ycajtv/handling_db_migrations_in_a_gitops_workflow_with/) | kasvith | 3 |
-| [Where do you generate your trace header?](https://www.reddit.com/r/devops/comments/ycmyqc/where_do_you_generate_your_trace_header/) | Mr_brightsider | 2 |
-| [PagerDuty schedule optimization model in Nextmv.io](https://www.reddit.com/r/devops/comments/ycf3lu/pagerduty_schedule_optimization_model_in_nextmvio/) | roopher | 2 |
+| [How does DNS work on a massively scaled system?](https://www.reddit.com/r/devops/comments/yd5orz/how_does_dns_work_on_a_massively_scaled_system/) | AudioManiac | 72 |
+| [I'm giving myself carpal tunnel... suggestions?](https://www.reddit.com/r/devops/comments/ydepwg/im_giving_myself_carpal_tunnel_suggestions/) | Evil_Creamsicle | 29 |
+| [Regex based web tail for Kubernetes](https://www.reddit.com/r/devops/comments/ydrk48/regex_based_web_tail_for_kubernetes/) | luckysideburn2 | 8 |
+| [Creation of aws_cloudwatch_event_rule errors when using Partner event sources](https://www.reddit.com/r/devops/comments/yd4f8h/creation_of_aws_cloudwatch_event_rule_errors_when/) | CommissionNo9617 | 8 |
+| [I have got 2 offers, one with better pay, worse stack, second better stack + more grow opportunities but less pay](https://www.reddit.com/r/devops/comments/ydvxy5/i_have_got_2_offers_one_with_better_pay_worse/) | Patbauen | 4 |
+| [With all these DevOps tools, what’s the use case for using Python?](https://www.reddit.com/r/devops/comments/ydt1su/with_all_these_devops_tools_whats_the_use_case/) | extremexample | 3 |
+| [Advice please. Reddit gold for help. :)](https://www.reddit.com/r/devops/comments/ydvoaf/advice_please_reddit_gold_for_help/) | T1nFoilH4t | 3 |
+| [random question: What is the average percentage of errors you'll be facing in your daily devops work routine?](https://www.reddit.com/r/devops/comments/ydnh06/random_question_what_is_the_average_percentage_of/) | ImprovementSevere493 | 2 |
+| [Junior seeking some advice](https://www.reddit.com/r/devops/comments/yd77fv/junior_seeking_some_advice/) | Lksi27 | 2 |
+| [Intellectual Point DevOps Pathway](https://www.reddit.com/r/devops/comments/yda8vk/intellectual_point_devops_pathway/) | fuzzywuzzybear88 | 2 |
