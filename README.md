@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How does DNS work on a massively scaled system?](https://www.reddit.com/r/devops/comments/yd5orz/how_does_dns_work_on_a_massively_scaled_system/) | AudioManiac | 72 |
-| [I'm giving myself carpal tunnel... suggestions?](https://www.reddit.com/r/devops/comments/ydepwg/im_giving_myself_carpal_tunnel_suggestions/) | Evil_Creamsicle | 29 |
-| [Regex based web tail for Kubernetes](https://www.reddit.com/r/devops/comments/ydrk48/regex_based_web_tail_for_kubernetes/) | luckysideburn2 | 8 |
-| [Creation of aws_cloudwatch_event_rule errors when using Partner event sources](https://www.reddit.com/r/devops/comments/yd4f8h/creation_of_aws_cloudwatch_event_rule_errors_when/) | CommissionNo9617 | 8 |
-| [I have got 2 offers, one with better pay, worse stack, second better stack + more grow opportunities but less pay](https://www.reddit.com/r/devops/comments/ydvxy5/i_have_got_2_offers_one_with_better_pay_worse/) | Patbauen | 4 |
-| [With all these DevOps tools, what’s the use case for using Python?](https://www.reddit.com/r/devops/comments/ydt1su/with_all_these_devops_tools_whats_the_use_case/) | extremexample | 3 |
-| [Advice please. Reddit gold for help. :)](https://www.reddit.com/r/devops/comments/ydvoaf/advice_please_reddit_gold_for_help/) | T1nFoilH4t | 3 |
-| [random question: What is the average percentage of errors you'll be facing in your daily devops work routine?](https://www.reddit.com/r/devops/comments/ydnh06/random_question_what_is_the_average_percentage_of/) | ImprovementSevere493 | 2 |
-| [Junior seeking some advice](https://www.reddit.com/r/devops/comments/yd77fv/junior_seeking_some_advice/) | Lksi27 | 2 |
-| [Intellectual Point DevOps Pathway](https://www.reddit.com/r/devops/comments/yda8vk/intellectual_point_devops_pathway/) | fuzzywuzzybear88 | 2 |
+| [Things that suck to implement in Python, but not in Golang?](https://www.reddit.com/r/devops/comments/ye8zr5/things_that_suck_to_implement_in_python_but_not/) | rm-minus-r | 33 |
+| [In the interview process. Take home test is iac based and asked to build multi tired application.](https://www.reddit.com/r/devops/comments/ydy5sm/in_the_interview_process_take_home_test_is_iac/) | Pitzii | 18 |
+| [Devops or cloud engineering](https://www.reddit.com/r/devops/comments/yemrud/devops_or_cloud_engineering/) | SnooGadgets7316 | 12 |
+| [What is the common practice for wrapping public helm charts?](https://www.reddit.com/r/devops/comments/ye1aa4/what_is_the_common_practice_for_wrapping_public/) | Dependent-Example930 | 11 |
+| [Nginx ingress controller: how to insert whitelist-source-range annotations globally, but conditionally at the same time?](https://www.reddit.com/r/devops/comments/yekoi3/nginx_ingress_controller_how_to_insert/) | moonman82 | 6 |
+| [Devops Niches?](https://www.reddit.com/r/devops/comments/ye6pmc/devops_niches/) | Aware_Cartoonist2855 | 6 |
+| [Pants 2.14: Support for templating and deploying Helm charts](https://www.reddit.com/r/devops/comments/ye53su/pants_214_support_for_templating_and_deploying/) | pantsbuild | 4 |
+| [open-appsec Machine Learning-based WAF open-source code is now published on GitHub](https://www.reddit.com/r/devops/comments/yenjff/openappsec_machine_learningbased_waf_opensource/) | onirisapp | 2 |
+| [azure - vm size for the cluster and for the node pools?](https://www.reddit.com/r/devops/comments/ye2y2i/azure_vm_size_for_the_cluster_and_for_the_node/) | sock_templar | 2 |
+| [What's the best way to update/manage a self-hosted k8s/k3s cluster?](https://www.reddit.com/r/devops/comments/yekmon/whats_the_best_way_to_updatemanage_a_selfhosted/) | lochyw | 2 |
