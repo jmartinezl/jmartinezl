@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Things that suck to implement in Python, but not in Golang?](https://www.reddit.com/r/devops/comments/ye8zr5/things_that_suck_to_implement_in_python_but_not/) | rm-minus-r | 33 |
-| [In the interview process. Take home test is iac based and asked to build multi tired application.](https://www.reddit.com/r/devops/comments/ydy5sm/in_the_interview_process_take_home_test_is_iac/) | Pitzii | 18 |
-| [Devops or cloud engineering](https://www.reddit.com/r/devops/comments/yemrud/devops_or_cloud_engineering/) | SnooGadgets7316 | 12 |
-| [What is the common practice for wrapping public helm charts?](https://www.reddit.com/r/devops/comments/ye1aa4/what_is_the_common_practice_for_wrapping_public/) | Dependent-Example930 | 11 |
-| [Nginx ingress controller: how to insert whitelist-source-range annotations globally, but conditionally at the same time?](https://www.reddit.com/r/devops/comments/yekoi3/nginx_ingress_controller_how_to_insert/) | moonman82 | 6 |
-| [Devops Niches?](https://www.reddit.com/r/devops/comments/ye6pmc/devops_niches/) | Aware_Cartoonist2855 | 6 |
-| [Pants 2.14: Support for templating and deploying Helm charts](https://www.reddit.com/r/devops/comments/ye53su/pants_214_support_for_templating_and_deploying/) | pantsbuild | 4 |
-| [open-appsec Machine Learning-based WAF open-source code is now published on GitHub](https://www.reddit.com/r/devops/comments/yenjff/openappsec_machine_learningbased_waf_opensource/) | onirisapp | 2 |
-| [azure - vm size for the cluster and for the node pools?](https://www.reddit.com/r/devops/comments/ye2y2i/azure_vm_size_for_the_cluster_and_for_the_node/) | sock_templar | 2 |
-| [What's the best way to update/manage a self-hosted k8s/k3s cluster?](https://www.reddit.com/r/devops/comments/yekmon/whats_the_best_way_to_updatemanage_a_selfhosted/) | lochyw | 2 |
+| [Has anyone had luck getting a four-day workweek?](https://www.reddit.com/r/devops/comments/yezm14/has_anyone_had_luck_getting_a_fourday_workweek/) | orisha | 93 |
+| [Is FANG DevOps all about coding](https://www.reddit.com/r/devops/comments/yevhaw/is_fang_devops_all_about_coding/) | SiurbliuMeistrs | 19 |
+| [Remote positions in the UK](https://www.reddit.com/r/devops/comments/yfkg8b/remote_positions_in_the_uk/) | frameclowder | 13 |
+| [[help] IAM Identity Center (SSO) used to login into EKS Cluster](https://www.reddit.com/r/devops/comments/yflqj5/help_iam_identity_center_sso_used_to_login_into/) | werran | 4 |
+| [Ho many of you use LXC / LXD instead of VMs on your local machines?](https://www.reddit.com/r/devops/comments/yfjk2q/ho_many_of_you_use_lxc_lxd_instead_of_vms_on_your/) | domanpanda | 3 |
+| [GITACTION Secret from outputed variables!](https://www.reddit.com/r/devops/comments/yfjyx3/gitaction_secret_from_outputed_variables/) | OkAcanthocephala1450 | 3 |
+| [Advice Please](https://www.reddit.com/r/devops/comments/yffe1j/advice_please/) | Inertia030 | 3 |
+| [How to prevent triggering Gitlab pipeline on new tag creation](https://www.reddit.com/r/devops/comments/yf4501/how_to_prevent_triggering_gitlab_pipeline_on_new/) | kingindanord | 2 |
+| [Where to look for Contract/Consulting companies to find work?](https://www.reddit.com/r/devops/comments/yes6wq/where_to_look_for_contractconsulting_companies_to/) | goalblooded | 1 |
+| [Spring Cloud Data Flow (Helm Chart)](https://www.reddit.com/r/devops/comments/yerpo7/spring_cloud_data_flow_helm_chart/) | AlienKryptonite514 | 1 |
