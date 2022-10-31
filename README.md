@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [We code most of our DevOps tooling in typescript - are we bad people?](https://www.reddit.com/r/devops/comments/ygj2eh/we_code_most_of_our_devops_tooling_in_typescript/) | backflipbail | 113 |
-| [How Are You Collecting CICD Metrics?](https://www.reddit.com/r/devops/comments/ygzxor/how_are_you_collecting_cicd_metrics/) | benaffleks | 43 |
-| [What tools do you use to map out microservices?](https://www.reddit.com/r/devops/comments/yglmre/what_tools_do_you_use_to_map_out_microservices/) | Robswc | 33 |
-| [Ansible introduction for beginners](https://www.reddit.com/r/devops/comments/yha0h6/ansible_introduction_for_beginners/) | tvojamatka | 19 |
-| [Should I forget about it?](https://www.reddit.com/r/devops/comments/ygl0pn/should_i_forget_about_it/) | Honest_Priest | 3 |
-| [Kibana asks for Enrollment Token while trying to implement ELK stack in ECS Fargate.](https://www.reddit.com/r/devops/comments/yh0z3z/kibana_asks_for_enrollment_token_while_trying_to/) | godlikewoosh | 3 |
-| [Best way to learn YAML for Azure Pipelines?](https://www.reddit.com/r/devops/comments/ygskku/best_way_to_learn_yaml_for_azure_pipelines/) | slith49 | 3 |
-| [Automation of Unit Testing](https://www.reddit.com/r/devops/comments/yhbnwf/automation_of_unit_testing/) | explorer_of_the_grey | 2 |
-| [2022 LOPSA Board Election: Dates and Call for Candidates](https://www.reddit.com/r/devops/comments/yh66e2/2022_lopsa_board_election_dates_and_call_for/) | druonysus | 2 |
-| [What happens if a file hasn't changed while taking a snapshot in github?](https://www.reddit.com/r/devops/comments/yh664o/what_happens_if_a_file_hasnt_changed_while_taking/) | HippolytosJocasta | 1 |
+| [Difference between DevOps Engineer, Site Reliability Engineer, Cloud Engineer, Software Engineer - Infrastructure, Platform Engineer?](https://www.reddit.com/r/devops/comments/yhlwq6/difference_between_devops_engineer_site/) | yabbagabbamappa | 186 |
+| [What are the biggest issues faced by DevOps/DevSecOps developers?](https://www.reddit.com/r/devops/comments/yhmz89/what_are_the_biggest_issues_faced_by/) | mKsnooti | 27 |
+| [How-To: Managing my personal server with Kubernetes (k3s) tutorial](https://www.reddit.com/r/devops/comments/yi4d1u/howto_managing_my_personal_server_with_kubernetes/) | erebe | 13 |
+| [FREE AZURE CLOUD CERTIFICATION | FREE CERTIFICATION VOUCHER](https://www.reddit.com/r/devops/comments/yi25ab/free_azure_cloud_certification_free_certification/) | DevOpsHumbleFool | 5 |
+| [Perl one-liners still useful](https://www.reddit.com/r/devops/comments/yi6xqs/perl_oneliners_still_useful/) | reisinge | 3 |
+| [Noob question about autoscaling in Kubernetes](https://www.reddit.com/r/devops/comments/yi97eu/noob_question_about_autoscaling_in_kubernetes/) | macchiato_kubideh | 3 |
+| [How to let tooling help you manage your dependencies](https://www.reddit.com/r/devops/comments/yi7xii/how_to_let_tooling_help_you_manage_your/) | shikaluva | 3 |
+| [http proxy with log UI](https://www.reddit.com/r/devops/comments/yi7shf/http_proxy_with_log_ui/) | rafipiccolo | 2 |
+| [GCP VPN's pricing was even harder to understand than AWS VPN's, so I built a calculator](https://www.reddit.com/r/devops/comments/yhlcf1/gcp_vpns_pricing_was_even_harder_to_understand/) | 1337chemist | 2 |
+| [[Q] I can't make work Drone CI secrets (type docker) - Extra: sometimes Drone doesn't run the CI](https://www.reddit.com/r/devops/comments/yhmbwn/q_i_cant_make_work_drone_ci_secrets_type_docker/) | esturniolo | 1 |
