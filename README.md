@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Difference between DevOps Engineer, Site Reliability Engineer, Cloud Engineer, Software Engineer - Infrastructure, Platform Engineer?](https://www.reddit.com/r/devops/comments/yhlwq6/difference_between_devops_engineer_site/) | yabbagabbamappa | 186 |
-| [What are the biggest issues faced by DevOps/DevSecOps developers?](https://www.reddit.com/r/devops/comments/yhmz89/what_are_the_biggest_issues_faced_by/) | mKsnooti | 27 |
-| [How-To: Managing my personal server with Kubernetes (k3s) tutorial](https://www.reddit.com/r/devops/comments/yi4d1u/howto_managing_my_personal_server_with_kubernetes/) | erebe | 13 |
-| [FREE AZURE CLOUD CERTIFICATION | FREE CERTIFICATION VOUCHER](https://www.reddit.com/r/devops/comments/yi25ab/free_azure_cloud_certification_free_certification/) | DevOpsHumbleFool | 5 |
-| [Perl one-liners still useful](https://www.reddit.com/r/devops/comments/yi6xqs/perl_oneliners_still_useful/) | reisinge | 3 |
-| [Noob question about autoscaling in Kubernetes](https://www.reddit.com/r/devops/comments/yi97eu/noob_question_about_autoscaling_in_kubernetes/) | macchiato_kubideh | 3 |
-| [How to let tooling help you manage your dependencies](https://www.reddit.com/r/devops/comments/yi7xii/how_to_let_tooling_help_you_manage_your/) | shikaluva | 3 |
-| [http proxy with log UI](https://www.reddit.com/r/devops/comments/yi7shf/http_proxy_with_log_ui/) | rafipiccolo | 2 |
-| [GCP VPN's pricing was even harder to understand than AWS VPN's, so I built a calculator](https://www.reddit.com/r/devops/comments/yhlcf1/gcp_vpns_pricing_was_even_harder_to_understand/) | 1337chemist | 2 |
-| [[Q] I can't make work Drone CI secrets (type docker) - Extra: sometimes Drone doesn't run the CI](https://www.reddit.com/r/devops/comments/yhmbwn/q_i_cant_make_work_drone_ci_secrets_type_docker/) | esturniolo | 1 |
+| [CTO wants crystalized plan for reducing cycle time this week. Need advice on things that won't use a lot of budget.](https://www.reddit.com/r/devops/comments/yigsez/cto_wants_crystalized_plan_for_reducing_cycle/) | extrovertedcivilized | 140 |
+| [Literal DevOps? Run your README.md like a notebook](https://www.reddit.com/r/devops/comments/yid7cc/literal_devops_run_your_readmemd_like_a_notebook/) | sourishkrout | 97 |
+| [Age of Devops Engineers](https://www.reddit.com/r/devops/comments/yij0sl/age_of_devops_engineers/) | fckDNS4life | 84 |
+| [How does your application deployment pipeline look like?](https://www.reddit.com/r/devops/comments/yj4umq/how_does_your_application_deployment_pipeline/) | pbn4 | 10 |
+| [Its Halloween, whats your DevOps Horror story?](https://www.reddit.com/r/devops/comments/yiqk4i/its_halloween_whats_your_devops_horror_story/) | mesamunefire | 9 |
+| [Approaches in Cloud Development Ergonomics](https://www.reddit.com/r/devops/comments/yj3tmx/approaches_in_cloud_development_ergonomics/) | eyalb181 | 7 |
+| [Generating Kubernetes templates](https://www.reddit.com/r/devops/comments/yiqhbr/generating_kubernetes_templates/) | sams237 | 5 |
+| [How to certify myself?](https://www.reddit.com/r/devops/comments/yj6ojs/how_to_certify_myself/) | Ohlav | 4 |
+| [gitops to weekly releases](https://www.reddit.com/r/devops/comments/yj0b4l/gitops_to_weekly_releases/) | kai | 2 |
+| [Helm Chart - Automatic Kubernetes Image Cacher on Nodes](https://www.reddit.com/r/devops/comments/yj36cv/helm_chart_automatic_kubernetes_image_cacher_on/) | Jatalocks2 | 2 |
