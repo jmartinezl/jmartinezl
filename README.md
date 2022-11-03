@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Did "DevOps" somehow become synonymous with "Deployment Engineering" in the job market?](https://www.reddit.com/r/devops/comments/yjp95b/did_devops_somehow_become_synonymous_with/) | thoughtfix | 118 |
-| [Monthly 'Shameless Self Promotion' thread - 2022/11](https://www.reddit.com/r/devops/comments/yjdqwa/monthly_shameless_self_promotion_thread_202211/) | mthode | 17 |
-| ['Getting into DevOps'](https://www.reddit.com/r/devops/comments/yjdscp/getting_into_devops/) | mthode | 15 |
-| [What's the best docker runtime for M1 Macs?](https://www.reddit.com/r/devops/comments/yjif5p/whats_the_best_docker_runtime_for_m1_macs/) | united_fan | 8 |
-| [kxkn - Simple cli tool for switching between kubernetes namespace and cluster](https://www.reddit.com/r/devops/comments/yjjrz9/kxkn_simple_cli_tool_for_switching_between/) | alok74 | 7 |
-| [Help me hone my focus. My goal is to transition into a SRE and/or Platform Engineer style role in the next year-ish.](https://www.reddit.com/r/devops/comments/yjierh/help_me_hone_my_focus_my_goal_is_to_transition/) | Marquis77 | 7 |
-| [Alternative to cloudcraft](https://www.reddit.com/r/devops/comments/yjeznn/alternative_to_cloudcraft/) | AdministrativeYak107 | 6 |
-| [Teaching my teams DevOps](https://www.reddit.com/r/devops/comments/yjbx4d/teaching_my_teams_devops/) | Mubs | 5 |
-| [Write docker image size and build date to a file and contain in the image](https://www.reddit.com/r/devops/comments/yk33ls/write_docker_image_size_and_build_date_to_a_file/) | ipalvr | 2 |
-| [I wrote an OSS tool to tunnel your IDE to Kubernetes](https://www.reddit.com/r/devops/comments/yk2i5b/i_wrote_an_oss_tool_to_tunnel_your_ide_to/) | cinode | 2 |
+| [Little chuckle](https://www.reddit.com/r/devops/comments/ykiu6a/little_chuckle/) | skilledpigeon | 133 |
+| [How do you control images pulled from public image repositories like DockerHub?](https://www.reddit.com/r/devops/comments/yk90ba/how_do_you_control_images_pulled_from_public/) | MissedFieldGoal | 25 |
+| [Datadog has OAuth Support Now](https://www.reddit.com/r/devops/comments/yk6whi/datadog_has_oauth_support_now/) | SUMtimesICode | 18 |
+| [Guidance on provisioning QEMU VM images based on specific hardware products](https://www.reddit.com/r/devops/comments/ykfuf7/guidance_on_provisioning_qemu_vm_images_based_on/) | dugindeep | 8 |
+| [DevOps best practices - Staging environments](https://www.reddit.com/r/devops/comments/yk8j36/devops_best_practices_staging_environments/) | 1whatabeautifulday | 8 |
+| [Different IaC environments on cloud](https://www.reddit.com/r/devops/comments/yk3ppf/different_iac_environments_on_cloud/) | lexd88 | 6 |
+| [Unexpected Kubernetes Rollout Restart Deployment Behavior (v1.22.13)](https://www.reddit.com/r/devops/comments/ykcebj/unexpected_kubernetes_rollout_restart_deployment/) | Sheppard_Ra | 5 |
+| [what should i do as devsecops Engineer](https://www.reddit.com/r/devops/comments/ykunjx/what_should_i_do_as_devsecops_engineer/) | knowledge_seeker123 | 2 |
+| [[FREE] Azure Data Factory for Azure Data engineer and DP-203 Exam](https://www.reddit.com/r/devops/comments/ykjd0g/free_azure_data_factory_for_azure_data_engineer/) | Successful-Aide3077 | 2 |
+| [What We Learned from Enabling Developer Self-Service](https://www.reddit.com/r/devops/comments/ykyft5/what_we_learned_from_enabling_developer/) | rtpro1 | 2 |
