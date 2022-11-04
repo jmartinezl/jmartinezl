@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Little chuckle](https://www.reddit.com/r/devops/comments/ykiu6a/little_chuckle/) | skilledpigeon | 133 |
-| [How do you control images pulled from public image repositories like DockerHub?](https://www.reddit.com/r/devops/comments/yk90ba/how_do_you_control_images_pulled_from_public/) | MissedFieldGoal | 25 |
-| [Datadog has OAuth Support Now](https://www.reddit.com/r/devops/comments/yk6whi/datadog_has_oauth_support_now/) | SUMtimesICode | 18 |
-| [Guidance on provisioning QEMU VM images based on specific hardware products](https://www.reddit.com/r/devops/comments/ykfuf7/guidance_on_provisioning_qemu_vm_images_based_on/) | dugindeep | 8 |
-| [DevOps best practices - Staging environments](https://www.reddit.com/r/devops/comments/yk8j36/devops_best_practices_staging_environments/) | 1whatabeautifulday | 8 |
-| [Different IaC environments on cloud](https://www.reddit.com/r/devops/comments/yk3ppf/different_iac_environments_on_cloud/) | lexd88 | 6 |
-| [Unexpected Kubernetes Rollout Restart Deployment Behavior (v1.22.13)](https://www.reddit.com/r/devops/comments/ykcebj/unexpected_kubernetes_rollout_restart_deployment/) | Sheppard_Ra | 5 |
-| [what should i do as devsecops Engineer](https://www.reddit.com/r/devops/comments/ykunjx/what_should_i_do_as_devsecops_engineer/) | knowledge_seeker123 | 2 |
-| [[FREE] Azure Data Factory for Azure Data engineer and DP-203 Exam](https://www.reddit.com/r/devops/comments/ykjd0g/free_azure_data_factory_for_azure_data_engineer/) | Successful-Aide3077 | 2 |
-| [What We Learned from Enabling Developer Self-Service](https://www.reddit.com/r/devops/comments/ykyft5/what_we_learned_from_enabling_developer/) | rtpro1 | 2 |
+| [How do you avoid DevOps jobs that are really just ops / sysadmin jobs?](https://www.reddit.com/r/devops/comments/yl3845/how_do_you_avoid_devops_jobs_that_are_really_just/) | yabbagabbamappa | 97 |
+| [(RANT) Gov Devops is Difficult](https://www.reddit.com/r/devops/comments/yl7z0l/rant_gov_devops_is_difficult/) | itguyreddit | 42 |
+| [Looking for opinions on spinning up dev/staging environment databases.](https://www.reddit.com/r/devops/comments/yljepd/looking_for_opinions_on_spinning_up_devstaging/) | ForwardCrow9291 | 35 |
+| [Are you concerned about the economy and potential layoffs?](https://www.reddit.com/r/devops/comments/yl4c6n/are_you_concerned_about_the_economy_and_potential/) | swiftsparky | 25 |
+| [Scaling Your Team From 5 to 250+ Engineers: FULL Checklist [from your feedback!]](https://www.reddit.com/r/devops/comments/yltt9e/scaling_your_team_from_5_to_250_engineers_full/) | carmacharma | 19 |
+| [Course: Real world DevOps project from start to finish](https://www.reddit.com/r/devops/comments/yla3qp/course_real_world_devops_project_from_start_to/) | predmijat | 10 |
+| [How to communicate my manager that our implementation of Ansible is totally wrong?](https://www.reddit.com/r/devops/comments/ylebse/how_to_communicate_my_manager_that_our/) | BrainSweetiesss | 7 |
+| [GCP from AWS](https://www.reddit.com/r/devops/comments/ylpz5h/gcp_from_aws/) | 4th_flash | 5 |
+| [My job title is “DevOps Engineer” but the work doesn’t line up. Help?](https://www.reddit.com/r/devops/comments/yle5jk/my_job_title_is_devops_engineer_but_the_work/) | Healing-Fox-5183 | 4 |
+| [How do you handle metrics aggregation over a period of time? Sliding window?](https://www.reddit.com/r/devops/comments/ylf52s/how_do_you_handle_metrics_aggregation_over_a/) | Database79 | 2 |
