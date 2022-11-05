@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you avoid DevOps jobs that are really just ops / sysadmin jobs?](https://www.reddit.com/r/devops/comments/yl3845/how_do_you_avoid_devops_jobs_that_are_really_just/) | yabbagabbamappa | 97 |
-| [(RANT) Gov Devops is Difficult](https://www.reddit.com/r/devops/comments/yl7z0l/rant_gov_devops_is_difficult/) | itguyreddit | 42 |
-| [Looking for opinions on spinning up dev/staging environment databases.](https://www.reddit.com/r/devops/comments/yljepd/looking_for_opinions_on_spinning_up_devstaging/) | ForwardCrow9291 | 35 |
-| [Are you concerned about the economy and potential layoffs?](https://www.reddit.com/r/devops/comments/yl4c6n/are_you_concerned_about_the_economy_and_potential/) | swiftsparky | 25 |
-| [Scaling Your Team From 5 to 250+ Engineers: FULL Checklist [from your feedback!]](https://www.reddit.com/r/devops/comments/yltt9e/scaling_your_team_from_5_to_250_engineers_full/) | carmacharma | 19 |
-| [Course: Real world DevOps project from start to finish](https://www.reddit.com/r/devops/comments/yla3qp/course_real_world_devops_project_from_start_to/) | predmijat | 10 |
-| [How to communicate my manager that our implementation of Ansible is totally wrong?](https://www.reddit.com/r/devops/comments/ylebse/how_to_communicate_my_manager_that_our/) | BrainSweetiesss | 7 |
-| [GCP from AWS](https://www.reddit.com/r/devops/comments/ylpz5h/gcp_from_aws/) | 4th_flash | 5 |
-| [My job title is “DevOps Engineer” but the work doesn’t line up. Help?](https://www.reddit.com/r/devops/comments/yle5jk/my_job_title_is_devops_engineer_but_the_work/) | Healing-Fox-5183 | 4 |
-| [How do you handle metrics aggregation over a period of time? Sliding window?](https://www.reddit.com/r/devops/comments/ylf52s/how_do_you_handle_metrics_aggregation_over_a/) | Database79 | 2 |
+| [Amazing, useful answers throughout... This is why Reddit &gt; Twitter](https://www.reddit.com/r/devops/comments/ym1nyn/amazing_useful_answers_throughout_this_is_why/) | Difficult_Pop_7689 | 61 |
+| [Switching to DevOps](https://www.reddit.com/r/devops/comments/ylx9yp/switching_to_devops/) | widowhanzo | 38 |
+| [Security scanning](https://www.reddit.com/r/devops/comments/ymodt1/security_scanning/) | NUTTA_BUSTAH | 8 |
+| [How common areas devops jobs without on call](https://www.reddit.com/r/devops/comments/ymatwn/how_common_areas_devops_jobs_without_on_call/) | lovecrunch99 | 7 |
+| [Best certification for DevOps?](https://www.reddit.com/r/devops/comments/yly4iq/best_certification_for_devops/) | CommissionNo9617 | 4 |
+| [Getting Started, Automating WITH DOCKER](https://www.reddit.com/r/devops/comments/ymrif8/getting_started_automating_with_docker/) | WTFCanID0 | 3 |
+| [a guide for a process delivery from staging to production](https://www.reddit.com/r/devops/comments/ymrc37/a_guide_for_a_process_delivery_from_staging_to/) | nawfalelhaymer | 1 |
+| [Github As A Code](https://www.reddit.com/r/devops/comments/ymrz92/github_as_a_code/) | Beneficial_Storage_9 | 1 |
+| [I have an Extra GCP exam voucher](https://www.reddit.com/r/devops/comments/ylxdui/i_have_an_extra_gcp_exam_voucher/) | Hacktivities | 0 |
+| [Career Change](https://www.reddit.com/r/devops/comments/ym6o6i/career_change/) | North_Breakfast_2356 | 0 |
