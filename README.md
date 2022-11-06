@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Amazing, useful answers throughout... This is why Reddit &gt; Twitter](https://www.reddit.com/r/devops/comments/ym1nyn/amazing_useful_answers_throughout_this_is_why/) | Difficult_Pop_7689 | 61 |
-| [Switching to DevOps](https://www.reddit.com/r/devops/comments/ylx9yp/switching_to_devops/) | widowhanzo | 38 |
-| [Security scanning](https://www.reddit.com/r/devops/comments/ymodt1/security_scanning/) | NUTTA_BUSTAH | 8 |
-| [How common areas devops jobs without on call](https://www.reddit.com/r/devops/comments/ymatwn/how_common_areas_devops_jobs_without_on_call/) | lovecrunch99 | 7 |
-| [Best certification for DevOps?](https://www.reddit.com/r/devops/comments/yly4iq/best_certification_for_devops/) | CommissionNo9617 | 4 |
-| [Getting Started, Automating WITH DOCKER](https://www.reddit.com/r/devops/comments/ymrif8/getting_started_automating_with_docker/) | WTFCanID0 | 3 |
-| [a guide for a process delivery from staging to production](https://www.reddit.com/r/devops/comments/ymrc37/a_guide_for_a_process_delivery_from_staging_to/) | nawfalelhaymer | 1 |
-| [Github As A Code](https://www.reddit.com/r/devops/comments/ymrz92/github_as_a_code/) | Beneficial_Storage_9 | 1 |
-| [I have an Extra GCP exam voucher](https://www.reddit.com/r/devops/comments/ylxdui/i_have_an_extra_gcp_exam_voucher/) | Hacktivities | 0 |
-| [Career Change](https://www.reddit.com/r/devops/comments/ym6o6i/career_change/) | North_Breakfast_2356 | 0 |
+| [People that have started consulting, how do you get contracts?](https://www.reddit.com/r/devops/comments/ymzvrt/people_that_have_started_consulting_how_do_you/) | Minute_Box6650 | 62 |
+| [Do Platform Engineers require the same skills as DevOps Engineers? If so, then what's different about them?](https://www.reddit.com/r/devops/comments/yn1pqy/do_platform_engineers_require_the_same_skills_as/) | User6RE001 | 22 |
+| [Metrics, Logging and Application Tracing Solutions](https://www.reddit.com/r/devops/comments/ymsrgu/metrics_logging_and_application_tracing_solutions/) | thetechgeekster | 16 |
+| [advice about transitioning into DevOps](https://www.reddit.com/r/devops/comments/ynkeqf/advice_about_transitioning_into_devops/) | klasyer | 13 |
+| [What are your opinions/feelings on the DevOps mantra of "continuous improvement?" What really drives engineers and engineering leaders?](https://www.reddit.com/r/devops/comments/yn3yz8/what_are_your_opinionsfeelings_on_the_devops/) | carmacharma | 13 |
+| [What is the difference between ECR and CodeArtifact?](https://www.reddit.com/r/devops/comments/ymsug0/what_is_the_difference_between_ecr_and/) | izner82 | 6 |
+| [Static Code Analysis Tools with CWE compatibility for bachelor thesis](https://www.reddit.com/r/devops/comments/ymxb9h/static_code_analysis_tools_with_cwe_compatibility/) | imxslicer | 5 |
+| [Terraform structure](https://www.reddit.com/r/devops/comments/yn8hg2/terraform_structure/) | jaded_mundane | 4 |
+| [Are there any good GCP monitoring examples. General advice welcome](https://www.reddit.com/r/devops/comments/yn42zi/are_there_any_good_gcp_monitoring_examples/) | _Draxxus_ | 4 |
+| [Advice on Azure DevOps](https://www.reddit.com/r/devops/comments/ymymql/advice_on_azure_devops/) | YElSayad | 3 |
