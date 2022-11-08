@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Tool for visualizing your backend, not just cloud infra](https://www.reddit.com/r/devops/comments/ynv1pu/tool_for_visualizing_your_backend_not_just_cloud/) | finedialect | 62 |
-| [pre-commit vs pre-push vs CI/CD for linting and formatting?](https://www.reddit.com/r/devops/comments/yo0y5i/precommit_vs_prepush_vs_cicd_for_linting_and/) | Impressive-Farmer-44 | 58 |
-| [how was your k8s learning curve?](https://www.reddit.com/r/devops/comments/yocb9b/how_was_your_k8s_learning_curve/) | sbbh1 | 32 |
-| [I just got a job at a fortune 500 and I feel like my position is extremely unique. some advice would be welcome](https://www.reddit.com/r/devops/comments/ynwvqj/i_just_got_a_job_at_a_fortune_500_and_i_feel_like/) | mimic751 | 32 |
-| [Geo-routing with Apache APISIX](https://www.reddit.com/r/devops/comments/ynvbq8/georouting_with_apache_apisix/) | nfrankel | 8 |
-| [Is it possible to pass the value of the handler to a AWS lambda function?](https://www.reddit.com/r/devops/comments/yoi800/is_it_possible_to_pass_the_value_of_the_handler/) | info834 | 5 |
-| [Are forward auth and redirect auth the same?](https://www.reddit.com/r/devops/comments/yo2f4f/are_forward_auth_and_redirect_auth_the_same/) | Trk-5000 | 1 |
-| [Identity and Access management for DevOps tools](https://www.reddit.com/r/devops/comments/ynurfv/identity_and_access_management_for_devops_tools/) | khandya | 0 |
-| [How can I create URL specific redirects? I've tried in DNS but that doesn't allow redirecting based on whole URL - just the main domain part.](https://www.reddit.com/r/devops/comments/yohwtq/how_can_i_create_url_specific_redirects_ive_tried/) | backflipbail | 0 |
+| [How we brought automated Rollbacks to 2,100+ services using Argo Rollouts](https://www.reddit.com/r/devops/comments/yox68a/how_we_brought_automated_rollbacks_to_2100/) | WillSewell | 93 |
+| [What's an outdated hiring practices that companies should get rid of?](https://www.reddit.com/r/devops/comments/yp3gap/whats_an_outdated_hiring_practices_that_companies/) | Notalabel_4566 | 46 |
+| [What are some of the best ways to handle someone’s ego at work?](https://www.reddit.com/r/devops/comments/yp8xbb/what_are_some_of_the_best_ways_to_handle_someones/) | GENESIS-ch2 | 25 |
+| [Datadog Cost Optimization Tips](https://www.reddit.com/r/devops/comments/yp2xz4/datadog_cost_optimization_tips/) | include_stdio_h | 11 |
+| [GCP Associate Cloud Engineer](https://www.reddit.com/r/devops/comments/ypirmp/gcp_associate_cloud_engineer/) | Lvu22 | 9 |
+| [What are some of the most unconventional job titles for devops/cloud engineer that you have come across?](https://www.reddit.com/r/devops/comments/ypgiga/what_are_some_of_the_most_unconventional_job/) | bustedcondomdisaster | 7 |
+| [Serverless Containers, forced to do microservice? Per entity or per operation?](https://www.reddit.com/r/devops/comments/yos4wp/serverless_containers_forced_to_do_microservice/) | TotaroChibi | 5 |
+| [Hi r/devops, how would you write end-to-end system tests for a system comprised of multiple java apps connected by kafka and with multiple databases? I have managed to run the whole system in docker for development. Now I need a framework to write tests cases as below and run them in docker.](https://www.reddit.com/r/devops/comments/yown5v/hi_rdevops_how_would_you_write_endtoend_system/) | TheWhaleOfLondon | 5 |
+| [CyberSec Question - How do I implement secure installation of a debian package?](https://www.reddit.com/r/devops/comments/yoo1ad/cybersec_question_how_do_i_implement_secure/) | PenguinGerman | 5 |
+| [Datadog confusing graph](https://www.reddit.com/r/devops/comments/yooa5b/datadog_confusing_graph/) | manyManyLinesOfCode | 4 |
