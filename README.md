@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How we brought automated Rollbacks to 2,100+ services using Argo Rollouts](https://www.reddit.com/r/devops/comments/yox68a/how_we_brought_automated_rollbacks_to_2100/) | WillSewell | 93 |
-| [What's an outdated hiring practices that companies should get rid of?](https://www.reddit.com/r/devops/comments/yp3gap/whats_an_outdated_hiring_practices_that_companies/) | Notalabel_4566 | 46 |
-| [What are some of the best ways to handle someone’s ego at work?](https://www.reddit.com/r/devops/comments/yp8xbb/what_are_some_of_the_best_ways_to_handle_someones/) | GENESIS-ch2 | 25 |
-| [Datadog Cost Optimization Tips](https://www.reddit.com/r/devops/comments/yp2xz4/datadog_cost_optimization_tips/) | include_stdio_h | 11 |
-| [GCP Associate Cloud Engineer](https://www.reddit.com/r/devops/comments/ypirmp/gcp_associate_cloud_engineer/) | Lvu22 | 9 |
-| [What are some of the most unconventional job titles for devops/cloud engineer that you have come across?](https://www.reddit.com/r/devops/comments/ypgiga/what_are_some_of_the_most_unconventional_job/) | bustedcondomdisaster | 7 |
-| [Serverless Containers, forced to do microservice? Per entity or per operation?](https://www.reddit.com/r/devops/comments/yos4wp/serverless_containers_forced_to_do_microservice/) | TotaroChibi | 5 |
-| [Hi r/devops, how would you write end-to-end system tests for a system comprised of multiple java apps connected by kafka and with multiple databases? I have managed to run the whole system in docker for development. Now I need a framework to write tests cases as below and run them in docker.](https://www.reddit.com/r/devops/comments/yown5v/hi_rdevops_how_would_you_write_endtoend_system/) | TheWhaleOfLondon | 5 |
-| [CyberSec Question - How do I implement secure installation of a debian package?](https://www.reddit.com/r/devops/comments/yoo1ad/cybersec_question_how_do_i_implement_secure/) | PenguinGerman | 5 |
-| [Datadog confusing graph](https://www.reddit.com/r/devops/comments/yooa5b/datadog_confusing_graph/) | manyManyLinesOfCode | 4 |
+| [Noob Workflow Question](https://www.reddit.com/r/devops/comments/ypyx6j/noob_workflow_question/) | yanggang20202024 | 36 |
+| [Managing 100+ python venv's](https://www.reddit.com/r/devops/comments/yprbks/managing_100_python_venvs/) | Gluaisrothar | 35 |
+| [What are the top 10 devops skills you should have?](https://www.reddit.com/r/devops/comments/yq5feg/what_are_the_top_10_devops_skills_you_should_have/) | mobiletiplord | 22 |
+| [Opsgenie with OEC connector to n-central question](https://www.reddit.com/r/devops/comments/ypynm3/opsgenie_with_oec_connector_to_ncentral_question/) | voodoofxz | 13 |
+| [Need advice on a DevOps job/project I've been offered](https://www.reddit.com/r/devops/comments/ypu61x/need_advice_on_a_devops_jobproject_ive_been/) | Mon7eCristo | 7 |
+| [Best way to do AWS GraphQL Serverless?](https://www.reddit.com/r/devops/comments/yq1o37/best_way_to_do_aws_graphql_serverless/) | throwawaymangayo | 7 |
+| [CICD strategy with UAT](https://www.reddit.com/r/devops/comments/ypkzmz/cicd_strategy_with_uat/) | GuyNoRitchie | 6 |
+| [run a RestAPI on Every container?](https://www.reddit.com/r/devops/comments/yptumw/run_a_restapi_on_every_container/) | TryingToSurviveWFH | 5 |
+| [Automation API-like feature for Terraform CDK?](https://www.reddit.com/r/devops/comments/ypnu10/automation_apilike_feature_for_terraform_cdk/) | dzlkxj | 5 |
+| [Distributed Tracing in 2025: What the future holds](https://www.reddit.com/r/devops/comments/yplenl/distributed_tracing_in_2025_what_the_future_holds/) | Barakikia | 4 |
