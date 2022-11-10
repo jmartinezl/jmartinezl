@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Noob Workflow Question](https://www.reddit.com/r/devops/comments/ypyx6j/noob_workflow_question/) | yanggang20202024 | 36 |
-| [Managing 100+ python venv's](https://www.reddit.com/r/devops/comments/yprbks/managing_100_python_venvs/) | Gluaisrothar | 35 |
-| [What are the top 10 devops skills you should have?](https://www.reddit.com/r/devops/comments/yq5feg/what_are_the_top_10_devops_skills_you_should_have/) | mobiletiplord | 22 |
-| [Opsgenie with OEC connector to n-central question](https://www.reddit.com/r/devops/comments/ypynm3/opsgenie_with_oec_connector_to_ncentral_question/) | voodoofxz | 13 |
-| [Need advice on a DevOps job/project I've been offered](https://www.reddit.com/r/devops/comments/ypu61x/need_advice_on_a_devops_jobproject_ive_been/) | Mon7eCristo | 7 |
-| [Best way to do AWS GraphQL Serverless?](https://www.reddit.com/r/devops/comments/yq1o37/best_way_to_do_aws_graphql_serverless/) | throwawaymangayo | 7 |
-| [CICD strategy with UAT](https://www.reddit.com/r/devops/comments/ypkzmz/cicd_strategy_with_uat/) | GuyNoRitchie | 6 |
-| [run a RestAPI on Every container?](https://www.reddit.com/r/devops/comments/yptumw/run_a_restapi_on_every_container/) | TryingToSurviveWFH | 5 |
-| [Automation API-like feature for Terraform CDK?](https://www.reddit.com/r/devops/comments/ypnu10/automation_apilike_feature_for_terraform_cdk/) | dzlkxj | 5 |
-| [Distributed Tracing in 2025: What the future holds](https://www.reddit.com/r/devops/comments/yplenl/distributed_tracing_in_2025_what_the_future_holds/) | Barakikia | 4 |
+| [Is the Google SRE handbook outdated? It says it was published in 2017, which is an eternity ago in DevOps time.](https://www.reddit.com/r/devops/comments/yqroux/is_the_google_sre_handbook_outdated_it_says_it/) | Burwicke | 59 |
+| [What do IaC tools currently lack?](https://www.reddit.com/r/devops/comments/yr90ih/what_do_iac_tools_currently_lack/) | Jatalocks2 | 18 |
+| [Need opinion: why running container within systemd unit is not generally used/not popular?](https://www.reddit.com/r/devops/comments/yqj70x/need_opinion_why_running_container_within_systemd/) | hexwit | 10 |
+| [SSL Termination for SQL](https://www.reddit.com/r/devops/comments/yqzlxy/ssl_termination_for_sql/) | the_milkdromeda | 9 |
+| [Self hosting web-server for nodejs app with postgres and redis](https://www.reddit.com/r/devops/comments/yqt459/self_hosting_webserver_for_nodejs_app_with/) | zautopilot | 5 |
+| [How many of you are currently using ArgoCD for GitOps?](https://www.reddit.com/r/devops/comments/yqohld/how_many_of_you_are_currently_using_argocd_for/) | GENESIS-ch2 | 5 |
+| [Devops Salary Comparison to SWE?](https://www.reddit.com/r/devops/comments/yqpwnm/devops_salary_comparison_to_swe/) | thevinsters | 5 |
+| [How can I automate .deb GPG signing procedure?](https://www.reddit.com/r/devops/comments/yrcaj7/how_can_i_automate_deb_gpg_signing_procedure/) | PenguinGerman | 4 |
+| [Getting Started with Helm](https://www.reddit.com/r/devops/comments/yr0fj2/getting_started_with_helm/) | SoulmanIqbal | 4 |
+| [Do you think that a self-service DevOps-as-a-service platform is something that makes sense?](https://www.reddit.com/r/devops/comments/yrconp/do_you_think_that_a_selfservice_devopsasaservice/) | pkroos | 4 |
