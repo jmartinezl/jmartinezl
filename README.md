@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is the Google SRE handbook outdated? It says it was published in 2017, which is an eternity ago in DevOps time.](https://www.reddit.com/r/devops/comments/yqroux/is_the_google_sre_handbook_outdated_it_says_it/) | Burwicke | 59 |
-| [What do IaC tools currently lack?](https://www.reddit.com/r/devops/comments/yr90ih/what_do_iac_tools_currently_lack/) | Jatalocks2 | 18 |
-| [Need opinion: why running container within systemd unit is not generally used/not popular?](https://www.reddit.com/r/devops/comments/yqj70x/need_opinion_why_running_container_within_systemd/) | hexwit | 10 |
-| [SSL Termination for SQL](https://www.reddit.com/r/devops/comments/yqzlxy/ssl_termination_for_sql/) | the_milkdromeda | 9 |
-| [Self hosting web-server for nodejs app with postgres and redis](https://www.reddit.com/r/devops/comments/yqt459/self_hosting_webserver_for_nodejs_app_with/) | zautopilot | 5 |
-| [How many of you are currently using ArgoCD for GitOps?](https://www.reddit.com/r/devops/comments/yqohld/how_many_of_you_are_currently_using_argocd_for/) | GENESIS-ch2 | 5 |
-| [Devops Salary Comparison to SWE?](https://www.reddit.com/r/devops/comments/yqpwnm/devops_salary_comparison_to_swe/) | thevinsters | 5 |
-| [How can I automate .deb GPG signing procedure?](https://www.reddit.com/r/devops/comments/yrcaj7/how_can_i_automate_deb_gpg_signing_procedure/) | PenguinGerman | 4 |
-| [Getting Started with Helm](https://www.reddit.com/r/devops/comments/yr0fj2/getting_started_with_helm/) | SoulmanIqbal | 4 |
-| [Do you think that a self-service DevOps-as-a-service platform is something that makes sense?](https://www.reddit.com/r/devops/comments/yrconp/do_you_think_that_a_selfservice_devopsasaservice/) | pkroos | 4 |
+| [DevOps in the recession](https://www.reddit.com/r/devops/comments/yrl120/devops_in_the_recession/) | FinnaGetRichh | 104 |
+| [anyone use Bamboo for cicd?](https://www.reddit.com/r/devops/comments/yrj1j9/anyone_use_bamboo_for_cicd/) | Vonderchicken | 16 |
+| [github actions metrics?](https://www.reddit.com/r/devops/comments/ys5ivs/github_actions_metrics/) | myoilyworkaccount | 10 |
+| [AlmaLinux 8.7 - Now Available](https://www.reddit.com/r/devops/comments/yrmhnt/almalinux_87_now_available/) | jonspw | 10 |
+| [MySQL/CSV — Import and Export data faster, using commands](https://www.reddit.com/r/devops/comments/ys1yuj/mysqlcsv_import_and_export_data_faster_using/) | therahulljain | 8 |
+| [Service for creating recruitment environments](https://www.reddit.com/r/devops/comments/yrx6sb/service_for_creating_recruitment_environments/) | Kapelzor | 7 |
+| [Pull request software/sass/open source?](https://www.reddit.com/r/devops/comments/yrjje3/pull_request_softwaresassopen_source/) | Dependent-Example930 | 6 |
+| [Boto3 in DevOps](https://www.reddit.com/r/devops/comments/yrubsp/boto3_in_devops/) | yanggang20202024 | 6 |
+| [continuous delivery/deployment with old fashioned linux servers?](https://www.reddit.com/r/devops/comments/ys89yg/continuous_deliverydeployment_with_old_fashioned/) | ganjaptics | 2 |
+| [Any opinionated tool / framework for creating binary CLI tools?](https://www.reddit.com/r/devops/comments/ys8es3/any_opinionated_tool_framework_for_creating/) | Hell4Ge | 2 |
