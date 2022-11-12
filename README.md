@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps in the recession](https://www.reddit.com/r/devops/comments/yrl120/devops_in_the_recession/) | FinnaGetRichh | 104 |
-| [anyone use Bamboo for cicd?](https://www.reddit.com/r/devops/comments/yrj1j9/anyone_use_bamboo_for_cicd/) | Vonderchicken | 16 |
-| [github actions metrics?](https://www.reddit.com/r/devops/comments/ys5ivs/github_actions_metrics/) | myoilyworkaccount | 10 |
-| [AlmaLinux 8.7 - Now Available](https://www.reddit.com/r/devops/comments/yrmhnt/almalinux_87_now_available/) | jonspw | 10 |
-| [MySQL/CSV — Import and Export data faster, using commands](https://www.reddit.com/r/devops/comments/ys1yuj/mysqlcsv_import_and_export_data_faster_using/) | therahulljain | 8 |
-| [Service for creating recruitment environments](https://www.reddit.com/r/devops/comments/yrx6sb/service_for_creating_recruitment_environments/) | Kapelzor | 7 |
-| [Pull request software/sass/open source?](https://www.reddit.com/r/devops/comments/yrjje3/pull_request_softwaresassopen_source/) | Dependent-Example930 | 6 |
-| [Boto3 in DevOps](https://www.reddit.com/r/devops/comments/yrubsp/boto3_in_devops/) | yanggang20202024 | 6 |
-| [continuous delivery/deployment with old fashioned linux servers?](https://www.reddit.com/r/devops/comments/ys89yg/continuous_deliverydeployment_with_old_fashioned/) | ganjaptics | 2 |
-| [Any opinionated tool / framework for creating binary CLI tools?](https://www.reddit.com/r/devops/comments/ys8es3/any_opinionated_tool_framework_for_creating/) | Hell4Ge | 2 |
+| [Hashicorp Terraform Associate](https://www.reddit.com/r/devops/comments/ysjed0/hashicorp_terraform_associate/) | prrxddq | 43 |
+| [Automated Deployment Tool Recommendations](https://www.reddit.com/r/devops/comments/yscbzs/automated_deployment_tool_recommendations/) | sweetlou357 | 35 |
+| [Do you need to be a good SWE to be a good DevOps / Cloud / Site Reliability Engineer?](https://www.reddit.com/r/devops/comments/yshx2x/do_you_need_to_be_a_good_swe_to_be_a_good_devops/) | yabbagabbamappa | 14 |
+| [Warp terminal alternative?](https://www.reddit.com/r/devops/comments/yt2d57/warp_terminal_alternative/) | ImFilouu | 9 |
+| [Implementability of 'infrastructure as a code'](https://www.reddit.com/r/devops/comments/yt2a4v/implementability_of_infrastructure_as_a_code/) | amarao_san | 6 |
+| [Switch from development to devops](https://www.reddit.com/r/devops/comments/yshwvl/switch_from_development_to_devops/) | Odd-Factor-4349 | 5 |
+| [do you think having DevOps as your first experience is okay for a junior ?](https://www.reddit.com/r/devops/comments/ysqt93/do_you_think_having_devops_as_your_first/) | Mihaw_kx | 3 |
+| [Adding multiple domain filter in `external-dns`](https://www.reddit.com/r/devops/comments/ysfkze/adding_multiple_domain_filter_in_externaldns/) | midlevelmybutt | 3 |
+| [Validating on prem findings using a secrets scanner?](https://www.reddit.com/r/devops/comments/yswnmv/validating_on_prem_findings_using_a_secrets/) | justTrynaWFH | 2 |
+| [Are there better options for standardizing development environments than VS Code dev containers?](https://www.reddit.com/r/devops/comments/ysxh9q/are_there_better_options_for_standardizing/) | ForSpareParts | 2 |
