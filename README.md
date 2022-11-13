@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Hashicorp Terraform Associate](https://www.reddit.com/r/devops/comments/ysjed0/hashicorp_terraform_associate/) | prrxddq | 43 |
-| [Automated Deployment Tool Recommendations](https://www.reddit.com/r/devops/comments/yscbzs/automated_deployment_tool_recommendations/) | sweetlou357 | 35 |
-| [Do you need to be a good SWE to be a good DevOps / Cloud / Site Reliability Engineer?](https://www.reddit.com/r/devops/comments/yshx2x/do_you_need_to_be_a_good_swe_to_be_a_good_devops/) | yabbagabbamappa | 14 |
-| [Warp terminal alternative?](https://www.reddit.com/r/devops/comments/yt2d57/warp_terminal_alternative/) | ImFilouu | 9 |
-| [Implementability of 'infrastructure as a code'](https://www.reddit.com/r/devops/comments/yt2a4v/implementability_of_infrastructure_as_a_code/) | amarao_san | 6 |
-| [Switch from development to devops](https://www.reddit.com/r/devops/comments/yshwvl/switch_from_development_to_devops/) | Odd-Factor-4349 | 5 |
-| [do you think having DevOps as your first experience is okay for a junior ?](https://www.reddit.com/r/devops/comments/ysqt93/do_you_think_having_devops_as_your_first/) | Mihaw_kx | 3 |
-| [Adding multiple domain filter in `external-dns`](https://www.reddit.com/r/devops/comments/ysfkze/adding_multiple_domain_filter_in_externaldns/) | midlevelmybutt | 3 |
-| [Validating on prem findings using a secrets scanner?](https://www.reddit.com/r/devops/comments/yswnmv/validating_on_prem_findings_using_a_secrets/) | justTrynaWFH | 2 |
-| [Are there better options for standardizing development environments than VS Code dev containers?](https://www.reddit.com/r/devops/comments/ysxh9q/are_there_better_options_for_standardizing/) | ForSpareParts | 2 |
+| [Convince devs to use trunk-based](https://www.reddit.com/r/devops/comments/ytuss8/convince_devs_to_use_trunkbased/) | evergreen-spacecat | 41 |
+| [Does your organization use provided Terraform modules?](https://www.reddit.com/r/devops/comments/ytg7o1/does_your_organization_use_provided_terraform/) | NUTTA_BUSTAH | 35 |
+| [Want to learn Terraform setup](https://www.reddit.com/r/devops/comments/ytaars/want_to_learn_terraform_setup/) | redditthrowaway0315 | 33 |
+| [Entry Level Job Hunting Tips?](https://www.reddit.com/r/devops/comments/ytif4q/entry_level_job_hunting_tips/) | jjbailey1004 | 23 |
+| [What are things you should always document about a complex cloud infrastructure?](https://www.reddit.com/r/devops/comments/ytiy0z/what_are_things_you_should_always_document_about/) | mobiletiplord | 11 |
+| [Anyone is using GitOps/Flux? I dont get the idea of 'CICD' concept](https://www.reddit.com/r/devops/comments/yt8o1z/anyone_is_using_gitopsflux_i_dont_get_the_idea_of/) | kenchin123 | 10 |
+| [ZSH autocompletion or autosuggestion? And what's syntax highlighting?](https://www.reddit.com/r/devops/comments/ytllg6/zsh_autocompletion_or_autosuggestion_and_whats/) | ImFilouu | 5 |
+| [Best way to deploy something by sshing into a EC2 instance when using Terraform?](https://www.reddit.com/r/devops/comments/ytiwnc/best_way_to_deploy_something_by_sshing_into_a_ec2/) | mobiletiplord | 4 |
+| [Too late to pivot into DevOps/DevSecOps? Any good bootcamps?](https://www.reddit.com/r/devops/comments/ytlpki/too_late_to_pivot_into_devopsdevsecops_any_good/) | x8668 | 2 |
+| [Is there a way to easily make each container run in its own EC2 instance?](https://www.reddit.com/r/devops/comments/ytj7vt/is_there_a_way_to_easily_make_each_container_run/) | mobiletiplord | 1 |
