@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Convince devs to use trunk-based](https://www.reddit.com/r/devops/comments/ytuss8/convince_devs_to_use_trunkbased/) | evergreen-spacecat | 41 |
-| [Does your organization use provided Terraform modules?](https://www.reddit.com/r/devops/comments/ytg7o1/does_your_organization_use_provided_terraform/) | NUTTA_BUSTAH | 35 |
-| [Want to learn Terraform setup](https://www.reddit.com/r/devops/comments/ytaars/want_to_learn_terraform_setup/) | redditthrowaway0315 | 33 |
-| [Entry Level Job Hunting Tips?](https://www.reddit.com/r/devops/comments/ytif4q/entry_level_job_hunting_tips/) | jjbailey1004 | 23 |
-| [What are things you should always document about a complex cloud infrastructure?](https://www.reddit.com/r/devops/comments/ytiy0z/what_are_things_you_should_always_document_about/) | mobiletiplord | 11 |
-| [Anyone is using GitOps/Flux? I dont get the idea of 'CICD' concept](https://www.reddit.com/r/devops/comments/yt8o1z/anyone_is_using_gitopsflux_i_dont_get_the_idea_of/) | kenchin123 | 10 |
-| [ZSH autocompletion or autosuggestion? And what's syntax highlighting?](https://www.reddit.com/r/devops/comments/ytllg6/zsh_autocompletion_or_autosuggestion_and_whats/) | ImFilouu | 5 |
-| [Best way to deploy something by sshing into a EC2 instance when using Terraform?](https://www.reddit.com/r/devops/comments/ytiwnc/best_way_to_deploy_something_by_sshing_into_a_ec2/) | mobiletiplord | 4 |
-| [Too late to pivot into DevOps/DevSecOps? Any good bootcamps?](https://www.reddit.com/r/devops/comments/ytlpki/too_late_to_pivot_into_devopsdevsecops_any_good/) | x8668 | 2 |
-| [Is there a way to easily make each container run in its own EC2 instance?](https://www.reddit.com/r/devops/comments/ytj7vt/is_there_a_way_to_easily_make_each_container_run/) | mobiletiplord | 1 |
+| [Devops Career Help](https://www.reddit.com/r/devops/comments/yujsln/devops_career_help/) | imdwight_schrute | 38 |
+| [Generic Postgres proxy i.e. RDS proxy for a database deployed anywhere](https://www.reddit.com/r/devops/comments/yu03v0/generic_postgres_proxy_ie_rds_proxy_for_a/) | tech_tuna | 13 |
+| [automatic deployment via continues git pull, without ssh](https://www.reddit.com/r/devops/comments/yuj5sl/automatic_deployment_via_continues_git_pull/) | HoytAvila | 6 |
+| [Docker or Azure Devops | Path to choose](https://www.reddit.com/r/devops/comments/yurrcf/docker_or_azure_devops_path_to_choose/) | sayytoabhishekkumar | 6 |
+| [Is it possible to collect number of pods from GKE logs-based metrics](https://www.reddit.com/r/devops/comments/yutt9t/is_it_possible_to_collect_number_of_pods_from_gke/) | yunoletme | 3 |
+| [KAFKA and TOPIC](https://www.reddit.com/r/devops/comments/yuv4ou/kafka_and_topic/) | anacondaonline | 1 |
+| [ckad vs cka? - I must decide before discounts start](https://www.reddit.com/r/devops/comments/yu8b78/ckad_vs_cka_i_must_decide_before_discounts_start/) | ak17hg | 0 |
+| [Can I host vue.js and .net 6.0 in CloudFlare?](https://www.reddit.com/r/devops/comments/yu33gk/can_i_host_vuejs_and_net_60_in_cloudflare/) | Unfair-Address-3597 | 0 |
