@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Devops Career Help](https://www.reddit.com/r/devops/comments/yujsln/devops_career_help/) | imdwight_schrute | 38 |
-| [Generic Postgres proxy i.e. RDS proxy for a database deployed anywhere](https://www.reddit.com/r/devops/comments/yu03v0/generic_postgres_proxy_ie_rds_proxy_for_a/) | tech_tuna | 13 |
-| [automatic deployment via continues git pull, without ssh](https://www.reddit.com/r/devops/comments/yuj5sl/automatic_deployment_via_continues_git_pull/) | HoytAvila | 6 |
-| [Docker or Azure Devops | Path to choose](https://www.reddit.com/r/devops/comments/yurrcf/docker_or_azure_devops_path_to_choose/) | sayytoabhishekkumar | 6 |
-| [Is it possible to collect number of pods from GKE logs-based metrics](https://www.reddit.com/r/devops/comments/yutt9t/is_it_possible_to_collect_number_of_pods_from_gke/) | yunoletme | 3 |
-| [KAFKA and TOPIC](https://www.reddit.com/r/devops/comments/yuv4ou/kafka_and_topic/) | anacondaonline | 1 |
-| [ckad vs cka? - I must decide before discounts start](https://www.reddit.com/r/devops/comments/yu8b78/ckad_vs_cka_i_must_decide_before_discounts_start/) | ak17hg | 0 |
-| [Can I host vue.js and .net 6.0 in CloudFlare?](https://www.reddit.com/r/devops/comments/yu33gk/can_i_host_vuejs_and_net_60_in_cloudflare/) | Unfair-Address-3597 | 0 |
+| [Automate Linux OS Patching using Ansible](https://www.reddit.com/r/devops/comments/yuy122/automate_linux_os_patching_using_ansible/) | tvojamatka | 94 |
+| [Interviewing candidates - should I ask them about bash, Python, etc utilities? If so, to what extent?](https://www.reddit.com/r/devops/comments/yv850q/interviewing_candidates_should_i_ask_them_about/) | pysouth | 61 |
+| [Is Linux admin the end for platform/DevOps/sre?](https://www.reddit.com/r/devops/comments/yvm7lj/is_linux_admin_the_end_for_platformdevopssre/) | tommy_boy_1 | 11 |
+| [I need advice to find a DevOps job](https://www.reddit.com/r/devops/comments/yv01yd/i_need_advice_to_find_a_devops_job/) | JustBeLikeAndre | 11 |
+| [Best tools for deploying/monitoring/controlling Elasticsearch (VM and or k8s) on GCP/GKE?](https://www.reddit.com/r/devops/comments/yv71cb/best_tools_for_deployingmonitoringcontrolling/) | IndustryNext7456 | 11 |
+| [Career advice for someone struggling.](https://www.reddit.com/r/devops/comments/yvc9ye/career_advice_for_someone_struggling/) | Ordinary_Oil3520 | 9 |
+| [Dead end sysadmin job to Devops possible?](https://www.reddit.com/r/devops/comments/yvfhp4/dead_end_sysadmin_job_to_devops_possible/) | Benzdude2001 | 7 |
+| [EKS Cluster Addon Management - Looking for tips](https://www.reddit.com/r/devops/comments/yv4xvi/eks_cluster_addon_management_looking_for_tips/) | bonesnapper | 5 |
+| [What does your ideal DevOps tooling look like?](https://www.reddit.com/r/devops/comments/yvr77x/what_does_your_ideal_devops_tooling_look_like/) | arendjr | 3 |
+| [Trying to get my organization into the Deployment Automation Green Zone](https://www.reddit.com/r/devops/comments/yviy2v/trying_to_get_my_organization_into_the_deployment/) | jawn317 | 3 |
