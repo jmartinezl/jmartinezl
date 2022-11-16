@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Automate Linux OS Patching using Ansible](https://www.reddit.com/r/devops/comments/yuy122/automate_linux_os_patching_using_ansible/) | tvojamatka | 94 |
-| [Interviewing candidates - should I ask them about bash, Python, etc utilities? If so, to what extent?](https://www.reddit.com/r/devops/comments/yv850q/interviewing_candidates_should_i_ask_them_about/) | pysouth | 61 |
-| [Is Linux admin the end for platform/DevOps/sre?](https://www.reddit.com/r/devops/comments/yvm7lj/is_linux_admin_the_end_for_platformdevopssre/) | tommy_boy_1 | 11 |
-| [I need advice to find a DevOps job](https://www.reddit.com/r/devops/comments/yv01yd/i_need_advice_to_find_a_devops_job/) | JustBeLikeAndre | 11 |
-| [Best tools for deploying/monitoring/controlling Elasticsearch (VM and or k8s) on GCP/GKE?](https://www.reddit.com/r/devops/comments/yv71cb/best_tools_for_deployingmonitoringcontrolling/) | IndustryNext7456 | 11 |
-| [Career advice for someone struggling.](https://www.reddit.com/r/devops/comments/yvc9ye/career_advice_for_someone_struggling/) | Ordinary_Oil3520 | 9 |
-| [Dead end sysadmin job to Devops possible?](https://www.reddit.com/r/devops/comments/yvfhp4/dead_end_sysadmin_job_to_devops_possible/) | Benzdude2001 | 7 |
-| [EKS Cluster Addon Management - Looking for tips](https://www.reddit.com/r/devops/comments/yv4xvi/eks_cluster_addon_management_looking_for_tips/) | bonesnapper | 5 |
-| [What does your ideal DevOps tooling look like?](https://www.reddit.com/r/devops/comments/yvr77x/what_does_your_ideal_devops_tooling_look_like/) | arendjr | 3 |
-| [Trying to get my organization into the Deployment Automation Green Zone](https://www.reddit.com/r/devops/comments/yviy2v/trying_to_get_my_organization_into_the_deployment/) | jawn317 | 3 |
+| [GitLab Paid storage update psa](https://www.reddit.com/r/devops/comments/yw1pw3/gitlab_paid_storage_update_psa/) | shiftv | 106 |
+| [How relevant, beneficial is RHCSA to learn DevOps-related Linux skills?](https://www.reddit.com/r/devops/comments/yw27lm/how_relevant_beneficial_is_rhcsa_to_learn/) | throwawaysnrn | 14 |
+| [But it works on MY machine! Debugging GitHub Workflows with VS Code. Bad Practice?](https://www.reddit.com/r/devops/comments/yw43np/but_it_works_on_my_machine_debugging_github/) | hans_claasen | 10 |
+| [Backup and Restore of Containers With Kubernetes Checkpointing API](https://www.reddit.com/r/devops/comments/yw3ccn/backup_and_restore_of_containers_with_kubernetes/) | Am4t3uR | 9 |
+| [K8s and HIPPA/PHI compliant systems - Need advice!](https://www.reddit.com/r/devops/comments/ywasp4/k8s_and_hippaphi_compliant_systems_need_advice/) | allwritesri | 6 |
+| [Remote management tool for various Linux servers](https://www.reddit.com/r/devops/comments/ywchsa/remote_management_tool_for_various_linux_servers/) | t0ff3 | 4 |
+| [Moving to a Devops team within a company](https://www.reddit.com/r/devops/comments/ywpwhc/moving_to_a_devops_team_within_a_company/) | zerotwo21 | 4 |
+| [No FourKeys, no nothing... never](https://www.reddit.com/r/devops/comments/yw3ncr/no_fourkeys_no_nothing_never/) | pingus-angry-dad | 2 |
+| [How do I get to place in my career where I can hold my own?](https://www.reddit.com/r/devops/comments/yw7d5d/how_do_i_get_to_place_in_my_career_where_i_can/) | frameclowder | 2 |
+| [wanted to do a devops apprenticeship full time , got shot down](https://www.reddit.com/r/devops/comments/yw35sa/wanted_to_do_a_devops_apprenticeship_full_time/) | Blackbeard1299 | 1 |
