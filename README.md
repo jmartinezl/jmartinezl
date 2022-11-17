@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [GitLab Paid storage update psa](https://www.reddit.com/r/devops/comments/yw1pw3/gitlab_paid_storage_update_psa/) | shiftv | 106 |
-| [How relevant, beneficial is RHCSA to learn DevOps-related Linux skills?](https://www.reddit.com/r/devops/comments/yw27lm/how_relevant_beneficial_is_rhcsa_to_learn/) | throwawaysnrn | 14 |
-| [But it works on MY machine! Debugging GitHub Workflows with VS Code. Bad Practice?](https://www.reddit.com/r/devops/comments/yw43np/but_it_works_on_my_machine_debugging_github/) | hans_claasen | 10 |
-| [Backup and Restore of Containers With Kubernetes Checkpointing API](https://www.reddit.com/r/devops/comments/yw3ccn/backup_and_restore_of_containers_with_kubernetes/) | Am4t3uR | 9 |
-| [K8s and HIPPA/PHI compliant systems - Need advice!](https://www.reddit.com/r/devops/comments/ywasp4/k8s_and_hippaphi_compliant_systems_need_advice/) | allwritesri | 6 |
-| [Remote management tool for various Linux servers](https://www.reddit.com/r/devops/comments/ywchsa/remote_management_tool_for_various_linux_servers/) | t0ff3 | 4 |
-| [Moving to a Devops team within a company](https://www.reddit.com/r/devops/comments/ywpwhc/moving_to_a_devops_team_within_a_company/) | zerotwo21 | 4 |
-| [No FourKeys, no nothing... never](https://www.reddit.com/r/devops/comments/yw3ncr/no_fourkeys_no_nothing_never/) | pingus-angry-dad | 2 |
-| [How do I get to place in my career where I can hold my own?](https://www.reddit.com/r/devops/comments/yw7d5d/how_do_i_get_to_place_in_my_career_where_i_can/) | frameclowder | 2 |
-| [wanted to do a devops apprenticeship full time , got shot down](https://www.reddit.com/r/devops/comments/yw35sa/wanted_to_do_a_devops_apprenticeship_full_time/) | Blackbeard1299 | 1 |
+| [What is a good way to document CI/CD pipelines?](https://www.reddit.com/r/devops/comments/yx4jv6/what_is_a_good_way_to_document_cicd_pipelines/) | Aggravating-Eye-4462 | 123 |
+| [Feeling not so great about being a DevOps\Cloud Engineer](https://www.reddit.com/r/devops/comments/yx2pkx/feeling_not_so_great_about_being_a_devopscloud/) | Tenkitsune | 62 |
+| [DevSec for Scale Podcast Ep 6: Policy-as-Code](https://www.reddit.com/r/devops/comments/yx0ivu/devsec_for_scale_podcast_ep_6_policyascode/) | nrlnathan1 | 29 |
+| [Trouble with consistent config across environments?](https://www.reddit.com/r/devops/comments/ywter4/trouble_with_consistent_config_across_environments/) | _sujaya | 27 |
+| [DevOps infrastructure from scratch](https://www.reddit.com/r/devops/comments/yx2vci/devops_infrastructure_from_scratch/) | plebbitier | 6 |
+| [How do I deal with latency workloads in a multi-cluster Kubernetes-based platform?](https://www.reddit.com/r/devops/comments/ywudpx/how_do_i_deal_with_latency_workloads_in_a/) | Darkwalll | 4 |
+| [Agile workflow with Jira and Git](https://www.reddit.com/r/devops/comments/yxinb0/agile_workflow_with_jira_and_git/) | bossmonchan | 4 |
+| [I need to wait for a condition in my k8s pods. Should I have a sleep loop in the entrypoint or the init containers or should I have the execution fail until the condition is met?](https://www.reddit.com/r/devops/comments/ywxo0e/i_need_to_wait_for_a_condition_in_my_k8s_pods/) | VroomVroomVeryBad | 3 |
+| [Harness CI launches the fastest CI leveraging Drone](https://www.reddit.com/r/devops/comments/yx79jk/harness_ci_launches_the_fastest_ci_leveraging/) | rustdpra | 3 |
+| [How to help train a newbie?](https://www.reddit.com/r/devops/comments/yxgwj1/how_to_help_train_a_newbie/) | Obj_Sea | 2 |
