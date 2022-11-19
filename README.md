@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [My mandate is being moved from “DevOps” to “Developer Experience.” Has anyone else made this switch?](https://www.reddit.com/r/devops/comments/yxxeen/my_mandate_is_being_moved_from_devops_to/) | Jam-packedBasin | 138 |
-| [Aliasing of EKS endpoint domain](https://www.reddit.com/r/devops/comments/yxpeo0/aliasing_of_eks_endpoint_domain/) | lucas_ff | 8 |
-| [Branching and deployment strategy for continuous integration](https://www.reddit.com/r/devops/comments/yxzi8d/branching_and_deployment_strategy_for_continuous/) | derp2014 | 6 |
-| [Uptime for MongoDB atlas? No luck with asking atlas and nothing for dátadog integration](https://www.reddit.com/r/devops/comments/yy55ra/uptime_for_mongodb_atlas_no_luck_with_asking/) | myburnyburnburn | 3 |
-| [NGINX / NGINX Ingress / Envoy WAF Comparison](https://www.reddit.com/r/devops/comments/yy1l00/nginx_nginx_ingress_envoy_waf_comparison/) | onirisapp | 3 |
-| [Developer self-service portal for Kubernetes/Helm](https://www.reddit.com/r/devops/comments/yxrhxw/developer_selfservice_portal_for_kuberneteshelm/) | rtpro1 | 3 |
-| [How do you yaml](https://www.reddit.com/r/devops/comments/yya8p7/how_do_you_yaml/) | RumRogerz | 2 |
-| [is there such thing as "encrypting" a repo hosted on Github?](https://www.reddit.com/r/devops/comments/yxz8gk/is_there_such_thing_as_encrypting_a_repo_hosted/) | Minute_Box6650 | 1 |
-| [What is the point of having both a develop and a main branch aiming to be in sync?](https://www.reddit.com/r/devops/comments/yy2wz7/what_is_the_point_of_having_both_a_develop_and_a/) | HgnX | 1 |
-| [Packer + QEMU for Ubuntu 22.04.1 ARM64 ISO](https://www.reddit.com/r/devops/comments/yy0d5p/packer_qemu_for_ubuntu_22041_arm64_iso/) | dugindeep | 1 |
+| [Was learning Go hard for you?](https://www.reddit.com/r/devops/comments/yyjmks/was_learning_go_hard_for_you/) | JPwnr | 86 |
+| [Is there any automation solution that isn't "only" CI/CD except Jenkins?](https://www.reddit.com/r/devops/comments/yyo6dk/is_there_any_automation_solution_that_isnt_only/) | Jatalocks2 | 50 |
+| [Developers, I want to hear from you: have you handled Terraform at scale?](https://www.reddit.com/r/devops/comments/yyiq7n/developers_i_want_to_hear_from_you_have_you/) | matgalt | 26 |
+| [Container image which provides easy access to most backup/restore utils used for managing database backups.](https://www.reddit.com/r/devops/comments/yyzye5/container_image_which_provides_easy_access_to/) | sdGkid0 | 25 |
+| [LiveNation/Ticketmaster architecture?](https://www.reddit.com/r/devops/comments/yysvs5/livenationticketmaster_architecture/) | WhyNotZoidberg-_- | 21 |
+| [Mgrate to devops](https://www.reddit.com/r/devops/comments/yyxzup/mgrate_to_devops/) | wallacywm | 16 |
+| [Managed to land a jr devops role in my company.](https://www.reddit.com/r/devops/comments/yz1iwe/managed_to_land_a_jr_devops_role_in_my_company/) | blueplutomonk | 14 |
+| [Is there a way to print the agent used by each stage in a Jenkins pipeline using groovy?](https://www.reddit.com/r/devops/comments/yz0xp0/is_there_a_way_to_print_the_agent_used_by_each/) | WinxClubisBest | 10 |
+| [Deploying feature branch previews with AWS ECS. Is my concept okay?](https://www.reddit.com/r/devops/comments/yz2x5h/deploying_feature_branch_previews_with_aws_ecs_is/) | domemvs | 10 |
+| [Openshift build/ s2i](https://www.reddit.com/r/devops/comments/yypuj6/openshift_build_s2i/) | bipolarpolarbear6 | 7 |
