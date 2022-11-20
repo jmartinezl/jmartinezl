@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Was learning Go hard for you?](https://www.reddit.com/r/devops/comments/yyjmks/was_learning_go_hard_for_you/) | JPwnr | 86 |
-| [Is there any automation solution that isn't "only" CI/CD except Jenkins?](https://www.reddit.com/r/devops/comments/yyo6dk/is_there_any_automation_solution_that_isnt_only/) | Jatalocks2 | 50 |
-| [Developers, I want to hear from you: have you handled Terraform at scale?](https://www.reddit.com/r/devops/comments/yyiq7n/developers_i_want_to_hear_from_you_have_you/) | matgalt | 26 |
-| [Container image which provides easy access to most backup/restore utils used for managing database backups.](https://www.reddit.com/r/devops/comments/yyzye5/container_image_which_provides_easy_access_to/) | sdGkid0 | 25 |
-| [LiveNation/Ticketmaster architecture?](https://www.reddit.com/r/devops/comments/yysvs5/livenationticketmaster_architecture/) | WhyNotZoidberg-_- | 21 |
-| [Mgrate to devops](https://www.reddit.com/r/devops/comments/yyxzup/mgrate_to_devops/) | wallacywm | 16 |
-| [Managed to land a jr devops role in my company.](https://www.reddit.com/r/devops/comments/yz1iwe/managed_to_land_a_jr_devops_role_in_my_company/) | blueplutomonk | 14 |
-| [Is there a way to print the agent used by each stage in a Jenkins pipeline using groovy?](https://www.reddit.com/r/devops/comments/yz0xp0/is_there_a_way_to_print_the_agent_used_by_each/) | WinxClubisBest | 10 |
-| [Deploying feature branch previews with AWS ECS. Is my concept okay?](https://www.reddit.com/r/devops/comments/yz2x5h/deploying_feature_branch_previews_with_aws_ecs_is/) | domemvs | 10 |
-| [Openshift build/ s2i](https://www.reddit.com/r/devops/comments/yypuj6/openshift_build_s2i/) | bipolarpolarbear6 | 7 |
+| [Deploying to AWS from GitHub actions: is this something Fortune 500 security reviews will cry about?](https://www.reddit.com/r/devops/comments/yzft2b/deploying_to_aws_from_github_actions_is_this/) | myburnyburnburn | 80 |
+| [Kubectl plugin to display OOMKilled pods/containers](https://www.reddit.com/r/devops/comments/yzgjah/kubectl_plugin_to_display_oomkilled_podscontainers/) | MultiverseJack | 19 |
+| [Prometheus Alerting with Slack](https://www.reddit.com/r/devops/comments/yzcop2/prometheus_alerting_with_slack/) | Away-Trade-5831 | 14 |
+| [Testing/mocking Customer IDP integrations](https://www.reddit.com/r/devops/comments/yzigz0/testingmocking_customer_idp_integrations/) | SteelEagle814 | 11 |
+| [Awesome CoreDNS](https://www.reddit.com/r/devops/comments/z00siu/awesome_coredns/) | MariusKimmina | 11 |
+| [Suggestions for dealing with airgapped registries and promoting from dev to prod?](https://www.reddit.com/r/devops/comments/yzpsxt/suggestions_for_dealing_with_airgapped_registries/) | snowsnoot2 | 10 |
+| [What are some good resources(repositories, youtube channels) to practice building different DevOps projects](https://www.reddit.com/r/devops/comments/yzt73k/what_are_some_good_resourcesrepositories_youtube/) | RP_m_13 | 8 |
+| [Introduction to Docker: A Beginners Guide](https://www.reddit.com/r/devops/comments/yzwg2m/introduction_to_docker_a_beginners_guide/) | KaranJagtiani | 6 |
+| [All-inclusive online game: Redis, kafka, both?](https://www.reddit.com/r/devops/comments/yzyalq/allinclusive_online_game_redis_kafka_both/) | lutian | 3 |
+| [Should I switch Jobs?](https://www.reddit.com/r/devops/comments/yzwlw9/should_i_switch_jobs/) | TheHalloumiCheese | 2 |
