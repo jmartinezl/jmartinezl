@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Deploying to AWS from GitHub actions: is this something Fortune 500 security reviews will cry about?](https://www.reddit.com/r/devops/comments/yzft2b/deploying_to_aws_from_github_actions_is_this/) | myburnyburnburn | 80 |
-| [Kubectl plugin to display OOMKilled pods/containers](https://www.reddit.com/r/devops/comments/yzgjah/kubectl_plugin_to_display_oomkilled_podscontainers/) | MultiverseJack | 19 |
-| [Prometheus Alerting with Slack](https://www.reddit.com/r/devops/comments/yzcop2/prometheus_alerting_with_slack/) | Away-Trade-5831 | 14 |
-| [Testing/mocking Customer IDP integrations](https://www.reddit.com/r/devops/comments/yzigz0/testingmocking_customer_idp_integrations/) | SteelEagle814 | 11 |
-| [Awesome CoreDNS](https://www.reddit.com/r/devops/comments/z00siu/awesome_coredns/) | MariusKimmina | 11 |
-| [Suggestions for dealing with airgapped registries and promoting from dev to prod?](https://www.reddit.com/r/devops/comments/yzpsxt/suggestions_for_dealing_with_airgapped_registries/) | snowsnoot2 | 10 |
-| [What are some good resources(repositories, youtube channels) to practice building different DevOps projects](https://www.reddit.com/r/devops/comments/yzt73k/what_are_some_good_resourcesrepositories_youtube/) | RP_m_13 | 8 |
-| [Introduction to Docker: A Beginners Guide](https://www.reddit.com/r/devops/comments/yzwg2m/introduction_to_docker_a_beginners_guide/) | KaranJagtiani | 6 |
-| [All-inclusive online game: Redis, kafka, both?](https://www.reddit.com/r/devops/comments/yzyalq/allinclusive_online_game_redis_kafka_both/) | lutian | 3 |
-| [Should I switch Jobs?](https://www.reddit.com/r/devops/comments/yzwlw9/should_i_switch_jobs/) | TheHalloumiCheese | 2 |
+| [What do you guys use for outage monitoring / incident reporting?](https://www.reddit.com/r/devops/comments/z0lcss/what_do_you_guys_use_for_outage_monitoring/) | cpa34fb | 52 |
+| [A poor man's API](https://www.reddit.com/r/devops/comments/z0a1zx/a_poor_mans_api/) | nfrankel | 38 |
+| [Side work contracting](https://www.reddit.com/r/devops/comments/z0d2rw/side_work_contracting/) | jk_can_132 | 22 |
+| [Tilt vs. bespoke Kubernetes tooling](https://www.reddit.com/r/devops/comments/z0czs0/tilt_vs_bespoke_kubernetes_tooling/) | ForSpareParts | 14 |
+| [How to organize E2E testing?](https://www.reddit.com/r/devops/comments/z04aqw/how_to_organize_e2e_testing/) | jegsar | 11 |
+| [Create Your Own SpeedTest Server. Only Static File, All you need is Nginx.](https://www.reddit.com/r/devops/comments/z0qr0o/create_your_own_speedtest_server_only_static_file/) | GoRedPlanet | 8 |
+| [Advise for someone going back to work after burnt out](https://www.reddit.com/r/devops/comments/z0ubym/advise_for_someone_going_back_to_work_after_burnt/) | redwarrior50 | 6 |
+| [Looking for a pass with mtls](https://www.reddit.com/r/devops/comments/z035d8/looking_for_a_pass_with_mtls/) | Hkyx | 5 |
+| [ArgoCD Resource Hooks across multiple applications](https://www.reddit.com/r/devops/comments/z0e3uf/argocd_resource_hooks_across_multiple_applications/) | IIGrudge | 5 |
+| [TraceView - OpenTelemetry UI released](https://www.reddit.com/r/devops/comments/z05bcc/traceview_opentelemetry_ui_released/) | rogerjohansson | 2 |
