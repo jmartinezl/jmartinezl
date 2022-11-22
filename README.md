@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What do you guys use for outage monitoring / incident reporting?](https://www.reddit.com/r/devops/comments/z0lcss/what_do_you_guys_use_for_outage_monitoring/) | cpa34fb | 52 |
-| [A poor man's API](https://www.reddit.com/r/devops/comments/z0a1zx/a_poor_mans_api/) | nfrankel | 38 |
-| [Side work contracting](https://www.reddit.com/r/devops/comments/z0d2rw/side_work_contracting/) | jk_can_132 | 22 |
-| [Tilt vs. bespoke Kubernetes tooling](https://www.reddit.com/r/devops/comments/z0czs0/tilt_vs_bespoke_kubernetes_tooling/) | ForSpareParts | 14 |
-| [How to organize E2E testing?](https://www.reddit.com/r/devops/comments/z04aqw/how_to_organize_e2e_testing/) | jegsar | 11 |
-| [Create Your Own SpeedTest Server. Only Static File, All you need is Nginx.](https://www.reddit.com/r/devops/comments/z0qr0o/create_your_own_speedtest_server_only_static_file/) | GoRedPlanet | 8 |
-| [Advise for someone going back to work after burnt out](https://www.reddit.com/r/devops/comments/z0ubym/advise_for_someone_going_back_to_work_after_burnt/) | redwarrior50 | 6 |
-| [Looking for a pass with mtls](https://www.reddit.com/r/devops/comments/z035d8/looking_for_a_pass_with_mtls/) | Hkyx | 5 |
-| [ArgoCD Resource Hooks across multiple applications](https://www.reddit.com/r/devops/comments/z0e3uf/argocd_resource_hooks_across_multiple_applications/) | IIGrudge | 5 |
-| [TraceView - OpenTelemetry UI released](https://www.reddit.com/r/devops/comments/z05bcc/traceview_opentelemetry_ui_released/) | rogerjohansson | 2 |
+| [Deploying in Prod right before the holidays](https://www.reddit.com/r/devops/comments/z102lo/deploying_in_prod_right_before_the_holidays/) | m1nhC | 82 |
+| [Is centos still in use?](https://www.reddit.com/r/devops/comments/z1brdh/is_centos_still_in_use/) | Michaelgunner | 36 |
+| [Aws or azure in 2022](https://www.reddit.com/r/devops/comments/z0zn0q/aws_or_azure_in_2022/) | ToCoolforSex | 34 |
+| [I created a open source secrets manager, check it out!](https://www.reddit.com/r/devops/comments/z14z7z/i_created_a_open_source_secrets_manager_check_it/) | theflyingdog98 | 16 |
+| [Makefiles vs. Bash Scripts](https://www.reddit.com/r/devops/comments/z1eegq/makefiles_vs_bash_scripts/) | KingOfCramers | 12 |
+| [AppSec: How to gain full security code scanning coverage of all projects via CI/CD pipelines?](https://www.reddit.com/r/devops/comments/z0xug5/appsec_how_to_gain_full_security_code_scanning/) | VertigoRoll | 10 |
+| [Options for Smaller Scale CI/CD?](https://www.reddit.com/r/devops/comments/z0zwpt/options_for_smaller_scale_cicd/) | Automatic_Evening119 | 8 |
+| [The pros and cons of managing configuration for multiple environments](https://www.reddit.com/r/devops/comments/z1rfwm/the_pros_and_cons_of_managing_configuration_for/) | _sujaya | 7 |
+| [Review-&gt;Stage-&gt;Prod deployment strategies for teams with multiple devs](https://www.reddit.com/r/devops/comments/z1gg45/reviewstageprod_deployment_strategies_for_teams/) | devilmaydance | 6 |
+| [My DevOps Engineer Title Problem Canada](https://www.reddit.com/r/devops/comments/z1chwq/my_devops_engineer_title_problem_canada/) | CommentReaders | 6 |
