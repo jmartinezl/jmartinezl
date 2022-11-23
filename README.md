@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Deploying in Prod right before the holidays](https://www.reddit.com/r/devops/comments/z102lo/deploying_in_prod_right_before_the_holidays/) | m1nhC | 82 |
-| [Is centos still in use?](https://www.reddit.com/r/devops/comments/z1brdh/is_centos_still_in_use/) | Michaelgunner | 36 |
-| [Aws or azure in 2022](https://www.reddit.com/r/devops/comments/z0zn0q/aws_or_azure_in_2022/) | ToCoolforSex | 34 |
-| [I created a open source secrets manager, check it out!](https://www.reddit.com/r/devops/comments/z14z7z/i_created_a_open_source_secrets_manager_check_it/) | theflyingdog98 | 16 |
-| [Makefiles vs. Bash Scripts](https://www.reddit.com/r/devops/comments/z1eegq/makefiles_vs_bash_scripts/) | KingOfCramers | 12 |
-| [AppSec: How to gain full security code scanning coverage of all projects via CI/CD pipelines?](https://www.reddit.com/r/devops/comments/z0xug5/appsec_how_to_gain_full_security_code_scanning/) | VertigoRoll | 10 |
-| [Options for Smaller Scale CI/CD?](https://www.reddit.com/r/devops/comments/z0zwpt/options_for_smaller_scale_cicd/) | Automatic_Evening119 | 8 |
-| [The pros and cons of managing configuration for multiple environments](https://www.reddit.com/r/devops/comments/z1rfwm/the_pros_and_cons_of_managing_configuration_for/) | _sujaya | 7 |
-| [Review-&gt;Stage-&gt;Prod deployment strategies for teams with multiple devs](https://www.reddit.com/r/devops/comments/z1gg45/reviewstageprod_deployment_strategies_for_teams/) | devilmaydance | 6 |
-| [My DevOps Engineer Title Problem Canada](https://www.reddit.com/r/devops/comments/z1chwq/my_devops_engineer_title_problem_canada/) | CommentReaders | 6 |
+| [CPO magazine: 3 Keys To Successful DevSecOps Implementations.](https://www.reddit.com/r/devops/comments/z247mv/cpo_magazine_3_keys_to_successful_devsecops/) | Dannyc2021 | 36 |
+| [I tried to learn Python](https://www.reddit.com/r/devops/comments/z29jbx/i_tried_to_learn_python/) | caca__seca | 25 |
+| [DevOps as scrum team member](https://www.reddit.com/r/devops/comments/z1tfu5/devops_as_scrum_team_member/) | Alternative-Expert-7 | 25 |
+| [Who defines secret management / certificate management in your company](https://www.reddit.com/r/devops/comments/z2d7zy/who_defines_secret_management_certificate/) | go_analytical | 20 |
+| [ci/cd for new project infrastructure](https://www.reddit.com/r/devops/comments/z275sh/cicd_for_new_project_infrastructure/) | sorressean | 9 |
+| [New AAD user can't access AKS resources](https://www.reddit.com/r/devops/comments/z1sj97/new_aad_user_cant_access_aks_resources/) | sock_templar | 9 |
+| [Do you guys know where I could find stuff like this?](https://www.reddit.com/r/devops/comments/z2kkk2/do_you_guys_know_where_i_could_find_stuff_like/) | izner82 | 9 |
+| [Alternative to InSpec: what do you use to "assert things have been correctly configured"?](https://www.reddit.com/r/devops/comments/z2gb9d/alternative_to_inspec_what_do_you_use_to_assert/) | multani | 8 |
+| [SLACK blocks and coloured border?](https://www.reddit.com/r/devops/comments/z1sgp6/slack_blocks_and_coloured_border/) | toast-gear | 6 |
+| [Tips on learning Ansible as a Chef user?](https://www.reddit.com/r/devops/comments/z23gyh/tips_on_learning_ansible_as_a_chef_user/) | jasmeralia | 4 |
