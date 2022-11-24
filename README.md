@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [CPO magazine: 3 Keys To Successful DevSecOps Implementations.](https://www.reddit.com/r/devops/comments/z247mv/cpo_magazine_3_keys_to_successful_devsecops/) | Dannyc2021 | 36 |
-| [I tried to learn Python](https://www.reddit.com/r/devops/comments/z29jbx/i_tried_to_learn_python/) | caca__seca | 25 |
-| [DevOps as scrum team member](https://www.reddit.com/r/devops/comments/z1tfu5/devops_as_scrum_team_member/) | Alternative-Expert-7 | 25 |
-| [Who defines secret management / certificate management in your company](https://www.reddit.com/r/devops/comments/z2d7zy/who_defines_secret_management_certificate/) | go_analytical | 20 |
-| [ci/cd for new project infrastructure](https://www.reddit.com/r/devops/comments/z275sh/cicd_for_new_project_infrastructure/) | sorressean | 9 |
-| [New AAD user can't access AKS resources](https://www.reddit.com/r/devops/comments/z1sj97/new_aad_user_cant_access_aks_resources/) | sock_templar | 9 |
-| [Do you guys know where I could find stuff like this?](https://www.reddit.com/r/devops/comments/z2kkk2/do_you_guys_know_where_i_could_find_stuff_like/) | izner82 | 9 |
-| [Alternative to InSpec: what do you use to "assert things have been correctly configured"?](https://www.reddit.com/r/devops/comments/z2gb9d/alternative_to_inspec_what_do_you_use_to_assert/) | multani | 8 |
-| [SLACK blocks and coloured border?](https://www.reddit.com/r/devops/comments/z1sgp6/slack_blocks_and_coloured_border/) | toast-gear | 6 |
-| [Tips on learning Ansible as a Chef user?](https://www.reddit.com/r/devops/comments/z23gyh/tips_on_learning_ansible_as_a_chef_user/) | jasmeralia | 4 |
+| [Ensure that an ansible secrets.yml is never committed unencrypted](https://www.reddit.com/r/devops/comments/z2tucy/ensure_that_an_ansible_secretsyml_is_never/) | Exact-Improvement-80 | 41 |
+| [Kubernetes on DigitalOcean pricing for low usage and limitations](https://www.reddit.com/r/devops/comments/z2q4cp/kubernetes_on_digitalocean_pricing_for_low_usage/) | Fire-Dragon-DoL | 23 |
+| [set up and tear down eks nodes to run integration tests](https://www.reddit.com/r/devops/comments/z35acn/set_up_and_tear_down_eks_nodes_to_run_integration/) | galvarado89 | 21 |
+| [How can I recruit for devops skills when I don't have those skills myself?](https://www.reddit.com/r/devops/comments/z2sht8/how_can_i_recruit_for_devops_skills_when_i_dont/) | JamesPTK | 9 |
+| [Fast-Ansible: Ansible Tutorial, Sample Usage Scenarios (Howto: Hands-on LAB)](https://www.reddit.com/r/devops/comments/z3gnob/fastansible_ansible_tutorial_sample_usage/) | obsezer | 7 |
+| [How to manage your dotfiles with git](https://www.reddit.com/r/devops/comments/z363nm/how_to_manage_your_dotfiles_with_git/) | fwuensche | 5 |
+| [(Noob) Question - Proxy request to vendor requiring static IP](https://www.reddit.com/r/devops/comments/z3ex33/noob_question_proxy_request_to_vendor_requiring/) | polythemath | 5 |
+| [DevOps and Localization: Improving an overlooked area](https://www.reddit.com/r/devops/comments/z2p0ka/devops_and_localization_improving_an_overlooked/) | many_hats_on_head | 4 |
+| [Infrastructure for apps: Platforms for cooperative delivery](https://www.reddit.com/r/devops/comments/z3ek9p/infrastructure_for_apps_platforms_for_cooperative/) | rtpro1 | 2 |
+| [[video] System Design Interview - Consistent Hashing](https://www.reddit.com/r/devops/comments/z2s4o5/video_system_design_interview_consistent_hashing/) | lucian-12 | 1 |
