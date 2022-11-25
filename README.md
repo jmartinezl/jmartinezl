@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Ensure that an ansible secrets.yml is never committed unencrypted](https://www.reddit.com/r/devops/comments/z2tucy/ensure_that_an_ansible_secretsyml_is_never/) | Exact-Improvement-80 | 41 |
-| [Kubernetes on DigitalOcean pricing for low usage and limitations](https://www.reddit.com/r/devops/comments/z2q4cp/kubernetes_on_digitalocean_pricing_for_low_usage/) | Fire-Dragon-DoL | 23 |
-| [set up and tear down eks nodes to run integration tests](https://www.reddit.com/r/devops/comments/z35acn/set_up_and_tear_down_eks_nodes_to_run_integration/) | galvarado89 | 21 |
-| [How can I recruit for devops skills when I don't have those skills myself?](https://www.reddit.com/r/devops/comments/z2sht8/how_can_i_recruit_for_devops_skills_when_i_dont/) | JamesPTK | 9 |
-| [Fast-Ansible: Ansible Tutorial, Sample Usage Scenarios (Howto: Hands-on LAB)](https://www.reddit.com/r/devops/comments/z3gnob/fastansible_ansible_tutorial_sample_usage/) | obsezer | 7 |
-| [How to manage your dotfiles with git](https://www.reddit.com/r/devops/comments/z363nm/how_to_manage_your_dotfiles_with_git/) | fwuensche | 5 |
-| [(Noob) Question - Proxy request to vendor requiring static IP](https://www.reddit.com/r/devops/comments/z3ex33/noob_question_proxy_request_to_vendor_requiring/) | polythemath | 5 |
-| [DevOps and Localization: Improving an overlooked area](https://www.reddit.com/r/devops/comments/z2p0ka/devops_and_localization_improving_an_overlooked/) | many_hats_on_head | 4 |
-| [Infrastructure for apps: Platforms for cooperative delivery](https://www.reddit.com/r/devops/comments/z3ek9p/infrastructure_for_apps_platforms_for_cooperative/) | rtpro1 | 2 |
-| [[video] System Design Interview - Consistent Hashing](https://www.reddit.com/r/devops/comments/z2s4o5/video_system_design_interview_consistent_hashing/) | lucian-12 | 1 |
+| [Starting out with my first project](https://www.reddit.com/r/devops/comments/z3v8v3/starting_out_with_my_first_project/) | Meri_Marzi | 20 |
+| [Looking for advice](https://www.reddit.com/r/devops/comments/z3sz1j/looking_for_advice/) | MartinMegazord | 11 |
+| [[30% OFF] Azure Data Factory Basics for Azure Data Engineer DP203+Lab](https://www.reddit.com/r/devops/comments/z3wfg2/30_off_azure_data_factory_basics_for_azure_data/) | BitAccomplished3461 | 9 |
+| [KOPS vs EKS](https://www.reddit.com/r/devops/comments/z3igx0/kops_vs_eks/) | Adventurous_Race_201 | 8 |
+| [What is the best way to integrate the bind9 service on ci/cd?](https://www.reddit.com/r/devops/comments/z3jteg/what_is_the_best_way_to_integrate_the_bind9/) | ak17hg | 3 |
+| [Should i migrate from Kustomize to Helm?](https://www.reddit.com/r/devops/comments/z49fdx/should_i_migrate_from_kustomize_to_helm/) | salmoneaffumicat0 | 3 |
+| [How to do HTTP access from outside to EC2 that in private subnet of a VPC?](https://www.reddit.com/r/devops/comments/z3iyzw/how_to_do_http_access_from_outside_to_ec2_that_in/) | autodevops | 3 |
+| [Azure - Copy files over SSH to old AIX box](https://www.reddit.com/r/devops/comments/z3l2xd/azure_copy_files_over_ssh_to_old_aix_box/) | Chamonix_Tom | 3 |
+| [Are there any popular standards for deciding if and/or when to deploy software updates into the wild?](https://www.reddit.com/r/devops/comments/z3rvd3/are_there_any_popular_standards_for_deciding_if/) | purforium | 2 |
+| [Is it possible to update .net core WebAPI in IIS without taking it down?](https://www.reddit.com/r/devops/comments/z49pvs/is_it_possible_to_update_net_core_webapi_in_iis/) | Unfair-Address-3597 | 1 |
