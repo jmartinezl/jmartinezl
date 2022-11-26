@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Starting out with my first project](https://www.reddit.com/r/devops/comments/z3v8v3/starting_out_with_my_first_project/) | Meri_Marzi | 20 |
-| [Looking for advice](https://www.reddit.com/r/devops/comments/z3sz1j/looking_for_advice/) | MartinMegazord | 11 |
-| [[30% OFF] Azure Data Factory Basics for Azure Data Engineer DP203+Lab](https://www.reddit.com/r/devops/comments/z3wfg2/30_off_azure_data_factory_basics_for_azure_data/) | BitAccomplished3461 | 9 |
-| [KOPS vs EKS](https://www.reddit.com/r/devops/comments/z3igx0/kops_vs_eks/) | Adventurous_Race_201 | 8 |
-| [What is the best way to integrate the bind9 service on ci/cd?](https://www.reddit.com/r/devops/comments/z3jteg/what_is_the_best_way_to_integrate_the_bind9/) | ak17hg | 3 |
-| [Should i migrate from Kustomize to Helm?](https://www.reddit.com/r/devops/comments/z49fdx/should_i_migrate_from_kustomize_to_helm/) | salmoneaffumicat0 | 3 |
-| [How to do HTTP access from outside to EC2 that in private subnet of a VPC?](https://www.reddit.com/r/devops/comments/z3iyzw/how_to_do_http_access_from_outside_to_ec2_that_in/) | autodevops | 3 |
-| [Azure - Copy files over SSH to old AIX box](https://www.reddit.com/r/devops/comments/z3l2xd/azure_copy_files_over_ssh_to_old_aix_box/) | Chamonix_Tom | 3 |
-| [Are there any popular standards for deciding if and/or when to deploy software updates into the wild?](https://www.reddit.com/r/devops/comments/z3rvd3/are_there_any_popular_standards_for_deciding_if/) | purforium | 2 |
-| [Is it possible to update .net core WebAPI in IIS without taking it down?](https://www.reddit.com/r/devops/comments/z49pvs/is_it_possible_to_update_net_core_webapi_in_iis/) | Unfair-Address-3597 | 1 |
+| [What’s the coolest thing you did this year?](https://www.reddit.com/r/devops/comments/z4pgrn/whats_the_coolest_thing_you_did_this_year/) | whoknowsforreal | 61 |
+| [open-appsec (open-source machine-learning based WAF) - updates](https://www.reddit.com/r/devops/comments/z4np2f/openappsec_opensource_machinelearning_based_waf/) | onirisapp | 13 |
+| [Where do you host your software versions for users to download?](https://www.reddit.com/r/devops/comments/z4d26q/where_do_you_host_your_software_versions_for/) | Wrathrowe | 8 |
+| [A typical Friday](https://www.reddit.com/r/devops/comments/z4ftds/a_typical_friday/) | Coolbsd | 5 |
+| [Sync all your cloud asses to Snowflake and build an "Infrastructure Lake"](https://www.reddit.com/r/devops/comments/z4ql9v/sync_all_your_cloud_asses_to_snowflake_and_build/) | jekapats | 2 |
+| [Need some help starting out](https://www.reddit.com/r/devops/comments/z4czak/need_some_help_starting_out/) | mmvlad | 2 |
+| [terraform cli auto-completion with alias](https://www.reddit.com/r/devops/comments/z4t9fe/terraform_cli_autocompletion_with_alias/) | frank998 | 1 |
+| [having Headache with k8s nginx ingress rewrites](https://www.reddit.com/r/devops/comments/z4t3yx/having_headache_with_k8s_nginx_ingress_rewrites/) | NeedTheSpeed | 1 |
+| [RDS database and iops](https://www.reddit.com/r/devops/comments/z54vct/rds_database_and_iops/) | anacondaonline | 1 |
+| [Live Configuration vs Built Image](https://www.reddit.com/r/devops/comments/z4t3y2/live_configuration_vs_built_image/) | code_whisperer34 | 1 |
