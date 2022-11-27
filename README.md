@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What’s the coolest thing you did this year?](https://www.reddit.com/r/devops/comments/z4pgrn/whats_the_coolest_thing_you_did_this_year/) | whoknowsforreal | 61 |
-| [open-appsec (open-source machine-learning based WAF) - updates](https://www.reddit.com/r/devops/comments/z4np2f/openappsec_opensource_machinelearning_based_waf/) | onirisapp | 13 |
-| [Where do you host your software versions for users to download?](https://www.reddit.com/r/devops/comments/z4d26q/where_do_you_host_your_software_versions_for/) | Wrathrowe | 8 |
-| [A typical Friday](https://www.reddit.com/r/devops/comments/z4ftds/a_typical_friday/) | Coolbsd | 5 |
-| [Sync all your cloud asses to Snowflake and build an "Infrastructure Lake"](https://www.reddit.com/r/devops/comments/z4ql9v/sync_all_your_cloud_asses_to_snowflake_and_build/) | jekapats | 2 |
-| [Need some help starting out](https://www.reddit.com/r/devops/comments/z4czak/need_some_help_starting_out/) | mmvlad | 2 |
-| [terraform cli auto-completion with alias](https://www.reddit.com/r/devops/comments/z4t9fe/terraform_cli_autocompletion_with_alias/) | frank998 | 1 |
-| [having Headache with k8s nginx ingress rewrites](https://www.reddit.com/r/devops/comments/z4t3yx/having_headache_with_k8s_nginx_ingress_rewrites/) | NeedTheSpeed | 1 |
-| [RDS database and iops](https://www.reddit.com/r/devops/comments/z54vct/rds_database_and_iops/) | anacondaonline | 1 |
-| [Live Configuration vs Built Image](https://www.reddit.com/r/devops/comments/z4t3y2/live_configuration_vs_built_image/) | code_whisperer34 | 1 |
+| [Replacement for Chef?](https://www.reddit.com/r/devops/comments/z592gn/replacement_for_chef/) | Ok-Medicine-6141 | 61 |
+| [How do you manage your SSH keys?](https://www.reddit.com/r/devops/comments/z5nv6w/how_do_you_manage_your_ssh_keys/) | identicalBadger | 61 |
+| [Who else is forced to use Windows and how do you work around it?](https://www.reddit.com/r/devops/comments/z56dym/who_else_is_forced_to_use_windows_and_how_do_you/) | CerealBit | 46 |
+| [Tekton and ArgoCD Feedback required](https://www.reddit.com/r/devops/comments/z5e67z/tekton_and_argocd_feedback_required/) | LightofAngels | 20 |
+| [New Relic / Monitoring Tool Alternatives](https://www.reddit.com/r/devops/comments/z5e1tt/new_relic_monitoring_tool_alternatives/) | LightofAngels | 17 |
+| [Help me understand HPA Explanation from the Kubernetes doc. It seems a bit counter-intuitive to me.](https://www.reddit.com/r/devops/comments/z5bzgm/help_me_understand_hpa_explanation_from_the/) | generalmanchild | 6 |
+| [Multi Organisation Architecture.](https://www.reddit.com/r/devops/comments/z5vqb3/multi_organisation_architecture/) | EmployeeLegal3350 | 2 |
+| [Dinamic Infrastructure](https://www.reddit.com/r/devops/comments/z5kmyi/dinamic_infrastructure/) | TryingToSurviveWFH | 2 |
