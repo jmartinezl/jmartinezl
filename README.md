@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Replacement for Chef?](https://www.reddit.com/r/devops/comments/z592gn/replacement_for_chef/) | Ok-Medicine-6141 | 61 |
-| [How do you manage your SSH keys?](https://www.reddit.com/r/devops/comments/z5nv6w/how_do_you_manage_your_ssh_keys/) | identicalBadger | 61 |
-| [Who else is forced to use Windows and how do you work around it?](https://www.reddit.com/r/devops/comments/z56dym/who_else_is_forced_to_use_windows_and_how_do_you/) | CerealBit | 46 |
-| [Tekton and ArgoCD Feedback required](https://www.reddit.com/r/devops/comments/z5e67z/tekton_and_argocd_feedback_required/) | LightofAngels | 20 |
-| [New Relic / Monitoring Tool Alternatives](https://www.reddit.com/r/devops/comments/z5e1tt/new_relic_monitoring_tool_alternatives/) | LightofAngels | 17 |
-| [Help me understand HPA Explanation from the Kubernetes doc. It seems a bit counter-intuitive to me.](https://www.reddit.com/r/devops/comments/z5bzgm/help_me_understand_hpa_explanation_from_the/) | generalmanchild | 6 |
-| [Multi Organisation Architecture.](https://www.reddit.com/r/devops/comments/z5vqb3/multi_organisation_architecture/) | EmployeeLegal3350 | 2 |
-| [Dinamic Infrastructure](https://www.reddit.com/r/devops/comments/z5kmyi/dinamic_infrastructure/) | TryingToSurviveWFH | 2 |
+| [Advice to approach totally weird situation at new job.](https://www.reddit.com/r/devops/comments/z6fztm/advice_to_approach_totally_weird_situation_at_new/) | newtonewacc | 77 |
+| [How to create a server status service](https://www.reddit.com/r/devops/comments/z61hxh/how_to_create_a_server_status_service/) | MobyFreak | 54 |
+| [Help me understand real use cases of k8s, I can’t wrap my head around it](https://www.reddit.com/r/devops/comments/z64b1q/help_me_understand_real_use_cases_of_k8s_i_cant/) | Exact-Improvement-80 | 46 |
+| [How to switch to a DevOps based role from a Sysadmin role?](https://www.reddit.com/r/devops/comments/z6aobc/how_to_switch_to_a_devops_based_role_from_a/) | _theocdguy_ | 12 |
+| [Should I use Capacity Rebalance on spot instances?](https://www.reddit.com/r/devops/comments/z6926o/should_i_use_capacity_rebalance_on_spot_instances/) | HeadTea | 7 |
+| [Linuxfoundation certification - 50% off](https://www.reddit.com/r/devops/comments/z6newn/linuxfoundation_certification_50_off/) | kkt_98 | 5 |
+| [Should I make my resume simple or more detailed with only 1 year of experience?](https://www.reddit.com/r/devops/comments/z62bl5/should_i_make_my_resume_simple_or_more_detailed/) | changexd | 4 |
+| [Linux Foundation is having a sale on the courses and exams offered by them](https://www.reddit.com/r/devops/comments/z6mkrh/linux_foundation_is_having_a_sale_on_the_courses/) | feyzee | 3 |
+| [Layoffs?](https://www.reddit.com/r/devops/comments/z6iqdu/layoffs/) | violent_geography | 1 |
+| [Founders/entrepreneurs: Help is needed over here.](https://www.reddit.com/r/devops/comments/z6ftia/foundersentrepreneurs_help_is_needed_over_here/) | TheWaffle34 | 0 |
