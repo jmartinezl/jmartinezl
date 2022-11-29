@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Advice to approach totally weird situation at new job.](https://www.reddit.com/r/devops/comments/z6fztm/advice_to_approach_totally_weird_situation_at_new/) | newtonewacc | 77 |
-| [How to create a server status service](https://www.reddit.com/r/devops/comments/z61hxh/how_to_create_a_server_status_service/) | MobyFreak | 54 |
-| [Help me understand real use cases of k8s, I can’t wrap my head around it](https://www.reddit.com/r/devops/comments/z64b1q/help_me_understand_real_use_cases_of_k8s_i_cant/) | Exact-Improvement-80 | 46 |
-| [How to switch to a DevOps based role from a Sysadmin role?](https://www.reddit.com/r/devops/comments/z6aobc/how_to_switch_to_a_devops_based_role_from_a/) | _theocdguy_ | 12 |
-| [Should I use Capacity Rebalance on spot instances?](https://www.reddit.com/r/devops/comments/z6926o/should_i_use_capacity_rebalance_on_spot_instances/) | HeadTea | 7 |
-| [Linuxfoundation certification - 50% off](https://www.reddit.com/r/devops/comments/z6newn/linuxfoundation_certification_50_off/) | kkt_98 | 5 |
-| [Should I make my resume simple or more detailed with only 1 year of experience?](https://www.reddit.com/r/devops/comments/z62bl5/should_i_make_my_resume_simple_or_more_detailed/) | changexd | 4 |
-| [Linux Foundation is having a sale on the courses and exams offered by them](https://www.reddit.com/r/devops/comments/z6mkrh/linux_foundation_is_having_a_sale_on_the_courses/) | feyzee | 3 |
-| [Layoffs?](https://www.reddit.com/r/devops/comments/z6iqdu/layoffs/) | violent_geography | 1 |
-| [Founders/entrepreneurs: Help is needed over here.](https://www.reddit.com/r/devops/comments/z6ftia/foundersentrepreneurs_help_is_needed_over_here/) | TheWaffle34 | 0 |
+| [Can you recommend podcasts for DevOps / DevSecOps ?](https://www.reddit.com/r/devops/comments/z6vvl4/can_you_recommend_podcasts_for_devops_devsecops/) | bitweis | 129 |
+| [GitFlow Branching Strategy and Alignment to Best Practices](https://www.reddit.com/r/devops/comments/z7eirb/gitflow_branching_strategy_and_alignment_to_best/) | Calm-Box-890 | 43 |
+| [Overwhelmed by AWS](https://www.reddit.com/r/devops/comments/z72x9s/overwhelmed_by_aws/) | largest_boss | 21 |
+| [Can you create a Postgres Deployment with multiple replicas consuming to the same PV?](https://www.reddit.com/r/devops/comments/z7jsa2/can_you_create_a_postgres_deployment_with/) | UblaHuaGobar | 9 |
+| [We made a free CICD/deployment tool: initializes your gitlab repo, installs dokku and your app on your server, deploys your app from gitlab to your server, sets your domain and establishes continuous deployment so that all main commits are automatically deployed. Templates for Django, flask, fastApi](https://www.reddit.com/r/devops/comments/z6y9rn/we_made_a_free_cicddeployment_tool_initializes/) | johntwit | 7 |
+| [Does "managed Nomad" exist?](https://www.reddit.com/r/devops/comments/z7q7l0/does_managed_nomad_exist/) | vadiemj | 6 |
+| [Windows Container use as Market Share](https://www.reddit.com/r/devops/comments/z71zbq/windows_container_use_as_market_share/) | serverhorror | 5 |
+| [How do you update a MongoDB image to the latest version without losing the volume data?](https://www.reddit.com/r/devops/comments/z7eu4z/how_do_you_update_a_mongodb_image_to_the_latest/) | mobiletiplord | 5 |
+| [Some tool like drone.io for CD](https://www.reddit.com/r/devops/comments/z79o6k/some_tool_like_droneio_for_cd/) | Akronae | 4 |
+| [Docker Compose Deploy project to server](https://www.reddit.com/r/devops/comments/z7rnyz/docker_compose_deploy_project_to_server/) | Mkelly4 | 4 |
