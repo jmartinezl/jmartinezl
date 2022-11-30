@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Can you recommend podcasts for DevOps / DevSecOps ?](https://www.reddit.com/r/devops/comments/z6vvl4/can_you_recommend_podcasts_for_devops_devsecops/) | bitweis | 129 |
-| [GitFlow Branching Strategy and Alignment to Best Practices](https://www.reddit.com/r/devops/comments/z7eirb/gitflow_branching_strategy_and_alignment_to_best/) | Calm-Box-890 | 43 |
-| [Overwhelmed by AWS](https://www.reddit.com/r/devops/comments/z72x9s/overwhelmed_by_aws/) | largest_boss | 21 |
-| [Can you create a Postgres Deployment with multiple replicas consuming to the same PV?](https://www.reddit.com/r/devops/comments/z7jsa2/can_you_create_a_postgres_deployment_with/) | UblaHuaGobar | 9 |
-| [We made a free CICD/deployment tool: initializes your gitlab repo, installs dokku and your app on your server, deploys your app from gitlab to your server, sets your domain and establishes continuous deployment so that all main commits are automatically deployed. Templates for Django, flask, fastApi](https://www.reddit.com/r/devops/comments/z6y9rn/we_made_a_free_cicddeployment_tool_initializes/) | johntwit | 7 |
-| [Does "managed Nomad" exist?](https://www.reddit.com/r/devops/comments/z7q7l0/does_managed_nomad_exist/) | vadiemj | 6 |
-| [Windows Container use as Market Share](https://www.reddit.com/r/devops/comments/z71zbq/windows_container_use_as_market_share/) | serverhorror | 5 |
-| [How do you update a MongoDB image to the latest version without losing the volume data?](https://www.reddit.com/r/devops/comments/z7eu4z/how_do_you_update_a_mongodb_image_to_the_latest/) | mobiletiplord | 5 |
-| [Some tool like drone.io for CD](https://www.reddit.com/r/devops/comments/z79o6k/some_tool_like_droneio_for_cd/) | Akronae | 4 |
-| [Docker Compose Deploy project to server](https://www.reddit.com/r/devops/comments/z7rnyz/docker_compose_deploy_project_to_server/) | Mkelly4 | 4 |
+| [New DevOps please learn networking](https://www.reddit.com/r/devops/comments/z8fanh/new_devops_please_learn_networking/) | SuperMiguel | 186 |
+| [Malwarebytes recently announced a collaboration with Stellar Cyber, thoughts?](https://www.reddit.com/r/devops/comments/z7wuok/malwarebytes_recently_announced_a_collaboration/) | Any-Blacksmith-5674 | 79 |
+| [Engineers at large scale orgs (100+ engineers): how do you manage/pay for central tooling?](https://www.reddit.com/r/devops/comments/z881w8/engineers_at_large_scale_orgs_100_engineers_how/) | TheHammeredDog | 27 |
+| [Is Kafka the Key? The evolution of our company's event ingest pipeline!](https://www.reddit.com/r/devops/comments/z83xs9/is_kafka_the_key_the_evolution_of_our_companys/) | podojavascript | 22 |
+| [Central config repository for ansible, terraform and kubernetes](https://www.reddit.com/r/devops/comments/z885cn/central_config_repository_for_ansible_terraform/) | sbbh1 | 18 |
+| [LoadTesting as Code](https://www.reddit.com/r/devops/comments/z8ak15/loadtesting_as_code/) | serverhorror | 9 |
+| [Swing based Universal Database Client](https://www.reddit.com/r/devops/comments/z7td1t/swing_based_universal_database_client/) | Plane-Discussion | 3 |
+| [Is KodeKloud's annual membership worth it?](https://www.reddit.com/r/devops/comments/z8m1ij/is_kodeklouds_annual_membership_worth_it/) | IamOkei | 3 |
+| [I am standing at the crossroads.](https://www.reddit.com/r/devops/comments/z7wowu/i_am_standing_at_the_crossroads/) | xnachtmahrx | 3 |
+| [How would you set up your work laptop differently if you had to do it again?](https://www.reddit.com/r/devops/comments/z8ao7d/how_would_you_set_up_your_work_laptop_differently/) | dimapop | 3 |
