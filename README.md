@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [New DevOps please learn networking](https://www.reddit.com/r/devops/comments/z8fanh/new_devops_please_learn_networking/) | SuperMiguel | 186 |
-| [Malwarebytes recently announced a collaboration with Stellar Cyber, thoughts?](https://www.reddit.com/r/devops/comments/z7wuok/malwarebytes_recently_announced_a_collaboration/) | Any-Blacksmith-5674 | 79 |
-| [Engineers at large scale orgs (100+ engineers): how do you manage/pay for central tooling?](https://www.reddit.com/r/devops/comments/z881w8/engineers_at_large_scale_orgs_100_engineers_how/) | TheHammeredDog | 27 |
-| [Is Kafka the Key? The evolution of our company's event ingest pipeline!](https://www.reddit.com/r/devops/comments/z83xs9/is_kafka_the_key_the_evolution_of_our_companys/) | podojavascript | 22 |
-| [Central config repository for ansible, terraform and kubernetes](https://www.reddit.com/r/devops/comments/z885cn/central_config_repository_for_ansible_terraform/) | sbbh1 | 18 |
-| [LoadTesting as Code](https://www.reddit.com/r/devops/comments/z8ak15/loadtesting_as_code/) | serverhorror | 9 |
-| [Swing based Universal Database Client](https://www.reddit.com/r/devops/comments/z7td1t/swing_based_universal_database_client/) | Plane-Discussion | 3 |
-| [Is KodeKloud's annual membership worth it?](https://www.reddit.com/r/devops/comments/z8m1ij/is_kodeklouds_annual_membership_worth_it/) | IamOkei | 3 |
-| [I am standing at the crossroads.](https://www.reddit.com/r/devops/comments/z7wowu/i_am_standing_at_the_crossroads/) | xnachtmahrx | 3 |
-| [How would you set up your work laptop differently if you had to do it again?](https://www.reddit.com/r/devops/comments/z8ao7d/how_would_you_set_up_your_work_laptop_differently/) | dimapop | 3 |
+| [Tools for determine when a PR is safe to automatically merge](https://www.reddit.com/r/devops/comments/z9bwjz/tools_for_determine_when_a_pr_is_safe_to/) | Sweaty-Plankton7076 | 21 |
+| [Is hosting Sentry ourselves worth it?](https://www.reddit.com/r/devops/comments/z8v967/is_hosting_sentry_ourselves_worth_it/) | gajus0 | 8 |
+| [How much networking i need ?](https://www.reddit.com/r/devops/comments/z8riig/how_much_networking_i_need/) | Mihaw_kx | 6 |
+| [Looking for an online course](https://www.reddit.com/r/devops/comments/z9ll9e/looking_for_an_online_course/) | Saucette | 5 |
+| [Access variables in Jenkins trigger section](https://www.reddit.com/r/devops/comments/z96891/access_variables_in_jenkins_trigger_section/) | qetuop1 | 4 |
+| [Build AWS AMI on GP3 with Packer 1.8.4?](https://www.reddit.com/r/devops/comments/z8ujdr/build_aws_ami_on_gp3_with_packer_184/) | VirtualBlaster | 3 |
+| [Terraform and Kubernetes deployment samples](https://www.reddit.com/r/devops/comments/z8ubn4/terraform_and_kubernetes_deployment_samples/) | Ok_Giraffe1141 | 1 |
+| [Seeking recommendations for code coverage and documentation presentation from Github actions.](https://www.reddit.com/r/devops/comments/z91y9q/seeking_recommendations_for_code_coverage_and/) | dskippy | 1 |
+| [Remote Server Task Execution opensource tool suggestions](https://www.reddit.com/r/devops/comments/z8qiho/remote_server_task_execution_opensource_tool/) | andersoncode42 | 1 |
+| [How do you find the lambda function from the HCL config file?](https://www.reddit.com/r/devops/comments/z9dy7o/how_do_you_find_the_lambda_function_from_the_hcl/) | mobiletiplord | 0 |
