@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Tools for determine when a PR is safe to automatically merge](https://www.reddit.com/r/devops/comments/z9bwjz/tools_for_determine_when_a_pr_is_safe_to/) | Sweaty-Plankton7076 | 21 |
-| [Is hosting Sentry ourselves worth it?](https://www.reddit.com/r/devops/comments/z8v967/is_hosting_sentry_ourselves_worth_it/) | gajus0 | 8 |
-| [How much networking i need ?](https://www.reddit.com/r/devops/comments/z8riig/how_much_networking_i_need/) | Mihaw_kx | 6 |
-| [Looking for an online course](https://www.reddit.com/r/devops/comments/z9ll9e/looking_for_an_online_course/) | Saucette | 5 |
-| [Access variables in Jenkins trigger section](https://www.reddit.com/r/devops/comments/z96891/access_variables_in_jenkins_trigger_section/) | qetuop1 | 4 |
-| [Build AWS AMI on GP3 with Packer 1.8.4?](https://www.reddit.com/r/devops/comments/z8ujdr/build_aws_ami_on_gp3_with_packer_184/) | VirtualBlaster | 3 |
-| [Terraform and Kubernetes deployment samples](https://www.reddit.com/r/devops/comments/z8ubn4/terraform_and_kubernetes_deployment_samples/) | Ok_Giraffe1141 | 1 |
-| [Seeking recommendations for code coverage and documentation presentation from Github actions.](https://www.reddit.com/r/devops/comments/z91y9q/seeking_recommendations_for_code_coverage_and/) | dskippy | 1 |
-| [Remote Server Task Execution opensource tool suggestions](https://www.reddit.com/r/devops/comments/z8qiho/remote_server_task_execution_opensource_tool/) | andersoncode42 | 1 |
-| [How do you find the lambda function from the HCL config file?](https://www.reddit.com/r/devops/comments/z9dy7o/how_do_you_find_the_lambda_function_from_the_hcl/) | mobiletiplord | 0 |
+| [How busy is everyone.. Really.](https://www.reddit.com/r/devops/comments/z9om3o/how_busy_is_everyone_really/) | Majime_7 | 118 |
+| [Red flags with interview process?](https://www.reddit.com/r/devops/comments/z9sylw/red_flags_with_interview_process/) | xrscx | 71 |
+| [Is there a software engineering concept of visually describing a large codebase?](https://www.reddit.com/r/devops/comments/z9rewd/is_there_a_software_engineering_concept_of/) | fez0101 | 9 |
+| [Handling software lifecycle and CD with devices in client premises](https://www.reddit.com/r/devops/comments/zaip7t/handling_software_lifecycle_and_cd_with_devices/) | creat1ve | 8 |
+| [A doubt on the env / secrets process](https://www.reddit.com/r/devops/comments/zah5ye/a_doubt_on_the_env_secrets_process/) | twelveparsec | 4 |
+| [Kubernetes Progressive Delivery Analysis](https://www.reddit.com/r/devops/comments/zagx3t/kubernetes_progressive_delivery_analysis/) | kaskol10 | 3 |
+| [Cloudfront -&gt; S3 + api-gateway origins](https://www.reddit.com/r/devops/comments/z9nn54/cloudfront_s3_apigateway_origins/) | segap | 3 |
+| [unable to resolve Kubernetes cluster API URL dns](https://www.reddit.com/r/devops/comments/zae390/unable_to_resolve_kubernetes_cluster_api_url_dns/) | don1843 | 2 |
+| [testing pyramid doesn't quite work for infrastructure](https://www.reddit.com/r/devops/comments/zaehd0/testing_pyramid_doesnt_quite_work_for/) | kai | 2 |
+| [Python for Devops learning dilemma](https://www.reddit.com/r/devops/comments/zajzge/python_for_devops_learning_dilemma/) | 29092 | 2 |
