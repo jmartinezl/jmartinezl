@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Am I Misunderstanding Trunk Based Development?](https://www.reddit.com/r/devops/comments/zb8d45/am_i_misunderstanding_trunk_based_development/) | Suulace | 41 |
-| [Timescaledb to Thanos](https://www.reddit.com/r/devops/comments/zauqj4/timescaledb_to_thanos/) | gr1mzly | 18 |
-| [Monthly 'Shameless Self Promotion' thread - 2022/12](https://www.reddit.com/r/devops/comments/zaspwq/monthly_shameless_self_promotion_thread_202212/) | mthode | 18 |
-| [What is the correct approach to implement scheduled pipeline?](https://www.reddit.com/r/devops/comments/zb22bv/what_is_the_correct_approach_to_implement/) | CardiologistEarly483 | 10 |
-| [Managed Kubernetes with zero nodes](https://www.reddit.com/r/devops/comments/zakopk/managed_kubernetes_with_zero_nodes/) | bcman31 | 7 |
-| [How can I access VPN protected repo through ArgoCD?](https://www.reddit.com/r/devops/comments/zakpq7/how_can_i_access_vpn_protected_repo_through_argocd/) | mmddev | 6 |
-| [Regarding a question i was asked in my recent interview!](https://www.reddit.com/r/devops/comments/zaq73j/regarding_a_question_i_was_asked_in_my_recent/) | isachinm | 4 |
-| [I wanted an alternative to Atlassian status page so I build my own application !](https://www.reddit.com/r/devops/comments/zaxbxv/i_wanted_an_alternative_to_atlassian_status_page/) | False_Lunik | 2 |
-| [Best practice around maven pom files as devops?](https://www.reddit.com/r/devops/comments/zb7q14/best_practice_around_maven_pom_files_as_devops/) | Meganig | 2 |
-| [Snapshot Error](https://www.reddit.com/r/devops/comments/zau5k5/snapshot_error/) | lilamar31 | 1 |
+| [Monorepo?](https://www.reddit.com/r/devops/comments/zbkgzt/monorepo/) | wpg4665 | 62 |
+| [What happened to r/ops_no_dev?](https://www.reddit.com/r/devops/comments/zbwiei/what_happened_to_rops_no_dev/) | huge-goth-dong | 27 |
+| [Searching for a good bash course to improve my scripting skills](https://www.reddit.com/r/devops/comments/zc2jss/searching_for_a_good_bash_course_to_improve_my/) | Nedko_Hristov | 16 |
+| [Versioning and deploying microservices in k8 using blue-green deployment](https://www.reddit.com/r/devops/comments/zbjh3j/versioning_and_deploying_microservices_in_k8/) | robertzakspb | 14 |
+| [Problem solving techniques?](https://www.reddit.com/r/devops/comments/zbgbrq/problem_solving_techniques/) | TransitWizard | 9 |
+| [What to expect from coding interview?](https://www.reddit.com/r/devops/comments/zbvwge/what_to_expect_from_coding_interview/) | fearful_lobster | 8 |
+| [Want a playground](https://www.reddit.com/r/devops/comments/zc4pzt/want_a_playground/) | IAMABDULLAHSHEIK | 3 |
+| [Question about cognito and oauth2 resource server](https://www.reddit.com/r/devops/comments/zc750x/question_about_cognito_and_oauth2_resource_server/) | Ars0 | 1 |
+| [PSA: Implicit TLS on port 465 is the future, not STARTTLS on 587](https://www.reddit.com/r/devops/comments/zc1mar/psa_implicit_tls_on_port_465_is_the_future_not/) | hardwaresofton | 0 |
+| [Getting into the DevOps](https://www.reddit.com/r/devops/comments/zbos26/getting_into_the_devops/) | zain26- | 0 |
