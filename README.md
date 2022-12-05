@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Monorepo?](https://www.reddit.com/r/devops/comments/zbkgzt/monorepo/) | wpg4665 | 62 |
-| [What happened to r/ops_no_dev?](https://www.reddit.com/r/devops/comments/zbwiei/what_happened_to_rops_no_dev/) | huge-goth-dong | 27 |
-| [Searching for a good bash course to improve my scripting skills](https://www.reddit.com/r/devops/comments/zc2jss/searching_for_a_good_bash_course_to_improve_my/) | Nedko_Hristov | 16 |
-| [Versioning and deploying microservices in k8 using blue-green deployment](https://www.reddit.com/r/devops/comments/zbjh3j/versioning_and_deploying_microservices_in_k8/) | robertzakspb | 14 |
-| [Problem solving techniques?](https://www.reddit.com/r/devops/comments/zbgbrq/problem_solving_techniques/) | TransitWizard | 9 |
-| [What to expect from coding interview?](https://www.reddit.com/r/devops/comments/zbvwge/what_to_expect_from_coding_interview/) | fearful_lobster | 8 |
-| [Want a playground](https://www.reddit.com/r/devops/comments/zc4pzt/want_a_playground/) | IAMABDULLAHSHEIK | 3 |
-| [Question about cognito and oauth2 resource server](https://www.reddit.com/r/devops/comments/zc750x/question_about_cognito_and_oauth2_resource_server/) | Ars0 | 1 |
-| [PSA: Implicit TLS on port 465 is the future, not STARTTLS on 587](https://www.reddit.com/r/devops/comments/zc1mar/psa_implicit_tls_on_port_465_is_the_future_not/) | hardwaresofton | 0 |
-| [Getting into the DevOps](https://www.reddit.com/r/devops/comments/zbos26/getting_into_the_devops/) | zain26- | 0 |
+| [Week 1 Jr DevOps Engineer](https://www.reddit.com/r/devops/comments/zc8zys/week_1_jr_devops_engineer/) | TerminatorTortoise | 153 |
+| ["If you control access, you control compromise..A very, very simple premise of Zero Trust is that everything will be compromised at some point. In reality, it’s everything is compromised until proven otherwise"](https://www.reddit.com/r/devops/comments/zcalgl/if_you_control_access_you_control_compromisea/) | Less_Organization799 | 75 |
+| [At what point does it make sense to deploy K8s?](https://www.reddit.com/r/devops/comments/zcfmv3/at_what_point_does_it_make_sense_to_deploy_k8s/) | Marquis77 | 16 |
+| [CKA exam course](https://www.reddit.com/r/devops/comments/zcl5dt/cka_exam_course/) | ThenBanana | 6 |
+| [Starting a new job tomorrow. First time DevOps Engineer. Any advice?](https://www.reddit.com/r/devops/comments/zcux66/starting_a_new_job_tomorrow_first_time_devops/) | Codestein | 4 |
+| [Bare metal -&gt; VM -&gt; Kubernetes setup](https://www.reddit.com/r/devops/comments/zchqus/bare_metal_vm_kubernetes_setup/) | dydomby | 3 |
+| [Learning materials for CI/CD stuff as a data engineer](https://www.reddit.com/r/devops/comments/zco2fo/learning_materials_for_cicd_stuff_as_a_data/) | EmploymentMammoth659 | 1 |
+| [Azure DevOps private agent pool](https://www.reddit.com/r/devops/comments/zd069u/azure_devops_private_agent_pool/) | Soerenlol | 1 |
+| [AWS Budgets - how long does it take to update?](https://www.reddit.com/r/devops/comments/zd26zt/aws_budgets_how_long_does_it_take_to_update/) | calibrono | 1 |
+| [What are frameworks to focus on in 2023?](https://www.reddit.com/r/devops/comments/zcvzk9/what_are_frameworks_to_focus_on_in_2023/) | Codeeveryday123 | 0 |
