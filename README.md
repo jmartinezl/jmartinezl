@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Week 1 Jr DevOps Engineer](https://www.reddit.com/r/devops/comments/zc8zys/week_1_jr_devops_engineer/) | TerminatorTortoise | 153 |
-| ["If you control access, you control compromise..A very, very simple premise of Zero Trust is that everything will be compromised at some point. In reality, it’s everything is compromised until proven otherwise"](https://www.reddit.com/r/devops/comments/zcalgl/if_you_control_access_you_control_compromisea/) | Less_Organization799 | 75 |
-| [At what point does it make sense to deploy K8s?](https://www.reddit.com/r/devops/comments/zcfmv3/at_what_point_does_it_make_sense_to_deploy_k8s/) | Marquis77 | 16 |
-| [CKA exam course](https://www.reddit.com/r/devops/comments/zcl5dt/cka_exam_course/) | ThenBanana | 6 |
-| [Starting a new job tomorrow. First time DevOps Engineer. Any advice?](https://www.reddit.com/r/devops/comments/zcux66/starting_a_new_job_tomorrow_first_time_devops/) | Codestein | 4 |
-| [Bare metal -&gt; VM -&gt; Kubernetes setup](https://www.reddit.com/r/devops/comments/zchqus/bare_metal_vm_kubernetes_setup/) | dydomby | 3 |
-| [Learning materials for CI/CD stuff as a data engineer](https://www.reddit.com/r/devops/comments/zco2fo/learning_materials_for_cicd_stuff_as_a_data/) | EmploymentMammoth659 | 1 |
-| [Azure DevOps private agent pool](https://www.reddit.com/r/devops/comments/zd069u/azure_devops_private_agent_pool/) | Soerenlol | 1 |
-| [AWS Budgets - how long does it take to update?](https://www.reddit.com/r/devops/comments/zd26zt/aws_budgets_how_long_does_it_take_to_update/) | calibrono | 1 |
-| [What are frameworks to focus on in 2023?](https://www.reddit.com/r/devops/comments/zcvzk9/what_are_frameworks_to_focus_on_in_2023/) | Codeeveryday123 | 0 |
+| [Starting in DevOps](https://www.reddit.com/r/devops/comments/zefnbv/starting_in_devops/) | blueplutomonk | 63 |
+| [How do you deploy with immutable tags?](https://www.reddit.com/r/devops/comments/ze6xc9/how_do_you_deploy_with_immutable_tags/) | gmdotes | 51 |
+| [Is a CI/CD pipeline the right solution for developing Terraform/Ansible code?](https://www.reddit.com/r/devops/comments/zerehl/is_a_cicd_pipeline_the_right_solution_for/) | N7Valiant | 18 |
+| [What companies hire DevOps Engineers from anywhere remotely?](https://www.reddit.com/r/devops/comments/zegi90/what_companies_hire_devops_engineers_from/) | engimere | 17 |
+| [How to tag base image so images built from it can be tracked](https://www.reddit.com/r/devops/comments/zemyhe/how_to_tag_base_image_so_images_built_from_it_can/) | Flat-Speaker566 | 15 |
+| [IaC Tools That are diff/migration based?](https://www.reddit.com/r/devops/comments/zehprg/iac_tools_that_are_diffmigration_based/) | AL-Taiar | 9 |
+| [If you were the single AWS/DevOps engineer for a startup, how complex would you go?](https://www.reddit.com/r/devops/comments/zeysbq/if_you_were_the_single_awsdevops_engineer_for_a/) | uUqBDOqnXN | 6 |
+| [AI in DevOps?](https://www.reddit.com/r/devops/comments/zeeqhs/ai_in_devops/) | the_tipsy_turtle1 | 4 |
+| [Wrote a blog on automating building Golden AMIs to make best use of developer's time](https://www.reddit.com/r/devops/comments/zeyysd/wrote_a_blog_on_automating_building_golden_amis/) | historyfour | 3 |
+| [Auth for serverless API](https://www.reddit.com/r/devops/comments/ze8ubx/auth_for_serverless_api/) | Candid_Ad8689 | 3 |
