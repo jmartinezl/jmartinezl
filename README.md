@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Starting in DevOps](https://www.reddit.com/r/devops/comments/zefnbv/starting_in_devops/) | blueplutomonk | 63 |
-| [How do you deploy with immutable tags?](https://www.reddit.com/r/devops/comments/ze6xc9/how_do_you_deploy_with_immutable_tags/) | gmdotes | 51 |
-| [Is a CI/CD pipeline the right solution for developing Terraform/Ansible code?](https://www.reddit.com/r/devops/comments/zerehl/is_a_cicd_pipeline_the_right_solution_for/) | N7Valiant | 18 |
-| [What companies hire DevOps Engineers from anywhere remotely?](https://www.reddit.com/r/devops/comments/zegi90/what_companies_hire_devops_engineers_from/) | engimere | 17 |
-| [How to tag base image so images built from it can be tracked](https://www.reddit.com/r/devops/comments/zemyhe/how_to_tag_base_image_so_images_built_from_it_can/) | Flat-Speaker566 | 15 |
-| [IaC Tools That are diff/migration based?](https://www.reddit.com/r/devops/comments/zehprg/iac_tools_that_are_diffmigration_based/) | AL-Taiar | 9 |
-| [If you were the single AWS/DevOps engineer for a startup, how complex would you go?](https://www.reddit.com/r/devops/comments/zeysbq/if_you_were_the_single_awsdevops_engineer_for_a/) | uUqBDOqnXN | 6 |
-| [AI in DevOps?](https://www.reddit.com/r/devops/comments/zeeqhs/ai_in_devops/) | the_tipsy_turtle1 | 4 |
-| [Wrote a blog on automating building Golden AMIs to make best use of developer's time](https://www.reddit.com/r/devops/comments/zeyysd/wrote_a_blog_on_automating_building_golden_amis/) | historyfour | 3 |
-| [Auth for serverless API](https://www.reddit.com/r/devops/comments/ze8ubx/auth_for_serverless_api/) | Candid_Ad8689 | 3 |
+| [I asked ChatGPT how to get into DevOps. I am officially worried for my job.](https://www.reddit.com/r/devops/comments/zgjnj1/i_asked_chatgpt_how_to_get_into_devops_i_am/) | IndieDiscovery | 360 |
+| [Management tries to enforce return to office](https://www.reddit.com/r/devops/comments/zfyw75/management_tries_to_enforce_return_to_office/) | Felix1178 | 58 |
+| [Developer switching careers, is roadmap.sh a good source?](https://www.reddit.com/r/devops/comments/zgaxs1/developer_switching_careers_is_roadmapsh_a_good/) | space-thirds | 6 |
+| [Should I Ask Hiring Manager What to Study?](https://www.reddit.com/r/devops/comments/zgnkfl/should_i_ask_hiring_manager_what_to_study/) | yanggang20202024 | 4 |
+| [Java code is 1.8 supported, SonarQube version supports Java 11, the build fails in Jenkins](https://www.reddit.com/r/devops/comments/zg63ec/java_code_is_18_supported_sonarqube_version/) | DevOpsHumbleFool | 4 |
+| [Oracle free tier instance](https://www.reddit.com/r/devops/comments/zgr15q/oracle_free_tier_instance/) | d_o_d_o_ | 2 |
+| [Manage Multiple Kubernetes Clusters with ArgoCD](https://www.reddit.com/r/devops/comments/zgvejc/manage_multiple_kubernetes_clusters_with_argocd/) | piotr_minkowski | 2 |
+| [I am being tasked to ... ( high level advice needed)](https://www.reddit.com/r/devops/comments/zgg860/i_am_being_tasked_to_high_level_advice_needed/) | mimic751 | 2 |
+| [Hi r/DevOps! Join Umber Singh and team from New Relic to talk about topics important to devs like you. Ask us anything from 10AM - 12PM PST on 12/14!](https://www.reddit.com/r/devops/comments/zgfr7b/hi_rdevops_join_umber_singh_and_team_from_new/) | NewRelicChris | 2 |
+| [Any tool to monitor "what's going on within the company?"](https://www.reddit.com/r/devops/comments/zgufi7/any_tool_to_monitor_whats_going_on_within_the/) | totomz | 2 |
