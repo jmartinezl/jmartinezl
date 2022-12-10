@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I asked ChatGPT how to get into DevOps. I am officially worried for my job.](https://www.reddit.com/r/devops/comments/zgjnj1/i_asked_chatgpt_how_to_get_into_devops_i_am/) | IndieDiscovery | 360 |
-| [Management tries to enforce return to office](https://www.reddit.com/r/devops/comments/zfyw75/management_tries_to_enforce_return_to_office/) | Felix1178 | 58 |
-| [Developer switching careers, is roadmap.sh a good source?](https://www.reddit.com/r/devops/comments/zgaxs1/developer_switching_careers_is_roadmapsh_a_good/) | space-thirds | 6 |
-| [Should I Ask Hiring Manager What to Study?](https://www.reddit.com/r/devops/comments/zgnkfl/should_i_ask_hiring_manager_what_to_study/) | yanggang20202024 | 4 |
-| [Java code is 1.8 supported, SonarQube version supports Java 11, the build fails in Jenkins](https://www.reddit.com/r/devops/comments/zg63ec/java_code_is_18_supported_sonarqube_version/) | DevOpsHumbleFool | 4 |
-| [Oracle free tier instance](https://www.reddit.com/r/devops/comments/zgr15q/oracle_free_tier_instance/) | d_o_d_o_ | 2 |
-| [Manage Multiple Kubernetes Clusters with ArgoCD](https://www.reddit.com/r/devops/comments/zgvejc/manage_multiple_kubernetes_clusters_with_argocd/) | piotr_minkowski | 2 |
-| [I am being tasked to ... ( high level advice needed)](https://www.reddit.com/r/devops/comments/zgg860/i_am_being_tasked_to_high_level_advice_needed/) | mimic751 | 2 |
-| [Hi r/DevOps! Join Umber Singh and team from New Relic to talk about topics important to devs like you. Ask us anything from 10AM - 12PM PST on 12/14!](https://www.reddit.com/r/devops/comments/zgfr7b/hi_rdevops_join_umber_singh_and_team_from_new/) | NewRelicChris | 2 |
-| [Any tool to monitor "what's going on within the company?"](https://www.reddit.com/r/devops/comments/zgufi7/any_tool_to_monitor_whats_going_on_within_the/) | totomz | 2 |
+| [How often do you investigate infra "issues" that are actually developer errors?](https://www.reddit.com/r/devops/comments/zh6xhd/how_often_do_you_investigate_infra_issues_that/) | artvandelay12345678 | 99 |
+| [Should I attempt this take home assignment or not worth spending an afternoon?](https://www.reddit.com/r/devops/comments/zgzwhy/should_i_attempt_this_take_home_assignment_or_not/) | Plastic_Pianist_9698 | 29 |
+| [Is docker/k8s necessary for most situations?](https://www.reddit.com/r/devops/comments/zh6a8i/is_dockerk8s_necessary_for_most_situations/) | BurningAlcohol | 10 |
+| [What opensource tools have changed your company culture?](https://www.reddit.com/r/devops/comments/zhplei/what_opensource_tools_have_changed_your_company/) | Malfun_Eddie | 4 |
+| [Terraform Deployment testing](https://www.reddit.com/r/devops/comments/zhgzm5/terraform_deployment_testing/) | Apprehensive_Tea_980 | 3 |
+| [How do you manage Self-Service with Terraform?](https://www.reddit.com/r/devops/comments/zho25d/how_do_you_manage_selfservice_with_terraform/) | ev0xmusic | 3 |
+| [DevOps and DeskSide Support](https://www.reddit.com/r/devops/comments/zh715w/devops_and_deskside_support/) | Bondarelu | 2 |
+| [zone aware telemetry ingestion](https://www.reddit.com/r/devops/comments/zhqi6m/zone_aware_telemetry_ingestion/) | ajpauwels | 1 |
+| [What do you think of “Platform Engineering”?](https://www.reddit.com/r/devops/comments/zhoso6/what_do_you_think_of_platform_engineering/) | N1cl4s | 1 |
+| [Monitor object created in cloud bucket in datadog?](https://www.reddit.com/r/devops/comments/zgypva/monitor_object_created_in_cloud_bucket_in_datadog/) | D675vroom | 1 |
