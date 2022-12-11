@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How often do you investigate infra "issues" that are actually developer errors?](https://www.reddit.com/r/devops/comments/zh6xhd/how_often_do_you_investigate_infra_issues_that/) | artvandelay12345678 | 99 |
-| [Should I attempt this take home assignment or not worth spending an afternoon?](https://www.reddit.com/r/devops/comments/zgzwhy/should_i_attempt_this_take_home_assignment_or_not/) | Plastic_Pianist_9698 | 29 |
-| [Is docker/k8s necessary for most situations?](https://www.reddit.com/r/devops/comments/zh6a8i/is_dockerk8s_necessary_for_most_situations/) | BurningAlcohol | 10 |
-| [What opensource tools have changed your company culture?](https://www.reddit.com/r/devops/comments/zhplei/what_opensource_tools_have_changed_your_company/) | Malfun_Eddie | 4 |
-| [Terraform Deployment testing](https://www.reddit.com/r/devops/comments/zhgzm5/terraform_deployment_testing/) | Apprehensive_Tea_980 | 3 |
-| [How do you manage Self-Service with Terraform?](https://www.reddit.com/r/devops/comments/zho25d/how_do_you_manage_selfservice_with_terraform/) | ev0xmusic | 3 |
-| [DevOps and DeskSide Support](https://www.reddit.com/r/devops/comments/zh715w/devops_and_deskside_support/) | Bondarelu | 2 |
-| [zone aware telemetry ingestion](https://www.reddit.com/r/devops/comments/zhqi6m/zone_aware_telemetry_ingestion/) | ajpauwels | 1 |
-| [What do you think of “Platform Engineering”?](https://www.reddit.com/r/devops/comments/zhoso6/what_do_you_think_of_platform_engineering/) | N1cl4s | 1 |
-| [Monitor object created in cloud bucket in datadog?](https://www.reddit.com/r/devops/comments/zgypva/monitor_object_created_in_cloud_bucket_in_datadog/) | D675vroom | 1 |
+| [Help.. 36hrs in...](https://www.reddit.com/r/devops/comments/zi3q3g/help_36hrs_in/) | Pvt_Ryan100 | 45 |
+| [Tekton + ArgoCD is a thing? If so, why?](https://www.reddit.com/r/devops/comments/zhs6ks/tekton_argocd_is_a_thing_if_so_why/) | ImEatingSeeds | 17 |
+| [Where do you test the stuff you are about to implement?](https://www.reddit.com/r/devops/comments/zhtqi6/where_do_you_test_the_stuff_you_are_about_to/) | CerealBit | 14 |
+| [Cachet: a little bit abandoned, but still a decent monitoring page](https://www.reddit.com/r/devops/comments/zibbgh/cachet_a_little_bit_abandoned_but_still_a_decent/) | hardwaresofton | 13 |
+| [Moving a firewall service to AWS.](https://www.reddit.com/r/devops/comments/zi76o5/moving_a_firewall_service_to_aws/) | Sudden-Engineer44 | 3 |
+| [Monitoring Network Performance on thousands of devices across WAN](https://www.reddit.com/r/devops/comments/zhutr0/monitoring_network_performance_on_thousands_of/) | SuperSiayuan | 2 |
+| [How would you scale self hosted Azure DevOps agents or other CI runners? Would you use Kubernetes?](https://www.reddit.com/r/devops/comments/zhymhc/how_would_you_scale_self_hosted_azure_devops/) | Shakedko | 2 |
+| [Protect my API](https://www.reddit.com/r/devops/comments/zht4c1/protect_my_api/) | lordcummin | 1 |
+| [how to "bind" docker container to subdomain](https://www.reddit.com/r/devops/comments/zhtomo/how_to_bind_docker_container_to_subdomain/) | PigRider | 0 |
+| [Is everyone technically a web/mobile developer?](https://www.reddit.com/r/devops/comments/zii2j0/is_everyone_technically_a_webmobile_developer/) | JonathanMonathan62 | 0 |
