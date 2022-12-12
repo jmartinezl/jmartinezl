@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Help.. 36hrs in...](https://www.reddit.com/r/devops/comments/zi3q3g/help_36hrs_in/) | Pvt_Ryan100 | 45 |
-| [Tekton + ArgoCD is a thing? If so, why?](https://www.reddit.com/r/devops/comments/zhs6ks/tekton_argocd_is_a_thing_if_so_why/) | ImEatingSeeds | 17 |
-| [Where do you test the stuff you are about to implement?](https://www.reddit.com/r/devops/comments/zhtqi6/where_do_you_test_the_stuff_you_are_about_to/) | CerealBit | 14 |
-| [Cachet: a little bit abandoned, but still a decent monitoring page](https://www.reddit.com/r/devops/comments/zibbgh/cachet_a_little_bit_abandoned_but_still_a_decent/) | hardwaresofton | 13 |
-| [Moving a firewall service to AWS.](https://www.reddit.com/r/devops/comments/zi76o5/moving_a_firewall_service_to_aws/) | Sudden-Engineer44 | 3 |
-| [Monitoring Network Performance on thousands of devices across WAN](https://www.reddit.com/r/devops/comments/zhutr0/monitoring_network_performance_on_thousands_of/) | SuperSiayuan | 2 |
-| [How would you scale self hosted Azure DevOps agents or other CI runners? Would you use Kubernetes?](https://www.reddit.com/r/devops/comments/zhymhc/how_would_you_scale_self_hosted_azure_devops/) | Shakedko | 2 |
-| [Protect my API](https://www.reddit.com/r/devops/comments/zht4c1/protect_my_api/) | lordcummin | 1 |
-| [how to "bind" docker container to subdomain](https://www.reddit.com/r/devops/comments/zhtomo/how_to_bind_docker_container_to_subdomain/) | PigRider | 0 |
-| [Is everyone technically a web/mobile developer?](https://www.reddit.com/r/devops/comments/zii2j0/is_everyone_technically_a_webmobile_developer/) | JonathanMonathan62 | 0 |
+| [What makes a "good" junior engineer? My 2c as a senior.](https://www.reddit.com/r/devops/comments/zjnk4n/what_makes_a_good_junior_engineer_my_2c_as_a/) | awesomefossum | 135 |
+| [I am building an open-source Self Service Infrastructure platform](https://www.reddit.com/r/devops/comments/zisxr0/i_am_building_an_opensource_self_service/) | ev0xmusic | 63 |
+| [Week 2 Devops](https://www.reddit.com/r/devops/comments/zj7zqp/week_2_devops/) | TerminatorTortoise | 45 |
+| [sysadmin to DevOps](https://www.reddit.com/r/devops/comments/zivl4x/sysadmin_to_devops/) | pigeonbob25 | 29 |
+| [How to practice DevOps if you don't work as DevOps](https://www.reddit.com/r/devops/comments/zj2bji/how_to_practice_devops_if_you_dont_work_as_devops/) | Yoha485 | 17 |
+| [How would you define "DevOps"?](https://www.reddit.com/r/devops/comments/zj63ge/how_would_you_define_devops/) | NHGuy | 12 |
+| [Serverless Framework IAM policy scoping](https://www.reddit.com/r/devops/comments/zj5yeu/serverless_framework_iam_policy_scoping/) | davegravy | 7 |
+| [I created my first Python program thanks to this sub!](https://www.reddit.com/r/devops/comments/zj9evh/i_created_my_first_python_program_thanks_to_this/) | dimapop | 5 |
+| [Well-architected framework. How well should a DevOps engineer know it?](https://www.reddit.com/r/devops/comments/zj3box/wellarchitected_framework_how_well_should_a/) | Outrageous-Ad-288 | 4 |
+| [cloud-init and nodata source](https://www.reddit.com/r/devops/comments/zjfx8k/cloudinit_and_nodata_source/) | theRealGrahamDorsey | 3 |
