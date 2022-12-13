@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What makes a "good" junior engineer? My 2c as a senior.](https://www.reddit.com/r/devops/comments/zjnk4n/what_makes_a_good_junior_engineer_my_2c_as_a/) | awesomefossum | 135 |
-| [I am building an open-source Self Service Infrastructure platform](https://www.reddit.com/r/devops/comments/zisxr0/i_am_building_an_opensource_self_service/) | ev0xmusic | 63 |
-| [Week 2 Devops](https://www.reddit.com/r/devops/comments/zj7zqp/week_2_devops/) | TerminatorTortoise | 45 |
-| [sysadmin to DevOps](https://www.reddit.com/r/devops/comments/zivl4x/sysadmin_to_devops/) | pigeonbob25 | 29 |
-| [How to practice DevOps if you don't work as DevOps](https://www.reddit.com/r/devops/comments/zj2bji/how_to_practice_devops_if_you_dont_work_as_devops/) | Yoha485 | 17 |
-| [How would you define "DevOps"?](https://www.reddit.com/r/devops/comments/zj63ge/how_would_you_define_devops/) | NHGuy | 12 |
-| [Serverless Framework IAM policy scoping](https://www.reddit.com/r/devops/comments/zj5yeu/serverless_framework_iam_policy_scoping/) | davegravy | 7 |
-| [I created my first Python program thanks to this sub!](https://www.reddit.com/r/devops/comments/zj9evh/i_created_my_first_python_program_thanks_to_this/) | dimapop | 5 |
-| [Well-architected framework. How well should a DevOps engineer know it?](https://www.reddit.com/r/devops/comments/zj3box/wellarchitected_framework_how_well_should_a/) | Outrageous-Ad-288 | 4 |
-| [cloud-init and nodata source](https://www.reddit.com/r/devops/comments/zjfx8k/cloudinit_and_nodata_source/) | theRealGrahamDorsey | 3 |
+| [I am not liking my job](https://www.reddit.com/r/devops/comments/zkikgj/i_am_not_liking_my_job/) | Acrobatic-Warthog-65 | 41 |
+| [Director is floating the idea of moving me into Management...](https://www.reddit.com/r/devops/comments/zjyojz/director_is_floating_the_idea_of_moving_me_into/) | floppy_panoos | 24 |
+| [terraforming existing infra](https://www.reddit.com/r/devops/comments/zkapt1/terraforming_existing_infra/) | jagedn | 21 |
+| [Infrastructure as code](https://www.reddit.com/r/devops/comments/zk7tgk/infrastructure_as_code/) | Trevor_Tn1 | 18 |
+| [When is Ansible needed and why?](https://www.reddit.com/r/devops/comments/zjzkdh/when_is_ansible_needed_and_why/) | snickns | 10 |
+| [Expose only part of .env for every service in docker-compose](https://www.reddit.com/r/devops/comments/zk7lp5/expose_only_part_of_env_for_every_service_in/) | dotaleaker | 5 |
+| [pgadmin with okta or paid equivalent](https://www.reddit.com/r/devops/comments/zkqyeh/pgadmin_with_okta_or_paid_equivalent/) | tech_tuna | 2 |
+| [Scriptable vs Non scriptable load testing platforms](https://www.reddit.com/r/devops/comments/zkiadg/scriptable_vs_non_scriptable_load_testing/) | roadbiking19 | 2 |
+| [Presigned URL for multiple files](https://www.reddit.com/r/devops/comments/zkqysa/presigned_url_for_multiple_files/) | eyesniper12 | 2 |
+| [Automated provisioning for data resources](https://www.reddit.com/r/devops/comments/zk6ksg/automated_provisioning_for_data_resources/) | 7007001 | 2 |
