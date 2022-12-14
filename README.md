@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I am not liking my job](https://www.reddit.com/r/devops/comments/zkikgj/i_am_not_liking_my_job/) | Acrobatic-Warthog-65 | 41 |
-| [Director is floating the idea of moving me into Management...](https://www.reddit.com/r/devops/comments/zjyojz/director_is_floating_the_idea_of_moving_me_into/) | floppy_panoos | 24 |
-| [terraforming existing infra](https://www.reddit.com/r/devops/comments/zkapt1/terraforming_existing_infra/) | jagedn | 21 |
-| [Infrastructure as code](https://www.reddit.com/r/devops/comments/zk7tgk/infrastructure_as_code/) | Trevor_Tn1 | 18 |
-| [When is Ansible needed and why?](https://www.reddit.com/r/devops/comments/zjzkdh/when_is_ansible_needed_and_why/) | snickns | 10 |
-| [Expose only part of .env for every service in docker-compose](https://www.reddit.com/r/devops/comments/zk7lp5/expose_only_part_of_env_for_every_service_in/) | dotaleaker | 5 |
-| [pgadmin with okta or paid equivalent](https://www.reddit.com/r/devops/comments/zkqyeh/pgadmin_with_okta_or_paid_equivalent/) | tech_tuna | 2 |
-| [Scriptable vs Non scriptable load testing platforms](https://www.reddit.com/r/devops/comments/zkiadg/scriptable_vs_non_scriptable_load_testing/) | roadbiking19 | 2 |
-| [Presigned URL for multiple files](https://www.reddit.com/r/devops/comments/zkqysa/presigned_url_for_multiple_files/) | eyesniper12 | 2 |
-| [Automated provisioning for data resources](https://www.reddit.com/r/devops/comments/zk6ksg/automated_provisioning_for_data_resources/) | 7007001 | 2 |
+| [A single person answered 76k questions about SQL on StackOverflow. Averaging 22.8 answers per day, every day, for the past 8.6 years](https://www.reddit.com/r/devops/comments/zku6x5/a_single_person_answered_76k_questions_about_sql/) | Minteandome | 662 |
+| [Why is DevOps just Ops in 90% of posts here and job openings?](https://www.reddit.com/r/devops/comments/zlhoyq/why_is_devops_just_ops_in_90_of_posts_here_and/) | Character-Act-9090 | 52 |
+| [Hi r/DevOps! Chris from New Relic here with Umber Singh, VP of Deal Strategy &amp; Monetization, and members of the technical team from New Relic. Ask us anything about K8s, network monitoring, logging, or anything on your minds. AMA!](https://www.reddit.com/r/devops/comments/zl2c4e/hi_rdevops_chris_from_new_relic_here_with_umber/) | NewRelicChris | 10 |
+| [AWS Lambda tracing with OpenTelemetry and OpenSearch](https://www.reddit.com/r/devops/comments/zl0wqk/aws_lambda_tracing_with_opentelemetry_and/) | adnanrahic | 6 |
+| [New to DevOps and my team](https://www.reddit.com/r/devops/comments/zlcwd2/new_to_devops_and_my_team/) | flitzyyy | 4 |
+| [Why using Kaniko for building images when there's more privileged containers in play?](https://www.reddit.com/r/devops/comments/zlmci2/why_using_kaniko_for_building_images_when_theres/) | doofzWasTaken | 3 |
+| [Windows Based Environments and Single Source of Truth](https://www.reddit.com/r/devops/comments/zl6gj1/windows_based_environments_and_single_source_of/) | strongbadfreak | 2 |
+| [Sealed Secrets on Kubernetes with ArgoCD and Terraform](https://www.reddit.com/r/devops/comments/zln8co/sealed_secrets_on_kubernetes_with_argocd_and/) | piotr_minkowski | 2 |
+| [Msp devops shared tools](https://www.reddit.com/r/devops/comments/zllhw9/msp_devops_shared_tools/) | jpjohnny | 2 |
+| [Do you like being a devops engineer?](https://www.reddit.com/r/devops/comments/zln5r7/do_you_like_being_a_devops_engineer/) | No-Investigator7458 | 2 |
