@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [A single person answered 76k questions about SQL on StackOverflow. Averaging 22.8 answers per day, every day, for the past 8.6 years](https://www.reddit.com/r/devops/comments/zku6x5/a_single_person_answered_76k_questions_about_sql/) | Minteandome | 662 |
-| [Why is DevOps just Ops in 90% of posts here and job openings?](https://www.reddit.com/r/devops/comments/zlhoyq/why_is_devops_just_ops_in_90_of_posts_here_and/) | Character-Act-9090 | 52 |
-| [Hi r/DevOps! Chris from New Relic here with Umber Singh, VP of Deal Strategy &amp; Monetization, and members of the technical team from New Relic. Ask us anything about K8s, network monitoring, logging, or anything on your minds. AMA!](https://www.reddit.com/r/devops/comments/zl2c4e/hi_rdevops_chris_from_new_relic_here_with_umber/) | NewRelicChris | 10 |
-| [AWS Lambda tracing with OpenTelemetry and OpenSearch](https://www.reddit.com/r/devops/comments/zl0wqk/aws_lambda_tracing_with_opentelemetry_and/) | adnanrahic | 6 |
-| [New to DevOps and my team](https://www.reddit.com/r/devops/comments/zlcwd2/new_to_devops_and_my_team/) | flitzyyy | 4 |
-| [Why using Kaniko for building images when there's more privileged containers in play?](https://www.reddit.com/r/devops/comments/zlmci2/why_using_kaniko_for_building_images_when_theres/) | doofzWasTaken | 3 |
-| [Windows Based Environments and Single Source of Truth](https://www.reddit.com/r/devops/comments/zl6gj1/windows_based_environments_and_single_source_of/) | strongbadfreak | 2 |
-| [Sealed Secrets on Kubernetes with ArgoCD and Terraform](https://www.reddit.com/r/devops/comments/zln8co/sealed_secrets_on_kubernetes_with_argocd_and/) | piotr_minkowski | 2 |
-| [Msp devops shared tools](https://www.reddit.com/r/devops/comments/zllhw9/msp_devops_shared_tools/) | jpjohnny | 2 |
-| [Do you like being a devops engineer?](https://www.reddit.com/r/devops/comments/zln5r7/do_you_like_being_a_devops_engineer/) | No-Investigator7458 | 2 |
+| [Free tool that let’s you query GPT3-based k8s expert](https://www.reddit.com/r/devops/comments/zlxb9n/free_tool_that_lets_you_query_gpt3based_k8s_expert/) | the_egotist | 151 |
+| [Best tools/resources for improving “developer experience.” Need to submit my 2023 asks next week.](https://www.reddit.com/r/devops/comments/zm0col/best_toolsresources_for_improving_developer/) | obnoxiouslygrounded | 51 |
+| [Rotating secrets for on-prem infrastructure?](https://www.reddit.com/r/devops/comments/zlrgcw/rotating_secrets_for_onprem_infrastructure/) | FrayedHockey | 24 |
+| [Does every commit needs build and deployment -Continuous Integration ?](https://www.reddit.com/r/devops/comments/zlq9go/does_every_commit_needs_build_and_deployment/) | DataFreakk | 4 |
+| [sonarqube and sonarlint have diferent number of issues](https://www.reddit.com/r/devops/comments/zmit74/sonarqube_and_sonarlint_have_diferent_number_of/) | thanosmourtk98 | 3 |
+| [Simple automation for a static AWS S3 hosted site](https://www.reddit.com/r/devops/comments/zlqhgu/simple_automation_for_a_static_aws_s3_hosted_site/) | IP_FiNaR | 2 |
+| [Best course of action Infrastructure(ops) to DevOps](https://www.reddit.com/r/devops/comments/zm6wem/best_course_of_action_infrastructureops_to_devops/) | TahaTheNetAutmator | 2 |
+| [can a kubenet reuse docker bridge/service code?](https://www.reddit.com/r/devops/comments/zlvihc/can_a_kubenet_reuse_docker_bridgeservice_code/) | FunnyMathematician77 | 1 |
+| [aws architecture questions](https://www.reddit.com/r/devops/comments/zm6844/aws_architecture_questions/) | archhelp1 | 1 |
+| [Got a job offer as a MS Azure DevOps what should I remember or need to learn?](https://www.reddit.com/r/devops/comments/zly7gg/got_a_job_offer_as_a_ms_azure_devops_what_should/) | VanillaIceFries | 1 |
