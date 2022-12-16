@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Free tool that let’s you query GPT3-based k8s expert](https://www.reddit.com/r/devops/comments/zlxb9n/free_tool_that_lets_you_query_gpt3based_k8s_expert/) | the_egotist | 151 |
-| [Best tools/resources for improving “developer experience.” Need to submit my 2023 asks next week.](https://www.reddit.com/r/devops/comments/zm0col/best_toolsresources_for_improving_developer/) | obnoxiouslygrounded | 51 |
-| [Rotating secrets for on-prem infrastructure?](https://www.reddit.com/r/devops/comments/zlrgcw/rotating_secrets_for_onprem_infrastructure/) | FrayedHockey | 24 |
-| [Does every commit needs build and deployment -Continuous Integration ?](https://www.reddit.com/r/devops/comments/zlq9go/does_every_commit_needs_build_and_deployment/) | DataFreakk | 4 |
-| [sonarqube and sonarlint have diferent number of issues](https://www.reddit.com/r/devops/comments/zmit74/sonarqube_and_sonarlint_have_diferent_number_of/) | thanosmourtk98 | 3 |
-| [Simple automation for a static AWS S3 hosted site](https://www.reddit.com/r/devops/comments/zlqhgu/simple_automation_for_a_static_aws_s3_hosted_site/) | IP_FiNaR | 2 |
-| [Best course of action Infrastructure(ops) to DevOps](https://www.reddit.com/r/devops/comments/zm6wem/best_course_of_action_infrastructureops_to_devops/) | TahaTheNetAutmator | 2 |
-| [can a kubenet reuse docker bridge/service code?](https://www.reddit.com/r/devops/comments/zlvihc/can_a_kubenet_reuse_docker_bridgeservice_code/) | FunnyMathematician77 | 1 |
-| [aws architecture questions](https://www.reddit.com/r/devops/comments/zm6844/aws_architecture_questions/) | archhelp1 | 1 |
-| [Got a job offer as a MS Azure DevOps what should I remember or need to learn?](https://www.reddit.com/r/devops/comments/zly7gg/got_a_job_offer_as_a_ms_azure_devops_what_should/) | VanillaIceFries | 1 |
+| [What're some example Junior DevOps interview questions?](https://www.reddit.com/r/devops/comments/zmm2xc/whatre_some_example_junior_devops_interview/) | Cadowyn | 99 |
+| [Best tool to collect/monitor containers logs?](https://www.reddit.com/r/devops/comments/zmkj6m/best_tool_to_collectmonitor_containers_logs/) | romanrsr | 31 |
+| [Things I want from Devs as DevOps/SRE](https://www.reddit.com/r/devops/comments/zmxvcg/things_i_want_from_devs_as_devopssre/) | oschvr | 23 |
+| [Node.js NTOP - a tool for instant performance profiling of currently running processes](https://www.reddit.com/r/devops/comments/zmwoa4/nodejs_ntop_a_tool_for_instant_performance/) | Rockclimber88 | 15 |
+| [Commandline tool vs UI based Operations?](https://www.reddit.com/r/devops/comments/zmvh7o/commandline_tool_vs_ui_based_operations/) | revoir-in | 15 |
+| [Any one have experience with Part time devops jobs?](https://www.reddit.com/r/devops/comments/zmuxby/any_one_have_experience_with_part_time_devops_jobs/) | dr_dre117 | 11 |
+| [Question: What tools or technologies are you looking into lately ?](https://www.reddit.com/r/devops/comments/zn96y9/question_what_tools_or_technologies_are_you/) | outandaboutbc | 5 |
+| [Life after Nx](https://www.reddit.com/r/devops/comments/zncba6/life_after_nx/) | fartigrade | 5 |
+| [Career change - Help.](https://www.reddit.com/r/devops/comments/zmkxow/career_change_help/) | Direct_Ad1761 | 4 |
+| [Separate git repository just for devops?](https://www.reddit.com/r/devops/comments/zna1ni/separate_git_repository_just_for_devops/) | CerealBit | 3 |
