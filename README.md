@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What're some example Junior DevOps interview questions?](https://www.reddit.com/r/devops/comments/zmm2xc/whatre_some_example_junior_devops_interview/) | Cadowyn | 99 |
-| [Best tool to collect/monitor containers logs?](https://www.reddit.com/r/devops/comments/zmkj6m/best_tool_to_collectmonitor_containers_logs/) | romanrsr | 31 |
-| [Things I want from Devs as DevOps/SRE](https://www.reddit.com/r/devops/comments/zmxvcg/things_i_want_from_devs_as_devopssre/) | oschvr | 23 |
-| [Node.js NTOP - a tool for instant performance profiling of currently running processes](https://www.reddit.com/r/devops/comments/zmwoa4/nodejs_ntop_a_tool_for_instant_performance/) | Rockclimber88 | 15 |
-| [Commandline tool vs UI based Operations?](https://www.reddit.com/r/devops/comments/zmvh7o/commandline_tool_vs_ui_based_operations/) | revoir-in | 15 |
-| [Any one have experience with Part time devops jobs?](https://www.reddit.com/r/devops/comments/zmuxby/any_one_have_experience_with_part_time_devops_jobs/) | dr_dre117 | 11 |
-| [Question: What tools or technologies are you looking into lately ?](https://www.reddit.com/r/devops/comments/zn96y9/question_what_tools_or_technologies_are_you/) | outandaboutbc | 5 |
-| [Life after Nx](https://www.reddit.com/r/devops/comments/zncba6/life_after_nx/) | fartigrade | 5 |
-| [Career change - Help.](https://www.reddit.com/r/devops/comments/zmkxow/career_change_help/) | Direct_Ad1761 | 4 |
-| [Separate git repository just for devops?](https://www.reddit.com/r/devops/comments/zna1ni/separate_git_repository_just_for_devops/) | CerealBit | 3 |
+| [Beginner's guide on how to set up a new project with proper CI/CD pipeline and containers](https://www.reddit.com/r/devops/comments/znirfs/beginners_guide_on_how_to_set_up_a_new_project/) | ioah86 | 99 |
+| [Would you consider a job with on-prem rather than public?](https://www.reddit.com/r/devops/comments/zniddk/would_you_consider_a_job_with_onprem_rather_than/) | frameclowder | 44 |
+| [What security controls to prevent someone from pushing arbitrary code into production?](https://www.reddit.com/r/devops/comments/zngalh/what_security_controls_to_prevent_someone_from/) | HamsterMoisture | 35 |
+| [Moving from sysadmin to sre/devops. any certs or none at all?](https://www.reddit.com/r/devops/comments/znkfz0/moving_from_sysadmin_to_sredevops_any_certs_or/) | Stasky-X | 11 |
+| [React/Flask Minikube k8s pods are working, but not finding each other. How to fix?](https://www.reddit.com/r/devops/comments/zni8hz/reactflask_minikube_k8s_pods_are_working_but_not/) | Unusual-Instance-717 | 10 |
+| [Web UI for Managing Files in a Kubernetes Volume](https://www.reddit.com/r/devops/comments/zniz1q/web_ui_for_managing_files_in_a_kubernetes_volume/) | jameshearttech | 8 |
+| [GitHub Actions - How do you deal with the built-in cron scheduler being unreliable?](https://www.reddit.com/r/devops/comments/znndps/github_actions_how_do_you_deal_with_the_builtin/) | GloomyUse1095 | 6 |
+| [advice on career and personality](https://www.reddit.com/r/devops/comments/zng6zi/advice_on_career_and_personality/) | Separate_Mode8065 | 4 |
+| [Internal documentation thing](https://www.reddit.com/r/devops/comments/znjqns/internal_documentation_thing/) | gp42 | 3 |
+| [Do you fit security into your DevOps setup, or do you keep your security team as a separate entity?](https://www.reddit.com/r/devops/comments/zne3j5/do_you_fit_security_into_your_devops_setup_or_do/) | matgalt | 3 |
