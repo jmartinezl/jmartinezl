@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Beginner's guide on how to set up a new project with proper CI/CD pipeline and containers](https://www.reddit.com/r/devops/comments/znirfs/beginners_guide_on_how_to_set_up_a_new_project/) | ioah86 | 99 |
-| [Would you consider a job with on-prem rather than public?](https://www.reddit.com/r/devops/comments/zniddk/would_you_consider_a_job_with_onprem_rather_than/) | frameclowder | 44 |
-| [What security controls to prevent someone from pushing arbitrary code into production?](https://www.reddit.com/r/devops/comments/zngalh/what_security_controls_to_prevent_someone_from/) | HamsterMoisture | 35 |
-| [Moving from sysadmin to sre/devops. any certs or none at all?](https://www.reddit.com/r/devops/comments/znkfz0/moving_from_sysadmin_to_sredevops_any_certs_or/) | Stasky-X | 11 |
-| [React/Flask Minikube k8s pods are working, but not finding each other. How to fix?](https://www.reddit.com/r/devops/comments/zni8hz/reactflask_minikube_k8s_pods_are_working_but_not/) | Unusual-Instance-717 | 10 |
-| [Web UI for Managing Files in a Kubernetes Volume](https://www.reddit.com/r/devops/comments/zniz1q/web_ui_for_managing_files_in_a_kubernetes_volume/) | jameshearttech | 8 |
-| [GitHub Actions - How do you deal with the built-in cron scheduler being unreliable?](https://www.reddit.com/r/devops/comments/znndps/github_actions_how_do_you_deal_with_the_builtin/) | GloomyUse1095 | 6 |
-| [advice on career and personality](https://www.reddit.com/r/devops/comments/zng6zi/advice_on_career_and_personality/) | Separate_Mode8065 | 4 |
-| [Internal documentation thing](https://www.reddit.com/r/devops/comments/znjqns/internal_documentation_thing/) | gp42 | 3 |
-| [Do you fit security into your DevOps setup, or do you keep your security team as a separate entity?](https://www.reddit.com/r/devops/comments/zne3j5/do_you_fit_security_into_your_devops_setup_or_do/) | matgalt | 3 |
+| [What is the difference between a Microservice- &amp; a Cloud Native Application](https://www.reddit.com/r/devops/comments/zobb18/what_is_the_difference_between_a_microservice_a/) | N1cl4s | 54 |
+| [How to you practice Linux skills? What Linux skills are even necessary for DevOps?](https://www.reddit.com/r/devops/comments/zoskvx/how_to_you_practice_linux_skills_what_linux/) | West-Papaya | 17 |
+| [How would you show “Wireframes” for a code deployment tool?](https://www.reddit.com/r/devops/comments/zodt7j/how_would_you_show_wireframes_for_a_code/) | MissedFieldGoal | 14 |
+| [Terraform azure VM connect to Github](https://www.reddit.com/r/devops/comments/zo9m6y/terraform_azure_vm_connect_to_github/) | lclhr | 10 |
+| [Team Leader Tooling](https://www.reddit.com/r/devops/comments/zomk5g/team_leader_tooling/) | Kallystos | 1 |
+| [Looking for Project - GitLab, Python/Flask, Terraform, Docker, Kubernetes, Ansible, ELK stack, AWS](https://www.reddit.com/r/devops/comments/zofgai/looking_for_project_gitlab_pythonflask_terraform/) | AuthBoss | 0 |
