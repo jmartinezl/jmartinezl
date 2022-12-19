@@ -44,9 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What is the difference between a Microservice- &amp; a Cloud Native Application](https://www.reddit.com/r/devops/comments/zobb18/what_is_the_difference_between_a_microservice_a/) | N1cl4s | 54 |
-| [How to you practice Linux skills? What Linux skills are even necessary for DevOps?](https://www.reddit.com/r/devops/comments/zoskvx/how_to_you_practice_linux_skills_what_linux/) | West-Papaya | 17 |
-| [How would you show “Wireframes” for a code deployment tool?](https://www.reddit.com/r/devops/comments/zodt7j/how_would_you_show_wireframes_for_a_code/) | MissedFieldGoal | 14 |
-| [Terraform azure VM connect to Github](https://www.reddit.com/r/devops/comments/zo9m6y/terraform_azure_vm_connect_to_github/) | lclhr | 10 |
-| [Team Leader Tooling](https://www.reddit.com/r/devops/comments/zomk5g/team_leader_tooling/) | Kallystos | 1 |
-| [Looking for Project - GitLab, Python/Flask, Terraform, Docker, Kubernetes, Ansible, ELK stack, AWS](https://www.reddit.com/r/devops/comments/zofgai/looking_for_project_gitlab_pythonflask_terraform/) | AuthBoss | 0 |
+| [How limited are your DevOps / Cloud Engineering career options, if you refuse to do LeetCode interviews?](https://www.reddit.com/r/devops/comments/zoypyf/how_limited_are_your_devops_cloud_engineering/) | yabbagabbamappa | 99 |
+| [What tools or systems do you use to manage your time, improve your productivity or to make your life easier?](https://www.reddit.com/r/devops/comments/zplfpz/what_tools_or_systems_do_you_use_to_manage_your/) | AemonXVI | 30 |
+| [API gateway deployment patterns](https://www.reddit.com/r/devops/comments/zpmm1u/api_gateway_deployment_patterns/) | bumurzokov | 8 |
+| [Turn your actual feedback into a business appropriate email with AI](https://www.reddit.com/r/devops/comments/zpd3ur/turn_your_actual_feedback_into_a_business/) | VeryOriginalName98 | 6 |
+| [Internal metrics / KPIs for workflow scheduler platforms like Github Actions, Gitlab Pipelines, Circle CI, etc ?](https://www.reddit.com/r/devops/comments/zpo3bq/internal_metrics_kpis_for_workflow_scheduler/) | lukasmrtvy | 3 |
+| [Confused about behavior of GitHub runner based of ubuntu-latest - HELP GITHUB ACTIONS](https://www.reddit.com/r/devops/comments/zpa0mv/confused_about_behavior_of_github_runner_based_of/) | win_for_the_world | 3 |
+| [Question about DevOps agile skills association (DASA)](https://www.reddit.com/r/devops/comments/zpmqoq/question_about_devops_agile_skills_association/) | Blitziggy | 1 |
+| [Kube-Reqsizer - a Non-VPA simple controller for automatically optimizing pod requests](https://www.reddit.com/r/devops/comments/zpn9na/kubereqsizer_a_nonvpa_simple_controller_for/) | Jatalocks2 | 1 |
+| [Is Azure Cosmos DB essentially Citus?](https://www.reddit.com/r/devops/comments/zp86x0/is_azure_cosmos_db_essentially_citus/) | blueplutomonk | 1 |
+| [Initial CI/CD pipeline for new project](https://www.reddit.com/r/devops/comments/zpo8qw/initial_cicd_pipeline_for_new_project/) | web_deb | 1 |
