@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How limited are your DevOps / Cloud Engineering career options, if you refuse to do LeetCode interviews?](https://www.reddit.com/r/devops/comments/zoypyf/how_limited_are_your_devops_cloud_engineering/) | yabbagabbamappa | 99 |
-| [What tools or systems do you use to manage your time, improve your productivity or to make your life easier?](https://www.reddit.com/r/devops/comments/zplfpz/what_tools_or_systems_do_you_use_to_manage_your/) | AemonXVI | 30 |
-| [API gateway deployment patterns](https://www.reddit.com/r/devops/comments/zpmm1u/api_gateway_deployment_patterns/) | bumurzokov | 8 |
-| [Turn your actual feedback into a business appropriate email with AI](https://www.reddit.com/r/devops/comments/zpd3ur/turn_your_actual_feedback_into_a_business/) | VeryOriginalName98 | 6 |
-| [Internal metrics / KPIs for workflow scheduler platforms like Github Actions, Gitlab Pipelines, Circle CI, etc ?](https://www.reddit.com/r/devops/comments/zpo3bq/internal_metrics_kpis_for_workflow_scheduler/) | lukasmrtvy | 3 |
-| [Confused about behavior of GitHub runner based of ubuntu-latest - HELP GITHUB ACTIONS](https://www.reddit.com/r/devops/comments/zpa0mv/confused_about_behavior_of_github_runner_based_of/) | win_for_the_world | 3 |
-| [Question about DevOps agile skills association (DASA)](https://www.reddit.com/r/devops/comments/zpmqoq/question_about_devops_agile_skills_association/) | Blitziggy | 1 |
-| [Kube-Reqsizer - a Non-VPA simple controller for automatically optimizing pod requests](https://www.reddit.com/r/devops/comments/zpn9na/kubereqsizer_a_nonvpa_simple_controller_for/) | Jatalocks2 | 1 |
-| [Is Azure Cosmos DB essentially Citus?](https://www.reddit.com/r/devops/comments/zp86x0/is_azure_cosmos_db_essentially_citus/) | blueplutomonk | 1 |
-| [Initial CI/CD pipeline for new project](https://www.reddit.com/r/devops/comments/zpo8qw/initial_cicd_pipeline_for_new_project/) | web_deb | 1 |
+| [Devops engineers who use windows, how?](https://www.reddit.com/r/devops/comments/zpq42q/devops_engineers_who_use_windows_how/) | follow-the-lead | 86 |
+| [I got a job offer at Amazon Europe??](https://www.reddit.com/r/devops/comments/zq49a0/i_got_a_job_offer_at_amazon_europe/) | HazRi27 | 51 |
+| [What can GitHub Actions do that CircleCI, or Jenkins or others cannot do?](https://www.reddit.com/r/devops/comments/zqcu0c/what_can_github_actions_do_that_circleci_or/) | Capra_falconeri | 6 |
+| [How does pulumi compare with cdk?](https://www.reddit.com/r/devops/comments/zqedfy/how_does_pulumi_compare_with_cdk/) | gvpmahesh | 5 |
+| [Oracle Cloud](https://www.reddit.com/r/devops/comments/zpx5qo/oracle_cloud/) | besil | 4 |
+| [Azure function apps, Python and pyodbc module](https://www.reddit.com/r/devops/comments/zq1yxt/azure_function_apps_python_and_pyodbc_module/) | necesitorespuestas | 3 |
+| [What would it take for you to start using SSM to replace SSH?](https://www.reddit.com/r/devops/comments/zqlhu1/what_would_it_take_for_you_to_start_using_ssm_to/) | omerxman | 1 |
+| [OpenSearch and Logstash take a lot of memory on startup (in a local env)](https://www.reddit.com/r/devops/comments/zqkqq8/opensearch_and_logstash_take_a_lot_of_memory_on/) | NedkoHristov | 1 |
+| [How to make a CI/CD of an ASP.net core app to Linux compute engine instance](https://www.reddit.com/r/devops/comments/zpu12w/how_to_make_a_cicd_of_an_aspnet_core_app_to_linux/) | Damien_Doumer | 1 |
+| [Devops Project Ideas for intern](https://www.reddit.com/r/devops/comments/zqkyzt/devops_project_ideas_for_intern/) | the_white_rabbit0 | 1 |
