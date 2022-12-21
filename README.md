@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Devops engineers who use windows, how?](https://www.reddit.com/r/devops/comments/zpq42q/devops_engineers_who_use_windows_how/) | follow-the-lead | 86 |
-| [I got a job offer at Amazon Europe??](https://www.reddit.com/r/devops/comments/zq49a0/i_got_a_job_offer_at_amazon_europe/) | HazRi27 | 51 |
-| [What can GitHub Actions do that CircleCI, or Jenkins or others cannot do?](https://www.reddit.com/r/devops/comments/zqcu0c/what_can_github_actions_do_that_circleci_or/) | Capra_falconeri | 6 |
-| [How does pulumi compare with cdk?](https://www.reddit.com/r/devops/comments/zqedfy/how_does_pulumi_compare_with_cdk/) | gvpmahesh | 5 |
-| [Oracle Cloud](https://www.reddit.com/r/devops/comments/zpx5qo/oracle_cloud/) | besil | 4 |
-| [Azure function apps, Python and pyodbc module](https://www.reddit.com/r/devops/comments/zq1yxt/azure_function_apps_python_and_pyodbc_module/) | necesitorespuestas | 3 |
-| [What would it take for you to start using SSM to replace SSH?](https://www.reddit.com/r/devops/comments/zqlhu1/what_would_it_take_for_you_to_start_using_ssm_to/) | omerxman | 1 |
-| [OpenSearch and Logstash take a lot of memory on startup (in a local env)](https://www.reddit.com/r/devops/comments/zqkqq8/opensearch_and_logstash_take_a_lot_of_memory_on/) | NedkoHristov | 1 |
-| [How to make a CI/CD of an ASP.net core app to Linux compute engine instance](https://www.reddit.com/r/devops/comments/zpu12w/how_to_make_a_cicd_of_an_aspnet_core_app_to_linux/) | Damien_Doumer | 1 |
-| [Devops Project Ideas for intern](https://www.reddit.com/r/devops/comments/zqkyzt/devops_project_ideas_for_intern/) | the_white_rabbit0 | 1 |
+| [We create an open-source feautre flag sytem to help release faster and safe](https://www.reddit.com/r/devops/comments/zqp2v1/we_create_an_opensource_feautre_flag_sytem_to/) | hu-beau | 50 |
+| [WSL Question](https://www.reddit.com/r/devops/comments/zr7k0s/wsl_question/) | yanggang20202024 | 31 |
+| [Has anyone heard about the change in JFrog's pricing scheme?](https://www.reddit.com/r/devops/comments/zqry2g/has_anyone_heard_about_the_change_in_jfrogs/) | LastDelivery5 | 14 |
+| [Cloud Hosted Gaming PC's for CI/CD](https://www.reddit.com/r/devops/comments/zr7f9x/cloud_hosted_gaming_pcs_for_cicd/) | sirheroics | 7 |
+| [DevOps/CyberSecurity](https://www.reddit.com/r/devops/comments/zrehsx/devopscybersecurity/) | Puzzleheaded_Bee3454 | 3 |
+| [Basic JS Knowledge](https://www.reddit.com/r/devops/comments/zqqstp/basic_js_knowledge/) | 13luckycaesar | 3 |
+| [Sys Admin trying to understand how DevOps fits in the SDLC](https://www.reddit.com/r/devops/comments/zqykd0/sys_admin_trying_to_understand_how_devops_fits_in/) | cherryblossomcloset | 2 |
+| [How do you implement storage monitoring on k8s with grafana as visualization?](https://www.reddit.com/r/devops/comments/zqsj6j/how_do_you_implement_storage_monitoring_on_k8s/) | NedkoHristov | 2 |
+| [What is public &amp; private cloud?](https://www.reddit.com/r/devops/comments/zqovjj/what_is_public_private_cloud/) | Decent_Pea8651 | 0 |
+| [Do you enjoy being in DevOps?](https://www.reddit.com/r/devops/comments/zr8sgs/do_you_enjoy_being_in_devops/) | Bus7err | 0 |
