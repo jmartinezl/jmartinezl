@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [We create an open-source feautre flag sytem to help release faster and safe](https://www.reddit.com/r/devops/comments/zqp2v1/we_create_an_opensource_feautre_flag_sytem_to/) | hu-beau | 50 |
-| [WSL Question](https://www.reddit.com/r/devops/comments/zr7k0s/wsl_question/) | yanggang20202024 | 31 |
-| [Has anyone heard about the change in JFrog's pricing scheme?](https://www.reddit.com/r/devops/comments/zqry2g/has_anyone_heard_about_the_change_in_jfrogs/) | LastDelivery5 | 14 |
-| [Cloud Hosted Gaming PC's for CI/CD](https://www.reddit.com/r/devops/comments/zr7f9x/cloud_hosted_gaming_pcs_for_cicd/) | sirheroics | 7 |
-| [DevOps/CyberSecurity](https://www.reddit.com/r/devops/comments/zrehsx/devopscybersecurity/) | Puzzleheaded_Bee3454 | 3 |
-| [Basic JS Knowledge](https://www.reddit.com/r/devops/comments/zqqstp/basic_js_knowledge/) | 13luckycaesar | 3 |
-| [Sys Admin trying to understand how DevOps fits in the SDLC](https://www.reddit.com/r/devops/comments/zqykd0/sys_admin_trying_to_understand_how_devops_fits_in/) | cherryblossomcloset | 2 |
-| [How do you implement storage monitoring on k8s with grafana as visualization?](https://www.reddit.com/r/devops/comments/zqsj6j/how_do_you_implement_storage_monitoring_on_k8s/) | NedkoHristov | 2 |
-| [What is public &amp; private cloud?](https://www.reddit.com/r/devops/comments/zqovjj/what_is_public_private_cloud/) | Decent_Pea8651 | 0 |
-| [Do you enjoy being in DevOps?](https://www.reddit.com/r/devops/comments/zr8sgs/do_you_enjoy_being_in_devops/) | Bus7err | 0 |
+| [Why are start-up companies or companies which do not even use Kubernetes asking interview questions about Kubernetes](https://www.reddit.com/r/devops/comments/zrwpss/why_are_startup_companies_or_companies_which_do/) | Neo_light_yagami | 179 |
+| [Windows or Mac for DevOps Engineering](https://www.reddit.com/r/devops/comments/zrsdow/windows_or_mac_for_devops_engineering/) | Think-Perception1359 | 19 |
+| [Tools for SBOM vulnerabilities report-to-issue tracking](https://www.reddit.com/r/devops/comments/zrrlml/tools_for_sbom_vulnerabilities_reporttoissue/) | Grouchy-Friend4235 | 7 |
+| [nginx proxy reverse on docker - how add authentication for selected domain?](https://www.reddit.com/r/devops/comments/zrkuy5/nginx_proxy_reverse_on_docker_how_add/) | mxcdh | 3 |
+| [Developer Landscape for Platform Engineering](https://www.reddit.com/r/devops/comments/zroobr/developer_landscape_for_platform_engineering/) | clairep123456 | 2 |
+| [Realistic data for load tests](https://www.reddit.com/r/devops/comments/zrr3et/realistic_data_for_load_tests/) | roadbiking19 | 1 |
+| [Is there a tool to automatically containerize Jenkins jobs for future use in other tools?](https://www.reddit.com/r/devops/comments/zshuff/is_there_a_tool_to_automatically_containerize/) | Jatalocks2 | 1 |
+| [Can't SSH after installing Letsencrypt cert](https://www.reddit.com/r/devops/comments/zshpyl/cant_ssh_after_installing_letsencrypt_cert/) | autodevops | 1 |
+| [AIOPs for Predictive Insights](https://www.reddit.com/r/devops/comments/zrvzn6/aiops_for_predictive_insights/) | Inevitable_Abies_777 | 1 |
+| [WebAssembly: Docker without containers!](https://www.reddit.com/r/devops/comments/zrv1vg/webassembly_docker_without_containers/) | smileymileycoin | 0 |
