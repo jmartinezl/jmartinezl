@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Why are start-up companies or companies which do not even use Kubernetes asking interview questions about Kubernetes](https://www.reddit.com/r/devops/comments/zrwpss/why_are_startup_companies_or_companies_which_do/) | Neo_light_yagami | 179 |
-| [Windows or Mac for DevOps Engineering](https://www.reddit.com/r/devops/comments/zrsdow/windows_or_mac_for_devops_engineering/) | Think-Perception1359 | 19 |
-| [Tools for SBOM vulnerabilities report-to-issue tracking](https://www.reddit.com/r/devops/comments/zrrlml/tools_for_sbom_vulnerabilities_reporttoissue/) | Grouchy-Friend4235 | 7 |
-| [nginx proxy reverse on docker - how add authentication for selected domain?](https://www.reddit.com/r/devops/comments/zrkuy5/nginx_proxy_reverse_on_docker_how_add/) | mxcdh | 3 |
-| [Developer Landscape for Platform Engineering](https://www.reddit.com/r/devops/comments/zroobr/developer_landscape_for_platform_engineering/) | clairep123456 | 2 |
-| [Realistic data for load tests](https://www.reddit.com/r/devops/comments/zrr3et/realistic_data_for_load_tests/) | roadbiking19 | 1 |
-| [Is there a tool to automatically containerize Jenkins jobs for future use in other tools?](https://www.reddit.com/r/devops/comments/zshuff/is_there_a_tool_to_automatically_containerize/) | Jatalocks2 | 1 |
-| [Can't SSH after installing Letsencrypt cert](https://www.reddit.com/r/devops/comments/zshpyl/cant_ssh_after_installing_letsencrypt_cert/) | autodevops | 1 |
-| [AIOPs for Predictive Insights](https://www.reddit.com/r/devops/comments/zrvzn6/aiops_for_predictive_insights/) | Inevitable_Abies_777 | 1 |
-| [WebAssembly: Docker without containers!](https://www.reddit.com/r/devops/comments/zrv1vg/webassembly_docker_without_containers/) | smileymileycoin | 0 |
+| [muskjet.live grafana dashboard](https://www.reddit.com/r/devops/comments/zt4mho/muskjetlive_grafana_dashboard/) | circa10a | 83 |
+| [Take a pay cut so expectations are lowered?](https://www.reddit.com/r/devops/comments/zspvz2/take_a_pay_cut_so_expectations_are_lowered/) | TransitWizard | 45 |
+| [Project management in AWS vs GCP](https://www.reddit.com/r/devops/comments/zsl2vp/project_management_in_aws_vs_gcp/) | sasidatta | 8 |
+| [an interesting case study by eBay on the adoption of opentelemetry at scale](https://www.reddit.com/r/devops/comments/zswpwp/an_interesting_case_study_by_ebay_on_the_adoption/) | horovits | 6 |
+| [CI/CD with Long Running Regression Tests](https://www.reddit.com/r/devops/comments/zsp4ox/cicd_with_long_running_regression_tests/) | chinawcswing | 6 |
+| [Vanus: An open-source message queue that natively supports the CloudEvents protocol](https://www.reddit.com/r/devops/comments/zspedu/vanus_an_opensource_message_queue_that_natively/) | VedaGao | 5 |
+| [Backstage Plugin Development 101](https://www.reddit.com/r/devops/comments/zspqol/backstage_plugin_development_101/) | zohar275 | 4 |
+| [Proper NFS fstab mount options for web server data](https://www.reddit.com/r/devops/comments/zsloex/proper_nfs_fstab_mount_options_for_web_server_data/) | l10i | 3 |
+| [It's almost 2023 - How do you logrotate? Seriously.](https://www.reddit.com/r/devops/comments/zsyvtd/its_almost_2023_how_do_you_logrotate_seriously/) | bowiz2 | 3 |
+| [Docker + Wasm Empowering Microservices](https://www.reddit.com/r/devops/comments/zt4zns/docker_wasm_empowering_microservices/) | smileymileycoin | 2 |
