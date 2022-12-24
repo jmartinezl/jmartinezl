@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [muskjet.live grafana dashboard](https://www.reddit.com/r/devops/comments/zt4mho/muskjetlive_grafana_dashboard/) | circa10a | 83 |
-| [Take a pay cut so expectations are lowered?](https://www.reddit.com/r/devops/comments/zspvz2/take_a_pay_cut_so_expectations_are_lowered/) | TransitWizard | 45 |
-| [Project management in AWS vs GCP](https://www.reddit.com/r/devops/comments/zsl2vp/project_management_in_aws_vs_gcp/) | sasidatta | 8 |
-| [an interesting case study by eBay on the adoption of opentelemetry at scale](https://www.reddit.com/r/devops/comments/zswpwp/an_interesting_case_study_by_ebay_on_the_adoption/) | horovits | 6 |
-| [CI/CD with Long Running Regression Tests](https://www.reddit.com/r/devops/comments/zsp4ox/cicd_with_long_running_regression_tests/) | chinawcswing | 6 |
-| [Vanus: An open-source message queue that natively supports the CloudEvents protocol](https://www.reddit.com/r/devops/comments/zspedu/vanus_an_opensource_message_queue_that_natively/) | VedaGao | 5 |
-| [Backstage Plugin Development 101](https://www.reddit.com/r/devops/comments/zspqol/backstage_plugin_development_101/) | zohar275 | 4 |
-| [Proper NFS fstab mount options for web server data](https://www.reddit.com/r/devops/comments/zsloex/proper_nfs_fstab_mount_options_for_web_server_data/) | l10i | 3 |
-| [It's almost 2023 - How do you logrotate? Seriously.](https://www.reddit.com/r/devops/comments/zsyvtd/its_almost_2023_how_do_you_logrotate_seriously/) | bowiz2 | 3 |
-| [Docker + Wasm Empowering Microservices](https://www.reddit.com/r/devops/comments/zt4zns/docker_wasm_empowering_microservices/) | smileymileycoin | 2 |
+| [What else should I put on my CV for applying to entry level positions in DevOps? What are some technologies or projects that would make me stand out?](https://www.reddit.com/r/devops/comments/ztk2oz/what_else_should_i_put_on_my_cv_for_applying_to/) | Mykoliux-1 | 46 |
+| [DevOps team constitution](https://www.reddit.com/r/devops/comments/ztpp1w/devops_team_constitution/) | ant97fer | 18 |
+| [containerized java development to deployment pipeline](https://www.reddit.com/r/devops/comments/ztmepl/containerized_java_development_to_deployment/) | spaghetti_taco | 5 |
+| [Paying $7847.42/mo in unused Reserved Instances?](https://www.reddit.com/r/devops/comments/ztnbxy/paying_784742mo_in_unused_reserved_instances/) | mythrowawayfor2023 | 5 |
+| [Need Help in selecting a CICD tool AWS CodePipeline Suite or Gitlab](https://www.reddit.com/r/devops/comments/zu7zmc/need_help_in_selecting_a_cicd_tool_aws/) | Shelby-family | 1 |
+| [How to calculate hardware requirements for a hypervisor?](https://www.reddit.com/r/devops/comments/zu7wsu/how_to_calculate_hardware_requirements_for_a/) | Lost-Move2 | 1 |
+| [Am I doing it right?](https://www.reddit.com/r/devops/comments/zttqnj/am_i_doing_it_right/) | Independent_Skin1518 | 1 |
+| [how hard would it be for a data engineer to become a devops engineer?](https://www.reddit.com/r/devops/comments/ztm601/how_hard_would_it_be_for_a_data_engineer_to/) | cloud_computer | 0 |
+| [Should we be afraid of AI and a more advanced ChatGPT automating all engineers out of a job within the next 10 years?](https://www.reddit.com/r/devops/comments/ztot6t/should_we_be_afraid_of_ai_and_a_more_advanced/) | heromero123 | 0 |
+| [Should i study for Software Engineer or AWS re/Start?](https://www.reddit.com/r/devops/comments/zu0s88/should_i_study_for_software_engineer_or_aws/) | New_Possible_284 | 0 |
