@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What else should I put on my CV for applying to entry level positions in DevOps? What are some technologies or projects that would make me stand out?](https://www.reddit.com/r/devops/comments/ztk2oz/what_else_should_i_put_on_my_cv_for_applying_to/) | Mykoliux-1 | 46 |
-| [DevOps team constitution](https://www.reddit.com/r/devops/comments/ztpp1w/devops_team_constitution/) | ant97fer | 18 |
-| [containerized java development to deployment pipeline](https://www.reddit.com/r/devops/comments/ztmepl/containerized_java_development_to_deployment/) | spaghetti_taco | 5 |
-| [Paying $7847.42/mo in unused Reserved Instances?](https://www.reddit.com/r/devops/comments/ztnbxy/paying_784742mo_in_unused_reserved_instances/) | mythrowawayfor2023 | 5 |
-| [Need Help in selecting a CICD tool AWS CodePipeline Suite or Gitlab](https://www.reddit.com/r/devops/comments/zu7zmc/need_help_in_selecting_a_cicd_tool_aws/) | Shelby-family | 1 |
-| [How to calculate hardware requirements for a hypervisor?](https://www.reddit.com/r/devops/comments/zu7wsu/how_to_calculate_hardware_requirements_for_a/) | Lost-Move2 | 1 |
-| [Am I doing it right?](https://www.reddit.com/r/devops/comments/zttqnj/am_i_doing_it_right/) | Independent_Skin1518 | 1 |
-| [how hard would it be for a data engineer to become a devops engineer?](https://www.reddit.com/r/devops/comments/ztm601/how_hard_would_it_be_for_a_data_engineer_to/) | cloud_computer | 0 |
-| [Should we be afraid of AI and a more advanced ChatGPT automating all engineers out of a job within the next 10 years?](https://www.reddit.com/r/devops/comments/ztot6t/should_we_be_afraid_of_ai_and_a_more_advanced/) | heromero123 | 0 |
-| [Should i study for Software Engineer or AWS re/Start?](https://www.reddit.com/r/devops/comments/zu0s88/should_i_study_for_software_engineer_or_aws/) | New_Possible_284 | 0 |
+| [December Challenge: Kubernetes Certified within 3 weeks](https://www.reddit.com/r/devops/comments/zumyqi/december_challenge_kubernetes_certified_within_3/) | MikeAnth | 82 |
+| [is eBPF the cool thing now?](https://www.reddit.com/r/devops/comments/zucclf/is_ebpf_the_cool_thing_now/) | kingindanord | 75 |
+| ['Best' Build System Language &amp; Interface?](https://www.reddit.com/r/devops/comments/zuezi1/best_build_system_language_interface/) | OllyTrolly | 8 |
+| [Building a Game Lobby System with Godot and Quarkus](https://www.reddit.com/r/devops/comments/zubd6s/building_a_game_lobby_system_with_godot_and/) | Slayergnome | 7 |
+| [What's the best resource to learn EKS (paid or free)?](https://www.reddit.com/r/devops/comments/zugcu8/whats_the_best_resource_to_learn_eks_paid_or_free/) | ashofspades | 5 |
+| [A question that puzzles my mind, how can a cloud server like gdrive transmit data without congestion? even the best SSD would get slow if there are multiple reads and writes at the same time.](https://www.reddit.com/r/devops/comments/zuob2s/a_question_that_puzzles_my_mind_how_can_a_cloud/) | dreamer_2142 | 5 |
+| [Best/low maintenance devops toolchain for basic sass?](https://www.reddit.com/r/devops/comments/zumr7u/bestlow_maintenance_devops_toolchain_for_basic/) | terrorTrain | 2 |
+| [CI : Run tests in parallel](https://www.reddit.com/r/devops/comments/zujltc/ci_run_tests_in_parallel/) | CardiologistEarly483 | 1 |
+| [Which stack to use for long term metrics storage?](https://www.reddit.com/r/devops/comments/zut835/which_stack_to_use_for_long_term_metrics_storage/) | Homemade-Cupcake | 0 |
