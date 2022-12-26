@@ -44,12 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [December Challenge: Kubernetes Certified within 3 weeks](https://www.reddit.com/r/devops/comments/zumyqi/december_challenge_kubernetes_certified_within_3/) | MikeAnth | 82 |
-| [is eBPF the cool thing now?](https://www.reddit.com/r/devops/comments/zucclf/is_ebpf_the_cool_thing_now/) | kingindanord | 75 |
-| ['Best' Build System Language &amp; Interface?](https://www.reddit.com/r/devops/comments/zuezi1/best_build_system_language_interface/) | OllyTrolly | 8 |
-| [Building a Game Lobby System with Godot and Quarkus](https://www.reddit.com/r/devops/comments/zubd6s/building_a_game_lobby_system_with_godot_and/) | Slayergnome | 7 |
-| [What's the best resource to learn EKS (paid or free)?](https://www.reddit.com/r/devops/comments/zugcu8/whats_the_best_resource_to_learn_eks_paid_or_free/) | ashofspades | 5 |
-| [A question that puzzles my mind, how can a cloud server like gdrive transmit data without congestion? even the best SSD would get slow if there are multiple reads and writes at the same time.](https://www.reddit.com/r/devops/comments/zuob2s/a_question_that_puzzles_my_mind_how_can_a_cloud/) | dreamer_2142 | 5 |
-| [Best/low maintenance devops toolchain for basic sass?](https://www.reddit.com/r/devops/comments/zumr7u/bestlow_maintenance_devops_toolchain_for_basic/) | terrorTrain | 2 |
-| [CI : Run tests in parallel](https://www.reddit.com/r/devops/comments/zujltc/ci_run_tests_in_parallel/) | CardiologistEarly483 | 1 |
-| [Which stack to use for long term metrics storage?](https://www.reddit.com/r/devops/comments/zut835/which_stack_to_use_for_long_term_metrics_storage/) | Homemade-Cupcake | 0 |
+| [Beanstalk Blue/Green Deployments - Inactive Environment Receives Traffic Up to 48 Hours After Deploy](https://www.reddit.com/r/devops/comments/zv4zjy/beanstalk_bluegreen_deployments_inactive/) | twinmind | 30 |
+| [Looking for insight into this DevOps books](https://www.reddit.com/r/devops/comments/zuzzug/looking_for_insight_into_this_devops_books/) | TheDinosaurWalker | 18 |
+| [Advice/Tips needed for new hire](https://www.reddit.com/r/devops/comments/zvi7i5/advicetips_needed_for_new_hire/) | LightHDYagami | 9 |
+| [Devops mentoring](https://www.reddit.com/r/devops/comments/zvcpe2/devops_mentoring/) | SqlJames | 4 |
+| [Storing Grafana Loki log data in a Google Cloud Storage bucket &amp; possible alternatives](https://www.reddit.com/r/devops/comments/zv3sv7/storing_grafana_loki_log_data_in_a_google_cloud/) | Sky_Linx | 3 |
+| [1 month as a Jr DevOps Engineer](https://www.reddit.com/r/devops/comments/zvkpx1/1_month_as_a_jr_devops_engineer/) | TerminatorTortoise | 3 |
+| [What's new in the Prometheus ecosystem?](https://www.reddit.com/r/devops/comments/zvkkfd/whats_new_in_the_prometheus_ecosystem/) | horovits | 0 |
