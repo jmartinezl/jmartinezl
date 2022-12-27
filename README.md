@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Beanstalk Blue/Green Deployments - Inactive Environment Receives Traffic Up to 48 Hours After Deploy](https://www.reddit.com/r/devops/comments/zv4zjy/beanstalk_bluegreen_deployments_inactive/) | twinmind | 30 |
-| [Looking for insight into this DevOps books](https://www.reddit.com/r/devops/comments/zuzzug/looking_for_insight_into_this_devops_books/) | TheDinosaurWalker | 18 |
-| [Advice/Tips needed for new hire](https://www.reddit.com/r/devops/comments/zvi7i5/advicetips_needed_for_new_hire/) | LightHDYagami | 9 |
-| [Devops mentoring](https://www.reddit.com/r/devops/comments/zvcpe2/devops_mentoring/) | SqlJames | 4 |
-| [Storing Grafana Loki log data in a Google Cloud Storage bucket &amp; possible alternatives](https://www.reddit.com/r/devops/comments/zv3sv7/storing_grafana_loki_log_data_in_a_google_cloud/) | Sky_Linx | 3 |
-| [1 month as a Jr DevOps Engineer](https://www.reddit.com/r/devops/comments/zvkpx1/1_month_as_a_jr_devops_engineer/) | TerminatorTortoise | 3 |
-| [What's new in the Prometheus ecosystem?](https://www.reddit.com/r/devops/comments/zvkkfd/whats_new_in_the_prometheus_ecosystem/) | horovits | 0 |
+| [My Terraform Bootcamp Udemy Course is Free!](https://www.reddit.com/r/devops/comments/zvyzqh/my_terraform_bootcamp_udemy_course_is_free/) | benaffleks | 159 |
+| [What about cloud cost optimization?](https://www.reddit.com/r/devops/comments/zvnfix/what_about_cloud_cost_optimization/) | shogi_pro | 6 |
+| [Moving to gitlab/GitHub from ADO](https://www.reddit.com/r/devops/comments/zvq7d1/moving_to_gitlabgithub_from_ado/) | hariharan618 | 5 |
+| [Is GKE Autopilot suitable for running CI pipelines?](https://www.reddit.com/r/devops/comments/zvzm63/is_gke_autopilot_suitable_for_running_ci_pipelines/) | ForSpareParts | 3 |
+| [react js application in s3 bucket](https://www.reddit.com/r/devops/comments/zwe0ad/react_js_application_in_s3_bucket/) | anacondaonline | 1 |
+| [Do you use a Helm chart repository?](https://www.reddit.com/r/devops/comments/zw19w3/do_you_use_a_helm_chart_repository/) | CerealBit | 1 |
+| [ARGOCD app not identifying resources](https://www.reddit.com/r/devops/comments/zwdp9b/argocd_app_not_identifying_resources/) | Kopertin | 1 |
