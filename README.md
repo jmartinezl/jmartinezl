@@ -44,10 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [My Terraform Bootcamp Udemy Course is Free!](https://www.reddit.com/r/devops/comments/zvyzqh/my_terraform_bootcamp_udemy_course_is_free/) | benaffleks | 159 |
-| [What about cloud cost optimization?](https://www.reddit.com/r/devops/comments/zvnfix/what_about_cloud_cost_optimization/) | shogi_pro | 6 |
-| [Moving to gitlab/GitHub from ADO](https://www.reddit.com/r/devops/comments/zvq7d1/moving_to_gitlabgithub_from_ado/) | hariharan618 | 5 |
-| [Is GKE Autopilot suitable for running CI pipelines?](https://www.reddit.com/r/devops/comments/zvzm63/is_gke_autopilot_suitable_for_running_ci_pipelines/) | ForSpareParts | 3 |
-| [react js application in s3 bucket](https://www.reddit.com/r/devops/comments/zwe0ad/react_js_application_in_s3_bucket/) | anacondaonline | 1 |
-| [Do you use a Helm chart repository?](https://www.reddit.com/r/devops/comments/zw19w3/do_you_use_a_helm_chart_repository/) | CerealBit | 1 |
-| [ARGOCD app not identifying resources](https://www.reddit.com/r/devops/comments/zwdp9b/argocd_app_not_identifying_resources/) | Kopertin | 1 |
+| [Does your team do sprints this week when half the team is out for the holidays?](https://www.reddit.com/r/devops/comments/zwi9iu/does_your_team_do_sprints_this_week_when_half_the/) | swiftsparky | 126 |
+| [Helm-Dashboard now enables cluster installation](https://www.reddit.com/r/devops/comments/zwg7wy/helmdashboard_now_enables_cluster_installation/) | Udi_Hofesh | 13 |
+| [Idea for self-provisioning test servers - brilliant or b*llsh*t?](https://www.reddit.com/r/devops/comments/zwm81e/idea_for_selfprovisioning_test_servers_brilliant/) | thebearinboulder | 6 |
+| [Best way to run k8s apps locally](https://www.reddit.com/r/devops/comments/zx6g75/best_way_to_run_k8s_apps_locally/) | Chr1stian | 6 |
+| [How to automate: restart service on a remote machine](https://www.reddit.com/r/devops/comments/zwevvp/how_to_automate_restart_service_on_a_remote/) | FluidIdea | 5 |
+| [Need some help deploying a Docker stack to AWS](https://www.reddit.com/r/devops/comments/zwq6ik/need_some_help_deploying_a_docker_stack_to_aws/) | LowLvlLiving | 3 |
+| [Visualization/mapping tool?](https://www.reddit.com/r/devops/comments/zwj6th/visualizationmapping_tool/) | PowerCounterAndJet | 2 |
+| [Squid proxy service on docker with multiple ip on this same interface](https://www.reddit.com/r/devops/comments/zwjnoy/squid_proxy_service_on_docker_with_multiple_ip_on/) | mxcdh | 2 |
+| [Establish a autonomy in your work](https://www.reddit.com/r/devops/comments/zwlq0u/establish_a_autonomy_in_your_work/) | Felix1178 | 2 |
+| [User lifecycle management and IaC](https://www.reddit.com/r/devops/comments/zwg7lt/user_lifecycle_management_and_iac/) | jmreicha | 1 |
