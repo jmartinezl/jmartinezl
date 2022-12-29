@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does your team do sprints this week when half the team is out for the holidays?](https://www.reddit.com/r/devops/comments/zwi9iu/does_your_team_do_sprints_this_week_when_half_the/) | swiftsparky | 126 |
-| [Helm-Dashboard now enables cluster installation](https://www.reddit.com/r/devops/comments/zwg7wy/helmdashboard_now_enables_cluster_installation/) | Udi_Hofesh | 13 |
-| [Idea for self-provisioning test servers - brilliant or b*llsh*t?](https://www.reddit.com/r/devops/comments/zwm81e/idea_for_selfprovisioning_test_servers_brilliant/) | thebearinboulder | 6 |
-| [Best way to run k8s apps locally](https://www.reddit.com/r/devops/comments/zx6g75/best_way_to_run_k8s_apps_locally/) | Chr1stian | 6 |
-| [How to automate: restart service on a remote machine](https://www.reddit.com/r/devops/comments/zwevvp/how_to_automate_restart_service_on_a_remote/) | FluidIdea | 5 |
-| [Need some help deploying a Docker stack to AWS](https://www.reddit.com/r/devops/comments/zwq6ik/need_some_help_deploying_a_docker_stack_to_aws/) | LowLvlLiving | 3 |
-| [Visualization/mapping tool?](https://www.reddit.com/r/devops/comments/zwj6th/visualizationmapping_tool/) | PowerCounterAndJet | 2 |
-| [Squid proxy service on docker with multiple ip on this same interface](https://www.reddit.com/r/devops/comments/zwjnoy/squid_proxy_service_on_docker_with_multiple_ip_on/) | mxcdh | 2 |
-| [Establish a autonomy in your work](https://www.reddit.com/r/devops/comments/zwlq0u/establish_a_autonomy_in_your_work/) | Felix1178 | 2 |
-| [User lifecycle management and IaC](https://www.reddit.com/r/devops/comments/zwg7lt/user_lifecycle_management_and_iac/) | jmreicha | 1 |
+| [How to handle security updates to containers OSes?](https://www.reddit.com/r/devops/comments/zxdtqd/how_to_handle_security_updates_to_containers_oses/) | N1cl4s | 53 |
+| [Do you manage non k8s environment, just bare Linux?](https://www.reddit.com/r/devops/comments/zxuqwx/do_you_manage_non_k8s_environment_just_bare_linux/) | rnmkrmn | 28 |
+| [Best tool for local Dev Env?](https://www.reddit.com/r/devops/comments/zxi690/best_tool_for_local_dev_env/) | Jatalocks2 | 14 |
+| [I built haystack - google for workplace secrets and connection details.](https://www.reddit.com/r/devops/comments/zxzlys/i_built_haystack_google_for_workplace_secrets_and/) | yuvalsteuer | 13 |
+| [I’m doing my thesis and looking for those that work ON-CALL to participate in an anonymous online survey. Please help](https://www.reddit.com/r/devops/comments/zxs1kz/im_doing_my_thesis_and_looking_for_those_that/) | Optimal-Judgment-751 | 11 |
+| [Hikaru v0.12.0b released](https://www.reddit.com/r/devops/comments/zxo86n/hikaru_v0120b_released/) | hoover | 7 |
+| [Cisco DevNet Associate learning materials are horrendous](https://www.reddit.com/r/devops/comments/zxq0in/cisco_devnet_associate_learning_materials_are/) | evolutionIsScary | 7 |
+| [POLL: How do you orchestrate your provisioning?](https://www.reddit.com/r/devops/comments/zxl0lu/poll_how_do_you_orchestrate_your_provisioning/) | thisguy123 | 3 |
+| [Terrafrom on the cloud](https://www.reddit.com/r/devops/comments/zxhmqw/terrafrom_on_the_cloud/) | _Med_Reda_ | 1 |
+| [Suggestions for skill development beside job](https://www.reddit.com/r/devops/comments/zy2pgd/suggestions_for_skill_development_beside_job/) | Acrobatic-Warthog-65 | 1 |
