@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Datadog: I do not understand the pricing model, please help me estimate my bills](https://www.reddit.com/r/devops/comments/zz4naq/datadog_i_do_not_understand_the_pricing_model/) | mtest001 | 82 |
-| [Any good Python programming (for DevOps specifically) recommendations?](https://www.reddit.com/r/devops/comments/zzj287/any_good_python_programming_for_devops/) | Mountain_Ad_1548 | 29 |
-| [Any freelance devops charging for value instead of time?](https://www.reddit.com/r/devops/comments/zzji7v/any_freelance_devops_charging_for_value_instead/) | ringosrule | 16 |
-| [I'm starting a new position as a DevOps release engineer and i'm looking for some tips](https://www.reddit.com/r/devops/comments/zyzmur/im_starting_a_new_position_as_a_devops_release/) | SHPRD95 | 14 |
-| [Connect versions deployed in different environments](https://www.reddit.com/r/devops/comments/zzepmw/connect_versions_deployed_in_different/) | Zestyclose-Ad2344 | 5 |
-| [Which environments do you use/support?](https://www.reddit.com/r/devops/comments/zz5sqc/which_environments_do_you_usesupport/) | CerealBit | 2 |
-| [Set of Powershell scripts to Trigger Build and Deploy releases parallely in Azure Devops From command line](https://www.reddit.com/r/devops/comments/zzrehe/set_of_powershell_scripts_to_trigger_build_and/) | the_oddsaint | 1 |
-| [GitHub Actions Course - DevOps Docker Course](https://www.reddit.com/r/devops/comments/zz8b78/github_actions_course_devops_docker_course/) | thetech_learner | 0 |
-| [Database guidance](https://www.reddit.com/r/devops/comments/zzcpoy/database_guidance/) | Destroychan | 0 |
-| [DOFD Certification: Earn Better Career Opportunities! - iSecPrep](https://www.reddit.com/r/devops/comments/zzmqdg/dofd_certification_earn_better_career/) | MeghnaArora | 0 |
+| [DevOps/SRE Mentoring](https://www.reddit.com/r/devops/comments/zzv9dm/devopssre_mentoring/) | Tr3mor24 | 137 |
+| [Local ci/cd pipeline](https://www.reddit.com/r/devops/comments/100237v/local_cicd_pipeline/) | SuperLucas2000 | 28 |
+| [Right way for multiple Jenkins job dependency management](https://www.reddit.com/r/devops/comments/1006doo/right_way_for_multiple_jenkins_job_dependency/) | mike_testing | 6 |
+| [Which is a more Valuable Certification?](https://www.reddit.com/r/devops/comments/100dtti/which_is_a_more_valuable_certification/) | TahaTheNetAutmator | 2 |
+| [Where to learn about about k8s and EKS/ECR?](https://www.reddit.com/r/devops/comments/100hlu0/where_to_learn_about_about_k8s_and_eksecr/) | Fuzzy-Invite-8987 | 2 |
+| [Manage supervisord running inside different containers through my app?](https://www.reddit.com/r/devops/comments/1006eqz/manage_supervisord_running_inside_different/) | mr_claw | 1 |
+| [Do Devops Need an Internal Developer Portal?](https://www.reddit.com/r/devops/comments/100hyr3/do_devops_need_an_internal_developer_portal/) | zohar275 | 1 |
+| [Devops intern](https://www.reddit.com/r/devops/comments/1008rw1/devops_intern/) | montaomrani | 1 |
+| [Best way to redeploy containers on server after build in TeamCity succeeds?](https://www.reddit.com/r/devops/comments/1006shq/best_way_to_redeploy_containers_on_server_after/) | oM4TY | 1 |
+| [What jobs are there for people with my skillset/experience? (Infrastructure Engineering)](https://www.reddit.com/r/devops/comments/1001p6g/what_jobs_are_there_for_people_with_my/) | xJay | 0 |
