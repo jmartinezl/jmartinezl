@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps/SRE Mentoring](https://www.reddit.com/r/devops/comments/zzv9dm/devopssre_mentoring/) | Tr3mor24 | 137 |
-| [Local ci/cd pipeline](https://www.reddit.com/r/devops/comments/100237v/local_cicd_pipeline/) | SuperLucas2000 | 28 |
-| [Right way for multiple Jenkins job dependency management](https://www.reddit.com/r/devops/comments/1006doo/right_way_for_multiple_jenkins_job_dependency/) | mike_testing | 6 |
-| [Which is a more Valuable Certification?](https://www.reddit.com/r/devops/comments/100dtti/which_is_a_more_valuable_certification/) | TahaTheNetAutmator | 2 |
-| [Where to learn about about k8s and EKS/ECR?](https://www.reddit.com/r/devops/comments/100hlu0/where_to_learn_about_about_k8s_and_eksecr/) | Fuzzy-Invite-8987 | 2 |
-| [Manage supervisord running inside different containers through my app?](https://www.reddit.com/r/devops/comments/1006eqz/manage_supervisord_running_inside_different/) | mr_claw | 1 |
-| [Do Devops Need an Internal Developer Portal?](https://www.reddit.com/r/devops/comments/100hyr3/do_devops_need_an_internal_developer_portal/) | zohar275 | 1 |
-| [Devops intern](https://www.reddit.com/r/devops/comments/1008rw1/devops_intern/) | montaomrani | 1 |
-| [Best way to redeploy containers on server after build in TeamCity succeeds?](https://www.reddit.com/r/devops/comments/1006shq/best_way_to_redeploy_containers_on_server_after/) | oM4TY | 1 |
-| [What jobs are there for people with my skillset/experience? (Infrastructure Engineering)](https://www.reddit.com/r/devops/comments/1001p6g/what_jobs_are_there_for_people_with_my/) | xJay | 0 |
+| [Assignment from technical interview could have been used.](https://www.reddit.com/r/devops/comments/100xhib/assignment_from_technical_interview_could_have/) | HgnX | 127 |
+| [SRE: What tool do you use for Incident Response Runbook/Playbook](https://www.reddit.com/r/devops/comments/100le28/sre_what_tool_do_you_use_for_incident_response/) | LukeCager | 97 |
+| [Monthly 'Shameless Self Promotion' thread - 2023/01](https://www.reddit.com/r/devops/comments/100p6ma/monthly_shameless_self_promotion_thread_202301/) | mthode | 11 |
+| [Understanding kubernetes labels](https://www.reddit.com/r/devops/comments/100kika/understanding_kubernetes_labels/) | Tiny-Entertainer-346 | 9 |
+| [Pass values from Terraform to Argocd/Kustomize](https://www.reddit.com/r/devops/comments/100t7i7/pass_values_from_terraform_to_argocdkustomize/) | HoytAvila | 5 |
+| [Use Docker with full IPv6 support](https://www.reddit.com/r/devops/comments/100upzi/use_docker_with_full_ipv6_support/) | m_bauer | 3 |
+| [Anomaly Detection - A human+machine approach](https://www.reddit.com/r/devops/comments/100owkn/anomaly_detection_a_humanmachine_approach/) | snehaj19 | 3 |
+| [envsubst with template file vs using CD Tools](https://www.reddit.com/r/devops/comments/100lwck/envsubst_with_template_file_vs_using_cd_tools/) | ButerWorth | 2 |
+| [Looking for guidance (container management)](https://www.reddit.com/r/devops/comments/100ow0n/looking_for_guidance_container_management/) | max06de | 2 |
+| [How do the odds of interruption on a spot instance scale over time?](https://www.reddit.com/r/devops/comments/1011523/how_do_the_odds_of_interruption_on_a_spot/) | ForSpareParts | 2 |
