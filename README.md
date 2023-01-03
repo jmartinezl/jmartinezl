@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Assignment from technical interview could have been used.](https://www.reddit.com/r/devops/comments/100xhib/assignment_from_technical_interview_could_have/) | HgnX | 127 |
-| [SRE: What tool do you use for Incident Response Runbook/Playbook](https://www.reddit.com/r/devops/comments/100le28/sre_what_tool_do_you_use_for_incident_response/) | LukeCager | 97 |
-| [Monthly 'Shameless Self Promotion' thread - 2023/01](https://www.reddit.com/r/devops/comments/100p6ma/monthly_shameless_self_promotion_thread_202301/) | mthode | 11 |
-| [Understanding kubernetes labels](https://www.reddit.com/r/devops/comments/100kika/understanding_kubernetes_labels/) | Tiny-Entertainer-346 | 9 |
-| [Pass values from Terraform to Argocd/Kustomize](https://www.reddit.com/r/devops/comments/100t7i7/pass_values_from_terraform_to_argocdkustomize/) | HoytAvila | 5 |
-| [Use Docker with full IPv6 support](https://www.reddit.com/r/devops/comments/100upzi/use_docker_with_full_ipv6_support/) | m_bauer | 3 |
-| [Anomaly Detection - A human+machine approach](https://www.reddit.com/r/devops/comments/100owkn/anomaly_detection_a_humanmachine_approach/) | snehaj19 | 3 |
-| [envsubst with template file vs using CD Tools](https://www.reddit.com/r/devops/comments/100lwck/envsubst_with_template_file_vs_using_cd_tools/) | ButerWorth | 2 |
-| [Looking for guidance (container management)](https://www.reddit.com/r/devops/comments/100ow0n/looking_for_guidance_container_management/) | max06de | 2 |
-| [How do the odds of interruption on a spot instance scale over time?](https://www.reddit.com/r/devops/comments/1011523/how_do_the_odds_of_interruption_on_a_spot/) | ForSpareParts | 2 |
+| [Tried copilot to automate code?](https://www.reddit.com/r/devops/comments/101h4fq/tried_copilot_to_automate_code/) | Zumcddo | 89 |
+| [tfstate - A wrapper around terraform state](https://www.reddit.com/r/devops/comments/101eoh5/tfstate_a_wrapper_around_terraform_state/) | benaffleks | 20 |
+| [Anyone recommend anything other than Jenkins for executing install scripts on AWS EC2?](https://www.reddit.com/r/devops/comments/101b6sg/anyone_recommend_anything_other_than_jenkins_for/) | web3ventures | 13 |
+| [DevOps Market is Saturated - Jan 2023?](https://www.reddit.com/r/devops/comments/101fkt0/devops_market_is_saturated_jan_2023/) | Dubinko | 7 |
+| [Resume Review - Mechanical Engineer -&gt; Jr. DevOps Engineer](https://www.reddit.com/r/devops/comments/101tahn/resume_review_mechanical_engineer_jr_devops/) | nimster09 | 2 |
+| [Best way to get into dev ops from IT role, minimise pay cut?](https://www.reddit.com/r/devops/comments/101yl5e/best_way_to_get_into_dev_ops_from_it_role/) | BackgroundSense351 | 1 |
+| [Azure Devops Pipelines - Dynamic Parameter Values](https://www.reddit.com/r/devops/comments/101dug0/azure_devops_pipelines_dynamic_parameter_values/) | BoredNormalDude | 1 |
+| [Auto instrumentation with OpenTelemetry for all the services in the cluster](https://www.reddit.com/r/devops/comments/1024m05/auto_instrumentation_with_opentelemetry_for_all/) | Nice_Score_7552 | 1 |
+| [[DOFD] DevOps Institute DevOps Foundation | Sample Questions &amp; Answers](https://www.reddit.com/r/devops/comments/101yln6/dofd_devops_institute_devops_foundation_sample/) | MeghnaArora | 0 |
+| [What is the Basic Requirements for DevOps intern position](https://www.reddit.com/r/devops/comments/101fzy1/what_is_the_basic_requirements_for_devops_intern/) | uglymeow_22 | 0 |
