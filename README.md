@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Tried copilot to automate code?](https://www.reddit.com/r/devops/comments/101h4fq/tried_copilot_to_automate_code/) | Zumcddo | 89 |
-| [tfstate - A wrapper around terraform state](https://www.reddit.com/r/devops/comments/101eoh5/tfstate_a_wrapper_around_terraform_state/) | benaffleks | 20 |
-| [Anyone recommend anything other than Jenkins for executing install scripts on AWS EC2?](https://www.reddit.com/r/devops/comments/101b6sg/anyone_recommend_anything_other_than_jenkins_for/) | web3ventures | 13 |
-| [DevOps Market is Saturated - Jan 2023?](https://www.reddit.com/r/devops/comments/101fkt0/devops_market_is_saturated_jan_2023/) | Dubinko | 7 |
-| [Resume Review - Mechanical Engineer -&gt; Jr. DevOps Engineer](https://www.reddit.com/r/devops/comments/101tahn/resume_review_mechanical_engineer_jr_devops/) | nimster09 | 2 |
-| [Best way to get into dev ops from IT role, minimise pay cut?](https://www.reddit.com/r/devops/comments/101yl5e/best_way_to_get_into_dev_ops_from_it_role/) | BackgroundSense351 | 1 |
-| [Azure Devops Pipelines - Dynamic Parameter Values](https://www.reddit.com/r/devops/comments/101dug0/azure_devops_pipelines_dynamic_parameter_values/) | BoredNormalDude | 1 |
-| [Auto instrumentation with OpenTelemetry for all the services in the cluster](https://www.reddit.com/r/devops/comments/1024m05/auto_instrumentation_with_opentelemetry_for_all/) | Nice_Score_7552 | 1 |
-| [[DOFD] DevOps Institute DevOps Foundation | Sample Questions &amp; Answers](https://www.reddit.com/r/devops/comments/101yln6/dofd_devops_institute_devops_foundation_sample/) | MeghnaArora | 0 |
-| [What is the Basic Requirements for DevOps intern position](https://www.reddit.com/r/devops/comments/101fzy1/what_is_the_basic_requirements_for_devops_intern/) | uglymeow_22 | 0 |
+| [Anyone else experiencing anxiety returning back to work from holidays?](https://www.reddit.com/r/devops/comments/102auyq/anyone_else_experiencing_anxiety_returning_back/) | m1nhC | 197 |
+| [I was tired of renewing my resume each year, so i decided to automate it through CI](https://www.reddit.com/r/devops/comments/1028hvo/i_was_tired_of_renewing_my_resume_each_year_so_i/) | keazzou | 141 |
+| [Typical profile of a Mid-level DevOps Engineer](https://www.reddit.com/r/devops/comments/10294fe/typical_profile_of_a_midlevel_devops_engineer/) | JordanDreddit | 29 |
+| [Have we lost the plot?](https://www.reddit.com/r/devops/comments/102996j/have_we_lost_the_plot/) | shadowisadog | 10 |
+| [Project initiative documentation with AzureDevOps - should we use the wiki?](https://www.reddit.com/r/devops/comments/102784c/project_initiative_documentation_with_azuredevops/) | tea_horse | 8 |
+| [whats your most used script at work?](https://www.reddit.com/r/devops/comments/102lmei/whats_your_most_used_script_at_work/) | xamboozi | 6 |
+| [Is CKAD enough for Kubernetes?](https://www.reddit.com/r/devops/comments/102wmr2/is_ckad_enough_for_kubernetes/) | Ahmed_Maher658 | 4 |
+| [Preferred Linux Distribution for production and why?](https://www.reddit.com/r/devops/comments/102x5u7/preferred_linux_distribution_for_production_and/) | deffjay | 3 |
+| [Looking for feedback on my kubernetes security open source project!](https://www.reddit.com/r/devops/comments/1029o31/looking_for_feedback_on_my_kubernetes_security/) | jacobbeasley | 3 |
+| [Solid networking courses?](https://www.reddit.com/r/devops/comments/102gsy4/solid_networking_courses/) | Mindless_Rice_3109 | 2 |
