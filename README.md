@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Anyone else experiencing anxiety returning back to work from holidays?](https://www.reddit.com/r/devops/comments/102auyq/anyone_else_experiencing_anxiety_returning_back/) | m1nhC | 197 |
-| [I was tired of renewing my resume each year, so i decided to automate it through CI](https://www.reddit.com/r/devops/comments/1028hvo/i_was_tired_of_renewing_my_resume_each_year_so_i/) | keazzou | 141 |
-| [Typical profile of a Mid-level DevOps Engineer](https://www.reddit.com/r/devops/comments/10294fe/typical_profile_of_a_midlevel_devops_engineer/) | JordanDreddit | 29 |
-| [Have we lost the plot?](https://www.reddit.com/r/devops/comments/102996j/have_we_lost_the_plot/) | shadowisadog | 10 |
-| [Project initiative documentation with AzureDevOps - should we use the wiki?](https://www.reddit.com/r/devops/comments/102784c/project_initiative_documentation_with_azuredevops/) | tea_horse | 8 |
-| [whats your most used script at work?](https://www.reddit.com/r/devops/comments/102lmei/whats_your_most_used_script_at_work/) | xamboozi | 6 |
-| [Is CKAD enough for Kubernetes?](https://www.reddit.com/r/devops/comments/102wmr2/is_ckad_enough_for_kubernetes/) | Ahmed_Maher658 | 4 |
-| [Preferred Linux Distribution for production and why?](https://www.reddit.com/r/devops/comments/102x5u7/preferred_linux_distribution_for_production_and/) | deffjay | 3 |
-| [Looking for feedback on my kubernetes security open source project!](https://www.reddit.com/r/devops/comments/1029o31/looking_for_feedback_on_my_kubernetes_security/) | jacobbeasley | 3 |
-| [Solid networking courses?](https://www.reddit.com/r/devops/comments/102gsy4/solid_networking_courses/) | Mindless_Rice_3109 | 2 |
+| [CircleCI Security Alert - 4 Jan 2023 - Rotate any secrets stored in CircleCI](https://www.reddit.com/r/devops/comments/103n98t/circleci_security_alert_4_jan_2023_rotate_any/) | MistyCape | 76 |
+| [Can't get Interviews - here is My Resume](https://www.reddit.com/r/devops/comments/10328rc/cant_get_interviews_here_is_my_resume/) | Dubinko | 76 |
+| [When can you be considered a senior engineer?](https://www.reddit.com/r/devops/comments/10381jj/when_can_you_be_considered_a_senior_engineer/) | LocalAreaNitwit | 31 |
+| [How do you deal with sudden spikes in traffic?](https://www.reddit.com/r/devops/comments/1032mww/how_do_you_deal_with_sudden_spikes_in_traffic/) | sherifalaa55 | 7 |
+| [Please stop helping homework posters here](https://www.reddit.com/r/devops/comments/103rzb3/please_stop_helping_homework_posters_here/) | just-some-person | 6 |
+| [How to safely use GitHub OAuth token with Dockerfile](https://www.reddit.com/r/devops/comments/1032ehh/how_to_safely_use_github_oauth_token_with/) | nilocg | 3 |
+| [Lack of Focus](https://www.reddit.com/r/devops/comments/103crir/lack_of_focus/) | Obamass_last_name | 2 |
+| [Deploying data across environments](https://www.reddit.com/r/devops/comments/1038s0j/deploying_data_across_environments/) | pixel5torm | 2 |
+| [relevant Devops books](https://www.reddit.com/r/devops/comments/103s9i3/relevant_devops_books/) | lxrd_mixsmx | 1 |
+| [a quick post about rbac-police](https://www.reddit.com/r/devops/comments/103a7qt/a_quick_post_about_rbacpolice/) | punksecurity_simon | 1 |
