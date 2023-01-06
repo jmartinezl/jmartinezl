@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [CircleCI Security Alert - 4 Jan 2023 - Rotate any secrets stored in CircleCI](https://www.reddit.com/r/devops/comments/103n98t/circleci_security_alert_4_jan_2023_rotate_any/) | MistyCape | 76 |
-| [Can't get Interviews - here is My Resume](https://www.reddit.com/r/devops/comments/10328rc/cant_get_interviews_here_is_my_resume/) | Dubinko | 76 |
-| [When can you be considered a senior engineer?](https://www.reddit.com/r/devops/comments/10381jj/when_can_you_be_considered_a_senior_engineer/) | LocalAreaNitwit | 31 |
-| [How do you deal with sudden spikes in traffic?](https://www.reddit.com/r/devops/comments/1032mww/how_do_you_deal_with_sudden_spikes_in_traffic/) | sherifalaa55 | 7 |
-| [Please stop helping homework posters here](https://www.reddit.com/r/devops/comments/103rzb3/please_stop_helping_homework_posters_here/) | just-some-person | 6 |
-| [How to safely use GitHub OAuth token with Dockerfile](https://www.reddit.com/r/devops/comments/1032ehh/how_to_safely_use_github_oauth_token_with/) | nilocg | 3 |
-| [Lack of Focus](https://www.reddit.com/r/devops/comments/103crir/lack_of_focus/) | Obamass_last_name | 2 |
-| [Deploying data across environments](https://www.reddit.com/r/devops/comments/1038s0j/deploying_data_across_environments/) | pixel5torm | 2 |
-| [relevant Devops books](https://www.reddit.com/r/devops/comments/103s9i3/relevant_devops_books/) | lxrd_mixsmx | 1 |
-| [a quick post about rbac-police](https://www.reddit.com/r/devops/comments/103a7qt/a_quick_post_about_rbacpolice/) | punksecurity_simon | 1 |
+| [[Official] Salary Sharing thread for devops :: Jan 2023](https://www.reddit.com/r/devops/comments/104b1h8/official_salary_sharing_thread_for_devops_jan_2023/) | Chompy_99 | 147 |
+| [Install Istio with Flux](https://www.reddit.com/r/devops/comments/10409o6/install_istio_with_flux/) | chillysurfer | 4 |
+| [Unable to make any minio operations from a different container to the Minio container](https://www.reddit.com/r/devops/comments/104o3xv/unable_to_make_any_minio_operations_from_a/) | bustedcondomdisaster | 2 |
+| [Prevalence of / Increase in job postings that went from "Proficient in Python" to "Proficient in a scripting language"?](https://www.reddit.com/r/devops/comments/1044imp/prevalence_of_increase_in_job_postings_that_went/) | Marquis77 | 2 |
+| [Why can't I label Argo Workflows workflow-controller-metrics service for Prometheus to scrape? Everything works in some cases but fails in most](https://www.reddit.com/r/devops/comments/104mwbn/why_cant_i_label_argo_workflows/) | rhs-cs | 1 |
+| [SSH Key Authentication not working for Azure Dev Ops Server](https://www.reddit.com/r/devops/comments/103ze8u/ssh_key_authentication_not_working_for_azure_dev/) | shaqaruden | 1 |
+| [Jenkins in kubernetes without docker](https://www.reddit.com/r/devops/comments/103z520/jenkins_in_kubernetes_without_docker/) | zu7qd | 1 |
+| [i want to deploy my repo code on aws cloud ?](https://www.reddit.com/r/devops/comments/1043sdn/i_want_to_deploy_my_repo_code_on_aws_cloud/) | kocmonobtDark | 0 |
+| [What is the most challenging technical problem you solved as a DevOps?](https://www.reddit.com/r/devops/comments/1045m5j/what_is_the_most_challenging_technical_problem/) | moe_dbx | 0 |
+| [Simple, cheap, reliable cron job with environment and storage - how?](https://www.reddit.com/r/devops/comments/1046yeb/simple_cheap_reliable_cron_job_with_environment/) | Foxtr0t | 0 |
