@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [[Official] Salary Sharing thread for devops :: Jan 2023](https://www.reddit.com/r/devops/comments/104b1h8/official_salary_sharing_thread_for_devops_jan_2023/) | Chompy_99 | 147 |
-| [Install Istio with Flux](https://www.reddit.com/r/devops/comments/10409o6/install_istio_with_flux/) | chillysurfer | 4 |
-| [Unable to make any minio operations from a different container to the Minio container](https://www.reddit.com/r/devops/comments/104o3xv/unable_to_make_any_minio_operations_from_a/) | bustedcondomdisaster | 2 |
-| [Prevalence of / Increase in job postings that went from "Proficient in Python" to "Proficient in a scripting language"?](https://www.reddit.com/r/devops/comments/1044imp/prevalence_of_increase_in_job_postings_that_went/) | Marquis77 | 2 |
-| [Why can't I label Argo Workflows workflow-controller-metrics service for Prometheus to scrape? Everything works in some cases but fails in most](https://www.reddit.com/r/devops/comments/104mwbn/why_cant_i_label_argo_workflows/) | rhs-cs | 1 |
-| [SSH Key Authentication not working for Azure Dev Ops Server](https://www.reddit.com/r/devops/comments/103ze8u/ssh_key_authentication_not_working_for_azure_dev/) | shaqaruden | 1 |
-| [Jenkins in kubernetes without docker](https://www.reddit.com/r/devops/comments/103z520/jenkins_in_kubernetes_without_docker/) | zu7qd | 1 |
-| [i want to deploy my repo code on aws cloud ?](https://www.reddit.com/r/devops/comments/1043sdn/i_want_to_deploy_my_repo_code_on_aws_cloud/) | kocmonobtDark | 0 |
-| [What is the most challenging technical problem you solved as a DevOps?](https://www.reddit.com/r/devops/comments/1045m5j/what_is_the_most_challenging_technical_problem/) | moe_dbx | 0 |
-| [Simple, cheap, reliable cron job with environment and storage - how?](https://www.reddit.com/r/devops/comments/1046yeb/simple_cheap_reliable_cron_job_with_environment/) | Foxtr0t | 0 |
+| [Tips for staying calm under pressure](https://www.reddit.com/r/devops/comments/104yk4k/tips_for_staying_calm_under_pressure/) | big-tuna28 | 109 |
+| [Gitlab CI vs Jenkins vs GitHub Actions](https://www.reddit.com/r/devops/comments/105a2bn/gitlab_ci_vs_jenkins_vs_github_actions/) | JordanDreddit | 46 |
+| [I wrote secret magpie to help businesses scan for leaked secrets in all their git repositories easily](https://www.reddit.com/r/devops/comments/1055i8e/i_wrote_secret_magpie_to_help_businesses_scan_for/) | punksecurity_simon | 20 |
+| [A quick look at free C++ static analysis tools](https://www.reddit.com/r/devops/comments/1055s4e/a_quick_look_at_free_c_static_analysis_tools/) | Philipkanj | 3 |
+| [How do you guys manage your deployment pipelines?](https://www.reddit.com/r/devops/comments/1053g9z/how_do_you_guys_manage_your_deployment_pipelines/) | _mrcrgl | 2 |
+| [What is a good selfhosted tool to test for webhooks?](https://www.reddit.com/r/devops/comments/105ge1x/what_is_a_good_selfhosted_tool_to_test_for/) | Hell4Ge | 1 |
+| [Looking for suggestions on setting up workflow for project.](https://www.reddit.com/r/devops/comments/105gykr/looking_for_suggestions_on_setting_up_workflow/) | TranquilDev | 1 |
+| [How do you manage/organize your backlog tasks (i.e. tasks without a deadline)?](https://www.reddit.com/r/devops/comments/105m03d/how_do_you_manageorganize_your_backlog_tasks_ie/) | freebsdlego1 | 1 |
+| [ssh Host Based Certs -- What's the Trick?](https://www.reddit.com/r/devops/comments/104ysvw/ssh_host_based_certs_whats_the_trick/) | stormyjknight | 0 |
+| [What’s your keyboard preferanses?](https://www.reddit.com/r/devops/comments/105ffs4/whats_your_keyboard_preferanses/) | himores | 0 |
