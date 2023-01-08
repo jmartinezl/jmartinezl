@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Tips for staying calm under pressure](https://www.reddit.com/r/devops/comments/104yk4k/tips_for_staying_calm_under_pressure/) | big-tuna28 | 109 |
-| [Gitlab CI vs Jenkins vs GitHub Actions](https://www.reddit.com/r/devops/comments/105a2bn/gitlab_ci_vs_jenkins_vs_github_actions/) | JordanDreddit | 46 |
-| [I wrote secret magpie to help businesses scan for leaked secrets in all their git repositories easily](https://www.reddit.com/r/devops/comments/1055i8e/i_wrote_secret_magpie_to_help_businesses_scan_for/) | punksecurity_simon | 20 |
-| [A quick look at free C++ static analysis tools](https://www.reddit.com/r/devops/comments/1055s4e/a_quick_look_at_free_c_static_analysis_tools/) | Philipkanj | 3 |
-| [How do you guys manage your deployment pipelines?](https://www.reddit.com/r/devops/comments/1053g9z/how_do_you_guys_manage_your_deployment_pipelines/) | _mrcrgl | 2 |
-| [What is a good selfhosted tool to test for webhooks?](https://www.reddit.com/r/devops/comments/105ge1x/what_is_a_good_selfhosted_tool_to_test_for/) | Hell4Ge | 1 |
-| [Looking for suggestions on setting up workflow for project.](https://www.reddit.com/r/devops/comments/105gykr/looking_for_suggestions_on_setting_up_workflow/) | TranquilDev | 1 |
-| [How do you manage/organize your backlog tasks (i.e. tasks without a deadline)?](https://www.reddit.com/r/devops/comments/105m03d/how_do_you_manageorganize_your_backlog_tasks_ie/) | freebsdlego1 | 1 |
-| [ssh Host Based Certs -- What's the Trick?](https://www.reddit.com/r/devops/comments/104ysvw/ssh_host_based_certs_whats_the_trick/) | stormyjknight | 0 |
-| [What’s your keyboard preferanses?](https://www.reddit.com/r/devops/comments/105ffs4/whats_your_keyboard_preferanses/) | himores | 0 |
+| [My Infrastructure as Code Rosetta Stone - Deploying the same Django application on AWS ECS Fargate with CDK, Terraform and Pulumi](https://www.reddit.com/r/devops/comments/105wuc4/my_infrastructure_as_code_rosetta_stone_deploying/) | gamprin | 83 |
+| [Do you feel remote working would have hindered your growth early in your career?](https://www.reddit.com/r/devops/comments/105qlzv/do_you_feel_remote_working_would_have_hindered/) | anonymouswitchking | 54 |
+| [Tool Security Scanning for Golden Images?](https://www.reddit.com/r/devops/comments/105whj4/tool_security_scanning_for_golden_images/) | NaGueR | 8 |
+| [how to frame responsibilities and name new group I will be leading](https://www.reddit.com/r/devops/comments/1063v7x/how_to_frame_responsibilities_and_name_new_group/) | Flabbaghosted | 3 |
+| [Hadoop doubt](https://www.reddit.com/r/devops/comments/106d2dg/hadoop_doubt/) | anacondaonline | 3 |
+| [Cloud Lab setup?](https://www.reddit.com/r/devops/comments/1062lml/cloud_lab_setup/) | N7Valiant | 3 |
+| [Analyzing the U.S. Government’s adoption of zero trust (so far)](https://www.reddit.com/r/devops/comments/1065bn9/analyzing_the_us_governments_adoption_of_zero/) | Pomerium_CMo | 3 |
+| [Unique App Tech Stack Question (IAC)](https://www.reddit.com/r/devops/comments/106brus/unique_app_tech_stack_question_iac/) | Kibbelz | 2 |
+| [Is it possible to remotely operate multiple laptops over a home wireless or wired LAN?](https://www.reddit.com/r/devops/comments/105uqqz/is_it_possible_to_remotely_operate_multiple/) | Kalorifik | 0 |
+| [How to use VPN for specific websites/emails?](https://www.reddit.com/r/devops/comments/105uwmq/how_to_use_vpn_for_specific_websitesemails/) | Kalorifik | 0 |
