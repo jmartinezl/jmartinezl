@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [My Infrastructure as Code Rosetta Stone - Deploying the same Django application on AWS ECS Fargate with CDK, Terraform and Pulumi](https://www.reddit.com/r/devops/comments/105wuc4/my_infrastructure_as_code_rosetta_stone_deploying/) | gamprin | 83 |
-| [Do you feel remote working would have hindered your growth early in your career?](https://www.reddit.com/r/devops/comments/105qlzv/do_you_feel_remote_working_would_have_hindered/) | anonymouswitchking | 54 |
-| [Tool Security Scanning for Golden Images?](https://www.reddit.com/r/devops/comments/105whj4/tool_security_scanning_for_golden_images/) | NaGueR | 8 |
-| [how to frame responsibilities and name new group I will be leading](https://www.reddit.com/r/devops/comments/1063v7x/how_to_frame_responsibilities_and_name_new_group/) | Flabbaghosted | 3 |
-| [Hadoop doubt](https://www.reddit.com/r/devops/comments/106d2dg/hadoop_doubt/) | anacondaonline | 3 |
-| [Cloud Lab setup?](https://www.reddit.com/r/devops/comments/1062lml/cloud_lab_setup/) | N7Valiant | 3 |
-| [Analyzing the U.S. Government’s adoption of zero trust (so far)](https://www.reddit.com/r/devops/comments/1065bn9/analyzing_the_us_governments_adoption_of_zero/) | Pomerium_CMo | 3 |
-| [Unique App Tech Stack Question (IAC)](https://www.reddit.com/r/devops/comments/106brus/unique_app_tech_stack_question_iac/) | Kibbelz | 2 |
-| [Is it possible to remotely operate multiple laptops over a home wireless or wired LAN?](https://www.reddit.com/r/devops/comments/105uqqz/is_it_possible_to_remotely_operate_multiple/) | Kalorifik | 0 |
-| [How to use VPN for specific websites/emails?](https://www.reddit.com/r/devops/comments/105uwmq/how_to_use_vpn_for_specific_websitesemails/) | Kalorifik | 0 |
+| [6 weeks in a junior devops position](https://www.reddit.com/r/devops/comments/106xkyr/6_weeks_in_a_junior_devops_position/) | TerminatorTortoise | 86 |
+| [What do you use to document your manual runbook/sop steps](https://www.reddit.com/r/devops/comments/106kcp3/what_do_you_use_to_document_your_manual/) | finarne | 53 |
+| [Jenkins: Distributed builds in multiple cloud environments.](https://www.reddit.com/r/devops/comments/106kp5m/jenkins_distributed_builds_in_multiple_cloud/) | TahaTheNetAutmator | 11 |
+| [How to identify Mongo Atlas performance issues?](https://www.reddit.com/r/devops/comments/106knpi/how_to_identify_mongo_atlas_performance_issues/) | GSargi | 5 |
+| [No, UX is not just about the UI. Examples of tools that have a great user experience and tools that don't](https://www.reddit.com/r/devops/comments/107a3ae/no_ux_is_not_just_about_the_ui_examples_of_tools/) | DevsyOpsy | 2 |
+| [New Engineer to present at large conference](https://www.reddit.com/r/devops/comments/106rbh1/new_engineer_to_present_at_large_conference/) | chu_chu_rocket | 1 |
+| [Monitoring the flow to the site, how to perform it?](https://www.reddit.com/r/devops/comments/107b1ln/monitoring_the_flow_to_the_site_how_to_perform_it/) | ak17hg | 1 |
+| [How to make k8s schedules pods on the oldest instance as much as possible?](https://www.reddit.com/r/devops/comments/107cpsd/how_to_make_k8s_schedules_pods_on_the_oldest/) | Successful-Injury-38 | 1 |
+| [Has anyone moved from web development into cloud engineer/cloud support?](https://www.reddit.com/r/devops/comments/1079mps/has_anyone_moved_from_web_development_into_cloud/) | Notalabel_4566 | 1 |
+| [Negotiating a JR salary?](https://www.reddit.com/r/devops/comments/1070ex1/negotiating_a_jr_salary/) | electrowiz64 | 0 |
