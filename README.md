@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [6 weeks in a junior devops position](https://www.reddit.com/r/devops/comments/106xkyr/6_weeks_in_a_junior_devops_position/) | TerminatorTortoise | 86 |
-| [What do you use to document your manual runbook/sop steps](https://www.reddit.com/r/devops/comments/106kcp3/what_do_you_use_to_document_your_manual/) | finarne | 53 |
-| [Jenkins: Distributed builds in multiple cloud environments.](https://www.reddit.com/r/devops/comments/106kp5m/jenkins_distributed_builds_in_multiple_cloud/) | TahaTheNetAutmator | 11 |
-| [How to identify Mongo Atlas performance issues?](https://www.reddit.com/r/devops/comments/106knpi/how_to_identify_mongo_atlas_performance_issues/) | GSargi | 5 |
-| [No, UX is not just about the UI. Examples of tools that have a great user experience and tools that don't](https://www.reddit.com/r/devops/comments/107a3ae/no_ux_is_not_just_about_the_ui_examples_of_tools/) | DevsyOpsy | 2 |
-| [New Engineer to present at large conference](https://www.reddit.com/r/devops/comments/106rbh1/new_engineer_to_present_at_large_conference/) | chu_chu_rocket | 1 |
-| [Monitoring the flow to the site, how to perform it?](https://www.reddit.com/r/devops/comments/107b1ln/monitoring_the_flow_to_the_site_how_to_perform_it/) | ak17hg | 1 |
-| [How to make k8s schedules pods on the oldest instance as much as possible?](https://www.reddit.com/r/devops/comments/107cpsd/how_to_make_k8s_schedules_pods_on_the_oldest/) | Successful-Injury-38 | 1 |
-| [Has anyone moved from web development into cloud engineer/cloud support?](https://www.reddit.com/r/devops/comments/1079mps/has_anyone_moved_from_web_development_into_cloud/) | Notalabel_4566 | 1 |
-| [Negotiating a JR salary?](https://www.reddit.com/r/devops/comments/1070ex1/negotiating_a_jr_salary/) | electrowiz64 | 0 |
+| [Linux System Config Management Tools](https://www.reddit.com/r/devops/comments/107yutf/linux_system_config_management_tools/) | must_be_the_network | 35 |
+| [Starting w/ Concourse CI in 2023](https://www.reddit.com/r/devops/comments/107ctsq/starting_w_concourse_ci_in_2023/) | anrgyscientist | 18 |
+| [nginx over websockets doesn't work when trying to upload large file sizes](https://www.reddit.com/r/devops/comments/107lgqg/nginx_over_websockets_doesnt_work_when_trying_to/) | mr_claw | 15 |
+| [Looking for the next role](https://www.reddit.com/r/devops/comments/107eju7/looking_for_the_next_role/) | 64bit_hooman | 8 |
+| [Any open source "job catalog as code" UI?](https://www.reddit.com/r/devops/comments/107jqwt/any_open_source_job_catalog_as_code_ui/) | Jatalocks2 | 8 |
+| [Recommended ways to catch missing environment variables in github actions?](https://www.reddit.com/r/devops/comments/107yge5/recommended_ways_to_catch_missing_environment/) | thps2ontheps2 | 7 |
+| [Crossplane vs Cloudify](https://www.reddit.com/r/devops/comments/107e1u4/crossplane_vs_cloudify/) | RoundRush | 6 |
+| [Were you impacted by CircleCI's security incident of Jan 2023?](https://www.reddit.com/r/devops/comments/107hdnu/were_you_impacted_by_circlecis_security_incident/) | devoopseng | 5 |
+| [DevOps teams within Engineering](https://www.reddit.com/r/devops/comments/107k7y7/devops_teams_within_engineering/) | docmphd | 3 |
+| [Calico as a replacement for Aws cni](https://www.reddit.com/r/devops/comments/107p0kx/calico_as_a_replacement_for_aws_cni/) | ricetea | 3 |
