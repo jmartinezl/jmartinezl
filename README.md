@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Linux System Config Management Tools](https://www.reddit.com/r/devops/comments/107yutf/linux_system_config_management_tools/) | must_be_the_network | 35 |
-| [Starting w/ Concourse CI in 2023](https://www.reddit.com/r/devops/comments/107ctsq/starting_w_concourse_ci_in_2023/) | anrgyscientist | 18 |
-| [nginx over websockets doesn't work when trying to upload large file sizes](https://www.reddit.com/r/devops/comments/107lgqg/nginx_over_websockets_doesnt_work_when_trying_to/) | mr_claw | 15 |
-| [Looking for the next role](https://www.reddit.com/r/devops/comments/107eju7/looking_for_the_next_role/) | 64bit_hooman | 8 |
-| [Any open source "job catalog as code" UI?](https://www.reddit.com/r/devops/comments/107jqwt/any_open_source_job_catalog_as_code_ui/) | Jatalocks2 | 8 |
-| [Recommended ways to catch missing environment variables in github actions?](https://www.reddit.com/r/devops/comments/107yge5/recommended_ways_to_catch_missing_environment/) | thps2ontheps2 | 7 |
-| [Crossplane vs Cloudify](https://www.reddit.com/r/devops/comments/107e1u4/crossplane_vs_cloudify/) | RoundRush | 6 |
-| [Were you impacted by CircleCI's security incident of Jan 2023?](https://www.reddit.com/r/devops/comments/107hdnu/were_you_impacted_by_circlecis_security_incident/) | devoopseng | 5 |
-| [DevOps teams within Engineering](https://www.reddit.com/r/devops/comments/107k7y7/devops_teams_within_engineering/) | docmphd | 3 |
-| [Calico as a replacement for Aws cni](https://www.reddit.com/r/devops/comments/107p0kx/calico_as_a_replacement_for_aws_cni/) | ricetea | 3 |
+| [How do you manage configuration/secrets changes?](https://www.reddit.com/r/devops/comments/108l2h9/how_do_you_manage_configurationsecrets_changes/) | pbn4 | 49 |
+| [What are your new year's devops resolutions?](https://www.reddit.com/r/devops/comments/108i69o/what_are_your_new_years_devops_resolutions/) | NewRelicChris | 15 |
+| [What do you think is missing in your tool set?](https://www.reddit.com/r/devops/comments/10893oc/what_do_you_think_is_missing_in_your_tool_set/) | ndemir | 11 |
+| [What are some good DevOps podcasts for learning purposes ?](https://www.reddit.com/r/devops/comments/108m64u/what_are_some_good_devops_podcasts_for_learning/) | RP_m_13 | 10 |
+| [Creating a VPN to control access to a dev environment?](https://www.reddit.com/r/devops/comments/108dykv/creating_a_vpn_to_control_access_to_a_dev/) | thana979 | 10 |
+| [How to scale artefactory for 2000-3000 users? Possible?](https://www.reddit.com/r/devops/comments/108yp2b/how_to_scale_artefactory_for_20003000_users/) | DevOpsHumbleFool | 8 |
+| [Automating deployment of a React/Flask app with Ansible to K8s nodes, need to specify API URL depending on prod/test](https://www.reddit.com/r/devops/comments/108ikgr/automating_deployment_of_a_reactflask_app_with/) | Unusual-Instance-717 | 6 |
+| [I wrote this guide on how to move from TDD to ODD](https://www.reddit.com/r/devops/comments/108iclz/i_wrote_this_guide_on_how_to_move_from_tdd_to_odd/) | adnanrahic | 5 |
+| [Databases on AKS](https://www.reddit.com/r/devops/comments/1089ley/databases_on_aks/) | titch124 | 4 |
+| [Securing A github actions workflow?](https://www.reddit.com/r/devops/comments/108qzvj/securing_a_github_actions_workflow/) | pribnow | 3 |
