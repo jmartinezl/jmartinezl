@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Monitoring infra cost: which tool do you use?](https://www.reddit.com/r/devops/comments/10999w4/monitoring_infra_cost_which_tool_do_you_use/) | Cyrilam | 63 |
-| [What are your must-have scripts/playbooks for on-prem?](https://www.reddit.com/r/devops/comments/109jnee/what_are_your_musthave_scriptsplaybooks_for_onprem/) | sublimme | 13 |
-| [Chef Workstation on Ubuntu 22.10](https://www.reddit.com/r/devops/comments/109l34y/chef_workstation_on_ubuntu_2210/) | Public_Guest212 | 8 |
-| [Artifactory Pypi repo uploads in offline environment](https://www.reddit.com/r/devops/comments/10976nh/artifactory_pypi_repo_uploads_in_offline/) | dust_off_huffer | 8 |
-| [Network security on Azure and GCP](https://www.reddit.com/r/devops/comments/109vin6/network_security_on_azure_and_gcp/) | ncubez | 5 |
-| [A review I wrote about Sprkl Observability](https://www.reddit.com/r/devops/comments/109bqhb/a_review_i_wrote_about_sprkl_observability/) | albion_B18 | 5 |
-| [Worthness of K8s when running application on single node cluster](https://www.reddit.com/r/devops/comments/109etr8/worthness_of_k8s_when_running_application_on/) | Tiny-Entertainer-346 | 2 |
-| [Use amazon-textract-response-parser in AWS Lambda](https://www.reddit.com/r/devops/comments/109398x/use_amazontextractresponseparser_in_aws_lambda/) | archhelp1 | 1 |
-| [Propagating image changes to a k8s cluster](https://www.reddit.com/r/devops/comments/109c7p2/propagating_image_changes_to_a_k8s_cluster/) | aliasxneo | 1 |
-| [anyone take the devops online course from UChicago?](https://www.reddit.com/r/devops/comments/109fa13/anyone_take_the_devops_online_course_from_uchicago/) | nok4us | 0 |
+| [Terraform - How do you handle secrets?](https://www.reddit.com/r/devops/comments/10a7j78/terraform_how_do_you_handle_secrets/) | Culpgrant21 | 64 |
+| [Chronological list of Resources to Learn DevOps from Complete Beginner to Advanced Level](https://www.reddit.com/r/devops/comments/10akuiq/chronological_list_of_resources_to_learn_devops/) | moviesdusk | 31 |
+| [Make rotation of ansible-vault inline secrets a breeze](https://www.reddit.com/r/devops/comments/10a66zo/make_rotation_of_ansiblevault_inline_secrets_a/) | R3ym4nn | 28 |
+| [Self-Hosted Secrets Management Service Recommendations?](https://www.reddit.com/r/devops/comments/10a7hmd/selfhosted_secrets_management_service/) | Kpervs | 16 |
+| [Manage Multiple GitHub Repositories with Renovate and CircleCI](https://www.reddit.com/r/devops/comments/109y3n0/manage_multiple_github_repositories_with_renovate/) | piotr_minkowski | 12 |
+| [how do you handle ssh host keys between image creation and deployment](https://www.reddit.com/r/devops/comments/10ajd3f/how_do_you_handle_ssh_host_keys_between_image/) | melbogia | 3 |
+| [Saving load test results for comparison](https://www.reddit.com/r/devops/comments/10a4mvk/saving_load_test_results_for_comparison/) | LeonardSpencer | 1 |
+| [Is there any point in using Release Pipelines in AzureDevops in 2022 for a New Project?](https://www.reddit.com/r/devops/comments/10art66/is_there_any_point_in_using_release_pipelines_in/) | podcast_frog3817 | 1 |
+| [Unified Application Management under Cloud-Edge Collaboration: A Solution Based on OpenYurt and KubeVela](https://www.reddit.com/r/devops/comments/10aqrwv/unified_application_management_under_cloudedge/) | oam-dev | 0 |
+| [Unified Application Management under Cloud-Edge Collaboration: A Solution Based on OpenYurt and KubeVela](https://www.reddit.com/r/devops/comments/10aqqz0/unified_application_management_under_cloudedge/) | oam-dev | 0 |
