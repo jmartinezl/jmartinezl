@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [CircleCI Security Incident](https://www.reddit.com/r/devops/comments/10b6ggh/circleci_security_incident/) | skeneks | 93 |
-| [Using artifactory for Minecraft plugins](https://www.reddit.com/r/devops/comments/10b0i1g/using_artifactory_for_minecraft_plugins/) | Fuglen_TV | 28 |
-| [Solutions for passing user specific data in to a container at startup](https://www.reddit.com/r/devops/comments/10atvkp/solutions_for_passing_user_specific_data_in_to_a/) | Sir_Fog | 19 |
-| [APM/OTel product of choice?](https://www.reddit.com/r/devops/comments/10auz5a/apmotel_product_of_choice/) | humoroushaxor | 9 |
-| [Config/state management of Datadog agent on long-running Windows servers](https://www.reddit.com/r/devops/comments/10bas2w/configstate_management_of_datadog_agent_on/) | mfinnigan | 5 |
-| [Packer vs RedHat Image Builder?](https://www.reddit.com/r/devops/comments/10b9o78/packer_vs_redhat_image_builder/) | extremexample | 4 |
-| [HA Vault backend](https://www.reddit.com/r/devops/comments/10b4q9b/ha_vault_backend/) | BLACKSUPERCAR | 2 |
-| [Cincinnati Free Summer 2023 DevOps Bootcamp](https://www.reddit.com/r/devops/comments/10b7twh/cincinnati_free_summer_2023_devops_bootcamp/) | ILikeToPlayWithDogs | 1 |
-| [AWS Multi Region architecture without API Gateway](https://www.reddit.com/r/devops/comments/10b1mid/aws_multi_region_architecture_without_api_gateway/) | flymoosey | 1 |
-| [What’s your opinion on “DevOps” as a job title (ie. DevOps Engineer)?](https://www.reddit.com/r/devops/comments/10axvp2/whats_your_opinion_on_devops_as_a_job_title_ie/) | cyberw0lf_ | 0 |
+| [Scaling a web application which is growing very fast](https://www.reddit.com/r/devops/comments/10bqi0f/scaling_a_web_application_which_is_growing_very/) | malirkan | 34 |
+| [Moving from openlens to k9s after the 6.3.0 downgrade](https://www.reddit.com/r/devops/comments/10bomx3/moving_from_openlens_to_k9s_after_the_630/) | MariusKimmina | 34 |
+| [ClickOps?](https://www.reddit.com/r/devops/comments/10bzrml/clickops/) | rnmkrmn | 31 |
+| [How to parallelize integration tests?](https://www.reddit.com/r/devops/comments/10c9z54/how_to_parallelize_integration_tests/) | Hugahugalulu1 | 12 |
+| [Any training recommendations for Devops Engineer?](https://www.reddit.com/r/devops/comments/10bo8ub/any_training_recommendations_for_devops_engineer/) | AsherGC | 8 |
+| [Leaening Devops without its popular services](https://www.reddit.com/r/devops/comments/10bo793/leaening_devops_without_its_popular_services/) | hossein1376 | 4 |
+| [Nomad Configuration](https://www.reddit.com/r/devops/comments/10cfrfp/nomad_configuration/) | ben-cleary | 3 |
+| [How do you think tier.run? Pricing as code](https://www.reddit.com/r/devops/comments/10ch1m0/how_do_you_think_tierrun_pricing_as_code/) | hu-beau | 2 |
+| [Fargate right-sizing...](https://www.reddit.com/r/devops/comments/10ch6qn/fargate_rightsizing/) | duckduckducknonono | 2 |
+| [We're running a DevSecOps / AppSec CTF](https://www.reddit.com/r/devops/comments/10bo1z7/were_running_a_devsecops_appsec_ctf/) | punksecurity_simon | 1 |
