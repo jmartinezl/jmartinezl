@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [The UI is not about ClickOps](https://www.reddit.com/r/devops/comments/10dfwgj/the_ui_is_not_about_clickops/) | DevsyOpsy | 94 |
-| [Send physical mail using Terraform (terraform-provider-mailform)](https://www.reddit.com/r/devops/comments/10dtvno/send_physical_mail_using_terraform/) | circa10a | 79 |
-| [How to organize credentials of so many tools?](https://www.reddit.com/r/devops/comments/10dhqeu/how_to_organize_credentials_of_so_many_tools/) | hinsxd | 18 |
-| [Jailer, a universal database tool.](https://www.reddit.com/r/devops/comments/10dezsn/jailer_a_universal_database_tool/) | Plane-Discussion | 8 |
-| [IaC management at large organizations?](https://www.reddit.com/r/devops/comments/10dfu13/iac_management_at_large_organizations/) | jmreicha | 8 |
-| [VPS hosting provider recommendation](https://www.reddit.com/r/devops/comments/10dq9u3/vps_hosting_provider_recommendation/) | melezhik | 7 |
-| [My company gives me $3000 for training materials. What should I buy?](https://www.reddit.com/r/devops/comments/10e7il4/my_company_gives_me_3000_for_training_materials/) | Jazzlike-Note3111 | 4 |
-| [tgenv is dead, long live tgenv!](https://www.reddit.com/r/devops/comments/10drh8y/tgenv_is_dead_long_live_tgenv/) | Iokiwi | 2 |
-| [What versioning scheme for development images tags?](https://www.reddit.com/r/devops/comments/10do2pe/what_versioning_scheme_for_development_images_tags/) | gaelfr38 | 2 |
-| [qemu-img resize &amp; virt-customize // cloudinit FS size](https://www.reddit.com/r/devops/comments/10dtsnp/qemuimg_resize_virtcustomize_cloudinit_fs_size/) | Mabed_ | 1 |
+| [Casual, off-the-record hangout with Netflix productivity team](https://www.reddit.com/r/devops/comments/10elayg/casual_offtherecord_hangout_with_netflix/) | efunction | 78 |
+| [Bash or Z Shell?](https://www.reddit.com/r/devops/comments/10efpar/bash_or_z_shell/) | kristianwindsor | 14 |
+| [Bounded Rationality in Software Development](https://www.reddit.com/r/devops/comments/10eef48/bounded_rationality_in_software_development/) | ndemir | 7 |
+| [What kind of self service tools did you build for your dev teams?](https://www.reddit.com/r/devops/comments/10ed1l1/what_kind_of_self_service_tools_did_you_build_for/) | WorkingVersion1598 | 6 |
+| [Scaling OPA](https://www.reddit.com/r/devops/comments/10ebbjp/scaling_opa/) | imdbnurnot | 3 |
+| [Release pipelines -- smooth as silk or still a pain (sometimes?)](https://www.reddit.com/r/devops/comments/10eoms9/release_pipelines_smooth_as_silk_or_still_a_pain/) | dave_pdx | 3 |
+| [Prepping for your first on-call shift](https://www.reddit.com/r/devops/comments/10eewfh/prepping_for_your_first_oncall_shift/) | dhdersch | 3 |
+| [Noob CICD Question](https://www.reddit.com/r/devops/comments/10ez5ka/noob_cicd_question/) | yanggang20202024 | 3 |
+| [Any good contents/course for serverless framework](https://www.reddit.com/r/devops/comments/10elf1d/any_good_contentscourse_for_serverless_framework/) | eyesniper12 | 3 |
+| [What is the cheapest place to host a small (7 pods) Kubernetes deployment?](https://www.reddit.com/r/devops/comments/10f4zk3/what_is_the_cheapest_place_to_host_a_small_7_pods/) | Dependent-Example930 | 2 |
