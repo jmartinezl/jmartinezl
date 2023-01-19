@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Casual, off-the-record hangout with Netflix productivity team](https://www.reddit.com/r/devops/comments/10elayg/casual_offtherecord_hangout_with_netflix/) | efunction | 78 |
-| [Bash or Z Shell?](https://www.reddit.com/r/devops/comments/10efpar/bash_or_z_shell/) | kristianwindsor | 14 |
-| [Bounded Rationality in Software Development](https://www.reddit.com/r/devops/comments/10eef48/bounded_rationality_in_software_development/) | ndemir | 7 |
-| [What kind of self service tools did you build for your dev teams?](https://www.reddit.com/r/devops/comments/10ed1l1/what_kind_of_self_service_tools_did_you_build_for/) | WorkingVersion1598 | 6 |
-| [Scaling OPA](https://www.reddit.com/r/devops/comments/10ebbjp/scaling_opa/) | imdbnurnot | 3 |
-| [Release pipelines -- smooth as silk or still a pain (sometimes?)](https://www.reddit.com/r/devops/comments/10eoms9/release_pipelines_smooth_as_silk_or_still_a_pain/) | dave_pdx | 3 |
-| [Prepping for your first on-call shift](https://www.reddit.com/r/devops/comments/10eewfh/prepping_for_your_first_oncall_shift/) | dhdersch | 3 |
-| [Noob CICD Question](https://www.reddit.com/r/devops/comments/10ez5ka/noob_cicd_question/) | yanggang20202024 | 3 |
-| [Any good contents/course for serverless framework](https://www.reddit.com/r/devops/comments/10elf1d/any_good_contentscourse_for_serverless_framework/) | eyesniper12 | 3 |
-| [What is the cheapest place to host a small (7 pods) Kubernetes deployment?](https://www.reddit.com/r/devops/comments/10f4zk3/what_is_the_cheapest_place_to_host_a_small_7_pods/) | Dependent-Example930 | 2 |
+| [What's the difference between GitOps and Ci/CD](https://www.reddit.com/r/devops/comments/10faw7u/whats_the_difference_between_gitops_and_cicd/) | masterjx9 | 46 |
+| [how many CICD pipelines per git repository](https://www.reddit.com/r/devops/comments/10f70l0/how_many_cicd_pipelines_per_git_repository/) | -Nick_ | 45 |
+| [Team is trying to build an entirely custom service to calculate DORA metrics for our company. Is this normal or are we over-stretching ourselves?](https://www.reddit.com/r/devops/comments/10f93v4/team_is_trying_to_build_an_entirely_custom/) | jjsmyth1 | 23 |
+| [An application agnostic remote agent](https://www.reddit.com/r/devops/comments/10fl0up/an_application_agnostic_remote_agent/) | badarsebard | 18 |
+| [What are Terratests good for?](https://www.reddit.com/r/devops/comments/10fbrcl/what_are_terratests_good_for/) | dev-whoops | 13 |
+| [U got hired as a DevOps engineer, but you are really a glorified Sysadmin. What do you do to change this?](https://www.reddit.com/r/devops/comments/10fx26f/u_got_hired_as_a_devops_engineer_but_you_are/) | SympathyThick2453 | 10 |
+| [Keda with kafka scaler won't scale from zero](https://www.reddit.com/r/devops/comments/10fgtwb/keda_with_kafka_scaler_wont_scale_from_zero/) | yershalom | 8 |
+| [Single region deployment to multiregion](https://www.reddit.com/r/devops/comments/10f623j/single_region_deployment_to_multiregion/) | eyesniper12 | 4 |
+| [Reproducible builds locally and in the pipeline using docker?](https://www.reddit.com/r/devops/comments/10fk7mp/reproducible_builds_locally_and_in_the_pipeline/) | chazragg | 3 |
+| [Need to learn about cert (security)](https://www.reddit.com/r/devops/comments/10fy6ki/need_to_learn_about_cert_security/) | nani21984 | 2 |
