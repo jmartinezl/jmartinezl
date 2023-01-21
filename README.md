@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| ["I Know So Much Stuff I Learned Over The Years I Forgot Half Of That By Now?"](https://www.reddit.com/r/devops/comments/10gfegd/i_know_so_much_stuff_i_learned_over_the_years_i/) | pojzon_poe | 66 |
-| [Do you let devs deploy to production?](https://www.reddit.com/r/devops/comments/10g3bcb/do_you_let_devs_deploy_to_production/) | Vonderchicken | 40 |
-| [Should I continue my self-taught journey to become Remote worker?](https://www.reddit.com/r/devops/comments/10g4hmw/should_i_continue_my_selftaught_journey_to_become/) | FlameIqfe | 12 |
-| [Monitoring stack demo using Grafana, Loki &amp; Mimir](https://www.reddit.com/r/devops/comments/10gfu0t/monitoring_stack_demo_using_grafana_loki_mimir/) | wickler02 | 9 |
-| [Hands-on examples of observability-driven development](https://www.reddit.com/r/devops/comments/10gab31/handson_examples_of_observabilitydriven/) | adnanrahic | 9 |
-| [Hands-On: Kubernetes Gateway API With APISIX Ingress](https://www.reddit.com/r/devops/comments/10gnldc/handson_kubernetes_gateway_api_with_apisix_ingress/) | lungi_bass | 8 |
-| [It seems like we are always in diapers. The anxiety of never knowing what we are doing and the future...](https://www.reddit.com/r/devops/comments/10gslt1/it_seems_like_we_are_always_in_diapers_the/) | DevsyOpsy | 6 |
-| [backstage.io common Issues and Pitfalls](https://www.reddit.com/r/devops/comments/10guddj/backstageio_common_issues_and_pitfalls/) | rtpro1 | 4 |
-| [Internal tooling ideas?](https://www.reddit.com/r/devops/comments/10gsy86/internal_tooling_ideas/) | TehMightyDuk | 4 |
-| [Script or software that automatically populate specific profile in ~/.aws/credentials](https://www.reddit.com/r/devops/comments/10ggej1/script_or_software_that_automatically_populate/) | midlevelmybutt | 3 |
+| [But really, why is all CI/CD pipelines?](https://www.reddit.com/r/devops/comments/10gzdqg/but_really_why_is_all_cicd_pipelines/) | ErsatzApple | 99 |
+| [Secret Management Across Environments / Vault](https://www.reddit.com/r/devops/comments/10hipa7/secret_management_across_environments_vault/) | coloradofever29 | 6 |
+| [Do any CI/CD systems allow for retrofit of cross-cutting concerns?](https://www.reddit.com/r/devops/comments/10hg862/do_any_cicd_systems_allow_for_retrofit_of/) | td9910 | 4 |
+| ["Accredited" DevOps Training/Cert Courses?](https://www.reddit.com/r/devops/comments/10gxw59/accredited_devops_trainingcert_courses/) | dschwartz0815 | 4 |
+| [fargate with react](https://www.reddit.com/r/devops/comments/10h0asx/fargate_with_react/) | y0sh1da_23 | 1 |
+| [Git merge from development to production](https://www.reddit.com/r/devops/comments/10hl665/git_merge_from_development_to_production/) | jaango123 | 1 |
+| [Containers](https://www.reddit.com/r/devops/comments/10hja1t/containers/) | yxz97 | 1 |
+| [hello one curso free](https://www.reddit.com/r/devops/comments/10h88ja/hello_one_curso_free/) | lordmaoumeliodas | 0 |
+| [Do you use Intune?](https://www.reddit.com/r/devops/comments/10hkl0e/do_you_use_intune/) | AccomplishedLet5782 | 0 |
