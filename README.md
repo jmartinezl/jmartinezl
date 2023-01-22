@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [But really, why is all CI/CD pipelines?](https://www.reddit.com/r/devops/comments/10gzdqg/but_really_why_is_all_cicd_pipelines/) | ErsatzApple | 99 |
-| [Secret Management Across Environments / Vault](https://www.reddit.com/r/devops/comments/10hipa7/secret_management_across_environments_vault/) | coloradofever29 | 6 |
-| [Do any CI/CD systems allow for retrofit of cross-cutting concerns?](https://www.reddit.com/r/devops/comments/10hg862/do_any_cicd_systems_allow_for_retrofit_of/) | td9910 | 4 |
-| ["Accredited" DevOps Training/Cert Courses?](https://www.reddit.com/r/devops/comments/10gxw59/accredited_devops_trainingcert_courses/) | dschwartz0815 | 4 |
-| [fargate with react](https://www.reddit.com/r/devops/comments/10h0asx/fargate_with_react/) | y0sh1da_23 | 1 |
-| [Git merge from development to production](https://www.reddit.com/r/devops/comments/10hl665/git_merge_from_development_to_production/) | jaango123 | 1 |
-| [Containers](https://www.reddit.com/r/devops/comments/10hja1t/containers/) | yxz97 | 1 |
-| [hello one curso free](https://www.reddit.com/r/devops/comments/10h88ja/hello_one_curso_free/) | lordmaoumeliodas | 0 |
-| [Do you use Intune?](https://www.reddit.com/r/devops/comments/10hkl0e/do_you_use_intune/) | AccomplishedLet5782 | 0 |
+| [🚨 Terraform from 0 to Hero Blog Series](https://www.reddit.com/r/devops/comments/10hrk2s/terraform_from_0_to_hero_blog_series/) | flaviuscdinu | 223 |
+| [Does anyone know the current status of Chick-fil-A’s per-restaurant Kubernetes cluster?](https://www.reddit.com/r/devops/comments/10hw3yt/does_anyone_know_the_current_status_of_chickfilas/) | propjames | 141 |
+| [I created an open source secrets manager and Y Combinator just invested in it!](https://www.reddit.com/r/devops/comments/10i6ra1/i_created_an_open_source_secrets_manager_and_y/) | theflyingdog98 | 136 |
+| [junior dev ops here - need to configure Linux and Windows build/dev workstations on demand, for CI/CD pipelines and on-premise developers with special drivers/install processes that sometimes take 2-3 days manually. ML/AI. What tech stacks would you advise for config?](https://www.reddit.com/r/devops/comments/10ht39r/junior_dev_ops_here_need_to_configure_linux_and/) | V3Qn117x0UFQ | 10 |
+| [Does trunk-based development still work for mlops and data science / AI heavy teams?](https://www.reddit.com/r/devops/comments/10i2ixz/does_trunkbased_development_still_work_for_mlops/) | t5bert | 3 |
+| [[humor] AWS CDK – Proposed Slogans](https://www.reddit.com/r/devops/comments/10ib1u1/humor_aws_cdk_proposed_slogans/) | ilyash | 2 |
+| [Work split on modules vertical or horizontal](https://www.reddit.com/r/devops/comments/10ifcsv/work_split_on_modules_vertical_or_horizontal/) | mbrseb | 1 |
+| [Hashicorp terraform on psionline for non-English speakers](https://www.reddit.com/r/devops/comments/10ic13p/hashicorp_terraform_on_psionline_for_nonenglish/) | No_Clock7655 | 1 |
+| [Dark Forest of IT &amp; Secure Systems in the 21st Century](https://www.reddit.com/r/devops/comments/10ih6nj/dark_forest_of_it_secure_systems_in_the_21st/) | VysokoAnime | 1 |
+| [Anyone use AWS Managed Prometheus Grafana? Confused because it looks like a non-managed prometheus solution?](https://www.reddit.com/r/devops/comments/10hvvwi/anyone_use_aws_managed_prometheus_grafana/) | CoffeeCrisis | 1 |
