@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [🚨 Terraform from 0 to Hero Blog Series](https://www.reddit.com/r/devops/comments/10hrk2s/terraform_from_0_to_hero_blog_series/) | flaviuscdinu | 223 |
-| [Does anyone know the current status of Chick-fil-A’s per-restaurant Kubernetes cluster?](https://www.reddit.com/r/devops/comments/10hw3yt/does_anyone_know_the_current_status_of_chickfilas/) | propjames | 141 |
-| [I created an open source secrets manager and Y Combinator just invested in it!](https://www.reddit.com/r/devops/comments/10i6ra1/i_created_an_open_source_secrets_manager_and_y/) | theflyingdog98 | 136 |
-| [junior dev ops here - need to configure Linux and Windows build/dev workstations on demand, for CI/CD pipelines and on-premise developers with special drivers/install processes that sometimes take 2-3 days manually. ML/AI. What tech stacks would you advise for config?](https://www.reddit.com/r/devops/comments/10ht39r/junior_dev_ops_here_need_to_configure_linux_and/) | V3Qn117x0UFQ | 10 |
-| [Does trunk-based development still work for mlops and data science / AI heavy teams?](https://www.reddit.com/r/devops/comments/10i2ixz/does_trunkbased_development_still_work_for_mlops/) | t5bert | 3 |
-| [[humor] AWS CDK – Proposed Slogans](https://www.reddit.com/r/devops/comments/10ib1u1/humor_aws_cdk_proposed_slogans/) | ilyash | 2 |
-| [Work split on modules vertical or horizontal](https://www.reddit.com/r/devops/comments/10ifcsv/work_split_on_modules_vertical_or_horizontal/) | mbrseb | 1 |
-| [Hashicorp terraform on psionline for non-English speakers](https://www.reddit.com/r/devops/comments/10ic13p/hashicorp_terraform_on_psionline_for_nonenglish/) | No_Clock7655 | 1 |
-| [Dark Forest of IT &amp; Secure Systems in the 21st Century](https://www.reddit.com/r/devops/comments/10ih6nj/dark_forest_of_it_secure_systems_in_the_21st/) | VysokoAnime | 1 |
-| [Anyone use AWS Managed Prometheus Grafana? Confused because it looks like a non-managed prometheus solution?](https://www.reddit.com/r/devops/comments/10hvvwi/anyone_use_aws_managed_prometheus_grafana/) | CoffeeCrisis | 1 |
+| [Where have you had secrets leaked?](https://www.reddit.com/r/devops/comments/10ir2n0/where_have_you_had_secrets_leaked/) | punksecurity_simon | 68 |
+| [What's your thoughts on Crossplane ?](https://www.reddit.com/r/devops/comments/10iix3j/whats_your_thoughts_on_crossplane/) | Lopsided-Fuel7727 | 28 |
+| [How do y'all do Self Service/ Ease of setup for Observability with Dev's?](https://www.reddit.com/r/devops/comments/10io87o/how_do_yall_do_self_service_ease_of_setup_for/) | sportsfan56 | 26 |
+| [Which monitoring system do you use in your company?](https://www.reddit.com/r/devops/comments/10iztux/which_monitoring_system_do_you_use_in_your_company/) | Clivern | 18 |
+| [Simple, open-source, lightweight stress tool](https://www.reddit.com/r/devops/comments/10jafut/simple_opensource_lightweight_stress_tool/) | chrisy_e | 17 |
+| [Vault configuration - should it reside in Terraform or Backups?](https://www.reddit.com/r/devops/comments/10ity6f/vault_configuration_should_it_reside_in_terraform/) | dima2022 | 14 |
+| [Take home assignments during recruitment (Poll)](https://www.reddit.com/r/devops/comments/10iohr4/take_home_assignments_during_recruitment_poll/) | Dubinko | 11 |
+| [Automating lambda functions](https://www.reddit.com/r/devops/comments/10ii89f/automating_lambda_functions/) | blank1993 | 6 |
+| [What can we do better?](https://www.reddit.com/r/devops/comments/10inb1i/what_can_we_do_better/) | hnnsSI | 3 |
+| [Looking for a way to test CI pipeline (gitlab) locally](https://www.reddit.com/r/devops/comments/10j7e7l/looking_for_a_way_to_test_ci_pipeline_gitlab/) | MariusKimmina | 2 |
