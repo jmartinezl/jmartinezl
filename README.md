@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Are there any DevOps podcasts that you would recommend for learning purposes ?](https://www.reddit.com/r/devops/comments/10jecii/are_there_any_devops_podcasts_that_you_would/) | seeking_facts | 27 |
-| [Self-made API Gateway in a MicroService architecture ?](https://www.reddit.com/r/devops/comments/10jc02k/selfmade_api_gateway_in_a_microservice/) | Shadonovitch | 10 |
-| [DevOps training project ideas](https://www.reddit.com/r/devops/comments/10jbmfn/devops_training_project_ideas/) | BradSainty | 7 |
-| [is DevOps just another job now?](https://www.reddit.com/r/devops/comments/10jnyyd/is_devops_just_another_job_now/) | kneecaps2k | 3 |
-| [How do you debug and log CI docker-build failures?](https://www.reddit.com/r/devops/comments/10jgrih/how_do_you_debug_and_log_ci_dockerbuild_failures/) | Jatalocks2 | 3 |
-| [From your experience, what are some use cases that make you use an APM provider like Datadog, NewRelic, blah, blah? Instead of lean open-source solutions (Prometheus, Jaeger, Loki)?](https://www.reddit.com/r/devops/comments/10k0oc8/from_your_experience_what_are_some_use_cases_that/) | Nice_Score_7552 | 2 |
-| [Datadog questions](https://www.reddit.com/r/devops/comments/10k1gnc/datadog_questions/) | Cloud--Man | 2 |
-| [Small team of data analysts using SQL, Python and PowerBI, should we use Git or Github?](https://www.reddit.com/r/devops/comments/10jcljv/small_team_of_data_analysts_using_sql_python_and/) | punchoutlanddragons | 1 |
-| [Career Options as a CS Sophomore](https://www.reddit.com/r/devops/comments/10jnwu2/career_options_as_a_cs_sophomore/) | whitechor | 1 |
-| [Best practice for building an internal developer platform](https://www.reddit.com/r/devops/comments/10k20bg/best_practice_for_building_an_internal_developer/) | neowiz92 | 1 |
+| [Taking over internal tools built by ppl who quit (DevOps/SRE)?](https://www.reddit.com/r/devops/comments/10k4tgj/taking_over_internal_tools_built_by_ppl_who_quit/) | pojzon_poe | 116 |
+| [I recently extended the GitLab director shadow program criteria to include those between jobs (aka layoffs)](https://www.reddit.com/r/devops/comments/10kh8jn/i_recently_extended_the_gitlab_director_shadow/) | howie1001 | 75 |
+| [Is 80k/year enough for mid level engineering in major cities in Canada?](https://www.reddit.com/r/devops/comments/10kgunc/is_80kyear_enough_for_mid_level_engineering_in/) | prysmatik | 35 |
+| [Alternative to Atlassian Jira and Confluence](https://www.reddit.com/r/devops/comments/10ksowi/alternative_to_atlassian_jira_and_confluence/) | Objective_Tour_7960 | 9 |
+| [Best CI Service for Use with Gitea?](https://www.reddit.com/r/devops/comments/10k61p1/best_ci_service_for_use_with_gitea/) | WherMyEth | 6 |
+| [how to scrape data from sonarqube](https://www.reddit.com/r/devops/comments/10kq35l/how_to_scrape_data_from_sonarqube/) | theweirdindiangirl | 2 |
+| [Who is responsible for the Kubernetes "infra-part" in your Organisation?](https://www.reddit.com/r/devops/comments/10k9fd2/who_is_responsible_for_the_kubernetes_infrapart/) | 1deep2me | 2 |
+| [Trouble Launching Docker on Windows](https://www.reddit.com/r/devops/comments/10kr6ll/trouble_launching_docker_on_windows/) | Complex-Structure216 | 2 |
+| [Starting github action in frontend repo when backend repo changes (w/o backend repo knowing the existence of frontend repo)](https://www.reddit.com/r/devops/comments/10kmwbk/starting_github_action_in_frontend_repo_when/) | HotKangaroo9654 | 2 |
+| [Reliable managed CI with SLA?](https://www.reddit.com/r/devops/comments/10kt02n/reliable_managed_ci_with_sla/) | eduan | 2 |
