@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Taking over internal tools built by ppl who quit (DevOps/SRE)?](https://www.reddit.com/r/devops/comments/10k4tgj/taking_over_internal_tools_built_by_ppl_who_quit/) | pojzon_poe | 116 |
-| [I recently extended the GitLab director shadow program criteria to include those between jobs (aka layoffs)](https://www.reddit.com/r/devops/comments/10kh8jn/i_recently_extended_the_gitlab_director_shadow/) | howie1001 | 75 |
-| [Is 80k/year enough for mid level engineering in major cities in Canada?](https://www.reddit.com/r/devops/comments/10kgunc/is_80kyear_enough_for_mid_level_engineering_in/) | prysmatik | 35 |
-| [Alternative to Atlassian Jira and Confluence](https://www.reddit.com/r/devops/comments/10ksowi/alternative_to_atlassian_jira_and_confluence/) | Objective_Tour_7960 | 9 |
-| [Best CI Service for Use with Gitea?](https://www.reddit.com/r/devops/comments/10k61p1/best_ci_service_for_use_with_gitea/) | WherMyEth | 6 |
-| [how to scrape data from sonarqube](https://www.reddit.com/r/devops/comments/10kq35l/how_to_scrape_data_from_sonarqube/) | theweirdindiangirl | 2 |
-| [Who is responsible for the Kubernetes "infra-part" in your Organisation?](https://www.reddit.com/r/devops/comments/10k9fd2/who_is_responsible_for_the_kubernetes_infrapart/) | 1deep2me | 2 |
-| [Trouble Launching Docker on Windows](https://www.reddit.com/r/devops/comments/10kr6ll/trouble_launching_docker_on_windows/) | Complex-Structure216 | 2 |
-| [Starting github action in frontend repo when backend repo changes (w/o backend repo knowing the existence of frontend repo)](https://www.reddit.com/r/devops/comments/10kmwbk/starting_github_action_in_frontend_repo_when/) | HotKangaroo9654 | 2 |
-| [Reliable managed CI with SLA?](https://www.reddit.com/r/devops/comments/10kt02n/reliable_managed_ci_with_sla/) | eduan | 2 |
+| [Help deciding between two job offers.](https://www.reddit.com/r/devops/comments/10la3dv/help_deciding_between_two_job_offers/) | frameclowder | 27 |
+| [Which DevOps Tool Am AI? Game](https://www.reddit.com/r/devops/comments/10ky11g/which_devops_tool_am_ai_game/) | shar1z | 17 |
+| [What is the correct way to run checks with GitHub actions?](https://www.reddit.com/r/devops/comments/10l25af/what_is_the_correct_way_to_run_checks_with_github/) | th0th | 7 |
+| [Did you cause any disaster in your environment, and how you fixed it.](https://www.reddit.com/r/devops/comments/10lnejx/did_you_cause_any_disaster_in_your_environment/) | Husband000 | 7 |
+| [Recommendations on testing with M1/M2 chips on Mac Arch?](https://www.reddit.com/r/devops/comments/10l8fc0/recommendations_on_testing_with_m1m2_chips_on_mac/) | mesamunefire | 3 |
+| [Removing secondary disk](https://www.reddit.com/r/devops/comments/10l7rq6/removing_secondary_disk/) | tk42967 | 2 |
+| [Any guides or pointers for configuring a VM template for use with Rancher?](https://www.reddit.com/r/devops/comments/10l7nkf/any_guides_or_pointers_for_configuring_a_vm/) | Gh0st1nTh3Syst3m | 2 |
+| [Kubernetes + VoIP](https://www.reddit.com/r/devops/comments/10lmtl7/kubernetes_voip/) | dr-tenma | 1 |
+| [How can I speed up this data scrubber?](https://www.reddit.com/r/devops/comments/10lia5d/how_can_i_speed_up_this_data_scrubber/) | Impressive-Sort223 | 1 |
+| [Disaster Recover - Plan and testing](https://www.reddit.com/r/devops/comments/10lo02x/disaster_recover_plan_and_testing/) | barnez29 | 1 |
