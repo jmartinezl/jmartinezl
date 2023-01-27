@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Help deciding between two job offers.](https://www.reddit.com/r/devops/comments/10la3dv/help_deciding_between_two_job_offers/) | frameclowder | 27 |
-| [Which DevOps Tool Am AI? Game](https://www.reddit.com/r/devops/comments/10ky11g/which_devops_tool_am_ai_game/) | shar1z | 17 |
-| [What is the correct way to run checks with GitHub actions?](https://www.reddit.com/r/devops/comments/10l25af/what_is_the_correct_way_to_run_checks_with_github/) | th0th | 7 |
-| [Did you cause any disaster in your environment, and how you fixed it.](https://www.reddit.com/r/devops/comments/10lnejx/did_you_cause_any_disaster_in_your_environment/) | Husband000 | 7 |
-| [Recommendations on testing with M1/M2 chips on Mac Arch?](https://www.reddit.com/r/devops/comments/10l8fc0/recommendations_on_testing_with_m1m2_chips_on_mac/) | mesamunefire | 3 |
-| [Removing secondary disk](https://www.reddit.com/r/devops/comments/10l7rq6/removing_secondary_disk/) | tk42967 | 2 |
-| [Any guides or pointers for configuring a VM template for use with Rancher?](https://www.reddit.com/r/devops/comments/10l7nkf/any_guides_or_pointers_for_configuring_a_vm/) | Gh0st1nTh3Syst3m | 2 |
-| [Kubernetes + VoIP](https://www.reddit.com/r/devops/comments/10lmtl7/kubernetes_voip/) | dr-tenma | 1 |
-| [How can I speed up this data scrubber?](https://www.reddit.com/r/devops/comments/10lia5d/how_can_i_speed_up_this_data_scrubber/) | Impressive-Sort223 | 1 |
-| [Disaster Recover - Plan and testing](https://www.reddit.com/r/devops/comments/10lo02x/disaster_recover_plan_and_testing/) | barnez29 | 1 |
+| [I took the AWS Purity Test, I think I may spend too much time in AWS….](https://www.reddit.com/r/devops/comments/10m373d/i_took_the_aws_purity_test_i_think_i_may_spend/) | gjhht | 162 |
+| [GitLab deciding between ArgoCD and Flux (spoiler: they went with Flux)](https://www.reddit.com/r/devops/comments/10m3190/gitlab_deciding_between_argocd_and_flux_spoiler/) | chillysurfer | 53 |
+| [Anyone here burned out? How do you deal with it?](https://www.reddit.com/r/devops/comments/10lur9u/anyone_here_burned_out_how_do_you_deal_with_it/) | neomorpheus1 | 33 |
+| [CalTech certification program in Devops?](https://www.reddit.com/r/devops/comments/10m9syd/caltech_certification_program_in_devops/) | defqon_39 | 3 |
+| [Interesting CI/CD Problem Involving GPU compute](https://www.reddit.com/r/devops/comments/10me7u3/interesting_cicd_problem_involving_gpu_compute/) | No-Slip-5963 | 2 |
+| [How to Handle MSSQL Database in CI/CD?](https://www.reddit.com/r/devops/comments/10lxlur/how_to_handle_mssql_database_in_cicd/) | Rocketninja16 | 1 |
+| [How long would it take you to deploy a ECS cluster in a brand new AWS account?](https://www.reddit.com/r/devops/comments/10medw7/how_long_would_it_take_you_to_deploy_a_ecs/) | Morph707 | 1 |
+| [kube-webhook-certgen compatibility with k8s 1.25.4](https://www.reddit.com/r/devops/comments/10lu2yi/kubewebhookcertgen_compatibility_with_k8s_1254/) | InternationalGoose22 | 0 |
+| [How do guys handle the problem of engineers not regularly reviewing logs and not being trained to find relevant data for user complaints using observability tools?](https://www.reddit.com/r/devops/comments/10lqgs4/how_do_guys_handle_the_problem_of_engineers_not/) | Nice_Score_7552 | 0 |
+| [DevOps tools](https://www.reddit.com/r/devops/comments/10lvsbk/devops_tools/) | gzee333 | 0 |
