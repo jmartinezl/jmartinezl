@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I took the AWS Purity Test, I think I may spend too much time in AWS….](https://www.reddit.com/r/devops/comments/10m373d/i_took_the_aws_purity_test_i_think_i_may_spend/) | gjhht | 162 |
-| [GitLab deciding between ArgoCD and Flux (spoiler: they went with Flux)](https://www.reddit.com/r/devops/comments/10m3190/gitlab_deciding_between_argocd_and_flux_spoiler/) | chillysurfer | 53 |
-| [Anyone here burned out? How do you deal with it?](https://www.reddit.com/r/devops/comments/10lur9u/anyone_here_burned_out_how_do_you_deal_with_it/) | neomorpheus1 | 33 |
-| [CalTech certification program in Devops?](https://www.reddit.com/r/devops/comments/10m9syd/caltech_certification_program_in_devops/) | defqon_39 | 3 |
-| [Interesting CI/CD Problem Involving GPU compute](https://www.reddit.com/r/devops/comments/10me7u3/interesting_cicd_problem_involving_gpu_compute/) | No-Slip-5963 | 2 |
-| [How to Handle MSSQL Database in CI/CD?](https://www.reddit.com/r/devops/comments/10lxlur/how_to_handle_mssql_database_in_cicd/) | Rocketninja16 | 1 |
-| [How long would it take you to deploy a ECS cluster in a brand new AWS account?](https://www.reddit.com/r/devops/comments/10medw7/how_long_would_it_take_you_to_deploy_a_ecs/) | Morph707 | 1 |
-| [kube-webhook-certgen compatibility with k8s 1.25.4](https://www.reddit.com/r/devops/comments/10lu2yi/kubewebhookcertgen_compatibility_with_k8s_1254/) | InternationalGoose22 | 0 |
-| [How do guys handle the problem of engineers not regularly reviewing logs and not being trained to find relevant data for user complaints using observability tools?](https://www.reddit.com/r/devops/comments/10lqgs4/how_do_guys_handle_the_problem_of_engineers_not/) | Nice_Score_7552 | 0 |
-| [DevOps tools](https://www.reddit.com/r/devops/comments/10lvsbk/devops_tools/) | gzee333 | 0 |
+| [Alternatives to Terraform](https://www.reddit.com/r/devops/comments/10mo7wv/alternatives_to_terraform/) | krypt0nyt | 79 |
+| [What's the difference between a DevOps engineer and a 'Cloud Engineer'?](https://www.reddit.com/r/devops/comments/10n0g5d/whats_the_difference_between_a_devops_engineer/) | internetbl0ke | 36 |
+| [Not getting any calls for jr DevOps roles (2 years of exp)](https://www.reddit.com/r/devops/comments/10mofsx/not_getting_any_calls_for_jr_devops_roles_2_years/) | mrStark3 | 25 |
+| [Cons &amp; Pros of switching from Intel MBP to M1/M2 MBP?](https://www.reddit.com/r/devops/comments/10mr0hw/cons_pros_of_switching_from_intel_mbp_to_m1m2_mbp/) | kinvoki | 14 |
+| [Interview for DevOps / SysOps position - need help !](https://www.reddit.com/r/devops/comments/10mvzyz/interview_for_devops_sysops_position_need_help/) | Captaincactus57050 | 11 |
+| [Cloudfront Response Headers](https://www.reddit.com/r/devops/comments/10mnxnv/cloudfront_response_headers/) | woocats | 5 |
+| [is there really no way to tell if a PR came from a fork in Drone?](https://www.reddit.com/r/devops/comments/10n3pc5/is_there_really_no_way_to_tell_if_a_pr_came_from/) | klm0151 | 3 |
+| [IaC best practice question for build server](https://www.reddit.com/r/devops/comments/10mw51z/iac_best_practice_question_for_build_server/) | swiftsparky | 2 |
+| [Anyone studying for RHCSA?](https://www.reddit.com/r/devops/comments/10nda8i/anyone_studying_for_rhcsa/) | Perfectdarkmode | 2 |
+| [Any gotchas with Organization name change?](https://www.reddit.com/r/devops/comments/10mto23/any_gotchas_with_organization_name_change/) | bradnerboy | 2 |
