@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Alternatives to Terraform](https://www.reddit.com/r/devops/comments/10mo7wv/alternatives_to_terraform/) | krypt0nyt | 79 |
-| [What's the difference between a DevOps engineer and a 'Cloud Engineer'?](https://www.reddit.com/r/devops/comments/10n0g5d/whats_the_difference_between_a_devops_engineer/) | internetbl0ke | 36 |
-| [Not getting any calls for jr DevOps roles (2 years of exp)](https://www.reddit.com/r/devops/comments/10mofsx/not_getting_any_calls_for_jr_devops_roles_2_years/) | mrStark3 | 25 |
-| [Cons &amp; Pros of switching from Intel MBP to M1/M2 MBP?](https://www.reddit.com/r/devops/comments/10mr0hw/cons_pros_of_switching_from_intel_mbp_to_m1m2_mbp/) | kinvoki | 14 |
-| [Interview for DevOps / SysOps position - need help !](https://www.reddit.com/r/devops/comments/10mvzyz/interview_for_devops_sysops_position_need_help/) | Captaincactus57050 | 11 |
-| [Cloudfront Response Headers](https://www.reddit.com/r/devops/comments/10mnxnv/cloudfront_response_headers/) | woocats | 5 |
-| [is there really no way to tell if a PR came from a fork in Drone?](https://www.reddit.com/r/devops/comments/10n3pc5/is_there_really_no_way_to_tell_if_a_pr_came_from/) | klm0151 | 3 |
-| [IaC best practice question for build server](https://www.reddit.com/r/devops/comments/10mw51z/iac_best_practice_question_for_build_server/) | swiftsparky | 2 |
-| [Anyone studying for RHCSA?](https://www.reddit.com/r/devops/comments/10nda8i/anyone_studying_for_rhcsa/) | Perfectdarkmode | 2 |
-| [Any gotchas with Organization name change?](https://www.reddit.com/r/devops/comments/10mto23/any_gotchas_with_organization_name_change/) | bradnerboy | 2 |
+| [Datadog vs Graylog vs ELK](https://www.reddit.com/r/devops/comments/10ntvs1/datadog_vs_graylog_vs_elk/) | mbtt | 43 |
+| [Are there any advanced Jenkins Scripted Pipeline tutorials available?](https://www.reddit.com/r/devops/comments/10njapx/are_there_any_advanced_jenkins_scripted_pipeline/) | ronster2018 | 32 |
+| [How do you define SLO (and SLA) for a cloud platform](https://www.reddit.com/r/devops/comments/10nhle0/how_do_you_define_slo_and_sla_for_a_cloud_platform/) | theBeeprApp | 24 |
+| [How to handle multiple log streams inside one container?](https://www.reddit.com/r/devops/comments/10nnoht/how_to_handle_multiple_log_streams_inside_one/) | beeyev | 15 |
+| [Using Kubernete &amp; minIO. If anyone is able to assist me in finalising my minIO deployment, I'd appreciate it](https://www.reddit.com/r/devops/comments/10nt2e0/using_kubernete_minio_if_anyone_is_able_to_assist/) | maskedwithaface | 14 |
+| [Simple PAAS open source that run on docker or docker-compose insted of openshift](https://www.reddit.com/r/devops/comments/10nkqgu/simple_paas_open_source_that_run_on_docker_or/) | yodatak | 6 |
+| [(GITOPS) Progressive Delivery Tools and Rollbacks to Git ?](https://www.reddit.com/r/devops/comments/10o4ux0/gitops_progressive_delivery_tools_and_rollbacks/) | pojzon_poe | 2 |
+| [Is it possible to share the checkout and setup result for next jobs?](https://www.reddit.com/r/devops/comments/10o4rnk/is_it_possible_to_share_the_checkout_and_setup/) | markustuchel | 1 |
+| [How to automate baremetal migration](https://www.reddit.com/r/devops/comments/10o3al5/how_to_automate_baremetal_migration/) | imdwight_schrute | 1 |
+| [OneUptime: Open Source StatusPage.io Alternative](https://www.reddit.com/r/devops/comments/10nfihi/oneuptime_open_source_statuspageio_alternative/) | simlarsen | 0 |
