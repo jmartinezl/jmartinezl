@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Datadog vs Graylog vs ELK](https://www.reddit.com/r/devops/comments/10ntvs1/datadog_vs_graylog_vs_elk/) | mbtt | 43 |
-| [Are there any advanced Jenkins Scripted Pipeline tutorials available?](https://www.reddit.com/r/devops/comments/10njapx/are_there_any_advanced_jenkins_scripted_pipeline/) | ronster2018 | 32 |
-| [How do you define SLO (and SLA) for a cloud platform](https://www.reddit.com/r/devops/comments/10nhle0/how_do_you_define_slo_and_sla_for_a_cloud_platform/) | theBeeprApp | 24 |
-| [How to handle multiple log streams inside one container?](https://www.reddit.com/r/devops/comments/10nnoht/how_to_handle_multiple_log_streams_inside_one/) | beeyev | 15 |
-| [Using Kubernete &amp; minIO. If anyone is able to assist me in finalising my minIO deployment, I'd appreciate it](https://www.reddit.com/r/devops/comments/10nt2e0/using_kubernete_minio_if_anyone_is_able_to_assist/) | maskedwithaface | 14 |
-| [Simple PAAS open source that run on docker or docker-compose insted of openshift](https://www.reddit.com/r/devops/comments/10nkqgu/simple_paas_open_source_that_run_on_docker_or/) | yodatak | 6 |
-| [(GITOPS) Progressive Delivery Tools and Rollbacks to Git ?](https://www.reddit.com/r/devops/comments/10o4ux0/gitops_progressive_delivery_tools_and_rollbacks/) | pojzon_poe | 2 |
-| [Is it possible to share the checkout and setup result for next jobs?](https://www.reddit.com/r/devops/comments/10o4rnk/is_it_possible_to_share_the_checkout_and_setup/) | markustuchel | 1 |
-| [How to automate baremetal migration](https://www.reddit.com/r/devops/comments/10o3al5/how_to_automate_baremetal_migration/) | imdwight_schrute | 1 |
-| [OneUptime: Open Source StatusPage.io Alternative](https://www.reddit.com/r/devops/comments/10nfihi/oneuptime_open_source_statuspageio_alternative/) | simlarsen | 0 |
+| [Which CD solution would you use - if you had to start fresh?](https://www.reddit.com/r/devops/comments/10o6i2m/which_cd_solution_would_you_use_if_you_had_to/) | gxxgly_eyez | 74 |
+| [Microservices Authentication: SAML and JWT](https://www.reddit.com/r/devops/comments/10o8yzd/microservices_authentication_saml_and_jwt/) | bwljohannes | 4 |
+| [Looking for platforms with challenges or 'realistic' problems](https://www.reddit.com/r/devops/comments/10ovrkr/looking_for_platforms_with_challenges_or/) | Arraiz0 | 3 |
+| [Does it make sense to provide an SLA for a microservices based Saas service?](https://www.reddit.com/r/devops/comments/10owws0/does_it_make_sense_to_provide_an_sla_for_a/) | theBeeprApp | 3 |
+| [Whats the best practice on using a package your distro version doesn't support?](https://www.reddit.com/r/devops/comments/10o995h/whats_the_best_practice_on_using_a_package_your/) | BigBootyBear | 2 |
+| [Am I missing something? (argo cd and helm in AWS)](https://www.reddit.com/r/devops/comments/10o97jo/am_i_missing_something_argo_cd_and_helm_in_aws/) | from_the_river_flow | 2 |
+| [jenkins using variable in withcredentials block?](https://www.reddit.com/r/devops/comments/10ob2el/jenkins_using_variable_in_withcredentials_block/) | Kemkemsem | 1 |
+| [When devops (as a practice) start to fall apart](https://www.reddit.com/r/devops/comments/10ozhhx/when_devops_as_a_practice_start_to_fall_apart/) | amarao_san | 1 |
+| [Uptime, status pages, and why transparency is often lost](https://www.reddit.com/r/devops/comments/10p06pt/uptime_status_pages_and_why_transparency_is_often/) | shared_ptr | 1 |
+| [Lightweight logs collection and discord notifications](https://www.reddit.com/r/devops/comments/10ol2q9/lightweight_logs_collection_and_discord/) | achaayb | 0 |
