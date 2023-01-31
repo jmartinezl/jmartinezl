@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Which CD solution would you use - if you had to start fresh?](https://www.reddit.com/r/devops/comments/10o6i2m/which_cd_solution_would_you_use_if_you_had_to/) | gxxgly_eyez | 74 |
-| [Microservices Authentication: SAML and JWT](https://www.reddit.com/r/devops/comments/10o8yzd/microservices_authentication_saml_and_jwt/) | bwljohannes | 4 |
-| [Looking for platforms with challenges or 'realistic' problems](https://www.reddit.com/r/devops/comments/10ovrkr/looking_for_platforms_with_challenges_or/) | Arraiz0 | 3 |
-| [Does it make sense to provide an SLA for a microservices based Saas service?](https://www.reddit.com/r/devops/comments/10owws0/does_it_make_sense_to_provide_an_sla_for_a/) | theBeeprApp | 3 |
-| [Whats the best practice on using a package your distro version doesn't support?](https://www.reddit.com/r/devops/comments/10o995h/whats_the_best_practice_on_using_a_package_your/) | BigBootyBear | 2 |
-| [Am I missing something? (argo cd and helm in AWS)](https://www.reddit.com/r/devops/comments/10o97jo/am_i_missing_something_argo_cd_and_helm_in_aws/) | from_the_river_flow | 2 |
-| [jenkins using variable in withcredentials block?](https://www.reddit.com/r/devops/comments/10ob2el/jenkins_using_variable_in_withcredentials_block/) | Kemkemsem | 1 |
-| [When devops (as a practice) start to fall apart](https://www.reddit.com/r/devops/comments/10ozhhx/when_devops_as_a_practice_start_to_fall_apart/) | amarao_san | 1 |
-| [Uptime, status pages, and why transparency is often lost](https://www.reddit.com/r/devops/comments/10p06pt/uptime_status_pages_and_why_transparency_is_often/) | shared_ptr | 1 |
-| [Lightweight logs collection and discord notifications](https://www.reddit.com/r/devops/comments/10ol2q9/lightweight_logs_collection_and_discord/) | achaayb | 0 |
+| [The amount of change in DevOps/Cloud is exhausting](https://www.reddit.com/r/devops/comments/10p4bw5/the_amount_of_change_in_devopscloud_is_exhausting/) | BeeHooWow | 207 |
+| [Completely checked out of new role (4 months in)](https://www.reddit.com/r/devops/comments/10pdz39/completely_checked_out_of_new_role_4_months_in/) | Wrath_Of_Red | 16 |
+| [Wrapper for the Terraform's AWS, Azure, and GCP providers](https://www.reddit.com/r/devops/comments/10p16c9/wrapper_for_the_terraforms_aws_azure_and_gcp/) | Dubinko | 5 |
+| [Revert merge changes on feature branch in Jenkins pipeline if build fails](https://www.reddit.com/r/devops/comments/10pvshe/revert_merge_changes_on_feature_branch_in_jenkins/) | throwawayjs2019 | 3 |
+| [How Does an Open-Source Workflow Engine Support an Enterprise-Level Serverless Architecture?](https://www.reddit.com/r/devops/comments/10pskxl/how_does_an_opensource_workflow_engine_support_an/) | oam-dev | 3 |
+| [Transitioning into DevOps from a fullstack application dev/generalist?](https://www.reddit.com/r/devops/comments/10p5974/transitioning_into_devops_from_a_fullstack/) | htom3heb | 1 |
+| [How to do do your preview environments?](https://www.reddit.com/r/devops/comments/10p5uew/how_to_do_do_your_preview_environments/) | NedkoHristov | 1 |
+| [Different content but static URL](https://www.reddit.com/r/devops/comments/10pwri9/different_content_but_static_url/) | eyesniper12 | 1 |
+| [DevOps Learning](https://www.reddit.com/r/devops/comments/10pwg7x/devops_learning/) | icemansan | 1 |
+| [Creating a placeholder dummy cloud watch alarm?](https://www.reddit.com/r/devops/comments/10pdm1l/creating_a_placeholder_dummy_cloud_watch_alarm/) | InterestingArgument | 1 |
