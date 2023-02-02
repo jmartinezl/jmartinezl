@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How many of you actually do woodworking?](https://www.reddit.com/r/devops/comments/10q1ovt/how_many_of_you_actually_do_woodworking/) | cocacola999 | 92 |
-| [What are the best static analysis security testing tools for Terraform and infrastructure as code?](https://www.reddit.com/r/devops/comments/10qfd0j/what_are_the_best_static_analysis_security/) | darkcatpirate | 35 |
-| [WireMock is an API platform that is designed to improve developer productivity and enables developers and testers to Mock APIs in every stage of the API lifecycle](https://www.reddit.com/r/devops/comments/10q1pl8/wiremock_is_an_api_platform_that_is_designed_to/) | nikola28 | 26 |
-| [who do you follow?](https://www.reddit.com/r/devops/comments/10q4mna/who_do_you_follow/) | Merejo | 12 |
-| [Has anyone used env0?](https://www.reddit.com/r/devops/comments/10pzpku/has_anyone_used_env0/) | jjsmyth1 | 11 |
-| [What are the problems that people are facing right now with different cloud providers?](https://www.reddit.com/r/devops/comments/10q0b5i/what_are_the_problems_that_people_are_facing/) | False_Mountain_7289 | 3 |
-| [Terraform / ansible](https://www.reddit.com/r/devops/comments/10qp99h/terraform_ansible/) | Electrical-Courage23 | 3 |
-| [Auto scaling Self-Hosted solution for GitHub Actions?](https://www.reddit.com/r/devops/comments/10qhid6/auto_scaling_selfhosted_solution_for_github/) | coloradofever29 | 3 |
-| [´include:´ keywords limit (250) in gitlab ci pipeline](https://www.reddit.com/r/devops/comments/10qoyvs/include_keywords_limit_250_in_gitlab_ci_pipeline/) | networknerd593 | 2 |
-| [securing github actions from the inside](https://www.reddit.com/r/devops/comments/10ql5y8/securing_github_actions_from_the_inside/) | dampersand | 2 |
+| [Best DevOps blogs to follow?](https://www.reddit.com/r/devops/comments/10qvf4b/best_devops_blogs_to_follow/) | libert-y | 103 |
+| [Thoughts on using GPT tools with databases](https://www.reddit.com/r/devops/comments/10rjuei/thoughts_on_using_gpt_tools_with_databases/) | GentryDaniel546 | 49 |
+| [How to protect your database (from yourself)](https://www.reddit.com/r/devops/comments/10qvd83/how_to_protect_your_database_from_yourself/) | rotemtam | 17 |
+| [Monthly 'Shameless Self Promotion' thread - 2023/02](https://www.reddit.com/r/devops/comments/10r0ixm/monthly_shameless_self_promotion_thread_202302/) | mthode | 3 |
+| [Best Free Full-Stack monitoring Suite?](https://www.reddit.com/r/devops/comments/10r1ca2/best_free_fullstack_monitoring_suite/) | grlansky | 3 |
+| [looking for ways to learn AWS or other cloud service providers in a production environment](https://www.reddit.com/r/devops/comments/10r5tzt/looking_for_ways_to_learn_aws_or_other_cloud/) | mike_testing | 2 |
+| [What to expect for first DevOps interview? (with DoD-based contractor)](https://www.reddit.com/r/devops/comments/10ra89y/what_to_expect_for_first_devops_interview_with/) | USBTypeD | 2 |
+| [Monitoring mobile apps](https://www.reddit.com/r/devops/comments/10qxsh4/monitoring_mobile_apps/) | dnlearnshere | 2 |
+| [Folks In Healthcare Industries, what do you use for application monitoring?](https://www.reddit.com/r/devops/comments/10rdzc2/folks_in_healthcare_industries_what_do_you_use/) | canadadryistheshit | 2 |
+| [Ways to save money on aws solutions architect certification](https://www.reddit.com/r/devops/comments/10rmomp/ways_to_save_money_on_aws_solutions_architect/) | Adittyapatil1818 | 1 |
