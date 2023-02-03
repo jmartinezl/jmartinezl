@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Best DevOps blogs to follow?](https://www.reddit.com/r/devops/comments/10qvf4b/best_devops_blogs_to_follow/) | libert-y | 103 |
-| [Thoughts on using GPT tools with databases](https://www.reddit.com/r/devops/comments/10rjuei/thoughts_on_using_gpt_tools_with_databases/) | GentryDaniel546 | 49 |
-| [How to protect your database (from yourself)](https://www.reddit.com/r/devops/comments/10qvd83/how_to_protect_your_database_from_yourself/) | rotemtam | 17 |
-| [Monthly 'Shameless Self Promotion' thread - 2023/02](https://www.reddit.com/r/devops/comments/10r0ixm/monthly_shameless_self_promotion_thread_202302/) | mthode | 3 |
-| [Best Free Full-Stack monitoring Suite?](https://www.reddit.com/r/devops/comments/10r1ca2/best_free_fullstack_monitoring_suite/) | grlansky | 3 |
-| [looking for ways to learn AWS or other cloud service providers in a production environment](https://www.reddit.com/r/devops/comments/10r5tzt/looking_for_ways_to_learn_aws_or_other_cloud/) | mike_testing | 2 |
-| [What to expect for first DevOps interview? (with DoD-based contractor)](https://www.reddit.com/r/devops/comments/10ra89y/what_to_expect_for_first_devops_interview_with/) | USBTypeD | 2 |
-| [Monitoring mobile apps](https://www.reddit.com/r/devops/comments/10qxsh4/monitoring_mobile_apps/) | dnlearnshere | 2 |
-| [Folks In Healthcare Industries, what do you use for application monitoring?](https://www.reddit.com/r/devops/comments/10rdzc2/folks_in_healthcare_industries_what_do_you_use/) | canadadryistheshit | 2 |
-| [Ways to save money on aws solutions architect certification](https://www.reddit.com/r/devops/comments/10rmomp/ways_to_save_money_on_aws_solutions_architect/) | Adittyapatil1818 | 1 |
+| [Fig Scripts: Build internal CLI tools really fast](https://www.reddit.com/r/devops/comments/10rxbs3/fig_scripts_build_internal_cli_tools_really_fast/) | brendanfalk | 77 |
+| [Learnings from 17 years as a Google SRE](https://www.reddit.com/r/devops/comments/10sehg5/learnings_from_17_years_as_a_google_sre/) | Intrepid-Ad4356 | 38 |
+| [I am getting the opportunity to shadow the DevOps team at the company I work for.](https://www.reddit.com/r/devops/comments/10rtqoa/i_am_getting_the_opportunity_to_shadow_the_devops/) | fuckinradbroh | 36 |
+| [Helm-Dashboard is generally available with the release of V.1.0.0](https://www.reddit.com/r/devops/comments/10rv6p5/helmdashboard_is_generally_available_with_the/) | Udi_Hofesh | 26 |
+| [What are the best SAST tool for Docker containers?](https://www.reddit.com/r/devops/comments/10rqezq/what_are_the_best_sast_tool_for_docker_containers/) | darkcatpirate | 4 |
+| [Broke the Kubernetes cluster, and asked ChatGPT to write me a poem about it in Shakespear style](https://www.reddit.com/r/devops/comments/10sfoie/broke_the_kubernetes_cluster_and_asked_chatgpt_to/) | dothash | 4 |
+| [Transport, finance and other high risk fields](https://www.reddit.com/r/devops/comments/10rwey9/transport_finance_and_other_high_risk_fields/) | Impossible_Worth_440 | 3 |
+| [Have an interesting issue and i am outta ideas…](https://www.reddit.com/r/devops/comments/10rz7ic/have_an_interesting_issue_and_i_am_outta_ideas/) | fistrroboto | 3 |
+| [Discovering Six Critical Docker Desktop Privilege Escalation Vulnerabilities. (Bonus: New OSS Tool!)](https://www.reddit.com/r/devops/comments/10rynk0/discovering_six_critical_docker_desktop_privilege/) | jat0369 | 3 |
+| [oAuth/OIDC: id token &amp; access token issue](https://www.reddit.com/r/devops/comments/10rtfcn/oauthoidc_id_token_access_token_issue/) | bwljohannes | 2 |
