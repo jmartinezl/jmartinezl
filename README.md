@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Higher ups want to move me into middle management (dev manager)](https://www.reddit.com/r/devops/comments/10sx5cp/higher_ups_want_to_move_me_into_middle_management/) | SnowConePeople | 77 |
-| [Unpopular opinion: CI/CD engines are an awful idea](https://www.reddit.com/r/devops/comments/10t0xqj/unpopular_opinion_cicd_engines_are_an_awful_idea/) | dampersand | 44 |
-| [Don't be afraid of the "Transition"](https://www.reddit.com/r/devops/comments/10sylqo/dont_be_afraid_of_the_transition/) | mohitkr05 | 33 |
-| [GitLab CI: How to run only after deployment?](https://www.reddit.com/r/devops/comments/10spomx/gitlab_ci_how_to_run_only_after_deployment/) | dearmusic | 13 |
-| [Why add Varnish caching between CDN and origin](https://www.reddit.com/r/devops/comments/10ss3hs/why_add_varnish_caching_between_cdn_and_origin/) | Vonderchicken | 10 |
-| [How can I transition from a traditional role to devops?](https://www.reddit.com/r/devops/comments/10syqen/how_can_i_transition_from_a_traditional_role_to/) | crimson_yeti | 6 |
-| [how to migrate to helm](https://www.reddit.com/r/devops/comments/10spkwn/how_to_migrate_to_helm/) | -abracadabra-- | 5 |
-| [Helm CD vs GitOps](https://www.reddit.com/r/devops/comments/10ssbpp/helm_cd_vs_gitops/) | EmbarrassedReading70 | 3 |
-| [What webinar would you actually take the time to watch?](https://www.reddit.com/r/devops/comments/10su2br/what_webinar_would_you_actually_take_the_time_to/) | LotusFoot1503 | 1 |
-| [Specify at least 1 User command in Dockerfile with 1 non-root user as an arg](https://www.reddit.com/r/devops/comments/10t5ib1/specify_at_least_1_user_command_in_dockerfile/) | darkcatpirate | 1 |
+| [Terraform Drift Detection](https://www.reddit.com/r/devops/comments/10tmm83/terraform_drift_detection/) | gabel0287 | 45 |
+| [Is there a way to save a docker volume and then apply the docker volume to a container after changing the image and wiping out everything?](https://www.reddit.com/r/devops/comments/10tr0xa/is_there_a_way_to_save_a_docker_volume_and_then/) | darkcatpirate | 17 |
+| [How are devops interviews for engineers from other software development backgrounds?](https://www.reddit.com/r/devops/comments/10tw0tf/how_are_devops_interviews_for_engineers_from/) | wfh_forever1 | 14 |
+| [How Much Time Over 40 Hours Per Week?](https://www.reddit.com/r/devops/comments/10tkmys/how_much_time_over_40_hours_per_week/) | BeeHooWow | 10 |
+| [Fedora CoreOS in 2023?](https://www.reddit.com/r/devops/comments/10tk67a/fedora_coreos_in_2023/) | Nik- | 6 |
+| [Cloudfront dist for site maintenance](https://www.reddit.com/r/devops/comments/10u78hj/cloudfront_dist_for_site_maintenance/) | autodevops | 2 |
+| [Career advice/resume review](https://www.reddit.com/r/devops/comments/10trpi5/career_adviceresume_review/) | tux_panda | 2 |
+| [Are the AWS certs still worth it?](https://www.reddit.com/r/devops/comments/10u6fyy/are_the_aws_certs_still_worth_it/) | StannisTheAmish | 1 |
+| [Designing a company’s CI/CD system, please recommend resources](https://www.reddit.com/r/devops/comments/10tpitf/designing_a_companys_cicd_system_please_recommend/) | Sloppyjoeman | 0 |
+| [Career advice for a new Junior DevOps](https://www.reddit.com/r/devops/comments/10u8081/career_advice_for_a_new_junior_devops/) | Snoopy-31 | 0 |
