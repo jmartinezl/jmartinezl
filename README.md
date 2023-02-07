@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I'm getting tired of Terraform and want to give Pulumi a try. Looking for some suggestions](https://www.reddit.com/r/devops/comments/10uoidy/im_getting_tired_of_terraform_and_want_to_give/) | Marquis77 | 74 |
-| [What is the best resource (something similar to leetcode, codecademy) to learn the docker and practice it at the same time?](https://www.reddit.com/r/devops/comments/10ublw1/what_is_the_best_resource_something_similar_to/) | se0beas8 | 66 |
-| [Question about Health in IT](https://www.reddit.com/r/devops/comments/10uhtda/question_about_health_in_it/) | prysmatik | 45 |
-| [Are you running databases on Kubernetes?](https://www.reddit.com/r/devops/comments/10umist/are_you_running_databases_on_kubernetes/) | Gandalf-108 | 44 |
-| [What are thoughts about AWS CDK Pipelines?](https://www.reddit.com/r/devops/comments/10uhoao/what_are_thoughts_about_aws_cdk_pipelines/) | InTheKnow_12 | 5 |
-| [OpenLDAP Docker Container issue](https://www.reddit.com/r/devops/comments/10v2dwu/openldap_docker_container_issue/) | darkwolf-95 | 5 |
-| [CI/CD tooling choices](https://www.reddit.com/r/devops/comments/10ushi6/cicd_tooling_choices/) | PresentationLanky209 | 4 |
-| [Zero downtime hosting via horizontal scaling](https://www.reddit.com/r/devops/comments/10ur55j/zero_downtime_hosting_via_horizontal_scaling/) | muchasxmaracas | 2 |
-| [How to make sure that Lambda triggered by an event only executes when the event has been trigger by the right origin?](https://www.reddit.com/r/devops/comments/10ug5y4/how_to_make_sure_that_lambda_triggered_by_an/) | doart3 | 2 |
-| [How much can you really get out of a 4$ VPS?](https://www.reddit.com/r/devops/comments/10v4lru/how_much_can_you_really_get_out_of_a_4_vps/) | zer0tonine | 2 |
+| [(Windows) Containers for People in a Hurry!](https://www.reddit.com/r/devops/comments/10vgy7n/windows_containers_for_people_in_a_hurry/) | MihailoJoksimovic | 61 |
+| [How in demand are skills in Docker and Kubernetes for operations roles?](https://www.reddit.com/r/devops/comments/10vn0jd/how_in_demand_are_skills_in_docker_and_kubernetes/) | TCPConnection | 20 |
+| [Learning Golang](https://www.reddit.com/r/devops/comments/10v6n34/learning_golang/) | un1xmannn | 14 |
+| [cloudtrail-event-fuzzy-viewer: cli tool for searching cloudtrail events using fuzzy search](https://www.reddit.com/r/devops/comments/10v9e2e/cloudtraileventfuzzyviewer_cli_tool_for_searching/) | paololazzari | 9 |
+| [CI/CD for dummy project](https://www.reddit.com/r/devops/comments/10vwl0j/cicd_for_dummy_project/) | pamflet100 | 6 |
+| [fluentd failing when TLS added](https://www.reddit.com/r/devops/comments/10v9gwu/fluentd_failing_when_tls_added/) | tmg80 | 2 |
+| [Devops Apprenticeships?](https://www.reddit.com/r/devops/comments/10vz0ck/devops_apprenticeships/) | Smooth_Orange_3582 | 2 |
+| [Best cloud platform for free or low cost website](https://www.reddit.com/r/devops/comments/10vlgkz/best_cloud_platform_for_free_or_low_cost_website/) | k1ngf1isher | 2 |
+| [terraform-repl : A terraform console wrapper for a better interactive console experience](https://www.reddit.com/r/devops/comments/10v9iv5/terraformrepl_a_terraform_console_wrapper_for_a/) | paololazzari | 1 |
+| [Noob AWS question: How do I retrieve the IAM user name given its secret key and access key ID?](https://www.reddit.com/r/devops/comments/10vuibr/noob_aws_question_how_do_i_retrieve_the_iam_user/) | DrZoidbrrrg | 1 |
