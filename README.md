@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [(Windows) Containers for People in a Hurry!](https://www.reddit.com/r/devops/comments/10vgy7n/windows_containers_for_people_in_a_hurry/) | MihailoJoksimovic | 61 |
-| [How in demand are skills in Docker and Kubernetes for operations roles?](https://www.reddit.com/r/devops/comments/10vn0jd/how_in_demand_are_skills_in_docker_and_kubernetes/) | TCPConnection | 20 |
-| [Learning Golang](https://www.reddit.com/r/devops/comments/10v6n34/learning_golang/) | un1xmannn | 14 |
-| [cloudtrail-event-fuzzy-viewer: cli tool for searching cloudtrail events using fuzzy search](https://www.reddit.com/r/devops/comments/10v9e2e/cloudtraileventfuzzyviewer_cli_tool_for_searching/) | paololazzari | 9 |
-| [CI/CD for dummy project](https://www.reddit.com/r/devops/comments/10vwl0j/cicd_for_dummy_project/) | pamflet100 | 6 |
-| [fluentd failing when TLS added](https://www.reddit.com/r/devops/comments/10v9gwu/fluentd_failing_when_tls_added/) | tmg80 | 2 |
-| [Devops Apprenticeships?](https://www.reddit.com/r/devops/comments/10vz0ck/devops_apprenticeships/) | Smooth_Orange_3582 | 2 |
-| [Best cloud platform for free or low cost website](https://www.reddit.com/r/devops/comments/10vlgkz/best_cloud_platform_for_free_or_low_cost_website/) | k1ngf1isher | 2 |
-| [terraform-repl : A terraform console wrapper for a better interactive console experience](https://www.reddit.com/r/devops/comments/10v9iv5/terraformrepl_a_terraform_console_wrapper_for_a/) | paololazzari | 1 |
-| [Noob AWS question: How do I retrieve the IAM user name given its secret key and access key ID?](https://www.reddit.com/r/devops/comments/10vuibr/noob_aws_question_how_do_i_retrieve_the_iam_user/) | DrZoidbrrrg | 1 |
+| [No, Platform Engineering Will NOT Do What You Think It Will Do](https://www.reddit.com/r/devops/comments/10w21dc/no_platform_engineering_will_not_do_what_you/) | ndemir | 89 |
+| [Rebuilding my careerv (I got laid off). I could use some advice.](https://www.reddit.com/r/devops/comments/10wfjyz/rebuilding_my_careerv_i_got_laid_off_i_could_use/) | MattsFace | 72 |
+| [Tools to use to make high level Architecture diagrams](https://www.reddit.com/r/devops/comments/10w4mn9/tools_to_use_to_make_high_level_architecture/) | GetFit_Messi | 15 |
+| [How do you manage deployments with multiple repos?](https://www.reddit.com/r/devops/comments/10w09m5/how_do_you_manage_deployments_with_multiple_repos/) | baguiochips | 7 |
+| [Informatica Unveils Results of New CDO Insights: 2023 Study](https://www.reddit.com/r/devops/comments/10wdyt5/informatica_unveils_results_of_new_cdo_insights/) | clairep123456 | 4 |
+| [Terraform state](https://www.reddit.com/r/devops/comments/10w5r9y/terraform_state/) | Glum-Scar9476 | 3 |
+| [Any Log management alternative for ELK.](https://www.reddit.com/r/devops/comments/10wam49/any_log_management_alternative_for_elk/) | Bidyutbaruah | 2 |
+| [Where do you put your Guides?](https://www.reddit.com/r/devops/comments/10w9khf/where_do_you_put_your_guides/) | glorycomeslast | 1 |
+| [Persisting a config setting in /etc/ssh/ssh_config of container](https://www.reddit.com/r/devops/comments/10wrf9j/persisting_a_config_setting_in_etcsshssh_config/) | ncubez | 1 |
+| [How can I configure and access ElastiCache for memcached from my Lightsail instance?](https://www.reddit.com/r/devops/comments/10w4t7g/how_can_i_configure_and_access_elasticache_for/) | kocmonobtDark | 1 |
