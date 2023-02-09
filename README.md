@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [No, Platform Engineering Will NOT Do What You Think It Will Do](https://www.reddit.com/r/devops/comments/10w21dc/no_platform_engineering_will_not_do_what_you/) | ndemir | 89 |
-| [Rebuilding my careerv (I got laid off). I could use some advice.](https://www.reddit.com/r/devops/comments/10wfjyz/rebuilding_my_careerv_i_got_laid_off_i_could_use/) | MattsFace | 72 |
-| [Tools to use to make high level Architecture diagrams](https://www.reddit.com/r/devops/comments/10w4mn9/tools_to_use_to_make_high_level_architecture/) | GetFit_Messi | 15 |
-| [How do you manage deployments with multiple repos?](https://www.reddit.com/r/devops/comments/10w09m5/how_do_you_manage_deployments_with_multiple_repos/) | baguiochips | 7 |
-| [Informatica Unveils Results of New CDO Insights: 2023 Study](https://www.reddit.com/r/devops/comments/10wdyt5/informatica_unveils_results_of_new_cdo_insights/) | clairep123456 | 4 |
-| [Terraform state](https://www.reddit.com/r/devops/comments/10w5r9y/terraform_state/) | Glum-Scar9476 | 3 |
-| [Any Log management alternative for ELK.](https://www.reddit.com/r/devops/comments/10wam49/any_log_management_alternative_for_elk/) | Bidyutbaruah | 2 |
-| [Where do you put your Guides?](https://www.reddit.com/r/devops/comments/10w9khf/where_do_you_put_your_guides/) | glorycomeslast | 1 |
-| [Persisting a config setting in /etc/ssh/ssh_config of container](https://www.reddit.com/r/devops/comments/10wrf9j/persisting_a_config_setting_in_etcsshssh_config/) | ncubez | 1 |
-| [How can I configure and access ElastiCache for memcached from my Lightsail instance?](https://www.reddit.com/r/devops/comments/10w4t7g/how_can_i_configure_and_access_elasticache_for/) | kocmonobtDark | 1 |
+| [Companies stealing/taking credit for DevOps Roadmap](https://www.reddit.com/r/devops/comments/10x6kdz/companies_stealingtaking_credit_for_devops_roadmap/) | prysmatik | 227 |
+| [How attached are you to production?](https://www.reddit.com/r/devops/comments/10x3o3m/how_attached_are_you_to_production/) | gxxgly_eyez | 32 |
+| [Any government GS employees that are DevOps? How's work/life balance?](https://www.reddit.com/r/devops/comments/10x1vrq/any_government_gs_employees_that_are_devops_hows/) | m1nhC | 30 |
+| [Looking for DevOps learning partner](https://www.reddit.com/r/devops/comments/10xko9j/looking_for_devops_learning_partner/) | Nomad_In_Neverland | 16 |
+| [A better way to manage secrets in Kubernetes](https://www.reddit.com/r/devops/comments/10xjxtf/a_better_way_to_manage_secrets_in_kubernetes/) | theflyingdog98 | 8 |
+| [Best practices for setting up ansible servers?](https://www.reddit.com/r/devops/comments/10x2tld/best_practices_for_setting_up_ansible_servers/) | n3buchadnezzar | 6 |
+| [Testing Terraform infra - terratest alternatives?](https://www.reddit.com/r/devops/comments/10wwlyp/testing_terraform_infra_terratest_alternatives/) | calibrono | 5 |
+| [devops generalist vs specialist](https://www.reddit.com/r/devops/comments/10x65mv/devops_generalist_vs_specialist/) | sanjayrg91 | 4 |
+| [Noob Question About Chef Attributes](https://www.reddit.com/r/devops/comments/10x403j/noob_question_about_chef_attributes/) | yanggang20202024 | 2 |
+| [Using renovatebot to generate *one* PR per file, regardless of how many changes](https://www.reddit.com/r/devops/comments/10xqrsy/using_renovatebot_to_generate_one_pr_per_file/) | funkypenguin | 1 |
