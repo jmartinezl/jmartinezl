@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Companies stealing/taking credit for DevOps Roadmap](https://www.reddit.com/r/devops/comments/10x6kdz/companies_stealingtaking_credit_for_devops_roadmap/) | prysmatik | 227 |
-| [How attached are you to production?](https://www.reddit.com/r/devops/comments/10x3o3m/how_attached_are_you_to_production/) | gxxgly_eyez | 32 |
-| [Any government GS employees that are DevOps? How's work/life balance?](https://www.reddit.com/r/devops/comments/10x1vrq/any_government_gs_employees_that_are_devops_hows/) | m1nhC | 30 |
-| [Looking for DevOps learning partner](https://www.reddit.com/r/devops/comments/10xko9j/looking_for_devops_learning_partner/) | Nomad_In_Neverland | 16 |
-| [A better way to manage secrets in Kubernetes](https://www.reddit.com/r/devops/comments/10xjxtf/a_better_way_to_manage_secrets_in_kubernetes/) | theflyingdog98 | 8 |
-| [Best practices for setting up ansible servers?](https://www.reddit.com/r/devops/comments/10x2tld/best_practices_for_setting_up_ansible_servers/) | n3buchadnezzar | 6 |
-| [Testing Terraform infra - terratest alternatives?](https://www.reddit.com/r/devops/comments/10wwlyp/testing_terraform_infra_terratest_alternatives/) | calibrono | 5 |
-| [devops generalist vs specialist](https://www.reddit.com/r/devops/comments/10x65mv/devops_generalist_vs_specialist/) | sanjayrg91 | 4 |
-| [Noob Question About Chef Attributes](https://www.reddit.com/r/devops/comments/10x403j/noob_question_about_chef_attributes/) | yanggang20202024 | 2 |
-| [Using renovatebot to generate *one* PR per file, regardless of how many changes](https://www.reddit.com/r/devops/comments/10xqrsy/using_renovatebot_to_generate_one_pr_per_file/) | funkypenguin | 1 |
+| [How proficient should Solution Architects be at writing code?](https://www.reddit.com/r/devops/comments/10xvhd1/how_proficient_should_solution_architects_be_at/) | Ok-Lawyer-5242 | 67 |
+| [How's the market for fully remote roles?](https://www.reddit.com/r/devops/comments/10y7ne6/hows_the_market_for_fully_remote_roles/) | frameclowder | 46 |
+| [DevOps course for small companies and individuals](https://www.reddit.com/r/devops/comments/10xttch/devops_course_for_small_companies_and_individuals/) | predmijat | 21 |
+| [Comparison among techniques to share GPUs in Kubernetes](https://www.reddit.com/r/devops/comments/10xty21/comparison_among_techniques_to_share_gpus_in/) | galaxy_dweller | 20 |
+| [Am I wrong to suggest that we should move away from in-house managed applications for SRE team?](https://www.reddit.com/r/devops/comments/10ybpx9/am_i_wrong_to_suggest_that_we_should_move_away/) | theBeeprApp | 16 |
+| [GitOps with GitLab: What you need to know about the Flux CD integration](https://www.reddit.com/r/devops/comments/10xtzu0/gitops_with_gitlab_what_you_need_to_know_about/) | clvx | 14 |
+| [Documentation Advice](https://www.reddit.com/r/devops/comments/10y4wg4/documentation_advice/) | sweetlou357 | 9 |
+| [Terraform vs. Cloudformation for an all-AWS Environment in 2023?](https://www.reddit.com/r/devops/comments/10y3p20/terraform_vs_cloudformation_for_an_allaws/) | SpeedingTourist | 8 |
+| [Moving from developer job to cloud architect (terraform) job?](https://www.reddit.com/r/devops/comments/10yjgl6/moving_from_developer_job_to_cloud_architect/) | benzflow | 7 |
+| [Docker/Kubernetes Role in CI/CD](https://www.reddit.com/r/devops/comments/10y1frz/dockerkubernetes_role_in_cicd/) | yanggang20202024 | 7 |
