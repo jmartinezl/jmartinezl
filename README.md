@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How proficient should Solution Architects be at writing code?](https://www.reddit.com/r/devops/comments/10xvhd1/how_proficient_should_solution_architects_be_at/) | Ok-Lawyer-5242 | 67 |
-| [How's the market for fully remote roles?](https://www.reddit.com/r/devops/comments/10y7ne6/hows_the_market_for_fully_remote_roles/) | frameclowder | 46 |
-| [DevOps course for small companies and individuals](https://www.reddit.com/r/devops/comments/10xttch/devops_course_for_small_companies_and_individuals/) | predmijat | 21 |
-| [Comparison among techniques to share GPUs in Kubernetes](https://www.reddit.com/r/devops/comments/10xty21/comparison_among_techniques_to_share_gpus_in/) | galaxy_dweller | 20 |
-| [Am I wrong to suggest that we should move away from in-house managed applications for SRE team?](https://www.reddit.com/r/devops/comments/10ybpx9/am_i_wrong_to_suggest_that_we_should_move_away/) | theBeeprApp | 16 |
-| [GitOps with GitLab: What you need to know about the Flux CD integration](https://www.reddit.com/r/devops/comments/10xtzu0/gitops_with_gitlab_what_you_need_to_know_about/) | clvx | 14 |
-| [Documentation Advice](https://www.reddit.com/r/devops/comments/10y4wg4/documentation_advice/) | sweetlou357 | 9 |
-| [Terraform vs. Cloudformation for an all-AWS Environment in 2023?](https://www.reddit.com/r/devops/comments/10y3p20/terraform_vs_cloudformation_for_an_allaws/) | SpeedingTourist | 8 |
-| [Moving from developer job to cloud architect (terraform) job?](https://www.reddit.com/r/devops/comments/10yjgl6/moving_from_developer_job_to_cloud_architect/) | benzflow | 7 |
-| [Docker/Kubernetes Role in CI/CD](https://www.reddit.com/r/devops/comments/10y1frz/dockerkubernetes_role_in_cicd/) | yanggang20202024 | 7 |
+| [Question for any of you that work in the FedGov](https://www.reddit.com/r/devops/comments/10yw7sm/question_for_any_of_you_that_work_in_the_fedgov/) | Typing_aggressively | 100 |
+| [In a gitops world, what does your team do to reduce cycle time for devs?](https://www.reddit.com/r/devops/comments/10zhh0v/in_a_gitops_world_what_does_your_team_do_to/) | Sweaty-Plankton7076 | 9 |
+| [Measuring SLO: Organic traffic or synthetic traffic](https://www.reddit.com/r/devops/comments/10z7xku/measuring_slo_organic_traffic_or_synthetic_traffic/) | theBeeprApp | 6 |
+| [dev sandbox environments](https://www.reddit.com/r/devops/comments/10z43lh/dev_sandbox_environments/) | jolietia | 3 |
+| [What is your opinion on using an all in one platform like ADO, GitLab Ci/Cd vs. multiple tools you need to integrate together?](https://www.reddit.com/r/devops/comments/10z2aag/what_is_your_opinion_on_using_an_all_in_one/) | ipromiseimcool | 2 |
+| [Strategies on working on call and maintaining health.](https://www.reddit.com/r/devops/comments/10zfr8l/strategies_on_working_on_call_and_maintaining/) | Minksu2 | 2 |
+| [Noob Chef Cookbook Question](https://www.reddit.com/r/devops/comments/10z0spx/noob_chef_cookbook_question/) | yanggang20202024 | 2 |
+| [Keeping vendor providers on track?](https://www.reddit.com/r/devops/comments/10yvuq9/keeping_vendor_providers_on_track/) | Duckthatpurrs | 2 |
+| [How to authenticate microservice API with Keycloak and Azure AD?](https://www.reddit.com/r/devops/comments/10z91l6/how_to_authenticate_microservice_api_with/) | dearmusic | 2 |
+| [Node and Chef Cookbooks](https://www.reddit.com/r/devops/comments/10z036c/node_and_chef_cookbooks/) | yanggang20202024 | 1 |
