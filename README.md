@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Question for any of you that work in the FedGov](https://www.reddit.com/r/devops/comments/10yw7sm/question_for_any_of_you_that_work_in_the_fedgov/) | Typing_aggressively | 100 |
-| [In a gitops world, what does your team do to reduce cycle time for devs?](https://www.reddit.com/r/devops/comments/10zhh0v/in_a_gitops_world_what_does_your_team_do_to/) | Sweaty-Plankton7076 | 9 |
-| [Measuring SLO: Organic traffic or synthetic traffic](https://www.reddit.com/r/devops/comments/10z7xku/measuring_slo_organic_traffic_or_synthetic_traffic/) | theBeeprApp | 6 |
-| [dev sandbox environments](https://www.reddit.com/r/devops/comments/10z43lh/dev_sandbox_environments/) | jolietia | 3 |
-| [What is your opinion on using an all in one platform like ADO, GitLab Ci/Cd vs. multiple tools you need to integrate together?](https://www.reddit.com/r/devops/comments/10z2aag/what_is_your_opinion_on_using_an_all_in_one/) | ipromiseimcool | 2 |
-| [Strategies on working on call and maintaining health.](https://www.reddit.com/r/devops/comments/10zfr8l/strategies_on_working_on_call_and_maintaining/) | Minksu2 | 2 |
-| [Noob Chef Cookbook Question](https://www.reddit.com/r/devops/comments/10z0spx/noob_chef_cookbook_question/) | yanggang20202024 | 2 |
-| [Keeping vendor providers on track?](https://www.reddit.com/r/devops/comments/10yvuq9/keeping_vendor_providers_on_track/) | Duckthatpurrs | 2 |
-| [How to authenticate microservice API with Keycloak and Azure AD?](https://www.reddit.com/r/devops/comments/10z91l6/how_to_authenticate_microservice_api_with/) | dearmusic | 2 |
-| [Node and Chef Cookbooks](https://www.reddit.com/r/devops/comments/10z036c/node_and_chef_cookbooks/) | yanggang20202024 | 1 |
+| [Feeling like my career has stalled out, could use some advice](https://www.reddit.com/r/devops/comments/10zv95a/feeling_like_my_career_has_stalled_out_could_use/) | draetheus | 30 |
+| [Refreshing knowledge on web app deployment (CDN, load balancers, DDoS protection, etc)](https://www.reddit.com/r/devops/comments/1106hu5/refreshing_knowledge_on_web_app_deployment_cdn/) | SadAd9828 | 11 |
+| [Article: Setup OpenVPN access server on Kubernetes](https://www.reddit.com/r/devops/comments/10zm9ku/article_setup_openvpn_access_server_on_kubernetes/) | s_arme | 11 |
+| [Application portal?](https://www.reddit.com/r/devops/comments/10zwz1o/application_portal/) | bitshifta | 5 |
+| [access control | database](https://www.reddit.com/r/devops/comments/10zncu3/access_control_database/) | hoooorpari | 3 |
+| [Terraform Module Registry vs GitHub](https://www.reddit.com/r/devops/comments/1103z0l/terraform_module_registry_vs_github/) | gabel0287 | 2 |
+| [USING CI/CD to test multiple layered applications](https://www.reddit.com/r/devops/comments/110bfsg/using_cicd_to_test_multiple_layered_applications/) | youngeng | 1 |
+| [Suggest container Linux distro go to deploy Kubernetes on a Bare Metal Server](https://www.reddit.com/r/devops/comments/110bts6/suggest_container_linux_distro_go_to_deploy/) | neoneat | 1 |
+| [Hashicorp Products](https://www.reddit.com/r/devops/comments/10zoojd/hashicorp_products/) | michflax | 1 |
+| [Google Domains Dynamic DNS question](https://www.reddit.com/r/devops/comments/10zueoy/google_domains_dynamic_dns_question/) | ResponsibleOven6 | 1 |
