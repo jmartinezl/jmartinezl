@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Feeling like my career has stalled out, could use some advice](https://www.reddit.com/r/devops/comments/10zv95a/feeling_like_my_career_has_stalled_out_could_use/) | draetheus | 30 |
-| [Refreshing knowledge on web app deployment (CDN, load balancers, DDoS protection, etc)](https://www.reddit.com/r/devops/comments/1106hu5/refreshing_knowledge_on_web_app_deployment_cdn/) | SadAd9828 | 11 |
-| [Article: Setup OpenVPN access server on Kubernetes](https://www.reddit.com/r/devops/comments/10zm9ku/article_setup_openvpn_access_server_on_kubernetes/) | s_arme | 11 |
-| [Application portal?](https://www.reddit.com/r/devops/comments/10zwz1o/application_portal/) | bitshifta | 5 |
-| [access control | database](https://www.reddit.com/r/devops/comments/10zncu3/access_control_database/) | hoooorpari | 3 |
-| [Terraform Module Registry vs GitHub](https://www.reddit.com/r/devops/comments/1103z0l/terraform_module_registry_vs_github/) | gabel0287 | 2 |
-| [USING CI/CD to test multiple layered applications](https://www.reddit.com/r/devops/comments/110bfsg/using_cicd_to_test_multiple_layered_applications/) | youngeng | 1 |
-| [Suggest container Linux distro go to deploy Kubernetes on a Bare Metal Server](https://www.reddit.com/r/devops/comments/110bts6/suggest_container_linux_distro_go_to_deploy/) | neoneat | 1 |
-| [Hashicorp Products](https://www.reddit.com/r/devops/comments/10zoojd/hashicorp_products/) | michflax | 1 |
-| [Google Domains Dynamic DNS question](https://www.reddit.com/r/devops/comments/10zueoy/google_domains_dynamic_dns_question/) | ResponsibleOven6 | 1 |
+| [SOS: Laid Off, Possible Internal Transfer to SWE/DevOps role](https://www.reddit.com/r/devops/comments/110xbma/sos_laid_off_possible_internal_transfer_to/) | dsans571 | 37 |
+| [Will working on one cloud platform pigeonhole me?](https://www.reddit.com/r/devops/comments/110p0hr/will_working_on_one_cloud_platform_pigeonhole_me/) | TransitWizard | 30 |
+| [Kubernetes: converting terraform deployments and resources to something better, like helm?](https://www.reddit.com/r/devops/comments/110o1ka/kubernetes_converting_terraform_deployments_and/) | icankickyouhigher | 30 |
+| [How to build a release from a fork on GitHub using Actions?](https://www.reddit.com/r/devops/comments/110m71x/how_to_build_a_release_from_a_fork_on_github/) | guest271314 | 8 |
+| [100 GB Docker Container](https://www.reddit.com/r/devops/comments/1113dwo/100_gb_docker_container/) | Poronoun | 4 |
+| [Moving on from Opensearch. What do I do with the historical logs/data?](https://www.reddit.com/r/devops/comments/11122t8/moving_on_from_opensearch_what_do_i_do_with_the/) | No-Science112 | 3 |
+| [Question about Docker Compose for a project on remote machine](https://www.reddit.com/r/devops/comments/110wskq/question_about_docker_compose_for_a_project_on/) | Dark_zarich | 2 |
+| [Alternate solution for splunk](https://www.reddit.com/r/devops/comments/1111vap/alternate_solution_for_splunk/) | GetFit_Messi | 2 |
+| [What you guys use to test lambda functions](https://www.reddit.com/r/devops/comments/110xrnc/what_you_guys_use_to_test_lambda_functions/) | Titanguru7 | 1 |
+| [Terraform scripts](https://www.reddit.com/r/devops/comments/110xb3p/terraform_scripts/) | LinweZ | 1 |
