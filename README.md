@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [SOS: Laid Off, Possible Internal Transfer to SWE/DevOps role](https://www.reddit.com/r/devops/comments/110xbma/sos_laid_off_possible_internal_transfer_to/) | dsans571 | 37 |
-| [Will working on one cloud platform pigeonhole me?](https://www.reddit.com/r/devops/comments/110p0hr/will_working_on_one_cloud_platform_pigeonhole_me/) | TransitWizard | 30 |
-| [Kubernetes: converting terraform deployments and resources to something better, like helm?](https://www.reddit.com/r/devops/comments/110o1ka/kubernetes_converting_terraform_deployments_and/) | icankickyouhigher | 30 |
-| [How to build a release from a fork on GitHub using Actions?](https://www.reddit.com/r/devops/comments/110m71x/how_to_build_a_release_from_a_fork_on_github/) | guest271314 | 8 |
-| [100 GB Docker Container](https://www.reddit.com/r/devops/comments/1113dwo/100_gb_docker_container/) | Poronoun | 4 |
-| [Moving on from Opensearch. What do I do with the historical logs/data?](https://www.reddit.com/r/devops/comments/11122t8/moving_on_from_opensearch_what_do_i_do_with_the/) | No-Science112 | 3 |
-| [Question about Docker Compose for a project on remote machine](https://www.reddit.com/r/devops/comments/110wskq/question_about_docker_compose_for_a_project_on/) | Dark_zarich | 2 |
-| [Alternate solution for splunk](https://www.reddit.com/r/devops/comments/1111vap/alternate_solution_for_splunk/) | GetFit_Messi | 2 |
-| [What you guys use to test lambda functions](https://www.reddit.com/r/devops/comments/110xrnc/what_you_guys_use_to_test_lambda_functions/) | Titanguru7 | 1 |
-| [Terraform scripts](https://www.reddit.com/r/devops/comments/110xb3p/terraform_scripts/) | LinweZ | 1 |
+| [Anyone ever go through git history to answer the question "Who is the idiot that wrote this?"](https://www.reddit.com/r/devops/comments/111elxi/anyone_ever_go_through_git_history_to_answer_the/) | TheAviator1101 | 229 |
+| [How Much Coding in the Life of a DevOps?](https://www.reddit.com/r/devops/comments/1117xqw/how_much_coding_in_the_life_of_a_devops/) | webstackbuilder | 66 |
+| [[Blog] - Architecture Decision Records](https://www.reddit.com/r/devops/comments/111i2yh/blog_architecture_decision_records/) | lachlanwhite | 20 |
+| [1-on-1 meeting with manager](https://www.reddit.com/r/devops/comments/111dikn/1on1_meeting_with_manager/) | blueplutomonk | 12 |
+| [Thoughts on Self Hosting Artifactory vs. SaaS solution? How complicated is it to self host it?](https://www.reddit.com/r/devops/comments/111gjfp/thoughts_on_self_hosting_artifactory_vs_saas/) | mccarthycodes | 10 |
+| [Are there tools you can use to improve your docker containers like Docker Slim?](https://www.reddit.com/r/devops/comments/111snfj/are_there_tools_you_can_use_to_improve_your/) | darkcatpirate | 3 |
+| [redhat Openshift internship](https://www.reddit.com/r/devops/comments/111o0mc/redhat_openshift_internship/) | montaomrani | 2 |
+| [Help with the architecture of ECS Clusters with Fargate in two availability zones (with AWS)](https://www.reddit.com/r/devops/comments/1119phc/help_with_the_architecture_of_ecs_clusters_with/) | Relx_Off | 2 |
+| [winrm issues with packer](https://www.reddit.com/r/devops/comments/111e883/winrm_issues_with_packer/) | melbogia | 1 |
+| [Would you be interested in a podcast on career transformation?](https://www.reddit.com/r/devops/comments/111uqrp/would_you_be_interested_in_a_podcast_on_career/) | mohitkr05 | 0 |
