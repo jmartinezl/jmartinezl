@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Anyone ever go through git history to answer the question "Who is the idiot that wrote this?"](https://www.reddit.com/r/devops/comments/111elxi/anyone_ever_go_through_git_history_to_answer_the/) | TheAviator1101 | 229 |
-| [How Much Coding in the Life of a DevOps?](https://www.reddit.com/r/devops/comments/1117xqw/how_much_coding_in_the_life_of_a_devops/) | webstackbuilder | 66 |
-| [[Blog] - Architecture Decision Records](https://www.reddit.com/r/devops/comments/111i2yh/blog_architecture_decision_records/) | lachlanwhite | 20 |
-| [1-on-1 meeting with manager](https://www.reddit.com/r/devops/comments/111dikn/1on1_meeting_with_manager/) | blueplutomonk | 12 |
-| [Thoughts on Self Hosting Artifactory vs. SaaS solution? How complicated is it to self host it?](https://www.reddit.com/r/devops/comments/111gjfp/thoughts_on_self_hosting_artifactory_vs_saas/) | mccarthycodes | 10 |
-| [Are there tools you can use to improve your docker containers like Docker Slim?](https://www.reddit.com/r/devops/comments/111snfj/are_there_tools_you_can_use_to_improve_your/) | darkcatpirate | 3 |
-| [redhat Openshift internship](https://www.reddit.com/r/devops/comments/111o0mc/redhat_openshift_internship/) | montaomrani | 2 |
-| [Help with the architecture of ECS Clusters with Fargate in two availability zones (with AWS)](https://www.reddit.com/r/devops/comments/1119phc/help_with_the_architecture_of_ecs_clusters_with/) | Relx_Off | 2 |
-| [winrm issues with packer](https://www.reddit.com/r/devops/comments/111e883/winrm_issues_with_packer/) | melbogia | 1 |
-| [Would you be interested in a podcast on career transformation?](https://www.reddit.com/r/devops/comments/111uqrp/would_you_be_interested_in_a_podcast_on_career/) | mohitkr05 | 0 |
+| [How do I learn to love Kubernetes](https://www.reddit.com/r/devops/comments/112bnxt/how_do_i_learn_to_love_kubernetes/) | gogorichie | 150 |
+| [Twitter cuts Salesforce bill 75% as more buyers scrutinize software spending](https://www.reddit.com/r/devops/comments/112div3/twitter_cuts_salesforce_bill_75_as_more_buyers/) | clairep123456 | 55 |
+| [what questions were asked to you in your interview for Devops role?](https://www.reddit.com/r/devops/comments/112mntr/what_questions_were_asked_to_you_in_your/) | sanjayrg91 | 9 |
+| [Explain Why Kubernetes and Containers are Better Than VMs Like I'm 5.](https://www.reddit.com/r/devops/comments/112r20w/explain_why_kubernetes_and_containers_are_better/) | twinmind | 9 |
+| [All You Need to Know in 12 Minutes: Pods' Requests and Limits in Kubernetes](https://www.reddit.com/r/devops/comments/1124bc1/all_you_need_to_know_in_12_minutes_pods_requests/) | iam_the_good_guy | 5 |
+| [What do you use for DDoS prevention on your Kubernetes cluster?](https://www.reddit.com/r/devops/comments/112utrq/what_do_you_use_for_ddos_prevention_on_your/) | MHBlue98 | 4 |
+| [Uber signs seven-year cloud deal with Oracle](https://www.reddit.com/r/devops/comments/112dzwx/uber_signs_sevenyear_cloud_deal_with_oracle/) | clairep123456 | 4 |
+| [How do I use "-dev" similar to "-SNAPSHOT" in Jfrog Artifactory for gradle artifacts.](https://www.reddit.com/r/devops/comments/112aogq/how_do_i_use_dev_similar_to_snapshot_in_jfrog/) | yahyamhi | 4 |
+| [Service Registry/DNS Recommendations](https://www.reddit.com/r/devops/comments/11294l8/service_registrydns_recommendations/) | k2718 | 2 |
+| [optimize devops using machine learning](https://www.reddit.com/r/devops/comments/112t2aa/optimize_devops_using_machine_learning/) | BornCondition1756 | 1 |
