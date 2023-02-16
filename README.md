@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do I learn to love Kubernetes](https://www.reddit.com/r/devops/comments/112bnxt/how_do_i_learn_to_love_kubernetes/) | gogorichie | 150 |
-| [Twitter cuts Salesforce bill 75% as more buyers scrutinize software spending](https://www.reddit.com/r/devops/comments/112div3/twitter_cuts_salesforce_bill_75_as_more_buyers/) | clairep123456 | 55 |
-| [what questions were asked to you in your interview for Devops role?](https://www.reddit.com/r/devops/comments/112mntr/what_questions_were_asked_to_you_in_your/) | sanjayrg91 | 9 |
-| [Explain Why Kubernetes and Containers are Better Than VMs Like I'm 5.](https://www.reddit.com/r/devops/comments/112r20w/explain_why_kubernetes_and_containers_are_better/) | twinmind | 9 |
-| [All You Need to Know in 12 Minutes: Pods' Requests and Limits in Kubernetes](https://www.reddit.com/r/devops/comments/1124bc1/all_you_need_to_know_in_12_minutes_pods_requests/) | iam_the_good_guy | 5 |
-| [What do you use for DDoS prevention on your Kubernetes cluster?](https://www.reddit.com/r/devops/comments/112utrq/what_do_you_use_for_ddos_prevention_on_your/) | MHBlue98 | 4 |
-| [Uber signs seven-year cloud deal with Oracle](https://www.reddit.com/r/devops/comments/112dzwx/uber_signs_sevenyear_cloud_deal_with_oracle/) | clairep123456 | 4 |
-| [How do I use "-dev" similar to "-SNAPSHOT" in Jfrog Artifactory for gradle artifacts.](https://www.reddit.com/r/devops/comments/112aogq/how_do_i_use_dev_similar_to_snapshot_in_jfrog/) | yahyamhi | 4 |
-| [Service Registry/DNS Recommendations](https://www.reddit.com/r/devops/comments/11294l8/service_registrydns_recommendations/) | k2718 | 2 |
-| [optimize devops using machine learning](https://www.reddit.com/r/devops/comments/112t2aa/optimize_devops_using_machine_learning/) | BornCondition1756 | 1 |
+| [How to handle non-existent on-boarding](https://www.reddit.com/r/devops/comments/113bhw4/how_to_handle_nonexistent_onboarding/) | Obj_Sea | 87 |
+| [How long should your PR tests take?](https://www.reddit.com/r/devops/comments/112zqwx/how_long_should_your_pr_tests_take/) | pribnow | 22 |
+| [No matter what I try, I cannot get reusable workflows to work using Github actions in the same Organization!](https://www.reddit.com/r/devops/comments/113mx8b/no_matter_what_i_try_i_cannot_get_reusable/) | Bill_Smoke | 4 |
+| [Why are people using Terraform Cloud? I may be missing something, but why can't terraform just be run in GitHub Actions?](https://www.reddit.com/r/devops/comments/1133ktw/why_are_people_using_terraform_cloud_i_may_be/) | utpalnadiger | 3 |
+| [How do you test k8s works as expected after automatic image updates?](https://www.reddit.com/r/devops/comments/113ahb8/how_do_you_test_k8s_works_as_expected_after/) | hksparrowboy | 3 |
+| [Deploy AWS Lambda from S3 vs docker Repo](https://www.reddit.com/r/devops/comments/113cfls/deploy_aws_lambda_from_s3_vs_docker_repo/) | TheLoneKid | 3 |
+| [Nexus HA free alternative](https://www.reddit.com/r/devops/comments/112xymh/nexus_ha_free_alternative/) | Gustavo_AV | 2 |
+| [Makefile tips: preambles &amp; help text generation](https://www.reddit.com/r/devops/comments/113mwq9/makefile_tips_preambles_help_text_generation/) | hardwaresofton | 2 |
+| [Q about Salaries and Layoffs in Tech](https://www.reddit.com/r/devops/comments/113ezrx/q_about_salaries_and_layoffs_in_tech/) | BeeHooWow | 1 |
+| [Creating a Platform for internal use of developers](https://www.reddit.com/r/devops/comments/112zv20/creating_a_platform_for_internal_use_of_developers/) | CuriosTech | 1 |
