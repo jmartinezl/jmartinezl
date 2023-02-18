@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [CI/CD Pipeline example for Homelab](https://www.reddit.com/r/devops/comments/113v8cv/cicd_pipeline_example_for_homelab/) | Mostly__Relevant | 65 |
-| [Update: Self hosting app to create one-time shareable secrets - (new features)](https://www.reddit.com/r/devops/comments/1143koz/update_self_hosting_app_to_create_onetime/) | geeganage | 34 |
-| [It's been 1.5 years and I feel like I've grown very little as an engineer?](https://www.reddit.com/r/devops/comments/113tidy/its_been_15_years_and_i_feel_like_ive_grown_very/) | Scared-Loquat-7933 | 33 |
-| [Datadog: why is it so popular?](https://www.reddit.com/r/devops/comments/114d0an/datadog_why_is_it_so_popular/) | dp79 | 31 |
-| [Extending my list with SLO Tools...](https://www.reddit.com/r/devops/comments/1142kn5/extending_my_list_with_slo_tools/) | FlorianHoppner | 7 |
-| [Best Universal Date Format For DevOps Systems?](https://www.reddit.com/r/devops/comments/113yaun/best_universal_date_format_for_devops_systems/) | BamfBurrito | 6 |
-| [let's talk about Networking knowledge in Devops.](https://www.reddit.com/r/devops/comments/113qdft/lets_talk_about_networking_knowledge_in_devops/) | sanjayrg91 | 5 |
-| [Tips/directions for Maintaining Multiple Versions of software in GIT?](https://www.reddit.com/r/devops/comments/1147l3y/tipsdirections_for_maintaining_multiple_versions/) | edmguru | 5 |
-| [IT'S TIME AGAIN FOR AVIATOR'S CASUAL, OFF-THE-RECORD HANG OUT. THIS month, we'll be spending time with one Slack's productivity engineers.](https://www.reddit.com/r/devops/comments/1140ib8/its_time_again_for_aviators_casual_offtherecord/) | efunction | 2 |
-| [How to manage versioning of dockerized application ?](https://www.reddit.com/r/devops/comments/114dkml/how_to_manage_versioning_of_dockerized_application/) | defact0o | 2 |
+| [Alerting. Prometheus Alertmanager vs Grafana Alerts](https://www.reddit.com/r/devops/comments/1152z00/alerting_prometheus_alertmanager_vs_grafana_alerts/) | TwoWrongsAreSoRight | 36 |
+| [I don’t know if this is a golden opportunity or a scam…](https://www.reddit.com/r/devops/comments/114m7tw/i_dont_know_if_this_is_a_golden_opportunity_or_a/) | teonanacatl83 | 25 |
+| [Can I generate keypair directly in terraform?](https://www.reddit.com/r/devops/comments/114plwh/can_i_generate_keypair_directly_in_terraform/) | NedkoHristov | 9 |
+| [Sagemaker for production services? xpost from r/aws and r/dataengineering](https://www.reddit.com/r/devops/comments/114iuun/sagemaker_for_production_services_xpost_from_raws/) | tech_tuna | 4 |
+| [Top 15 Kubectl plugins for security engineers](https://www.reddit.com/r/devops/comments/114me28/top_15_kubectl_plugins_for_security_engineers/) | Anomalytics | 2 |
+| [Secretless Broker — Thoughts?](https://www.reddit.com/r/devops/comments/115b3ui/secretless_broker_thoughts/) | dangtony98 | 2 |
+| [Real Shell scripts - to learn?](https://www.reddit.com/r/devops/comments/1156wiw/real_shell_scripts_to_learn/) | sanjayrg91 | 2 |
+| [Hikaru 0.16.0b released](https://www.reddit.com/r/devops/comments/115d4k2/hikaru_0160b_released/) | hoover | 2 |
+| [what do you do on a daily basis as a devops engineer?](https://www.reddit.com/r/devops/comments/114siyp/what_do_you_do_on_a_daily_basis_as_a_devops/) | sanjayrg91 | 1 |
+| [Outdated Default AWS IAM Policy Language Versions in Multiple AWS Services](https://www.reddit.com/r/devops/comments/114us7r/outdated_default_aws_iam_policy_language_versions/) | jsonpile | 1 |
