@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Alerting. Prometheus Alertmanager vs Grafana Alerts](https://www.reddit.com/r/devops/comments/1152z00/alerting_prometheus_alertmanager_vs_grafana_alerts/) | TwoWrongsAreSoRight | 36 |
-| [I don’t know if this is a golden opportunity or a scam…](https://www.reddit.com/r/devops/comments/114m7tw/i_dont_know_if_this_is_a_golden_opportunity_or_a/) | teonanacatl83 | 25 |
-| [Can I generate keypair directly in terraform?](https://www.reddit.com/r/devops/comments/114plwh/can_i_generate_keypair_directly_in_terraform/) | NedkoHristov | 9 |
-| [Sagemaker for production services? xpost from r/aws and r/dataengineering](https://www.reddit.com/r/devops/comments/114iuun/sagemaker_for_production_services_xpost_from_raws/) | tech_tuna | 4 |
-| [Top 15 Kubectl plugins for security engineers](https://www.reddit.com/r/devops/comments/114me28/top_15_kubectl_plugins_for_security_engineers/) | Anomalytics | 2 |
-| [Secretless Broker — Thoughts?](https://www.reddit.com/r/devops/comments/115b3ui/secretless_broker_thoughts/) | dangtony98 | 2 |
-| [Real Shell scripts - to learn?](https://www.reddit.com/r/devops/comments/1156wiw/real_shell_scripts_to_learn/) | sanjayrg91 | 2 |
-| [Hikaru 0.16.0b released](https://www.reddit.com/r/devops/comments/115d4k2/hikaru_0160b_released/) | hoover | 2 |
-| [what do you do on a daily basis as a devops engineer?](https://www.reddit.com/r/devops/comments/114siyp/what_do_you_do_on_a_daily_basis_as_a_devops/) | sanjayrg91 | 1 |
-| [Outdated Default AWS IAM Policy Language Versions in Multiple AWS Services](https://www.reddit.com/r/devops/comments/114us7r/outdated_default_aws_iam_policy_language_versions/) | jsonpile | 1 |
+| [Devops learning path.](https://www.reddit.com/r/devops/comments/115gx5e/devops_learning_path/) | rushithatsall | 48 |
+| [How do you organize your IaC with shared infrastructure and app infrastructure?](https://www.reddit.com/r/devops/comments/115lxut/how_do_you_organize_your_iac_with_shared/) | YeNerdLifeChoseMe | 14 |
+| [Any one freelancing ?](https://www.reddit.com/r/devops/comments/1162kte/any_one_freelancing/) | Healthy_Cantaloupe55 | 11 |
+| [Best cloud solution for company wide upgrade to SAP/4Hana?](https://www.reddit.com/r/devops/comments/1165us2/best_cloud_solution_for_company_wide_upgrade_to/) | makemydaysbabe | 3 |
+| [Need Advice Going from Sr Cloud Engineer to Manager](https://www.reddit.com/r/devops/comments/1162okx/need_advice_going_from_sr_cloud_engineer_to/) | 1ooking4advice | 2 |
+| [Where to find ARM buildpacks for Node.js?](https://www.reddit.com/r/devops/comments/1167klu/where_to_find_arm_buildpacks_for_nodejs/) | voja-kostunica | 1 |
+| [Having root directory inside location block in Nginx](https://www.reddit.com/r/devops/comments/1168kvs/having_root_directory_inside_location_block_in/) | darkwolf-95 | 1 |
+| [Does serverless Vercel/Netlify/Deno hosting support listening for message broker (e.g. Kafka) events?](https://www.reddit.com/r/devops/comments/1165pq6/does_serverless_vercelnetlifydeno_hosting_support/) | gintrux | 1 |
+| [Devops crash course options](https://www.reddit.com/r/devops/comments/115grrf/devops_crash_course_options/) | PoB419 | 1 |
+| [Chef template vs file?](https://www.reddit.com/r/devops/comments/115lkjf/chef_template_vs_file/) | yanggang20202024 | 1 |
