@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Devops learning path.](https://www.reddit.com/r/devops/comments/115gx5e/devops_learning_path/) | rushithatsall | 48 |
-| [How do you organize your IaC with shared infrastructure and app infrastructure?](https://www.reddit.com/r/devops/comments/115lxut/how_do_you_organize_your_iac_with_shared/) | YeNerdLifeChoseMe | 14 |
-| [Any one freelancing ?](https://www.reddit.com/r/devops/comments/1162kte/any_one_freelancing/) | Healthy_Cantaloupe55 | 11 |
-| [Best cloud solution for company wide upgrade to SAP/4Hana?](https://www.reddit.com/r/devops/comments/1165us2/best_cloud_solution_for_company_wide_upgrade_to/) | makemydaysbabe | 3 |
-| [Need Advice Going from Sr Cloud Engineer to Manager](https://www.reddit.com/r/devops/comments/1162okx/need_advice_going_from_sr_cloud_engineer_to/) | 1ooking4advice | 2 |
-| [Where to find ARM buildpacks for Node.js?](https://www.reddit.com/r/devops/comments/1167klu/where_to_find_arm_buildpacks_for_nodejs/) | voja-kostunica | 1 |
-| [Having root directory inside location block in Nginx](https://www.reddit.com/r/devops/comments/1168kvs/having_root_directory_inside_location_block_in/) | darkwolf-95 | 1 |
-| [Does serverless Vercel/Netlify/Deno hosting support listening for message broker (e.g. Kafka) events?](https://www.reddit.com/r/devops/comments/1165pq6/does_serverless_vercelnetlifydeno_hosting_support/) | gintrux | 1 |
-| [Devops crash course options](https://www.reddit.com/r/devops/comments/115grrf/devops_crash_course_options/) | PoB419 | 1 |
-| [Chef template vs file?](https://www.reddit.com/r/devops/comments/115lkjf/chef_template_vs_file/) | yanggang20202024 | 1 |
+| [Coding challenges for a senior role?](https://www.reddit.com/r/devops/comments/116bjgj/coding_challenges_for_a_senior_role/) | neomorpheus1 | 110 |
+| [Hiring challenges - looking for some feedback](https://www.reddit.com/r/devops/comments/116ijed/hiring_challenges_looking_for_some_feedback/) | TheHammeredDog | 25 |
+| [GitLab: Seeking Technical Suggestions for a Smoother GitOps Setup](https://www.reddit.com/r/devops/comments/116kfql/gitlab_seeking_technical_suggestions_for_a/) | kkrox | 8 |
+| [Introducing loxilb: eBPF based cloud-native load-balancer](https://www.reddit.com/r/devops/comments/1170hgq/introducing_loxilb_ebpf_based_cloudnative/) | FeelingCurl1252 | 7 |
+| [is it possible to use new repo to trigger argocd?](https://www.reddit.com/r/devops/comments/1174lo7/is_it_possible_to_use_new_repo_to_trigger_argocd/) | Flat-Speaker566 | 3 |
+| [Has anyone used KodeKloud Engineer?](https://www.reddit.com/r/devops/comments/1173dm5/has_anyone_used_kodekloud_engineer/) | minimalist_dev | 2 |
+| [Nexus startup error (docker container) - authentication password: must not be blank](https://www.reddit.com/r/devops/comments/116wqrv/nexus_startup_error_docker_container/) | go_analytical | 1 |
+| [How to pass dynamic values into Kustomize?](https://www.reddit.com/r/devops/comments/116hzy9/how_to_pass_dynamic_values_into_kustomize/) | CerealBit | 1 |
+| [DotNet SonarQube Scanning Code coverage checking](https://www.reddit.com/r/devops/comments/116xe9f/dotnet_sonarqube_scanning_code_coverage_checking/) | Logical-Raccoon-7301 | 1 |
+| [hi all , i signed up for a year and a half course of devops that starts in amonth.](https://www.reddit.com/r/devops/comments/116lpmu/hi_all_i_signed_up_for_a_year_and_a_half_course/) | jjcjjcjjcjjc | 0 |
