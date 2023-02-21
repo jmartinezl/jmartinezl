@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Coding challenges for a senior role?](https://www.reddit.com/r/devops/comments/116bjgj/coding_challenges_for_a_senior_role/) | neomorpheus1 | 110 |
-| [Hiring challenges - looking for some feedback](https://www.reddit.com/r/devops/comments/116ijed/hiring_challenges_looking_for_some_feedback/) | TheHammeredDog | 25 |
-| [GitLab: Seeking Technical Suggestions for a Smoother GitOps Setup](https://www.reddit.com/r/devops/comments/116kfql/gitlab_seeking_technical_suggestions_for_a/) | kkrox | 8 |
-| [Introducing loxilb: eBPF based cloud-native load-balancer](https://www.reddit.com/r/devops/comments/1170hgq/introducing_loxilb_ebpf_based_cloudnative/) | FeelingCurl1252 | 7 |
-| [is it possible to use new repo to trigger argocd?](https://www.reddit.com/r/devops/comments/1174lo7/is_it_possible_to_use_new_repo_to_trigger_argocd/) | Flat-Speaker566 | 3 |
-| [Has anyone used KodeKloud Engineer?](https://www.reddit.com/r/devops/comments/1173dm5/has_anyone_used_kodekloud_engineer/) | minimalist_dev | 2 |
-| [Nexus startup error (docker container) - authentication password: must not be blank](https://www.reddit.com/r/devops/comments/116wqrv/nexus_startup_error_docker_container/) | go_analytical | 1 |
-| [How to pass dynamic values into Kustomize?](https://www.reddit.com/r/devops/comments/116hzy9/how_to_pass_dynamic_values_into_kustomize/) | CerealBit | 1 |
-| [DotNet SonarQube Scanning Code coverage checking](https://www.reddit.com/r/devops/comments/116xe9f/dotnet_sonarqube_scanning_code_coverage_checking/) | Logical-Raccoon-7301 | 1 |
-| [hi all , i signed up for a year and a half course of devops that starts in amonth.](https://www.reddit.com/r/devops/comments/116lpmu/hi_all_i_signed_up_for_a_year_and_a_half_course/) | jjcjjcjjcjjc | 0 |
+| [What were the ancient tools used in late 90's early 00's ?](https://www.reddit.com/r/devops/comments/117q820/what_were_the_ancient_tools_used_in_late_90s/) | C0c04l4 | 41 |
+| [Got my first job offer for a new grad role - should I negotiate salary?](https://www.reddit.com/r/devops/comments/117gz6s/got_my_first_job_offer_for_a_new_grad_role_should/) | CSStudentCareer | 23 |
+| [Discussion: Postman Restricts Local-Only Collection Runner](https://www.reddit.com/r/devops/comments/117g0co/discussion_postman_restricts_localonly_collection/) | tparikka | 19 |
+| [Is there any point in uploading my scripts to gitlab?](https://www.reddit.com/r/devops/comments/117nxj0/is_there_any_point_in_uploading_my_scripts_to/) | Adamsandlersshorts | 16 |
+| [How do you deploy from dev into production (Helm/Kustomize, ArgoCD)?](https://www.reddit.com/r/devops/comments/1175fl1/how_do_you_deploy_from_dev_into_production/) | CerealBit | 11 |
+| [Company wide identity provider](https://www.reddit.com/r/devops/comments/117yqln/company_wide_identity_provider/) | QuirkyOpposite6755 | 6 |
+| [Any global generic "pull through cache" for container images on kubernetes?](https://www.reddit.com/r/devops/comments/1176yk2/any_global_generic_pull_through_cache_for/) | Jatalocks2 | 6 |
+| [Noob Chef Question](https://www.reddit.com/r/devops/comments/117vjit/noob_chef_question/) | yanggang20202024 | 3 |
+| [Documentation as a service](https://www.reddit.com/r/devops/comments/117wpsf/documentation_as_a_service/) | darkdado | 3 |
+| [How do you manage your PROD Access?](https://www.reddit.com/r/devops/comments/117w7q1/how_do_you_manage_your_prod_access/) | viperakaraj | 2 |
