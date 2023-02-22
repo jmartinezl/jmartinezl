@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What were the ancient tools used in late 90's early 00's ?](https://www.reddit.com/r/devops/comments/117q820/what_were_the_ancient_tools_used_in_late_90s/) | C0c04l4 | 41 |
-| [Got my first job offer for a new grad role - should I negotiate salary?](https://www.reddit.com/r/devops/comments/117gz6s/got_my_first_job_offer_for_a_new_grad_role_should/) | CSStudentCareer | 23 |
-| [Discussion: Postman Restricts Local-Only Collection Runner](https://www.reddit.com/r/devops/comments/117g0co/discussion_postman_restricts_localonly_collection/) | tparikka | 19 |
-| [Is there any point in uploading my scripts to gitlab?](https://www.reddit.com/r/devops/comments/117nxj0/is_there_any_point_in_uploading_my_scripts_to/) | Adamsandlersshorts | 16 |
-| [How do you deploy from dev into production (Helm/Kustomize, ArgoCD)?](https://www.reddit.com/r/devops/comments/1175fl1/how_do_you_deploy_from_dev_into_production/) | CerealBit | 11 |
-| [Company wide identity provider](https://www.reddit.com/r/devops/comments/117yqln/company_wide_identity_provider/) | QuirkyOpposite6755 | 6 |
-| [Any global generic "pull through cache" for container images on kubernetes?](https://www.reddit.com/r/devops/comments/1176yk2/any_global_generic_pull_through_cache_for/) | Jatalocks2 | 6 |
-| [Noob Chef Question](https://www.reddit.com/r/devops/comments/117vjit/noob_chef_question/) | yanggang20202024 | 3 |
-| [Documentation as a service](https://www.reddit.com/r/devops/comments/117wpsf/documentation_as_a_service/) | darkdado | 3 |
-| [How do you manage your PROD Access?](https://www.reddit.com/r/devops/comments/117w7q1/how_do_you_manage_your_prod_access/) | viperakaraj | 2 |
+| [Am I being ripped off?](https://www.reddit.com/r/devops/comments/118d7ax/am_i_being_ripped_off/) | blueplutomonk | 64 |
+| [Learning So Much Info &amp; It's Hard To Juggle It All](https://www.reddit.com/r/devops/comments/118bwzu/learning_so_much_info_its_hard_to_juggle_it_all/) | Jackscalibur | 23 |
+| [CDKTF FAQ](https://www.reddit.com/r/devops/comments/11881mp/cdktf_faq/) | sausagefeet | 17 |
+| [How to get notified on Error Events in NewRelic?](https://www.reddit.com/r/devops/comments/11842bs/how_to_get_notified_on_error_events_in_newrelic/) | s1eeper21 | 9 |
+| [Updating stuff inside a pod](https://www.reddit.com/r/devops/comments/1188khv/updating_stuff_inside_a_pod/) | ncubez | 4 |
+| [what do you use shell scripts in your day to day work as a devops practitioner?](https://www.reddit.com/r/devops/comments/118n051/what_do_you_use_shell_scripts_in_your_day_to_day/) | sanjayrg91 | 2 |
+| [Getting "unknown manifest name" with docker registry behind CloudFront distribution](https://www.reddit.com/r/devops/comments/118t6aq/getting_unknown_manifest_name_with_docker/) | Stanislasss | 1 |
+| [Bootstrapping and updating CI/CD permissions](https://www.reddit.com/r/devops/comments/1184jz3/bootstrapping_and_updating_cicd_permissions/) | YeNerdLifeChoseMe | 1 |
+| [is practical DevSecOps worth it ?](https://www.reddit.com/r/devops/comments/118h416/is_practical_devsecops_worth_it/) | FinnaGetRichh | 0 |
+| [Should we use OpenTelemetry traces for running tests?](https://www.reddit.com/r/devops/comments/118q0xn/should_we_use_opentelemetry_traces_for_running/) | nirga | 0 |
