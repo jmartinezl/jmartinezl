@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Am I being ripped off?](https://www.reddit.com/r/devops/comments/118d7ax/am_i_being_ripped_off/) | blueplutomonk | 64 |
-| [Learning So Much Info &amp; It's Hard To Juggle It All](https://www.reddit.com/r/devops/comments/118bwzu/learning_so_much_info_its_hard_to_juggle_it_all/) | Jackscalibur | 23 |
-| [CDKTF FAQ](https://www.reddit.com/r/devops/comments/11881mp/cdktf_faq/) | sausagefeet | 17 |
-| [How to get notified on Error Events in NewRelic?](https://www.reddit.com/r/devops/comments/11842bs/how_to_get_notified_on_error_events_in_newrelic/) | s1eeper21 | 9 |
-| [Updating stuff inside a pod](https://www.reddit.com/r/devops/comments/1188khv/updating_stuff_inside_a_pod/) | ncubez | 4 |
-| [what do you use shell scripts in your day to day work as a devops practitioner?](https://www.reddit.com/r/devops/comments/118n051/what_do_you_use_shell_scripts_in_your_day_to_day/) | sanjayrg91 | 2 |
-| [Getting "unknown manifest name" with docker registry behind CloudFront distribution](https://www.reddit.com/r/devops/comments/118t6aq/getting_unknown_manifest_name_with_docker/) | Stanislasss | 1 |
-| [Bootstrapping and updating CI/CD permissions](https://www.reddit.com/r/devops/comments/1184jz3/bootstrapping_and_updating_cicd_permissions/) | YeNerdLifeChoseMe | 1 |
-| [is practical DevSecOps worth it ?](https://www.reddit.com/r/devops/comments/118h416/is_practical_devsecops_worth_it/) | FinnaGetRichh | 0 |
-| [Should we use OpenTelemetry traces for running tests?](https://www.reddit.com/r/devops/comments/118q0xn/should_we_use_opentelemetry_traces_for_running/) | nirga | 0 |
+| [Boss left and now I need to clean up his mess. Looking for advice/venting.](https://www.reddit.com/r/devops/comments/119eubv/boss_left_and_now_i_need_to_clean_up_his_mess/) | kiddinglyvacuous99 | 118 |
+| [Is it important to know java/python in Devops Engineer role?](https://www.reddit.com/r/devops/comments/1191bkw/is_it_important_to_know_javapython_in_devops/) | sanjayrg91 | 51 |
+| [Aliasing kubectl with "kc"](https://www.reddit.com/r/devops/comments/119ln0e/aliasing_kubectl_with_kc/) | ncubez | 11 |
+| [Do you have self-managed DBs (on a VM instead of a paid service) and which team does manage them?](https://www.reddit.com/r/devops/comments/119awnt/do_you_have_selfmanaged_dbs_on_a_vm_instead_of_a/) | Laobiz | 9 |
+| [No longer using GitLab?](https://www.reddit.com/r/devops/comments/119jhj6/no_longer_using_gitlab/) | LuckyChopsSOS | 5 |
+| [How do you maintain development environments?](https://www.reddit.com/r/devops/comments/119t3h1/how_do_you_maintain_development_environments/) | thewizardlucas | 5 |
+| [This Week's DevOps Newsletter: AWS Security, Kubernetes Dashboards, and Open-Source Projects](https://www.reddit.com/r/devops/comments/119exbp/this_weeks_devops_newsletter_aws_security/) | labouardy | 3 |
+| [IaC git repo advice](https://www.reddit.com/r/devops/comments/1191vm5/iac_git_repo_advice/) | 0b3erver | 3 |
+| [Is it possible to learn devops by yourself?](https://www.reddit.com/r/devops/comments/119u16m/is_it_possible_to_learn_devops_by_yourself/) | Belyua | 2 |
+| [How to achieve synchronized deployment of Frontend and Backend applications to PRD?](https://www.reddit.com/r/devops/comments/1194gof/how_to_achieve_synchronized_deployment_of/) | rainchaser3 | 2 |
