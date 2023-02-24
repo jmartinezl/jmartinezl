@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Boss left and now I need to clean up his mess. Looking for advice/venting.](https://www.reddit.com/r/devops/comments/119eubv/boss_left_and_now_i_need_to_clean_up_his_mess/) | kiddinglyvacuous99 | 118 |
-| [Is it important to know java/python in Devops Engineer role?](https://www.reddit.com/r/devops/comments/1191bkw/is_it_important_to_know_javapython_in_devops/) | sanjayrg91 | 51 |
-| [Aliasing kubectl with "kc"](https://www.reddit.com/r/devops/comments/119ln0e/aliasing_kubectl_with_kc/) | ncubez | 11 |
-| [Do you have self-managed DBs (on a VM instead of a paid service) and which team does manage them?](https://www.reddit.com/r/devops/comments/119awnt/do_you_have_selfmanaged_dbs_on_a_vm_instead_of_a/) | Laobiz | 9 |
-| [No longer using GitLab?](https://www.reddit.com/r/devops/comments/119jhj6/no_longer_using_gitlab/) | LuckyChopsSOS | 5 |
-| [How do you maintain development environments?](https://www.reddit.com/r/devops/comments/119t3h1/how_do_you_maintain_development_environments/) | thewizardlucas | 5 |
-| [This Week's DevOps Newsletter: AWS Security, Kubernetes Dashboards, and Open-Source Projects](https://www.reddit.com/r/devops/comments/119exbp/this_weeks_devops_newsletter_aws_security/) | labouardy | 3 |
-| [IaC git repo advice](https://www.reddit.com/r/devops/comments/1191vm5/iac_git_repo_advice/) | 0b3erver | 3 |
-| [Is it possible to learn devops by yourself?](https://www.reddit.com/r/devops/comments/119u16m/is_it_possible_to_learn_devops_by_yourself/) | Belyua | 2 |
-| [How to achieve synchronized deployment of Frontend and Backend applications to PRD?](https://www.reddit.com/r/devops/comments/1194gof/how_to_achieve_synchronized_deployment_of/) | rainchaser3 | 2 |
+| [Used to work at another company and their Confluence page was highly customizable - new Confluence seems more restrictive and way too much whitespace, making it inefficient for longer documentation. What happened?](https://www.reddit.com/r/devops/comments/11a01b0/used_to_work_at_another_company_and_their/) | V3Qn117x0UFQ | 63 |
+| [Best AWS IAM approach for isolated logging and backup accounts?](https://www.reddit.com/r/devops/comments/11ac6so/best_aws_iam_approach_for_isolated_logging_and/) | Benutzernutzer | 16 |
+| [Done with the basics. Now what?](https://www.reddit.com/r/devops/comments/11amxhd/done_with_the_basics_now_what/) | Plastic-Date-8717 | 4 |
+| [Saltstack crystal enterprise VMware](https://www.reddit.com/r/devops/comments/11aa4e7/saltstack_crystal_enterprise_vmware/) | metromsi | 1 |
+| [Question about remote app delivery](https://www.reddit.com/r/devops/comments/11ambtw/question_about_remote_app_delivery/) | Initial-Dentist-5476 | 1 |
+| [KEDA + SQS](https://www.reddit.com/r/devops/comments/11a8z00/keda_sqs/) | calibrono | 1 |
+| [How Vault that injects secrets into the pods more secure then Kubernetes plain secrets?](https://www.reddit.com/r/devops/comments/11a01c0/how_vault_that_injects_secrets_into_the_pods_more/) | dima2022 | 1 |
+| [Exposing Azure Storage on Domain Apex With Let's Encrypt SSL via Terraform](https://www.reddit.com/r/devops/comments/11a990v/exposing_azure_storage_on_domain_apex_with_lets/) | Practical-Ad-3928 | 1 |
+| [Update: File support (max 1MB) added to the self-hosting app to create one-time shareable secrets - (new feature)](https://www.reddit.com/r/devops/comments/11a3zfy/update_file_support_max_1mb_added_to_the/) | geeganage | 0 |
+| [How do you deploy the backend side (express and postgres) on netlify?](https://www.reddit.com/r/devops/comments/11a4gaj/how_do_you_deploy_the_backend_side_express_and/) | Comfortable_Alarm_55 | 0 |
