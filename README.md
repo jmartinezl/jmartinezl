@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [why are 3 Clouds are so popular?](https://www.reddit.com/r/devops/comments/11b0ycp/why_are_3_clouds_are_so_popular/) | Grocker42 | 70 |
-| [Launching DevOps Consulting company](https://www.reddit.com/r/devops/comments/11b5qvk/launching_devops_consulting_company/) | Dubinko | 13 |
-| [IaC Troubles](https://www.reddit.com/r/devops/comments/11b51gv/iac_troubles/) | sfitzo | 6 |
-| [Advice for a college graduate](https://www.reddit.com/r/devops/comments/11at7wh/advice_for_a_college_graduate/) | psychosocialKnot | 6 |
-| [Load Average Linux](https://www.reddit.com/r/devops/comments/11avizw/load_average_linux/) | grlansky | 4 |
-| [Security Testing in Azure CI Pipeline for iOS App](https://www.reddit.com/r/devops/comments/11asjdk/security_testing_in_azure_ci_pipeline_for_ios_app/) | Chrono_725 | 3 |
-| [Noob question: transition to microservices without Docker or Kubernetes?](https://www.reddit.com/r/devops/comments/11bdwji/noob_question_transition_to_microservices_without/) | davey__jo | 1 |
-| [Is Atlantis workflow possible without a backend?](https://www.reddit.com/r/devops/comments/11b232j/is_atlantis_workflow_possible_without_a_backend/) | utpalnadiger | 1 |
-| [How to build container with systemd services inside?](https://www.reddit.com/r/devops/comments/11as3br/how_to_build_container_with_systemd_services/) | jm_lhc | 1 |
-| [microservices in git](https://www.reddit.com/r/devops/comments/11av9fd/microservices_in_git/) | NtzsnS32 | 0 |
+| [Probably stupid question: What should be the scale to start IaC? Need suggestions.](https://www.reddit.com/r/devops/comments/11bx94a/probably_stupid_question_what_should_be_the_scale/) | Maxcoder95 | 48 |
+| [aws lambda deployment: better terraform or ansible?](https://www.reddit.com/r/devops/comments/11br4b9/aws_lambda_deployment_better_terraform_or_ansible/) | IP_FiNaR | 15 |
+| [Soft skill advice needed - Is it possible to improve listening/comprehension skills or is it sorta something you're born with?](https://www.reddit.com/r/devops/comments/11bu7ad/soft_skill_advice_needed_is_it_possible_to/) | alifone | 6 |
+| [Scaling microservices alerting with Zero Ops](https://www.reddit.com/r/devops/comments/11bqat0/scaling_microservices_alerting_with_zero_ops/) | kek_mek | 5 |
+| [Projects for growth and development](https://www.reddit.com/r/devops/comments/11c3iqu/projects_for_growth_and_development/) | whatareu | 3 |
+| [TB's of data Load into Cassandra cluster](https://www.reddit.com/r/devops/comments/11ce059/tbs_of_data_load_into_cassandra_cluster/) | ananta003 | 2 |
+| [Choosing a CI/CD tool for your product](https://www.reddit.com/r/devops/comments/11cd32e/choosing_a_cicd_tool_for_your_product/) | Economy_Peanut | 1 |
+| [Reality check](https://www.reddit.com/r/devops/comments/11bl36l/reality_check/) | readita1000times | 0 |
+| [Containers vs Virtual Machines for developers](https://www.reddit.com/r/devops/comments/11bk5al/containers_vs_virtual_machines_for_developers/) | gorbak25 | 0 |
