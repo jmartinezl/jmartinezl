@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Probably stupid question: What should be the scale to start IaC? Need suggestions.](https://www.reddit.com/r/devops/comments/11bx94a/probably_stupid_question_what_should_be_the_scale/) | Maxcoder95 | 48 |
-| [aws lambda deployment: better terraform or ansible?](https://www.reddit.com/r/devops/comments/11br4b9/aws_lambda_deployment_better_terraform_or_ansible/) | IP_FiNaR | 15 |
-| [Soft skill advice needed - Is it possible to improve listening/comprehension skills or is it sorta something you're born with?](https://www.reddit.com/r/devops/comments/11bu7ad/soft_skill_advice_needed_is_it_possible_to/) | alifone | 6 |
-| [Scaling microservices alerting with Zero Ops](https://www.reddit.com/r/devops/comments/11bqat0/scaling_microservices_alerting_with_zero_ops/) | kek_mek | 5 |
-| [Projects for growth and development](https://www.reddit.com/r/devops/comments/11c3iqu/projects_for_growth_and_development/) | whatareu | 3 |
-| [TB's of data Load into Cassandra cluster](https://www.reddit.com/r/devops/comments/11ce059/tbs_of_data_load_into_cassandra_cluster/) | ananta003 | 2 |
-| [Choosing a CI/CD tool for your product](https://www.reddit.com/r/devops/comments/11cd32e/choosing_a_cicd_tool_for_your_product/) | Economy_Peanut | 1 |
-| [Reality check](https://www.reddit.com/r/devops/comments/11bl36l/reality_check/) | readita1000times | 0 |
-| [Containers vs Virtual Machines for developers](https://www.reddit.com/r/devops/comments/11bk5al/containers_vs_virtual_machines_for_developers/) | gorbak25 | 0 |
+| [Devops' intense focus on fast code releases inevitably compromises security. While development cycles have become agile, security processes have remained stuck in the past.](https://www.reddit.com/r/devops/comments/11cn6iv/devops_intense_focus_on_fast_code_releases/) | BeitteNugxa | 54 |
+| [Where do I go from here? - Passed my AZ-400](https://www.reddit.com/r/devops/comments/11czaue/where_do_i_go_from_here_passed_my_az400/) | king5055 | 16 |
+| [What is eBPF, anyway, and why should Kubernetes admins care?](https://www.reddit.com/r/devops/comments/11d83vu/what_is_ebpf_anyway_and_why_should_kubernetes/) | aidlaxfix | 15 |
+| [separate devops team?](https://www.reddit.com/r/devops/comments/11cwbc9/separate_devops_team/) | japzio | 13 |
+| [What Linux material would be most beneficial to learn from for DevOps?](https://www.reddit.com/r/devops/comments/11d64mm/what_linux_material_would_be_most_beneficial_to/) | 29092 | 10 |
+| [Dynatrace to Monitor Cordoned VMs](https://www.reddit.com/r/devops/comments/11cuw3v/dynatrace_to_monitor_cordoned_vms/) | emergingdurga | 10 |
+| [Next to reddit - are there any other communities? And where did normal online forums and bulletin boards go?](https://www.reddit.com/r/devops/comments/11d6i02/next_to_reddit_are_there_any_other_communities/) | AemonQE | 4 |
+| [Let's Encrypt in Dokku in Docker - docker.env: no such file or directory](https://www.reddit.com/r/devops/comments/11cgfr7/lets_encrypt_in_dokku_in_docker_dockerenv_no_such/) | miroljub-petrovic | 2 |
+| [Nexus repo Upgrade](https://www.reddit.com/r/devops/comments/11d9nog/nexus_repo_upgrade/) | Maleficent-Pain2765 | 1 |
+| [What do you guys think of my Roadmap plan to become an DevOps Engineer?](https://www.reddit.com/r/devops/comments/11cgaye/what_do_you_guys_think_of_my_roadmap_plan_to/) | RealPride_ | 0 |
