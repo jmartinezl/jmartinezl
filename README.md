@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Devops' intense focus on fast code releases inevitably compromises security. While development cycles have become agile, security processes have remained stuck in the past.](https://www.reddit.com/r/devops/comments/11cn6iv/devops_intense_focus_on_fast_code_releases/) | BeitteNugxa | 54 |
-| [Where do I go from here? - Passed my AZ-400](https://www.reddit.com/r/devops/comments/11czaue/where_do_i_go_from_here_passed_my_az400/) | king5055 | 16 |
-| [What is eBPF, anyway, and why should Kubernetes admins care?](https://www.reddit.com/r/devops/comments/11d83vu/what_is_ebpf_anyway_and_why_should_kubernetes/) | aidlaxfix | 15 |
-| [separate devops team?](https://www.reddit.com/r/devops/comments/11cwbc9/separate_devops_team/) | japzio | 13 |
-| [What Linux material would be most beneficial to learn from for DevOps?](https://www.reddit.com/r/devops/comments/11d64mm/what_linux_material_would_be_most_beneficial_to/) | 29092 | 10 |
-| [Dynatrace to Monitor Cordoned VMs](https://www.reddit.com/r/devops/comments/11cuw3v/dynatrace_to_monitor_cordoned_vms/) | emergingdurga | 10 |
-| [Next to reddit - are there any other communities? And where did normal online forums and bulletin boards go?](https://www.reddit.com/r/devops/comments/11d6i02/next_to_reddit_are_there_any_other_communities/) | AemonQE | 4 |
-| [Let's Encrypt in Dokku in Docker - docker.env: no such file or directory](https://www.reddit.com/r/devops/comments/11cgfr7/lets_encrypt_in_dokku_in_docker_dockerenv_no_such/) | miroljub-petrovic | 2 |
-| [Nexus repo Upgrade](https://www.reddit.com/r/devops/comments/11d9nog/nexus_repo_upgrade/) | Maleficent-Pain2765 | 1 |
-| [What do you guys think of my Roadmap plan to become an DevOps Engineer?](https://www.reddit.com/r/devops/comments/11cgaye/what_do_you_guys_think_of_my_roadmap_plan_to/) | RealPride_ | 0 |
+| [Was your first week learning Kubernetes as bad as mine?](https://www.reddit.com/r/devops/comments/11dozrw/was_your_first_week_learning_kubernetes_as_bad_as/) | CS-0010 | 98 |
+| [Open-source Kubernetes traffic visualizer - Otterize network mapper](https://www.reddit.com/r/devops/comments/11dbds0/opensource_kubernetes_traffic_visualizer_otterize/) | TomerGreenwald | 16 |
+| [Senior Devops home plex instance was cause of lastpass breach](https://www.reddit.com/r/devops/comments/11e1kf4/senior_devops_home_plex_instance_was_cause_of/) | minorminer | 7 |
+| [Deploying on ECS](https://www.reddit.com/r/devops/comments/11dgi5i/deploying_on_ecs/) | MrDragonNicaze | 6 |
+| [What to do when manager doesn't recognize my effort and work?](https://www.reddit.com/r/devops/comments/11e0p2l/what_to_do_when_manager_doesnt_recognize_my/) | TastyWheat7 | 5 |
+| [SOS. Need Devops/Cloud mentor($)](https://www.reddit.com/r/devops/comments/11dvldw/sos_need_devopscloud_mentor/) | CliffClifferson | 4 |
+| [Docker pull redirect?](https://www.reddit.com/r/devops/comments/11dhp2q/docker_pull_redirect/) | OkAcanthocephala1450 | 2 |
+| [Gitlab SSH Runners on metal](https://www.reddit.com/r/devops/comments/11dwosb/gitlab_ssh_runners_on_metal/) | Sqeaky | 1 |
+| [which jenkins pipeline runs on merge](https://www.reddit.com/r/devops/comments/11dpvp1/which_jenkins_pipeline_runs_on_merge/) | frank998 | 0 |
+| [life cycle policy](https://www.reddit.com/r/devops/comments/11dg83l/life_cycle_policy/) | legendarypegasus | 0 |
