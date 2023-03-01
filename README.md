@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Was your first week learning Kubernetes as bad as mine?](https://www.reddit.com/r/devops/comments/11dozrw/was_your_first_week_learning_kubernetes_as_bad_as/) | CS-0010 | 98 |
-| [Open-source Kubernetes traffic visualizer - Otterize network mapper](https://www.reddit.com/r/devops/comments/11dbds0/opensource_kubernetes_traffic_visualizer_otterize/) | TomerGreenwald | 16 |
-| [Senior Devops home plex instance was cause of lastpass breach](https://www.reddit.com/r/devops/comments/11e1kf4/senior_devops_home_plex_instance_was_cause_of/) | minorminer | 7 |
-| [Deploying on ECS](https://www.reddit.com/r/devops/comments/11dgi5i/deploying_on_ecs/) | MrDragonNicaze | 6 |
-| [What to do when manager doesn't recognize my effort and work?](https://www.reddit.com/r/devops/comments/11e0p2l/what_to_do_when_manager_doesnt_recognize_my/) | TastyWheat7 | 5 |
-| [SOS. Need Devops/Cloud mentor($)](https://www.reddit.com/r/devops/comments/11dvldw/sos_need_devopscloud_mentor/) | CliffClifferson | 4 |
-| [Docker pull redirect?](https://www.reddit.com/r/devops/comments/11dhp2q/docker_pull_redirect/) | OkAcanthocephala1450 | 2 |
-| [Gitlab SSH Runners on metal](https://www.reddit.com/r/devops/comments/11dwosb/gitlab_ssh_runners_on_metal/) | Sqeaky | 1 |
-| [which jenkins pipeline runs on merge](https://www.reddit.com/r/devops/comments/11dpvp1/which_jenkins_pipeline_runs_on_merge/) | frank998 | 0 |
-| [life cycle policy](https://www.reddit.com/r/devops/comments/11dg83l/life_cycle_policy/) | legendarypegasus | 0 |
+| [Need to learn Github actions, advice on pipeline migration?](https://www.reddit.com/r/devops/comments/11ejrdb/need_to_learn_github_actions_advice_on_pipeline/) | anonymouswitchking | 30 |
+| [Terraform vs Pulumi vs Others?](https://www.reddit.com/r/devops/comments/11ebjis/terraform_vs_pulumi_vs_others/) | wpg4665 | 25 |
+| [Best branching strategy and environment strategy for a monolithic backend codebase that supports 3-4 fast moving projects that need to be released at different times.](https://www.reddit.com/r/devops/comments/11era4n/best_branching_strategy_and_environment_strategy/) | Lostwhispers05 | 16 |
+| [Is there a way to access a secret by a dynamic variable name in github actions?](https://www.reddit.com/r/devops/comments/11eyim7/is_there_a_way_to_access_a_secret_by_a_dynamic/) | Acrobatic-Ad-6556 | 9 |
+| [How do you practise incident response? (if at all)](https://www.reddit.com/r/devops/comments/11e8fq7/how_do_you_practise_incident_response_if_at_all/) | davidsoff | 5 |
+| [HashiCorp's Vault vs. Gravitational's Teleport](https://www.reddit.com/r/devops/comments/11eyivb/hashicorps_vault_vs_gravitationals_teleport/) | alzgh | 5 |
+| [vops - a HashiCorp Vault Cluster mgmt tool](https://www.reddit.com/r/devops/comments/11e617v/vops_a_hashicorp_vault_cluster_mgmt_tool/) | gottziehtalles | 3 |
+| [We ran a Game Day to stress test our incident response](https://www.reddit.com/r/devops/comments/11f105m/we_ran_a_game_day_to_stress_test_our_incident/) | shared_ptr | 3 |
+| [How to register for data dog free service](https://www.reddit.com/r/devops/comments/11ezd5e/how_to_register_for_data_dog_free_service/) | eastafrican261 | 2 |
+| [Create and Release Your Own Helm Chart](https://www.reddit.com/r/devops/comments/11e8s80/create_and_release_your_own_helm_chart/) | piotr_minkowski | 1 |
