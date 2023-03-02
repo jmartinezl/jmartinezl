@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Need to learn Github actions, advice on pipeline migration?](https://www.reddit.com/r/devops/comments/11ejrdb/need_to_learn_github_actions_advice_on_pipeline/) | anonymouswitchking | 30 |
-| [Terraform vs Pulumi vs Others?](https://www.reddit.com/r/devops/comments/11ebjis/terraform_vs_pulumi_vs_others/) | wpg4665 | 25 |
-| [Best branching strategy and environment strategy for a monolithic backend codebase that supports 3-4 fast moving projects that need to be released at different times.](https://www.reddit.com/r/devops/comments/11era4n/best_branching_strategy_and_environment_strategy/) | Lostwhispers05 | 16 |
-| [Is there a way to access a secret by a dynamic variable name in github actions?](https://www.reddit.com/r/devops/comments/11eyim7/is_there_a_way_to_access_a_secret_by_a_dynamic/) | Acrobatic-Ad-6556 | 9 |
-| [How do you practise incident response? (if at all)](https://www.reddit.com/r/devops/comments/11e8fq7/how_do_you_practise_incident_response_if_at_all/) | davidsoff | 5 |
-| [HashiCorp's Vault vs. Gravitational's Teleport](https://www.reddit.com/r/devops/comments/11eyivb/hashicorps_vault_vs_gravitationals_teleport/) | alzgh | 5 |
-| [vops - a HashiCorp Vault Cluster mgmt tool](https://www.reddit.com/r/devops/comments/11e617v/vops_a_hashicorp_vault_cluster_mgmt_tool/) | gottziehtalles | 3 |
-| [We ran a Game Day to stress test our incident response](https://www.reddit.com/r/devops/comments/11f105m/we_ran_a_game_day_to_stress_test_our_incident/) | shared_ptr | 3 |
-| [How to register for data dog free service](https://www.reddit.com/r/devops/comments/11ezd5e/how_to_register_for_data_dog_free_service/) | eastafrican261 | 2 |
-| [Create and Release Your Own Helm Chart](https://www.reddit.com/r/devops/comments/11e8s80/create_and_release_your_own_helm_chart/) | piotr_minkowski | 1 |
+| [How do you deal with developers asking for production DB access?](https://www.reddit.com/r/devops/comments/11fmo4l/how_do_you_deal_with_developers_asking_for/) | Potential_Guest4936 | 69 |
+| [Monthly 'Shameless Self Promotion' thread - 2023/03](https://www.reddit.com/r/devops/comments/11fbfqf/monthly_shameless_self_promotion_thread_202303/) | mthode | 7 |
+| [Are TF modules just for re-use or splitting things up or both?](https://www.reddit.com/r/devops/comments/11f50uy/are_tf_modules_just_for_reuse_or_splitting_things/) | badsimian | 6 |
+| [What other (DevOps) communities are you active in?](https://www.reddit.com/r/devops/comments/11f2612/what_other_devops_communities_are_you_active_in/) | AemonQE | 2 |
+| [What is the general or best way to do deploy application to staging and to production](https://www.reddit.com/r/devops/comments/11fwufz/what_is_the_general_or_best_way_to_do_deploy/) | defact0o | 2 |
+| [What are the top challenges Devops teams face when it comes to containerization of apps?](https://www.reddit.com/r/devops/comments/11f4s63/what_are_the_top_challenges_devops_teams_face/) | Neither_Interest8285 | 1 |
+| [Ultrawide vs dual monitor](https://www.reddit.com/r/devops/comments/11fhza8/ultrawide_vs_dual_monitor/) | adam_daniel29 | 1 |
+| [Trunk based development deployment strategies](https://www.reddit.com/r/devops/comments/11f76zz/trunk_based_development_deployment_strategies/) | ThankfulRobber | 1 |
+| [Trouble with Host based routing in ecs fargate.](https://www.reddit.com/r/devops/comments/11fccs2/trouble_with_host_based_routing_in_ecs_fargate/) | PineappleInformal106 | 1 |
+| [Longhorn/Harvester not seeing HDDs](https://www.reddit.com/r/devops/comments/11f6wt9/longhornharvester_not_seeing_hdds/) | pebcakerror | 1 |
