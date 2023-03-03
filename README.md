@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you deal with developers asking for production DB access?](https://www.reddit.com/r/devops/comments/11fmo4l/how_do_you_deal_with_developers_asking_for/) | Potential_Guest4936 | 69 |
-| [Monthly 'Shameless Self Promotion' thread - 2023/03](https://www.reddit.com/r/devops/comments/11fbfqf/monthly_shameless_self_promotion_thread_202303/) | mthode | 7 |
-| [Are TF modules just for re-use or splitting things up or both?](https://www.reddit.com/r/devops/comments/11f50uy/are_tf_modules_just_for_reuse_or_splitting_things/) | badsimian | 6 |
-| [What other (DevOps) communities are you active in?](https://www.reddit.com/r/devops/comments/11f2612/what_other_devops_communities_are_you_active_in/) | AemonQE | 2 |
-| [What is the general or best way to do deploy application to staging and to production](https://www.reddit.com/r/devops/comments/11fwufz/what_is_the_general_or_best_way_to_do_deploy/) | defact0o | 2 |
-| [What are the top challenges Devops teams face when it comes to containerization of apps?](https://www.reddit.com/r/devops/comments/11f4s63/what_are_the_top_challenges_devops_teams_face/) | Neither_Interest8285 | 1 |
-| [Ultrawide vs dual monitor](https://www.reddit.com/r/devops/comments/11fhza8/ultrawide_vs_dual_monitor/) | adam_daniel29 | 1 |
-| [Trunk based development deployment strategies](https://www.reddit.com/r/devops/comments/11f76zz/trunk_based_development_deployment_strategies/) | ThankfulRobber | 1 |
-| [Trouble with Host based routing in ecs fargate.](https://www.reddit.com/r/devops/comments/11fccs2/trouble_with_host_based_routing_in_ecs_fargate/) | PineappleInformal106 | 1 |
-| [Longhorn/Harvester not seeing HDDs](https://www.reddit.com/r/devops/comments/11f6wt9/longhornharvester_not_seeing_hdds/) | pebcakerror | 1 |
+| [Is GitLab Premium worth it at its new price?](https://www.reddit.com/r/devops/comments/11gadwc/is_gitlab_premium_worth_it_at_its_new_price/) | 1cewolf | 123 |
+| [DevOps challenges - what do you think? can you contribute ?](https://www.reddit.com/r/devops/comments/11glzlq/devops_challenges_what_do_you_think_can_you/) | FernandoJaimes | 11 |
+| [How to exempt github actions bot from the rules of the protected brances](https://www.reddit.com/r/devops/comments/11gdhxx/how_to_exempt_github_actions_bot_from_the_rules/) | Acrobatic-Ad-6556 | 10 |
+| [Report on aws cost and usages](https://www.reddit.com/r/devops/comments/11g1z2d/report_on_aws_cost_and_usages/) | eyesniper12 | 8 |
+| [S3 bucket lifecycle policy](https://www.reddit.com/r/devops/comments/11g7ffl/s3_bucket_lifecycle_policy/) | anacondaonline | 4 |
+| [Jira - Azure DevOps automation](https://www.reddit.com/r/devops/comments/11gsuf9/jira_azure_devops_automation/) | savornicesei | 3 |
+| [Atlantis on GCP multiple service accounts](https://www.reddit.com/r/devops/comments/11g39h3/atlantis_on_gcp_multiple_service_accounts/) | salvaged_goods | 3 |
+| [figuring out the right ci/cd pipeline](https://www.reddit.com/r/devops/comments/11gxp02/figuring_out_the_right_cicd_pipeline/) | -abracadabra-- | 1 |
+| [What is the best open-source CI/CD platform?](https://www.reddit.com/r/devops/comments/11gez33/what_is_the_best_opensource_cicd_platform/) | pred135 | 1 |
+| [KodeKloud or ACloudGuru](https://www.reddit.com/r/devops/comments/11gbhtj/kodekloud_or_acloudguru/) | davegurney2 | 1 |
