@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is GitLab Premium worth it at its new price?](https://www.reddit.com/r/devops/comments/11gadwc/is_gitlab_premium_worth_it_at_its_new_price/) | 1cewolf | 123 |
-| [DevOps challenges - what do you think? can you contribute ?](https://www.reddit.com/r/devops/comments/11glzlq/devops_challenges_what_do_you_think_can_you/) | FernandoJaimes | 11 |
-| [How to exempt github actions bot from the rules of the protected brances](https://www.reddit.com/r/devops/comments/11gdhxx/how_to_exempt_github_actions_bot_from_the_rules/) | Acrobatic-Ad-6556 | 10 |
-| [Report on aws cost and usages](https://www.reddit.com/r/devops/comments/11g1z2d/report_on_aws_cost_and_usages/) | eyesniper12 | 8 |
-| [S3 bucket lifecycle policy](https://www.reddit.com/r/devops/comments/11g7ffl/s3_bucket_lifecycle_policy/) | anacondaonline | 4 |
-| [Jira - Azure DevOps automation](https://www.reddit.com/r/devops/comments/11gsuf9/jira_azure_devops_automation/) | savornicesei | 3 |
-| [Atlantis on GCP multiple service accounts](https://www.reddit.com/r/devops/comments/11g39h3/atlantis_on_gcp_multiple_service_accounts/) | salvaged_goods | 3 |
-| [figuring out the right ci/cd pipeline](https://www.reddit.com/r/devops/comments/11gxp02/figuring_out_the_right_cicd_pipeline/) | -abracadabra-- | 1 |
-| [What is the best open-source CI/CD platform?](https://www.reddit.com/r/devops/comments/11gez33/what_is_the_best_opensource_cicd_platform/) | pred135 | 1 |
-| [KodeKloud or ACloudGuru](https://www.reddit.com/r/devops/comments/11gbhtj/kodekloud_or_acloudguru/) | davegurney2 | 1 |
+| [Linode raising their prices by 20%, any good alternative?](https://www.reddit.com/r/devops/comments/11hc8za/linode_raising_their_prices_by_20_any_good/) | Akronae | 98 |
+| [How to learn system performance as a beginner?](https://www.reddit.com/r/devops/comments/11h343b/how_to_learn_system_performance_as_a_beginner/) | IamOkei | 50 |
+| [SonarQube is complete dog sh*t.](https://www.reddit.com/r/devops/comments/11hjzze/sonarqube_is_complete_dog_sht/) | Idea_Plastic | 47 |
+| [SMS pumping attack](https://www.reddit.com/r/devops/comments/11h07d6/sms_pumping_attack/) | Legitimate-Carry7285 | 18 |
+| [People with Linux work laptops: How does it work at your company?](https://www.reddit.com/r/devops/comments/11hpgij/people_with_linux_work_laptops_how_does_it_work/) | kittydoor | 14 |
+| [Im going crazy managing multiple services without docker. Could use some wisdom from others.](https://www.reddit.com/r/devops/comments/11hi1ij/im_going_crazy_managing_multiple_services_without/) | 9302462 | 6 |
+| [What's the nicest on-call scheduling and paging SaaS these days?](https://www.reddit.com/r/devops/comments/11h2hi5/whats_the_nicest_oncall_scheduling_and_paging/) | jayceedenton | 3 |
+| [How does this optimize the package managers?](https://www.reddit.com/r/devops/comments/11hojt0/how_does_this_optimize_the_package_managers/) | mobiletiplord | 2 |
+| [Career Advice - focus on Leetcode or try to get my CKA](https://www.reddit.com/r/devops/comments/11hb96x/career_advice_focus_on_leetcode_or_try_to_get_my/) | Cheap_Ranger_2665 | 2 |
+| [Any tool out there with dynamic parameters except Jenkins?](https://www.reddit.com/r/devops/comments/11hl5y8/any_tool_out_there_with_dynamic_parameters_except/) | Jatalocks2 | 2 |
