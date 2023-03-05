@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Linode raising their prices by 20%, any good alternative?](https://www.reddit.com/r/devops/comments/11hc8za/linode_raising_their_prices_by_20_any_good/) | Akronae | 98 |
-| [How to learn system performance as a beginner?](https://www.reddit.com/r/devops/comments/11h343b/how_to_learn_system_performance_as_a_beginner/) | IamOkei | 50 |
-| [SonarQube is complete dog sh*t.](https://www.reddit.com/r/devops/comments/11hjzze/sonarqube_is_complete_dog_sht/) | Idea_Plastic | 47 |
-| [SMS pumping attack](https://www.reddit.com/r/devops/comments/11h07d6/sms_pumping_attack/) | Legitimate-Carry7285 | 18 |
-| [People with Linux work laptops: How does it work at your company?](https://www.reddit.com/r/devops/comments/11hpgij/people_with_linux_work_laptops_how_does_it_work/) | kittydoor | 14 |
-| [Im going crazy managing multiple services without docker. Could use some wisdom from others.](https://www.reddit.com/r/devops/comments/11hi1ij/im_going_crazy_managing_multiple_services_without/) | 9302462 | 6 |
-| [What's the nicest on-call scheduling and paging SaaS these days?](https://www.reddit.com/r/devops/comments/11h2hi5/whats_the_nicest_oncall_scheduling_and_paging/) | jayceedenton | 3 |
-| [How does this optimize the package managers?](https://www.reddit.com/r/devops/comments/11hojt0/how_does_this_optimize_the_package_managers/) | mobiletiplord | 2 |
-| [Career Advice - focus on Leetcode or try to get my CKA](https://www.reddit.com/r/devops/comments/11hb96x/career_advice_focus_on_leetcode_or_try_to_get_my/) | Cheap_Ranger_2665 | 2 |
-| [Any tool out there with dynamic parameters except Jenkins?](https://www.reddit.com/r/devops/comments/11hl5y8/any_tool_out_there_with_dynamic_parameters_except/) | Jatalocks2 | 2 |
+| [(Little rant) People wanting to get into DevOps or just starting: Fix your mindsets](https://www.reddit.com/r/devops/comments/11hypln/little_rant_people_wanting_to_get_into_devops_or/) | pachirulis | 244 |
+| [Screwed up at work. (Deleted demo env)](https://www.reddit.com/r/devops/comments/11i962o/screwed_up_at_work_deleted_demo_env/) | Mike551144 | 80 |
+| [Linux foundation cloud engineer boot camp](https://www.reddit.com/r/devops/comments/11ibr2x/linux_foundation_cloud_engineer_boot_camp/) | npor | 2 |
+| [CICD pipelines written in Typescript](https://www.reddit.com/r/devops/comments/11ivfnu/cicd_pipelines_written_in_typescript/) | poulain_ght | 2 |
+| [Should I use containers ( Docker / Podman ) for my app ?](https://www.reddit.com/r/devops/comments/11itblv/should_i_use_containers_docker_podman_for_my_app/) | purezen | 1 |
+| [Consolidating cloud providers monitoring with general monitoring](https://www.reddit.com/r/devops/comments/11iaawb/consolidating_cloud_providers_monitoring_with/) | Easy-Dragonfruit6606 | 1 |
+| [Advice / Guidance](https://www.reddit.com/r/devops/comments/11iqxzp/advice_guidance/) | iliathomson1 | 0 |
