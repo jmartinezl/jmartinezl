@@ -44,10 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [(Little rant) People wanting to get into DevOps or just starting: Fix your mindsets](https://www.reddit.com/r/devops/comments/11hypln/little_rant_people_wanting_to_get_into_devops_or/) | pachirulis | 244 |
-| [Screwed up at work. (Deleted demo env)](https://www.reddit.com/r/devops/comments/11i962o/screwed_up_at_work_deleted_demo_env/) | Mike551144 | 80 |
-| [Linux foundation cloud engineer boot camp](https://www.reddit.com/r/devops/comments/11ibr2x/linux_foundation_cloud_engineer_boot_camp/) | npor | 2 |
-| [CICD pipelines written in Typescript](https://www.reddit.com/r/devops/comments/11ivfnu/cicd_pipelines_written_in_typescript/) | poulain_ght | 2 |
-| [Should I use containers ( Docker / Podman ) for my app ?](https://www.reddit.com/r/devops/comments/11itblv/should_i_use_containers_docker_podman_for_my_app/) | purezen | 1 |
-| [Consolidating cloud providers monitoring with general monitoring](https://www.reddit.com/r/devops/comments/11iaawb/consolidating_cloud_providers_monitoring_with/) | Easy-Dragonfruit6606 | 1 |
-| [Advice / Guidance](https://www.reddit.com/r/devops/comments/11iqxzp/advice_guidance/) | iliathomson1 | 0 |
+| [Crazy coworker manages entire development environment in single docker container](https://www.reddit.com/r/devops/comments/11jd4ci/crazy_coworker_manages_entire_development/) | _classname__spam | 149 |
+| [What is the impact of not having Docker in your local development environment?](https://www.reddit.com/r/devops/comments/11iwlej/what_is_the_impact_of_not_having_docker_in_your/) | CoolZillionaire | 75 |
+| [Damn I just passed Cisco Certified DevNet Specialist - DevOps specialisation!!!](https://www.reddit.com/r/devops/comments/11jln8y/damn_i_just_passed_cisco_certified_devnet/) | TahaTheNetAutmator | 29 |
+| [Networking for DevOps Roadmap](https://www.reddit.com/r/devops/comments/11jbtbc/networking_for_devops_roadmap/) | izner82 | 13 |
+| [Distribute private helm charts to customers for on prem install](https://www.reddit.com/r/devops/comments/11j3l0n/distribute_private_helm_charts_to_customers_for/) | the_troll_toll89 | 7 |
+| [Is anyone using SPACE instead of DORA?](https://www.reddit.com/r/devops/comments/11jgouz/is_anyone_using_space_instead_of_dora/) | FlorianHoppner | 5 |
+| [Licensing temporary Windows Servers on KVM Hosts](https://www.reddit.com/r/devops/comments/11jle3r/licensing_temporary_windows_servers_on_kvm_hosts/) | elasticweed | 2 |
+| [Building a devops "compiler"](https://www.reddit.com/r/devops/comments/11jflm2/building_a_devops_compiler/) | ajpauwels | 1 |
+| [WFH devs, what does your company provide you to work on?](https://www.reddit.com/r/devops/comments/11jgd0c/wfh_devs_what_does_your_company_provide_you_to/) | fez0101 | 0 |
+| [From Startup to Success: Why Adopting a DevOps Approach Is Essential](https://www.reddit.com/r/devops/comments/11jqtv6/from_startup_to_success_why_adopting_a_devops/) | Multiqos | 0 |
