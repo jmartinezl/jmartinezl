@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Crazy coworker manages entire development environment in single docker container](https://www.reddit.com/r/devops/comments/11jd4ci/crazy_coworker_manages_entire_development/) | _classname__spam | 149 |
-| [What is the impact of not having Docker in your local development environment?](https://www.reddit.com/r/devops/comments/11iwlej/what_is_the_impact_of_not_having_docker_in_your/) | CoolZillionaire | 75 |
-| [Damn I just passed Cisco Certified DevNet Specialist - DevOps specialisation!!!](https://www.reddit.com/r/devops/comments/11jln8y/damn_i_just_passed_cisco_certified_devnet/) | TahaTheNetAutmator | 29 |
-| [Networking for DevOps Roadmap](https://www.reddit.com/r/devops/comments/11jbtbc/networking_for_devops_roadmap/) | izner82 | 13 |
-| [Distribute private helm charts to customers for on prem install](https://www.reddit.com/r/devops/comments/11j3l0n/distribute_private_helm_charts_to_customers_for/) | the_troll_toll89 | 7 |
-| [Is anyone using SPACE instead of DORA?](https://www.reddit.com/r/devops/comments/11jgouz/is_anyone_using_space_instead_of_dora/) | FlorianHoppner | 5 |
-| [Licensing temporary Windows Servers on KVM Hosts](https://www.reddit.com/r/devops/comments/11jle3r/licensing_temporary_windows_servers_on_kvm_hosts/) | elasticweed | 2 |
-| [Building a devops "compiler"](https://www.reddit.com/r/devops/comments/11jflm2/building_a_devops_compiler/) | ajpauwels | 1 |
-| [WFH devs, what does your company provide you to work on?](https://www.reddit.com/r/devops/comments/11jgd0c/wfh_devs_what_does_your_company_provide_you_to/) | fez0101 | 0 |
-| [From Startup to Success: Why Adopting a DevOps Approach Is Essential](https://www.reddit.com/r/devops/comments/11jqtv6/from_startup_to_success_why_adopting_a_devops/) | Multiqos | 0 |
+| [Legality of employer not paying for oncall?](https://www.reddit.com/r/devops/comments/11k4a5r/legality_of_employer_not_paying_for_oncall/) | IdesOfMarchCometh | 103 |
+| [Describe your thoughts on Agile in five words or less.](https://www.reddit.com/r/devops/comments/11kj08e/describe_your_thoughts_on_agile_in_five_words_or/) | mrcrassic | 20 |
+| [Should CI/CD tooling build &amp; deploy its own configuration and infrastructure?](https://www.reddit.com/r/devops/comments/11k6nip/should_cicd_tooling_build_deploy_its_own/) | Ok-Photo-7835 | 17 |
+| [Weird git branch rule](https://www.reddit.com/r/devops/comments/11k1d65/weird_git_branch_rule/) | No_Butterfly_1888 | 11 |
+| [Maven for devops engineer in jenkins pipeline](https://www.reddit.com/r/devops/comments/11knoo9/maven_for_devops_engineer_in_jenkins_pipeline/) | victor_yanukovich | 7 |
+| [Argo CD vs GoCD](https://www.reddit.com/r/devops/comments/11kwj0l/argo_cd_vs_gocd/) | czerniga_it | 5 |
+| [This thread didn't get many replies and we're in a similar position.](https://www.reddit.com/r/devops/comments/11kvq2i/this_thread_didnt_get_many_replies_and_were_in_a/) | UpdomeAhom76 | 3 |
+| [Looking for feedback on first DevOps Strategy](https://www.reddit.com/r/devops/comments/11kdge1/looking_for_feedback_on_first_devops_strategy/) | d0rf47 | 3 |
+| [Collecting metrics for cron jobs on a per-execution basis with Prometheus?](https://www.reddit.com/r/devops/comments/11ktfcw/collecting_metrics_for_cron_jobs_on_a/) | roadbiking19 | 3 |
+| [CI/CD pipeline using Docker Containers into Heroku - what's actually being deployed?](https://www.reddit.com/r/devops/comments/11ku15p/cicd_pipeline_using_docker_containers_into_heroku/) | hitman_cat | 3 |
