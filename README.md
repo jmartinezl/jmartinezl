@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Legality of employer not paying for oncall?](https://www.reddit.com/r/devops/comments/11k4a5r/legality_of_employer_not_paying_for_oncall/) | IdesOfMarchCometh | 103 |
-| [Describe your thoughts on Agile in five words or less.](https://www.reddit.com/r/devops/comments/11kj08e/describe_your_thoughts_on_agile_in_five_words_or/) | mrcrassic | 20 |
-| [Should CI/CD tooling build &amp; deploy its own configuration and infrastructure?](https://www.reddit.com/r/devops/comments/11k6nip/should_cicd_tooling_build_deploy_its_own/) | Ok-Photo-7835 | 17 |
-| [Weird git branch rule](https://www.reddit.com/r/devops/comments/11k1d65/weird_git_branch_rule/) | No_Butterfly_1888 | 11 |
-| [Maven for devops engineer in jenkins pipeline](https://www.reddit.com/r/devops/comments/11knoo9/maven_for_devops_engineer_in_jenkins_pipeline/) | victor_yanukovich | 7 |
-| [Argo CD vs GoCD](https://www.reddit.com/r/devops/comments/11kwj0l/argo_cd_vs_gocd/) | czerniga_it | 5 |
-| [This thread didn't get many replies and we're in a similar position.](https://www.reddit.com/r/devops/comments/11kvq2i/this_thread_didnt_get_many_replies_and_were_in_a/) | UpdomeAhom76 | 3 |
-| [Looking for feedback on first DevOps Strategy](https://www.reddit.com/r/devops/comments/11kdge1/looking_for_feedback_on_first_devops_strategy/) | d0rf47 | 3 |
-| [Collecting metrics for cron jobs on a per-execution basis with Prometheus?](https://www.reddit.com/r/devops/comments/11ktfcw/collecting_metrics_for_cron_jobs_on_a/) | roadbiking19 | 3 |
-| [CI/CD pipeline using Docker Containers into Heroku - what's actually being deployed?](https://www.reddit.com/r/devops/comments/11ku15p/cicd_pipeline_using_docker_containers_into_heroku/) | hitman_cat | 3 |
+| [How do you keep track of your "Update debt" ?](https://www.reddit.com/r/devops/comments/11l4246/how_do_you_keep_track_of_your_update_debt/) | Asfalots | 47 |
+| [How to quickly learn/understand the system architecture of any given application?](https://www.reddit.com/r/devops/comments/11l8wfa/how_to_quickly_learnunderstand_the_system/) | bashogaya | 32 |
+| [Best Enterprise engineering blogs](https://www.reddit.com/r/devops/comments/11l9ag1/best_enterprise_engineering_blogs/) | libert-y | 21 |
+| [Do you manage runbooks for operations and incident management?](https://www.reddit.com/r/devops/comments/11lg6r3/do_you_manage_runbooks_for_operations_and/) | ssowonny | 11 |
+| [RabbitMq consumer not processing messages](https://www.reddit.com/r/devops/comments/11lo4fg/rabbitmq_consumer_not_processing_messages/) | ncubez | 4 |
+| [Strange Sonarcloud error message ?](https://www.reddit.com/r/devops/comments/11l9wu0/strange_sonarcloud_error_message/) | Peacekeeper2654 | 2 |
+| [Cannot get an Azure file share to mount in container instances](https://www.reddit.com/r/devops/comments/11l2yq4/cannot_get_an_azure_file_share_to_mount_in/) | mikmeh | 2 |
+| [Can one domain have two server locations?](https://www.reddit.com/r/devops/comments/11l9uvg/can_one_domain_have_two_server_locations/) | FoeTrades | 2 |
+| [Specific routing not working, see my config](https://www.reddit.com/r/devops/comments/11lteqv/specific_routing_not_working_see_my_config/) | techcury | 1 |
+| [Proof-of-Concept: Pass environment variables as docker secrets during runtime in your container with Docker Compose v2](https://www.reddit.com/r/devops/comments/11lc061/proofofconcept_pass_environment_variables_as/) | dugindeep | 1 |
