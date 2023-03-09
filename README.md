@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you keep track of your "Update debt" ?](https://www.reddit.com/r/devops/comments/11l4246/how_do_you_keep_track_of_your_update_debt/) | Asfalots | 47 |
-| [How to quickly learn/understand the system architecture of any given application?](https://www.reddit.com/r/devops/comments/11l8wfa/how_to_quickly_learnunderstand_the_system/) | bashogaya | 32 |
-| [Best Enterprise engineering blogs](https://www.reddit.com/r/devops/comments/11l9ag1/best_enterprise_engineering_blogs/) | libert-y | 21 |
-| [Do you manage runbooks for operations and incident management?](https://www.reddit.com/r/devops/comments/11lg6r3/do_you_manage_runbooks_for_operations_and/) | ssowonny | 11 |
-| [RabbitMq consumer not processing messages](https://www.reddit.com/r/devops/comments/11lo4fg/rabbitmq_consumer_not_processing_messages/) | ncubez | 4 |
-| [Strange Sonarcloud error message ?](https://www.reddit.com/r/devops/comments/11l9wu0/strange_sonarcloud_error_message/) | Peacekeeper2654 | 2 |
-| [Cannot get an Azure file share to mount in container instances](https://www.reddit.com/r/devops/comments/11l2yq4/cannot_get_an_azure_file_share_to_mount_in/) | mikmeh | 2 |
-| [Can one domain have two server locations?](https://www.reddit.com/r/devops/comments/11l9uvg/can_one_domain_have_two_server_locations/) | FoeTrades | 2 |
-| [Specific routing not working, see my config](https://www.reddit.com/r/devops/comments/11lteqv/specific_routing_not_working_see_my_config/) | techcury | 1 |
-| [Proof-of-Concept: Pass environment variables as docker secrets during runtime in your container with Docker Compose v2](https://www.reddit.com/r/devops/comments/11lc061/proofofconcept_pass_environment_variables_as/) | dugindeep | 1 |
+| [PSA datadog outage](https://www.reddit.com/r/devops/comments/11luq9r/psa_datadog_outage/) | inferno521 | 153 |
+| [What was the most devastating CLI command you've ever run?](https://www.reddit.com/r/devops/comments/11m3guf/what_was_the_most_devastating_cli_command_youve/) | CS-0010 | 135 |
+| [What do you use for 'personal' task management at work and how do you manage priorities?](https://www.reddit.com/r/devops/comments/11m2oo4/what_do_you_use_for_personal_task_management_at/) | AemonQE | 18 |
+| [Any tool you use to track all your tools/library/platform/framework/language release version?](https://www.reddit.com/r/devops/comments/11me618/any_tool_you_use_to_track_all_your/) | ding115 | 9 |
+| [CICD dashboard?](https://www.reddit.com/r/devops/comments/11lz9p0/cicd_dashboard/) | SeesawMundane5422 | 8 |
+| [trying to understand d365 from devops perspective](https://www.reddit.com/r/devops/comments/11m1fkw/trying_to_understand_d365_from_devops_perspective/) | Tenkitsune | 4 |
+| [Sending build jobs to a backend service?](https://www.reddit.com/r/devops/comments/11mhhm6/sending_build_jobs_to_a_backend_service/) | DinnerMilk | 3 |
+| [How and when to use Helm and Kustomize together](https://www.reddit.com/r/devops/comments/11m0dgw/how_and_when_to_use_helm_and_kustomize_together/) | chillysurfer | 2 |
+| [Utility to observe github pipelines](https://www.reddit.com/r/devops/comments/11mjvfh/utility_to_observe_github_pipelines/) | Aztreix | 1 |
+| [Solution Inventory for processes we develop](https://www.reddit.com/r/devops/comments/11lx0v0/solution_inventory_for_processes_we_develop/) | hypodeus | 1 |
