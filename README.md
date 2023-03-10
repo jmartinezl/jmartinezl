@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [PSA datadog outage](https://www.reddit.com/r/devops/comments/11luq9r/psa_datadog_outage/) | inferno521 | 153 |
-| [What was the most devastating CLI command you've ever run?](https://www.reddit.com/r/devops/comments/11m3guf/what_was_the_most_devastating_cli_command_youve/) | CS-0010 | 135 |
-| [What do you use for 'personal' task management at work and how do you manage priorities?](https://www.reddit.com/r/devops/comments/11m2oo4/what_do_you_use_for_personal_task_management_at/) | AemonQE | 18 |
-| [Any tool you use to track all your tools/library/platform/framework/language release version?](https://www.reddit.com/r/devops/comments/11me618/any_tool_you_use_to_track_all_your/) | ding115 | 9 |
-| [CICD dashboard?](https://www.reddit.com/r/devops/comments/11lz9p0/cicd_dashboard/) | SeesawMundane5422 | 8 |
-| [trying to understand d365 from devops perspective](https://www.reddit.com/r/devops/comments/11m1fkw/trying_to_understand_d365_from_devops_perspective/) | Tenkitsune | 4 |
-| [Sending build jobs to a backend service?](https://www.reddit.com/r/devops/comments/11mhhm6/sending_build_jobs_to_a_backend_service/) | DinnerMilk | 3 |
-| [How and when to use Helm and Kustomize together](https://www.reddit.com/r/devops/comments/11m0dgw/how_and_when_to_use_helm_and_kustomize_together/) | chillysurfer | 2 |
-| [Utility to observe github pipelines](https://www.reddit.com/r/devops/comments/11mjvfh/utility_to_observe_github_pipelines/) | Aztreix | 1 |
-| [Solution Inventory for processes we develop](https://www.reddit.com/r/devops/comments/11lx0v0/solution_inventory_for_processes_we_develop/) | hypodeus | 1 |
+| [A 0.6 release of UI for Apache Kafka w/ cluster configuration wizard &amp; ODD Platform integration is out!](https://www.reddit.com/r/devops/comments/11mxpbj/a_06_release_of_ui_for_apache_kafka_w_cluster/) | Haarolean | 51 |
+| [How the hell do you reference an artifact to download from another pipeline in Github Actions?](https://www.reddit.com/r/devops/comments/11mv3o9/how_the_hell_do_you_reference_an_artifact_to/) | Bill_Smoke | 49 |
+| [Is HashiCorp Certified: Terraform Associate (002) Worth It?](https://www.reddit.com/r/devops/comments/11n2k0z/is_hashicorp_certified_terraform_associate_002/) | alienboy19 | 20 |
+| [Proxy Basic Auth Replacement Best Practice for Cloud Native / OIDC / Vault](https://www.reddit.com/r/devops/comments/11nas9j/proxy_basic_auth_replacement_best_practice_for/) | divide777 | 13 |
+| [when companies provide you with a laptop as an employee and it comes with pre installed software, how does that software get installed?](https://www.reddit.com/r/devops/comments/11n7zdb/when_companies_provide_you_with_a_laptop_as_an/) | SimonFOOTBALL | 6 |
+| [Who uses Signoz in production](https://www.reddit.com/r/devops/comments/11n272q/who_uses_signoz_in_production/) | adelowo | 6 |
+| [whats your development process for github actions and how are you testing them?](https://www.reddit.com/r/devops/comments/11n4cn1/whats_your_development_process_for_github_actions/) | thegainsfairy | 5 |
+| [How to people organize their Repos?](https://www.reddit.com/r/devops/comments/11mvqxv/how_to_people_organize_their_repos/) | alloowishus | 3 |
+| [I'm looking for a good vulnerability management tool, big bonus if it can integrate into the deployment pipeline](https://www.reddit.com/r/devops/comments/11nl6jf/im_looking_for_a_good_vulnerability_management/) | Spiritual-Cicada-794 | 2 |
+| [Any way to automate CVS version control?](https://www.reddit.com/r/devops/comments/11n2nhy/any_way_to_automate_cvs_version_control/) | Real_Voice_7166 | 2 |
