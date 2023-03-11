@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [A 0.6 release of UI for Apache Kafka w/ cluster configuration wizard &amp; ODD Platform integration is out!](https://www.reddit.com/r/devops/comments/11mxpbj/a_06_release_of_ui_for_apache_kafka_w_cluster/) | Haarolean | 51 |
-| [How the hell do you reference an artifact to download from another pipeline in Github Actions?](https://www.reddit.com/r/devops/comments/11mv3o9/how_the_hell_do_you_reference_an_artifact_to/) | Bill_Smoke | 49 |
-| [Is HashiCorp Certified: Terraform Associate (002) Worth It?](https://www.reddit.com/r/devops/comments/11n2k0z/is_hashicorp_certified_terraform_associate_002/) | alienboy19 | 20 |
-| [Proxy Basic Auth Replacement Best Practice for Cloud Native / OIDC / Vault](https://www.reddit.com/r/devops/comments/11nas9j/proxy_basic_auth_replacement_best_practice_for/) | divide777 | 13 |
-| [when companies provide you with a laptop as an employee and it comes with pre installed software, how does that software get installed?](https://www.reddit.com/r/devops/comments/11n7zdb/when_companies_provide_you_with_a_laptop_as_an/) | SimonFOOTBALL | 6 |
-| [Who uses Signoz in production](https://www.reddit.com/r/devops/comments/11n272q/who_uses_signoz_in_production/) | adelowo | 6 |
-| [whats your development process for github actions and how are you testing them?](https://www.reddit.com/r/devops/comments/11n4cn1/whats_your_development_process_for_github_actions/) | thegainsfairy | 5 |
-| [How to people organize their Repos?](https://www.reddit.com/r/devops/comments/11mvqxv/how_to_people_organize_their_repos/) | alloowishus | 3 |
-| [I'm looking for a good vulnerability management tool, big bonus if it can integrate into the deployment pipeline](https://www.reddit.com/r/devops/comments/11nl6jf/im_looking_for_a_good_vulnerability_management/) | Spiritual-Cicada-794 | 2 |
-| [Any way to automate CVS version control?](https://www.reddit.com/r/devops/comments/11n2nhy/any_way_to_automate_cvs_version_control/) | Real_Voice_7166 | 2 |
+| [Feeling pretty down/demoralized. Any suggestions on easy wins for my team?](https://www.reddit.com/r/devops/comments/11nttd2/feeling_pretty_downdemoralized_any_suggestions_on/) | robustquorum09 | 121 |
+| [Feeling burnt out](https://www.reddit.com/r/devops/comments/11o18cn/feeling_burnt_out/) | AChickenWithPHD | 89 |
+| [Is Push based GirOps dying, or it's just me?](https://www.reddit.com/r/devops/comments/11noszn/is_push_based_girops_dying_or_its_just_me/) | allanger | 59 |
+| [How Do We Save about ~$10,000 a Year Using Self-Hosted GitLab](https://www.reddit.com/r/devops/comments/11nr4gv/how_do_we_save_about_10000_a_year_using/) | darikanur | 42 |
+| [Opinions on Hashicorp Nomad?](https://www.reddit.com/r/devops/comments/11nsxo3/opinions_on_hashicorp_nomad/) | k2718 | 20 |
+| [Running Jenkins as Docker, but cannot execute docker commands from inside](https://www.reddit.com/r/devops/comments/11oeej1/running_jenkins_as_docker_but_cannot_execute/) | -ajitesh- | 4 |
+| [How are you handling Terraform &amp; Dev accounts?](https://www.reddit.com/r/devops/comments/11o0gos/how_are_you_handling_terraform_dev_accounts/) | benaffleks | 4 |
+| [Weird override experience on Pagerduty (compared with Opsgenie)](https://www.reddit.com/r/devops/comments/11nsqfd/weird_override_experience_on_pagerduty_compared/) | vikrantverma | 2 |
+| [SigNoz the open-source DataDog alternative](https://www.reddit.com/r/devops/comments/11oh5j7/signoz_the_opensource_datadog_alternative/) | MariusKimmina | 2 |
+| [Scaling java deployment on Kubernetes based on heap memory utilization?](https://www.reddit.com/r/devops/comments/11o3t0x/scaling_java_deployment_on_kubernetes_based_on/) | edmguru | 2 |
