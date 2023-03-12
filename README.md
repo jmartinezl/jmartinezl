@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Feeling pretty down/demoralized. Any suggestions on easy wins for my team?](https://www.reddit.com/r/devops/comments/11nttd2/feeling_pretty_downdemoralized_any_suggestions_on/) | robustquorum09 | 121 |
-| [Feeling burnt out](https://www.reddit.com/r/devops/comments/11o18cn/feeling_burnt_out/) | AChickenWithPHD | 89 |
-| [Is Push based GirOps dying, or it's just me?](https://www.reddit.com/r/devops/comments/11noszn/is_push_based_girops_dying_or_its_just_me/) | allanger | 59 |
-| [How Do We Save about ~$10,000 a Year Using Self-Hosted GitLab](https://www.reddit.com/r/devops/comments/11nr4gv/how_do_we_save_about_10000_a_year_using/) | darikanur | 42 |
-| [Opinions on Hashicorp Nomad?](https://www.reddit.com/r/devops/comments/11nsxo3/opinions_on_hashicorp_nomad/) | k2718 | 20 |
-| [Running Jenkins as Docker, but cannot execute docker commands from inside](https://www.reddit.com/r/devops/comments/11oeej1/running_jenkins_as_docker_but_cannot_execute/) | -ajitesh- | 4 |
-| [How are you handling Terraform &amp; Dev accounts?](https://www.reddit.com/r/devops/comments/11o0gos/how_are_you_handling_terraform_dev_accounts/) | benaffleks | 4 |
-| [Weird override experience on Pagerduty (compared with Opsgenie)](https://www.reddit.com/r/devops/comments/11nsqfd/weird_override_experience_on_pagerduty_compared/) | vikrantverma | 2 |
-| [SigNoz the open-source DataDog alternative](https://www.reddit.com/r/devops/comments/11oh5j7/signoz_the_opensource_datadog_alternative/) | MariusKimmina | 2 |
-| [Scaling java deployment on Kubernetes based on heap memory utilization?](https://www.reddit.com/r/devops/comments/11o3t0x/scaling_java_deployment_on_kubernetes_based_on/) | edmguru | 2 |
+| [Starting on-call rotations in a company that doesn’t have them](https://www.reddit.com/r/devops/comments/11oqf0g/starting_oncall_rotations_in_a_company_that/) | Pyroechidna1 | 83 |
+| [What would you focus on?](https://www.reddit.com/r/devops/comments/11omqyx/what_would_you_focus_on/) | Strictlybiznas | 20 |
+| [SVB Exposure](https://www.reddit.com/r/devops/comments/11oy9ue/svb_exposure/) | LuckyChopsSOS | 20 |
+| [Github Actions in monorepos](https://www.reddit.com/r/devops/comments/11p1fp4/github_actions_in_monorepos/) | rawnly | 7 |
+| [Is Roadmap.sh's Devops Roadmap good for beginners?](https://www.reddit.com/r/devops/comments/11oj8ka/is_roadmapshs_devops_roadmap_good_for_beginners/) | G0FuckThyself | 5 |
+| [In Github Actions, when you download an Artifact, do you need to reference it's path to use it in a Deployment?](https://www.reddit.com/r/devops/comments/11oiv98/in_github_actions_when_you_download_an_artifact/) | Bill_Smoke | 3 |
+| [Seeking Help With a Career Change](https://www.reddit.com/r/devops/comments/11oqg1f/seeking_help_with_a_career_change/) | Loose_Read_9400 | 1 |
+| [Helm: Is it possible to merge base values.yaml's with stage specific values.yaml's](https://www.reddit.com/r/devops/comments/11otrnc/helm_is_it_possible_to_merge_base_valuesyamls/) | Ragemoody | 1 |
+| [what is your ideal branching strategy?](https://www.reddit.com/r/devops/comments/11oroqf/what_is_your_ideal_branching_strategy/) | toobrokeforboba | 0 |
+| [Questions about Kubernetes and Terraform](https://www.reddit.com/r/devops/comments/11p9mns/questions_about_kubernetes_and_terraform/) | lynob | 0 |
