@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Starting on-call rotations in a company that doesn’t have them](https://www.reddit.com/r/devops/comments/11oqf0g/starting_oncall_rotations_in_a_company_that/) | Pyroechidna1 | 83 |
-| [What would you focus on?](https://www.reddit.com/r/devops/comments/11omqyx/what_would_you_focus_on/) | Strictlybiznas | 20 |
-| [SVB Exposure](https://www.reddit.com/r/devops/comments/11oy9ue/svb_exposure/) | LuckyChopsSOS | 20 |
-| [Github Actions in monorepos](https://www.reddit.com/r/devops/comments/11p1fp4/github_actions_in_monorepos/) | rawnly | 7 |
-| [Is Roadmap.sh's Devops Roadmap good for beginners?](https://www.reddit.com/r/devops/comments/11oj8ka/is_roadmapshs_devops_roadmap_good_for_beginners/) | G0FuckThyself | 5 |
-| [In Github Actions, when you download an Artifact, do you need to reference it's path to use it in a Deployment?](https://www.reddit.com/r/devops/comments/11oiv98/in_github_actions_when_you_download_an_artifact/) | Bill_Smoke | 3 |
-| [Seeking Help With a Career Change](https://www.reddit.com/r/devops/comments/11oqg1f/seeking_help_with_a_career_change/) | Loose_Read_9400 | 1 |
-| [Helm: Is it possible to merge base values.yaml's with stage specific values.yaml's](https://www.reddit.com/r/devops/comments/11otrnc/helm_is_it_possible_to_merge_base_valuesyamls/) | Ragemoody | 1 |
-| [what is your ideal branching strategy?](https://www.reddit.com/r/devops/comments/11oroqf/what_is_your_ideal_branching_strategy/) | toobrokeforboba | 0 |
-| [Questions about Kubernetes and Terraform](https://www.reddit.com/r/devops/comments/11p9mns/questions_about_kubernetes_and_terraform/) | lynob | 0 |
+| [How much should a Platform/Cloud/"DevOps" Team be responsible for?](https://www.reddit.com/r/devops/comments/11pev59/how_much_should_a_platformclouddevops_team_be/) | kittydoor | 100 |
+| [Pulled into a meeting… with the customer](https://www.reddit.com/r/devops/comments/11pph5p/pulled_into_a_meeting_with_the_customer/) | AChickenWithPHD | 83 |
+| [How to deal with devs pushing bad code](https://www.reddit.com/r/devops/comments/11ppp66/how_to_deal_with_devs_pushing_bad_code/) | AChickenWithPHD | 60 |
+| [Why is NewRelic so bad?](https://www.reddit.com/r/devops/comments/11prydv/why_is_newrelic_so_bad/) | Financial_Comb_3550 | 37 |
+| [IaC Best Practices with Bicep/Github Actions?](https://www.reddit.com/r/devops/comments/11pqwql/iac_best_practices_with_bicepgithub_actions/) | jba1224a | 10 |
+| [Uploading SQL data to remote server](https://www.reddit.com/r/devops/comments/11pd87d/uploading_sql_data_to_remote_server/) | bonjour37 | 5 |
+| [Git repository tags as a source in terraform module](https://www.reddit.com/r/devops/comments/11pxixu/git_repository_tags_as_a_source_in_terraform/) | victor_yanukovich | 3 |
+| [Worst devops/dataops platform?](https://www.reddit.com/r/devops/comments/11q6c95/worst_devopsdataops_platform/) | user1717483 | 2 |
+| [[Survey] Relation between scrum and devops.](https://www.reddit.com/r/devops/comments/11q7mhz/survey_relation_between_scrum_and_devops/) | cs_xen | 1 |
+| [Working with microservices](https://www.reddit.com/r/devops/comments/11ppf3r/working_with_microservices/) | eyesniper12 | 1 |
