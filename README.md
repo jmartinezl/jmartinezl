@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How much should a Platform/Cloud/"DevOps" Team be responsible for?](https://www.reddit.com/r/devops/comments/11pev59/how_much_should_a_platformclouddevops_team_be/) | kittydoor | 100 |
-| [Pulled into a meeting… with the customer](https://www.reddit.com/r/devops/comments/11pph5p/pulled_into_a_meeting_with_the_customer/) | AChickenWithPHD | 83 |
-| [How to deal with devs pushing bad code](https://www.reddit.com/r/devops/comments/11ppp66/how_to_deal_with_devs_pushing_bad_code/) | AChickenWithPHD | 60 |
-| [Why is NewRelic so bad?](https://www.reddit.com/r/devops/comments/11prydv/why_is_newrelic_so_bad/) | Financial_Comb_3550 | 37 |
-| [IaC Best Practices with Bicep/Github Actions?](https://www.reddit.com/r/devops/comments/11pqwql/iac_best_practices_with_bicepgithub_actions/) | jba1224a | 10 |
-| [Uploading SQL data to remote server](https://www.reddit.com/r/devops/comments/11pd87d/uploading_sql_data_to_remote_server/) | bonjour37 | 5 |
-| [Git repository tags as a source in terraform module](https://www.reddit.com/r/devops/comments/11pxixu/git_repository_tags_as_a_source_in_terraform/) | victor_yanukovich | 3 |
-| [Worst devops/dataops platform?](https://www.reddit.com/r/devops/comments/11q6c95/worst_devopsdataops_platform/) | user1717483 | 2 |
-| [[Survey] Relation between scrum and devops.](https://www.reddit.com/r/devops/comments/11q7mhz/survey_relation_between_scrum_and_devops/) | cs_xen | 1 |
-| [Working with microservices](https://www.reddit.com/r/devops/comments/11ppf3r/working_with_microservices/) | eyesniper12 | 1 |
+| [Update: I unstuck my career](https://www.reddit.com/r/devops/comments/11qfeqg/update_i_unstuck_my_career/) | draetheus | 296 |
+| [Who got a Devops gig w/o production Kubernetes experience?](https://www.reddit.com/r/devops/comments/11qncz8/who_got_a_devops_gig_wo_production_kubernetes/) | PepeTheMule | 23 |
+| [Resume review, in my first SRE position](https://www.reddit.com/r/devops/comments/11q8c4z/resume_review_in_my_first_sre_position/) | squarelol | 21 |
+| [how does prometheus monitor elasticSearch? e.g. if I want to alert on a host publishing a certain event](https://www.reddit.com/r/devops/comments/11qavu6/how_does_prometheus_monitor_elasticsearch_eg_if_i/) | queBurro | 12 |
+| [Prometheus and Grafana](https://www.reddit.com/r/devops/comments/11qn5fg/prometheus_and_grafana/) | blueplutomonk | 5 |
+| [A devops CTF?](https://www.reddit.com/r/devops/comments/11qfq0q/a_devops_ctf/) | punksecurity_simon | 5 |
+| [Most important lessons learned in the trenches](https://www.reddit.com/r/devops/comments/11qtrl8/most_important_lessons_learned_in_the_trenches/) | 0xPvp | 2 |
+| [How we deployed PostHog on Kubernetes](https://www.reddit.com/r/devops/comments/11qka8b/how_we_deployed_posthog_on_kubernetes/) | techdatanerd | 2 |
+| [Which features do you miss the most in the free version of GitLab?](https://www.reddit.com/r/devops/comments/11qjt47/which_features_do_you_miss_the_most_in_the_free/) | OkAssociation8232 | 1 |
+| [Thoughts about Honeycomb?](https://www.reddit.com/r/devops/comments/11qh2t8/thoughts_about_honeycomb/) | beerspice | 1 |
