@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Update: I unstuck my career](https://www.reddit.com/r/devops/comments/11qfeqg/update_i_unstuck_my_career/) | draetheus | 296 |
-| [Who got a Devops gig w/o production Kubernetes experience?](https://www.reddit.com/r/devops/comments/11qncz8/who_got_a_devops_gig_wo_production_kubernetes/) | PepeTheMule | 23 |
-| [Resume review, in my first SRE position](https://www.reddit.com/r/devops/comments/11q8c4z/resume_review_in_my_first_sre_position/) | squarelol | 21 |
-| [how does prometheus monitor elasticSearch? e.g. if I want to alert on a host publishing a certain event](https://www.reddit.com/r/devops/comments/11qavu6/how_does_prometheus_monitor_elasticsearch_eg_if_i/) | queBurro | 12 |
-| [Prometheus and Grafana](https://www.reddit.com/r/devops/comments/11qn5fg/prometheus_and_grafana/) | blueplutomonk | 5 |
-| [A devops CTF?](https://www.reddit.com/r/devops/comments/11qfq0q/a_devops_ctf/) | punksecurity_simon | 5 |
-| [Most important lessons learned in the trenches](https://www.reddit.com/r/devops/comments/11qtrl8/most_important_lessons_learned_in_the_trenches/) | 0xPvp | 2 |
-| [How we deployed PostHog on Kubernetes](https://www.reddit.com/r/devops/comments/11qka8b/how_we_deployed_posthog_on_kubernetes/) | techdatanerd | 2 |
-| [Which features do you miss the most in the free version of GitLab?](https://www.reddit.com/r/devops/comments/11qjt47/which_features_do_you_miss_the_most_in_the_free/) | OkAssociation8232 | 1 |
-| [Thoughts about Honeycomb?](https://www.reddit.com/r/devops/comments/11qh2t8/thoughts_about_honeycomb/) | beerspice | 1 |
+| [How do you protect your secret keys in your local computer?](https://www.reddit.com/r/devops/comments/11rhsef/how_do_you_protect_your_secret_keys_in_your_local/) | libert-y | 72 |
+| [Other than compensation, what do you look for when applying to other jobs?](https://www.reddit.com/r/devops/comments/11r86md/other_than_compensation_what_do_you_look_for_when/) | WavyyBabyYeah | 52 |
+| [Can you do infrastructure as code on non-cloud assets?](https://www.reddit.com/r/devops/comments/11r7ufu/can_you_do_infrastructure_as_code_on_noncloud/) | User6RE001 | 20 |
+| [Kubernetes, microservices and OAuth2.0 client credentials flow](https://www.reddit.com/r/devops/comments/11rahzu/kubernetes_microservices_and_oauth20_client/) | pbn4 | 14 |
+| [Platform engineering state of the industry](https://www.reddit.com/r/devops/comments/11r8bli/platform_engineering_state_of_the_industry/) | fokke2508 | 10 |
+| [Dynatrace DPS Package](https://www.reddit.com/r/devops/comments/11r8p01/dynatrace_dps_package/) | LuckyChopsSOS | 7 |
+| [Sample of applications that can be used for CI/CD and Kubernetes practice](https://www.reddit.com/r/devops/comments/11rqcse/sample_of_applications_that_can_be_used_for_cicd/) | Hanb1n | 3 |
+| [manage old dockerhub images](https://www.reddit.com/r/devops/comments/11r91zj/manage_old_dockerhub_images/) | rafipiccolo | 1 |
+| [how to use sensitive information like tokens in Dockerfile ?](https://www.reddit.com/r/devops/comments/11rko6b/how_to_use_sensitive_information_like_tokens_in/) | RstarPhoneix | 1 |
+| [React Args vs Variables for Docker Images?](https://www.reddit.com/r/devops/comments/11r5hqt/react_args_vs_variables_for_docker_images/) | jblaaa | 1 |
