@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you protect your secret keys in your local computer?](https://www.reddit.com/r/devops/comments/11rhsef/how_do_you_protect_your_secret_keys_in_your_local/) | libert-y | 72 |
-| [Other than compensation, what do you look for when applying to other jobs?](https://www.reddit.com/r/devops/comments/11r86md/other_than_compensation_what_do_you_look_for_when/) | WavyyBabyYeah | 52 |
-| [Can you do infrastructure as code on non-cloud assets?](https://www.reddit.com/r/devops/comments/11r7ufu/can_you_do_infrastructure_as_code_on_noncloud/) | User6RE001 | 20 |
-| [Kubernetes, microservices and OAuth2.0 client credentials flow](https://www.reddit.com/r/devops/comments/11rahzu/kubernetes_microservices_and_oauth20_client/) | pbn4 | 14 |
-| [Platform engineering state of the industry](https://www.reddit.com/r/devops/comments/11r8bli/platform_engineering_state_of_the_industry/) | fokke2508 | 10 |
-| [Dynatrace DPS Package](https://www.reddit.com/r/devops/comments/11r8p01/dynatrace_dps_package/) | LuckyChopsSOS | 7 |
-| [Sample of applications that can be used for CI/CD and Kubernetes practice](https://www.reddit.com/r/devops/comments/11rqcse/sample_of_applications_that_can_be_used_for_cicd/) | Hanb1n | 3 |
-| [manage old dockerhub images](https://www.reddit.com/r/devops/comments/11r91zj/manage_old_dockerhub_images/) | rafipiccolo | 1 |
-| [how to use sensitive information like tokens in Dockerfile ?](https://www.reddit.com/r/devops/comments/11rko6b/how_to_use_sensitive_information_like_tokens_in/) | RstarPhoneix | 1 |
-| [React Args vs Variables for Docker Images?](https://www.reddit.com/r/devops/comments/11r5hqt/react_args_vs_variables_for_docker_images/) | jblaaa | 1 |
+| [I've come to the end of the DevOps road(map) - my mojo has gone.](https://www.reddit.com/r/devops/comments/11rv6rj/ive_come_to_the_end_of_the_devops_roadmap_my_mojo/) | PowerfulExchange6220 | 250 |
+| [📢 DEPRECATION ALERT: Mar 20 traffic from the old Kubernetes registry k8s.gcr.io will be redirected to registry.k8s.io](https://www.reddit.com/r/devops/comments/11sm10g/deprecation_alert_mar_20_traffic_from_the_old/) | horovits | 37 |
+| [Does anyone using chatGPT in day to day task/ projects?](https://www.reddit.com/r/devops/comments/11sdwjq/does_anyone_using_chatgpt_in_day_to_day_task/) | Middle-Sprinkles-165 | 24 |
+| [Personal docs](https://www.reddit.com/r/devops/comments/11s6aki/personal_docs/) | misso998 | 9 |
+| [I'm a terrible oncall engineer, what to do?](https://www.reddit.com/r/devops/comments/11rvd3f/im_a_terrible_oncall_engineer_what_to_do/) | Tall-Aside4852 | 4 |
+| [Sign up for tomorrow's webinar - how to protect your software supply chain with open source tools](https://www.reddit.com/r/devops/comments/11sbe8c/sign_up_for_tomorrows_webinar_how_to_protect_your/) | Kube_fan_510 | 3 |
+| [Goals and Steps on How to Develop MVP](https://www.reddit.com/r/devops/comments/11ruzjc/goals_and_steps_on_how_to_develop_mvp/) | QArea_ltd | 3 |
+| [Test data for performance testing](https://www.reddit.com/r/devops/comments/11so5pi/test_data_for_performance_testing/) | jjsmyth1 | 2 |
+| [Does any one know how to add XML transformation and variable substitution in Github Actions for Azure Deployment?](https://www.reddit.com/r/devops/comments/11ruu5c/does_any_one_know_how_to_add_xml_transformation/) | Bill_Smoke | 2 |
+| [Update notification tool](https://www.reddit.com/r/devops/comments/11s23tt/update_notification_tool/) | smark91 | 1 |
