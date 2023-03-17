@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I've come to the end of the DevOps road(map) - my mojo has gone.](https://www.reddit.com/r/devops/comments/11rv6rj/ive_come_to_the_end_of_the_devops_roadmap_my_mojo/) | PowerfulExchange6220 | 250 |
-| [📢 DEPRECATION ALERT: Mar 20 traffic from the old Kubernetes registry k8s.gcr.io will be redirected to registry.k8s.io](https://www.reddit.com/r/devops/comments/11sm10g/deprecation_alert_mar_20_traffic_from_the_old/) | horovits | 37 |
-| [Does anyone using chatGPT in day to day task/ projects?](https://www.reddit.com/r/devops/comments/11sdwjq/does_anyone_using_chatgpt_in_day_to_day_task/) | Middle-Sprinkles-165 | 24 |
-| [Personal docs](https://www.reddit.com/r/devops/comments/11s6aki/personal_docs/) | misso998 | 9 |
-| [I'm a terrible oncall engineer, what to do?](https://www.reddit.com/r/devops/comments/11rvd3f/im_a_terrible_oncall_engineer_what_to_do/) | Tall-Aside4852 | 4 |
-| [Sign up for tomorrow's webinar - how to protect your software supply chain with open source tools](https://www.reddit.com/r/devops/comments/11sbe8c/sign_up_for_tomorrows_webinar_how_to_protect_your/) | Kube_fan_510 | 3 |
-| [Goals and Steps on How to Develop MVP](https://www.reddit.com/r/devops/comments/11ruzjc/goals_and_steps_on_how_to_develop_mvp/) | QArea_ltd | 3 |
-| [Test data for performance testing](https://www.reddit.com/r/devops/comments/11so5pi/test_data_for_performance_testing/) | jjsmyth1 | 2 |
-| [Does any one know how to add XML transformation and variable substitution in Github Actions for Azure Deployment?](https://www.reddit.com/r/devops/comments/11ruu5c/does_any_one_know_how_to_add_xml_transformation/) | Bill_Smoke | 2 |
-| [Update notification tool](https://www.reddit.com/r/devops/comments/11s23tt/update_notification_tool/) | smark91 | 1 |
+| [Is this a "manage up" or "shut up" situation with a new devops manager?](https://www.reddit.com/r/devops/comments/11szz1o/is_this_a_manage_up_or_shut_up_situation_with_a/) | wtfsoda | 73 |
+| [Experience working and using Managed Service Providers?](https://www.reddit.com/r/devops/comments/11tcd5g/experience_working_and_using_managed_service/) | Ok_Attention6694 | 46 |
+| [How often do you do deployments at your startup/company? A poll (version 2)](https://www.reddit.com/r/devops/comments/11tktk3/how_often_do_you_do_deployments_at_your/) | Bubbly_Penalty6048 | 17 |
+| [Courses for Cloud Computing](https://www.reddit.com/r/devops/comments/11t1pm3/courses_for_cloud_computing/) | xColdWar | 9 |
+| [Developer Dashboards?](https://www.reddit.com/r/devops/comments/11t5cf6/developer_dashboards/) | godfool | 8 |
+| [Is this possible to generate unique certificate for different subdomains based on root cert?](https://www.reddit.com/r/devops/comments/11t00q9/is_this_possible_to_generate_unique_certificate/) | Jack_Hackerman | 4 |
+| [An adventure with SLOs, generic Prometheus alerting rules, and complex PromQL queries](https://www.reddit.com/r/devops/comments/11svszk/an_adventure_with_slos_generic_prometheus/) | emschwartz | 4 |
+| [Feedback needed: Will this help you?](https://www.reddit.com/r/devops/comments/11su2gg/feedback_needed_will_this_help_you/) | SamCRichard | 2 |
+| [Any alternative to Redshift for streaming data from Aurora for analytics?](https://www.reddit.com/r/devops/comments/11tjo1a/any_alternative_to_redshift_for_streaming_data/) | theBeeprApp | 2 |
+| [Why is identity federation better than an alternative?](https://www.reddit.com/r/devops/comments/11t03qu/why_is_identity_federation_better_than_an/) | NUTTA_BUSTAH | 1 |
