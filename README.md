@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does anyone of you think about the retirement?](https://www.reddit.com/r/devops/comments/11u7n72/does_anyone_of_you_think_about_the_retirement/) | pojzon_poe | 50 |
-| [Overemployed DevOps - how many of you are rocking two paychecks right now?](https://www.reddit.com/r/devops/comments/11ui4y5/overemployed_devops_how_many_of_you_are_rocking/) | Paramourn2 | 23 |
-| [Folks on my team never want to have a "white boarding" session to review stories that I pick up...?](https://www.reddit.com/r/devops/comments/11ts7mo/folks_on_my_team_never_want_to_have_a_white/) | swiftsparky | 20 |
-| [What are some of your favorite projects to support on GitHub?](https://www.reddit.com/r/devops/comments/11u1jlf/what_are_some_of_your_favorite_projects_to/) | NewRelicChris | 12 |
-| [How do you handle subnet reservation ?](https://www.reddit.com/r/devops/comments/11tqrv1/how_do_you_handle_subnet_reservation/) | titch124 | 11 |
-| [Containerization = resurgence of principles behind JVM](https://www.reddit.com/r/devops/comments/11uahbh/containerization_resurgence_of_principles_behind/) | theRealJuicyJay | 11 |
-| [What process or tools do you use to terminate instances in an ASG, when you need to ensure the EC2 instance gracefully completes any connections or tasks before being terminated?](https://www.reddit.com/r/devops/comments/11uaavy/what_process_or_tools_do_you_use_to_terminate/) | hangerofmonkeys | 9 |
-| [What does it take to start your own DevOps or Cloud Consultancy ?](https://www.reddit.com/r/devops/comments/11ul5po/what_does_it_take_to_start_your_own_devops_or/) | Beast-UltraJ | 4 |
-| [Any tips on how to run auto scaling self-hosted GitLab runners well?](https://www.reddit.com/r/devops/comments/11tstqc/any_tips_on_how_to_run_auto_scaling_selfhosted/) | IamOkei | 2 |
-| [Master EKS Clusters, Terraform &amp; ArgoCD with this Comprehensive DevOps Tutorial!](https://www.reddit.com/r/devops/comments/11tx9gs/master_eks_clusters_terraform_argocd_with_this/) | nbglink | 1 |
+| [What do you do in your downtime?](https://www.reddit.com/r/devops/comments/11uugx2/what_do_you_do_in_your_downtime/) | tutunak | 71 |
+| [How do you deploy your docker containers (without orchestrators) ?](https://www.reddit.com/r/devops/comments/11uqvqy/how_do_you_deploy_your_docker_containers_without/) | _ragequilt_ | 5 |
+| [only devops on my team, how to move to a devops team?](https://www.reddit.com/r/devops/comments/11uwv14/only_devops_on_my_team_how_to_move_to_a_devops/) | PeachyOG | 4 |
+| [Where to learn more as I scale up?](https://www.reddit.com/r/devops/comments/11usgu0/where_to_learn_more_as_i_scale_up/) | dougshmish | 1 |
+| [Surf CLI - Multiple AWS Accounts support! (Text search DynamoDB, S3 and more)](https://www.reddit.com/r/devops/comments/11vdnza/surf_cli_multiple_aws_accounts_support_text/) | Isan-Rivkin | 1 |
+| [Duplocloud, anybody using this yet?](https://www.reddit.com/r/devops/comments/11uu2xs/duplocloud_anybody_using_this_yet/) | FB_is_dead | 1 |
+| [Automate Terraform with GitHub and GCP Workload Identity Federation](https://www.reddit.com/r/devops/comments/11vegic/automate_terraform_with_github_and_gcp_workload/) | OutOfDevOps | 1 |
+| [where do you store your projects reports ?](https://www.reddit.com/r/devops/comments/11upmbo/where_do_you_store_your_projects_reports/) | rafipiccolo | 0 |
+| [[Survey] Relation between scrum and devops. Thesis about implementing devops in scrum company [Repost with updates]](https://www.reddit.com/r/devops/comments/11uzja8/survey_relation_between_scrum_and_devops_thesis/) | cs_xen | 0 |
+| [What are your thoughts on using a GitHub copilot as a helping tool during doing DevOps Engineering work?](https://www.reddit.com/r/devops/comments/11uvb4z/what_are_your_thoughts_on_using_a_github_copilot/) | tutunak | 0 |
