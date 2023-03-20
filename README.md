@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What do you do in your downtime?](https://www.reddit.com/r/devops/comments/11uugx2/what_do_you_do_in_your_downtime/) | tutunak | 71 |
-| [How do you deploy your docker containers (without orchestrators) ?](https://www.reddit.com/r/devops/comments/11uqvqy/how_do_you_deploy_your_docker_containers_without/) | _ragequilt_ | 5 |
-| [only devops on my team, how to move to a devops team?](https://www.reddit.com/r/devops/comments/11uwv14/only_devops_on_my_team_how_to_move_to_a_devops/) | PeachyOG | 4 |
-| [Where to learn more as I scale up?](https://www.reddit.com/r/devops/comments/11usgu0/where_to_learn_more_as_i_scale_up/) | dougshmish | 1 |
-| [Surf CLI - Multiple AWS Accounts support! (Text search DynamoDB, S3 and more)](https://www.reddit.com/r/devops/comments/11vdnza/surf_cli_multiple_aws_accounts_support_text/) | Isan-Rivkin | 1 |
-| [Duplocloud, anybody using this yet?](https://www.reddit.com/r/devops/comments/11uu2xs/duplocloud_anybody_using_this_yet/) | FB_is_dead | 1 |
-| [Automate Terraform with GitHub and GCP Workload Identity Federation](https://www.reddit.com/r/devops/comments/11vegic/automate_terraform_with_github_and_gcp_workload/) | OutOfDevOps | 1 |
-| [where do you store your projects reports ?](https://www.reddit.com/r/devops/comments/11upmbo/where_do_you_store_your_projects_reports/) | rafipiccolo | 0 |
-| [[Survey] Relation between scrum and devops. Thesis about implementing devops in scrum company [Repost with updates]](https://www.reddit.com/r/devops/comments/11uzja8/survey_relation_between_scrum_and_devops_thesis/) | cs_xen | 0 |
-| [What are your thoughts on using a GitHub copilot as a helping tool during doing DevOps Engineering work?](https://www.reddit.com/r/devops/comments/11uvb4z/what_are_your_thoughts_on_using_a_github_copilot/) | tutunak | 0 |
+| [Salary Sharing Thread March 2023](https://www.reddit.com/r/devops/comments/11vrtw8/salary_sharing_thread_march_2023/) | notechmajor | 137 |
+| [Committing a file via build pipeline?](https://www.reddit.com/r/devops/comments/11vluhg/committing_a_file_via_build_pipeline/) | ITmandan_ | 21 |
+| [Old team asking for me to join back after internal transfer.. what would you do?](https://www.reddit.com/r/devops/comments/11w0szs/old_team_asking_for_me_to_join_back_after/) | swiftsparky | 11 |
+| [Looking for Advice on Intro into DevOps](https://www.reddit.com/r/devops/comments/11vkxcz/looking_for_advice_on_intro_into_devops/) | LordsDontWorry | 11 |
+| [Left Behind](https://www.reddit.com/r/devops/comments/11vm7yb/left_behind/) | Eldainfrostbrand | 10 |
+| [self-hosted google-like search engine for workplaces](https://www.reddit.com/r/devops/comments/11wgn6p/selfhosted_googlelike_search_engine_for_workplaces/) | yuvalsteuer | 9 |
+| [Should dev teams in an organisation stick to one branching strategy?](https://www.reddit.com/r/devops/comments/11wd3gg/should_dev_teams_in_an_organisation_stick_to_one/) | jjsmyth1 | 9 |
+| [Are you running Argo CD on its own exclusive cluster?](https://www.reddit.com/r/devops/comments/11w64e0/are_you_running_argo_cd_on_its_own_exclusive/) | nateybobo | 3 |
+| [KubeVela brings software delivery control plane capabilities to CNCF Incubator](https://www.reddit.com/r/devops/comments/11waaob/kubevela_brings_software_delivery_control_plane/) | oam-dev | 2 |
+| [A specific internet service provider cannot access my website](https://www.reddit.com/r/devops/comments/11waop2/a_specific_internet_service_provider_cannot/) | lordcummin | 2 |
