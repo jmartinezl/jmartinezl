@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps Exercises](https://www.reddit.com/r/devops/comments/11wkel5/devops_exercises/) | k2718 | 15 |
-| [Using sentry and Datadog, do they both fulfill the same requirements?](https://www.reddit.com/r/devops/comments/11wulns/using_sentry_and_datadog_do_they_both_fulfill_the/) | wgfdark | 10 |
-| [New storage backend for Jaeger - Feedback welcome!](https://www.reddit.com/r/devops/comments/11wx36u/new_storage_backend_for_jaeger_feedback_welcome/) | massus | 10 |
-| [Helm Upgrade causing the pods to go in the pending state](https://www.reddit.com/r/devops/comments/11xdesv/helm_upgrade_causing_the_pods_to_go_in_the/) | defact0o | 10 |
-| [Raises: Associate —&gt; DevOps Engineer](https://www.reddit.com/r/devops/comments/11x3qnz/raises_associate_devops_engineer/) | wollman19 | 8 |
-| [User permission tracking / logging systems.](https://www.reddit.com/r/devops/comments/11wlfpt/user_permission_tracking_logging_systems/) | ElectricalEinstein | 6 |
-| [terraform cli workflow for aws cloudformation](https://www.reddit.com/r/devops/comments/11wliar/terraform_cli_workflow_for_aws_cloudformation/) | mightyroger | 2 |
-| [continuous deployment with ArgoCD](https://www.reddit.com/r/devops/comments/11wvttk/continuous_deployment_with_argocd/) | neeltom92 | 2 |
-| [Using project management and DevOps tools for M365 migrations](https://www.reddit.com/r/devops/comments/11wi792/using_project_management_and_devops_tools_for/) | sonaldag | 1 |
-| [Joining Antler/EF as DevOps](https://www.reddit.com/r/devops/comments/11wqj0q/joining_antleref_as_devops/) | Jatalocks2 | 1 |
+| [Terraform Security Best Practices](https://www.reddit.com/r/devops/comments/11xj71a/terraform_security_best_practices/) | MiguelHzBz | 61 |
+| [ZeusCloud - an open-source cloud security platform](https://www.reddit.com/r/devops/comments/11xmp1f/zeuscloud_an_opensource_cloud_security_platform/) | VariousAd5147 | 56 |
+| [The DevOps Conference happening now - and it's free](https://www.reddit.com/r/devops/comments/11ybf0z/the_devops_conference_happening_now_and_its_free/) | lpalokan | 28 |
+| [My Green/blue AWS db deployment strategy for avoiding data loss due to table locks](https://www.reddit.com/r/devops/comments/11xm5v7/my_greenblue_aws_db_deployment_strategy_for/) | ParanoidAltoid | 8 |
+| [Digger - an open-source Terraform Cloud Alternative (Now in Golang)](https://www.reddit.com/r/devops/comments/11ye153/digger_an_opensource_terraform_cloud_alternative/) | utpalnadiger | 6 |
+| [How to automate security patching for OSS docker image?](https://www.reddit.com/r/devops/comments/11xnpr3/how_to_automate_security_patching_for_oss_docker/) | rirhun | 4 |
+| ["Off the record" hangout on Friday: How cruise reduced CI time on giant monorepo](https://www.reddit.com/r/devops/comments/11xhx2e/off_the_record_hangout_on_friday_how_cruise/) | efunction | 4 |
+| [Should I leave my junior devops (small company) for a junior SRE role at a fortune 100. But my current role is full time at-will and the other one is a 1 year contract to hire.](https://www.reddit.com/r/devops/comments/11xrd7l/should_i_leave_my_junior_devops_small_company_for/) | XJaaxk | 3 |
+| [Any tool to automatically containerize Jenkins jobs for future use in other tools?](https://www.reddit.com/r/devops/comments/11ye9l3/any_tool_to_automatically_containerize_jenkins/) | MarriottsRidge | 3 |
+| [Visualizing Kubernetes traffic, the non-invasive way](https://www.reddit.com/r/devops/comments/11xi3e1/visualizing_kubernetes_traffic_the_noninvasive_way/) | TomerGreenwald | 1 |
