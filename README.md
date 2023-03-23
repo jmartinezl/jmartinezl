@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Terraform Security Best Practices](https://www.reddit.com/r/devops/comments/11xj71a/terraform_security_best_practices/) | MiguelHzBz | 61 |
-| [ZeusCloud - an open-source cloud security platform](https://www.reddit.com/r/devops/comments/11xmp1f/zeuscloud_an_opensource_cloud_security_platform/) | VariousAd5147 | 56 |
-| [The DevOps Conference happening now - and it's free](https://www.reddit.com/r/devops/comments/11ybf0z/the_devops_conference_happening_now_and_its_free/) | lpalokan | 28 |
-| [My Green/blue AWS db deployment strategy for avoiding data loss due to table locks](https://www.reddit.com/r/devops/comments/11xm5v7/my_greenblue_aws_db_deployment_strategy_for/) | ParanoidAltoid | 8 |
-| [Digger - an open-source Terraform Cloud Alternative (Now in Golang)](https://www.reddit.com/r/devops/comments/11ye153/digger_an_opensource_terraform_cloud_alternative/) | utpalnadiger | 6 |
-| [How to automate security patching for OSS docker image?](https://www.reddit.com/r/devops/comments/11xnpr3/how_to_automate_security_patching_for_oss_docker/) | rirhun | 4 |
-| ["Off the record" hangout on Friday: How cruise reduced CI time on giant monorepo](https://www.reddit.com/r/devops/comments/11xhx2e/off_the_record_hangout_on_friday_how_cruise/) | efunction | 4 |
-| [Should I leave my junior devops (small company) for a junior SRE role at a fortune 100. But my current role is full time at-will and the other one is a 1 year contract to hire.](https://www.reddit.com/r/devops/comments/11xrd7l/should_i_leave_my_junior_devops_small_company_for/) | XJaaxk | 3 |
-| [Any tool to automatically containerize Jenkins jobs for future use in other tools?](https://www.reddit.com/r/devops/comments/11ye9l3/any_tool_to_automatically_containerize_jenkins/) | MarriottsRidge | 3 |
-| [Visualizing Kubernetes traffic, the non-invasive way](https://www.reddit.com/r/devops/comments/11xi3e1/visualizing_kubernetes_traffic_the_noninvasive_way/) | TomerGreenwald | 1 |
+| [Your opinion on Kong](https://www.reddit.com/r/devops/comments/11yyl2i/your_opinion_on_kong/) | Financial_Comb_3550 | 62 |
+| [Who are some people you follow and stay up-to-date with?](https://www.reddit.com/r/devops/comments/11zd2cj/who_are_some_people_you_follow_and_stay_uptodate/) | AemonQE | 12 |
+| [Framework for tool development?](https://www.reddit.com/r/devops/comments/11z2elx/framework_for_tool_development/) | handle2001 | 7 |
+| [Designing architecture for containers where every container is unique in ECS](https://www.reddit.com/r/devops/comments/11z0vbg/designing_architecture_for_containers_where_every/) | Misuses_Words_Often | 4 |
+| [Simulate a stuck program](https://www.reddit.com/r/devops/comments/11zfnzr/simulate_a_stuck_program/) | quizhead | 2 |
+| [Job hunt advice](https://www.reddit.com/r/devops/comments/11ywbl1/job_hunt_advice/) | Hugahugalulu1 | 2 |
+| [IAM application control security Interview question](https://www.reddit.com/r/devops/comments/11z4smx/iam_application_control_security_interview/) | LittleProfessor5 | 2 |
+| [[DO, tf] Assign already existing firewall to a new droplets](https://www.reddit.com/r/devops/comments/11yhobg/do_tf_assign_already_existing_firewall_to_a_new/) | NedkoHristov | 1 |
+| [Need Help With Some Perforce Commands](https://www.reddit.com/r/devops/comments/11z6t3j/need_help_with_some_perforce_commands/) | Foolsbry | 1 |
+| [Kubernetes course Prerequisites](https://www.reddit.com/r/devops/comments/11zbjyi/kubernetes_course_prerequisites/) | Ok-Jellyfish-1810 | 1 |
