@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [You Broke Reddit: The Pi-Day Outage](https://www.reddit.com/r/devops/comments/11zvig0/you_broke_reddit_the_piday_outage/) | ulemse | 184 |
-| [A Guide to Delegated Administrator in AWS Organizations and Multi-Account Management and how to secure the Root Management Account](https://www.reddit.com/r/devops/comments/11zkf8a/a_guide_to_delegated_administrator_in_aws/) | jsonpile | 17 |
-| [Cicada - Build CI pipelines with Typescript](https://www.reddit.com/r/devops/comments/11zs341/cicada_build_ci_pipelines_with_typescript/) | grant1704 | 15 |
-| [What is the least frustrating/prone to error way to use Terraform in a multi-account AWS Org deployment?](https://www.reddit.com/r/devops/comments/11zmuik/what_is_the_least_frustratingprone_to_error_way/) | lost_your_fill | 10 |
-| [Do you use custom Prometheus metrics?](https://www.reddit.com/r/devops/comments/11zj6rt/do_you_use_custom_prometheus_metrics/) | emschwartz | 10 |
-| [Feedback on my free AI based Slackbot to Simplify DevOps](https://www.reddit.com/r/devops/comments/1202bd8/feedback_on_my_free_ai_based_slackbot_to_simplify/) | the_egotist | 6 |
-| [The best way to monitor hpILO,IPMI and DRAC](https://www.reddit.com/r/devops/comments/11zqtna/the_best_way_to_monitor_hpiloipmi_and_drac/) | Husband000 | 3 |
-| [Have you used eBPF in real production? worth the switch?](https://www.reddit.com/r/devops/comments/120a074/have_you_used_ebpf_in_real_production_worth_the/) | IamOkei | 3 |
-| [Python command line and client API for Burp's Enterprise Edition API](https://www.reddit.com/r/devops/comments/120bw0p/python_command_line_and_client_api_for_burps/) | digicat | 1 |
-| [Gitlab CI/CD pipelines: rule for pipeline NOT to run if specific variables ARE defined](https://www.reddit.com/r/devops/comments/11zls8w/gitlab_cicd_pipelines_rule_for_pipeline_not_to/) | Creamss | 1 |
+| [Heads up: Datadog overcharging customers and (probably) not informing them](https://www.reddit.com/r/devops/comments/120rjz5/heads_up_datadog_overcharging_customers_and/) | pataoAoC | 293 |
+| [Golang, Docker “FROM scratch,” Kubernetes Cronjob, Istio or How to Make Them Friends](https://www.reddit.com/r/devops/comments/120jdfe/golang_docker_from_scratch_kubernetes_cronjob/) | darikanur | 73 |
+| [DevOps Engineer here looking for something interesting to work on.](https://www.reddit.com/r/devops/comments/120iiew/devops_engineer_here_looking_for_something/) | needaname_helpme | 49 |
+| [heads up Github host key issue](https://www.reddit.com/r/devops/comments/120jnds/heads_up_github_host_key_issue/) | jaymef | 33 |
+| [Docker is no longer sunsetting Free Team organizations](https://www.reddit.com/r/devops/comments/120zqa7/docker_is_no_longer_sunsetting_free_team/) | nevotheless | 22 |
+| [DevOps and bombardment of tools](https://www.reddit.com/r/devops/comments/121dfc9/devops_and_bombardment_of_tools/) | colderness | 19 |
+| [Google Pushing For 90 Day SSL/TLS Certificates - Time For Automation](https://www.reddit.com/r/devops/comments/121fj0w/google_pushing_for_90_day_ssltls_certificates/) | AdrianTeri | 10 |
+| [Tell me your CI/CD process](https://www.reddit.com/r/devops/comments/121aav8/tell_me_your_cicd_process/) | Oxffff0000 | 6 |
+| [[Production Issue] RabbitMQ TLS Mystery](https://www.reddit.com/r/devops/comments/120ryg3/production_issue_rabbitmq_tls_mystery/) | spoveddevops | 4 |
+| [Modernizing a PowerShell shop](https://www.reddit.com/r/devops/comments/121h51u/modernizing_a_powershell_shop/) | Monad1 | 2 |
