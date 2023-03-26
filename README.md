@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Heads up: Datadog overcharging customers and (probably) not informing them](https://www.reddit.com/r/devops/comments/120rjz5/heads_up_datadog_overcharging_customers_and/) | pataoAoC | 293 |
-| [Golang, Docker “FROM scratch,” Kubernetes Cronjob, Istio or How to Make Them Friends](https://www.reddit.com/r/devops/comments/120jdfe/golang_docker_from_scratch_kubernetes_cronjob/) | darikanur | 73 |
-| [DevOps Engineer here looking for something interesting to work on.](https://www.reddit.com/r/devops/comments/120iiew/devops_engineer_here_looking_for_something/) | needaname_helpme | 49 |
-| [heads up Github host key issue](https://www.reddit.com/r/devops/comments/120jnds/heads_up_github_host_key_issue/) | jaymef | 33 |
-| [Docker is no longer sunsetting Free Team organizations](https://www.reddit.com/r/devops/comments/120zqa7/docker_is_no_longer_sunsetting_free_team/) | nevotheless | 22 |
-| [DevOps and bombardment of tools](https://www.reddit.com/r/devops/comments/121dfc9/devops_and_bombardment_of_tools/) | colderness | 19 |
-| [Google Pushing For 90 Day SSL/TLS Certificates - Time For Automation](https://www.reddit.com/r/devops/comments/121fj0w/google_pushing_for_90_day_ssltls_certificates/) | AdrianTeri | 10 |
-| [Tell me your CI/CD process](https://www.reddit.com/r/devops/comments/121aav8/tell_me_your_cicd_process/) | Oxffff0000 | 6 |
-| [[Production Issue] RabbitMQ TLS Mystery](https://www.reddit.com/r/devops/comments/120ryg3/production_issue_rabbitmq_tls_mystery/) | spoveddevops | 4 |
-| [Modernizing a PowerShell shop](https://www.reddit.com/r/devops/comments/121h51u/modernizing_a_powershell_shop/) | Monad1 | 2 |
+| [How do you improve your speaking skills, especially when you're ruffling some feathers with a new process?](https://www.reddit.com/r/devops/comments/12239ji/how_do_you_improve_your_speaking_skills/) | Zyster1 | 45 |
+| [How does your company do secret management? AWS/GCP/Azure/Vault/CyberArk etc. thoughts?](https://www.reddit.com/r/devops/comments/121rorl/how_does_your_company_do_secret_management/) | dangtony98 | 31 |
+| [Monitoring using Serverless](https://www.reddit.com/r/devops/comments/12200dv/monitoring_using_serverless/) | zachlab | 26 |
+| [Welcome to AskAzure: Unleash the Power of the Cloud &amp; Accelerate Your Azure Journey!](https://www.reddit.com/r/devops/comments/122dpy9/welcome_to_askazure_unleash_the_power_of_the/) | cryptopaparazzi | 22 |
+| [Comparing Github and Azure DevOps](https://www.reddit.com/r/devops/comments/121lb07/comparing_github_and_azure_devops/) | Lord-Primo | 7 |
+| [Hashicorp Vault Certification](https://www.reddit.com/r/devops/comments/121o87o/hashicorp_vault_certification/) | kk24680 | 5 |
+| [Kubernetes Operations Survey](https://www.reddit.com/r/devops/comments/122jopm/kubernetes_operations_survey/) | grem1in | 2 |
+| [Good books or learning material for pulumi?](https://www.reddit.com/r/devops/comments/121nchk/good_books_or_learning_material_for_pulumi/) | chillysurfer | 2 |
+| [Alternative to alpine](https://www.reddit.com/r/devops/comments/121xq1m/alternative_to_alpine/) | tritron | 2 |
+| [What type of programming do you do based on your role?](https://www.reddit.com/r/devops/comments/121u50z/what_type_of_programming_do_you_do_based_on_your/) | green-avocado | 1 |
