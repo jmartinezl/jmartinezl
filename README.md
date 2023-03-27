@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you improve your speaking skills, especially when you're ruffling some feathers with a new process?](https://www.reddit.com/r/devops/comments/12239ji/how_do_you_improve_your_speaking_skills/) | Zyster1 | 45 |
-| [How does your company do secret management? AWS/GCP/Azure/Vault/CyberArk etc. thoughts?](https://www.reddit.com/r/devops/comments/121rorl/how_does_your_company_do_secret_management/) | dangtony98 | 31 |
-| [Monitoring using Serverless](https://www.reddit.com/r/devops/comments/12200dv/monitoring_using_serverless/) | zachlab | 26 |
-| [Welcome to AskAzure: Unleash the Power of the Cloud &amp; Accelerate Your Azure Journey!](https://www.reddit.com/r/devops/comments/122dpy9/welcome_to_askazure_unleash_the_power_of_the/) | cryptopaparazzi | 22 |
-| [Comparing Github and Azure DevOps](https://www.reddit.com/r/devops/comments/121lb07/comparing_github_and_azure_devops/) | Lord-Primo | 7 |
-| [Hashicorp Vault Certification](https://www.reddit.com/r/devops/comments/121o87o/hashicorp_vault_certification/) | kk24680 | 5 |
-| [Kubernetes Operations Survey](https://www.reddit.com/r/devops/comments/122jopm/kubernetes_operations_survey/) | grem1in | 2 |
-| [Good books or learning material for pulumi?](https://www.reddit.com/r/devops/comments/121nchk/good_books_or_learning_material_for_pulumi/) | chillysurfer | 2 |
-| [Alternative to alpine](https://www.reddit.com/r/devops/comments/121xq1m/alternative_to_alpine/) | tritron | 2 |
-| [What type of programming do you do based on your role?](https://www.reddit.com/r/devops/comments/121u50z/what_type_of_programming_do_you_do_based_on_your/) | green-avocado | 1 |
+| [Is it inevitable every DevOps job is high stress, over-worked?](https://www.reddit.com/r/devops/comments/122pq29/is_it_inevitable_every_devops_job_is_high_stress/) | gowithflow192 | 163 |
+| [Replicaset question](https://www.reddit.com/r/devops/comments/123cd3v/replicaset_question/) | jlijat | 4 |
+| [DevOps Junior](https://www.reddit.com/r/devops/comments/122rnrf/devops_junior/) | sifoncito | 4 |
+| [An uptime counter for my application? (ECS, AWS managed Grafana)](https://www.reddit.com/r/devops/comments/123dmim/an_uptime_counter_for_my_application_ecs_aws/) | CommissionNo9617 | 4 |
+| [Implementing gitflow in github](https://www.reddit.com/r/devops/comments/122zh2c/implementing_gitflow_in_github/) | aoworks | 3 |
+| [How do you get the list of successful builds in the "CD/Deploy" job from the "CI/Build" job in Jenkins Declarative Pipeline?](https://www.reddit.com/r/devops/comments/122scro/how_do_you_get_the_list_of_successful_builds_in/) | krishnakrmahto | 3 |
+| [Is it true that if you don't have proper grip over programming language you can't be successful in devops?](https://www.reddit.com/r/devops/comments/122sf0i/is_it_true_that_if_you_dont_have_proper_grip_over/) | bhrugusharma | 2 |
+| [My evaluation of the Scaleway Cloud provider](https://www.reddit.com/r/devops/comments/122vfb0/my_evaluation_of_the_scaleway_cloud_provider/) | nfrankel | 1 |
+| [Learning about cloud security?](https://www.reddit.com/r/devops/comments/122p71b/learning_about_cloud_security/) | Hugahugalulu1 | 1 |
+| [Will AI Replace DevOps Engineers? Exploring the Possibility](https://www.reddit.com/r/devops/comments/1231h2p/will_ai_replace_devops_engineers_exploring_the/) | stuxkach | 0 |
