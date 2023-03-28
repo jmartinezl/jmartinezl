@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is it inevitable every DevOps job is high stress, over-worked?](https://www.reddit.com/r/devops/comments/122pq29/is_it_inevitable_every_devops_job_is_high_stress/) | gowithflow192 | 163 |
-| [Replicaset question](https://www.reddit.com/r/devops/comments/123cd3v/replicaset_question/) | jlijat | 4 |
-| [DevOps Junior](https://www.reddit.com/r/devops/comments/122rnrf/devops_junior/) | sifoncito | 4 |
-| [An uptime counter for my application? (ECS, AWS managed Grafana)](https://www.reddit.com/r/devops/comments/123dmim/an_uptime_counter_for_my_application_ecs_aws/) | CommissionNo9617 | 4 |
-| [Implementing gitflow in github](https://www.reddit.com/r/devops/comments/122zh2c/implementing_gitflow_in_github/) | aoworks | 3 |
-| [How do you get the list of successful builds in the "CD/Deploy" job from the "CI/Build" job in Jenkins Declarative Pipeline?](https://www.reddit.com/r/devops/comments/122scro/how_do_you_get_the_list_of_successful_builds_in/) | krishnakrmahto | 3 |
-| [Is it true that if you don't have proper grip over programming language you can't be successful in devops?](https://www.reddit.com/r/devops/comments/122sf0i/is_it_true_that_if_you_dont_have_proper_grip_over/) | bhrugusharma | 2 |
-| [My evaluation of the Scaleway Cloud provider](https://www.reddit.com/r/devops/comments/122vfb0/my_evaluation_of_the_scaleway_cloud_provider/) | nfrankel | 1 |
-| [Learning about cloud security?](https://www.reddit.com/r/devops/comments/122p71b/learning_about_cloud_security/) | Hugahugalulu1 | 1 |
-| [Will AI Replace DevOps Engineers? Exploring the Possibility](https://www.reddit.com/r/devops/comments/1231h2p/will_ai_replace_devops_engineers_exploring_the/) | stuxkach | 0 |
+| [Could the mods please introduce a minimum effort rule](https://www.reddit.com/r/devops/comments/124eip4/could_the_mods_please_introduce_a_minimum_effort/) | RubixKuber | 91 |
+| [How To Foster a Self Help Eng Culture](https://www.reddit.com/r/devops/comments/123rmr5/how_to_foster_a_self_help_eng_culture/) | btdeviant | 71 |
+| [Automated Deployment in Heroku](https://www.reddit.com/r/devops/comments/123n64v/automated_deployment_in_heroku/) | techcury | 15 |
+| [What are my options for cheap multi-step API testing? Datadog is ridiculous.](https://www.reddit.com/r/devops/comments/123zjau/what_are_my_options_for_cheap_multistep_api/) | jfan827 | 8 |
+| [Kubernetes Operator](https://www.reddit.com/r/devops/comments/124375i/kubernetes_operator/) | Present_Abalone3951 | 4 |
+| [How do you do release management across repositories?](https://www.reddit.com/r/devops/comments/123r9ah/how_do_you_do_release_management_across/) | arendjr | 4 |
+| [Hikaru 1.0.0 released](https://www.reddit.com/r/devops/comments/123stdi/hikaru_100_released/) | hoover | 4 |
+| [Setting up a CI/CD pipeline with a lightweight, responsive, and self-hosted solution](https://www.reddit.com/r/devops/comments/12419dv/setting_up_a_cicd_pipeline_with_a_lightweight/) | jypelle | 2 |
+| [Manage one chart - deploy many apps](https://www.reddit.com/r/devops/comments/124aaz5/manage_one_chart_deploy_many_apps/) | SpykeSpeegel | 1 |
+| [Best practices for database history collection](https://www.reddit.com/r/devops/comments/123qwje/best_practices_for_database_history_collection/) | GeorgeRNorfolk | 1 |
