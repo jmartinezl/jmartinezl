@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Could the mods please introduce a minimum effort rule](https://www.reddit.com/r/devops/comments/124eip4/could_the_mods_please_introduce_a_minimum_effort/) | RubixKuber | 91 |
-| [How To Foster a Self Help Eng Culture](https://www.reddit.com/r/devops/comments/123rmr5/how_to_foster_a_self_help_eng_culture/) | btdeviant | 71 |
-| [Automated Deployment in Heroku](https://www.reddit.com/r/devops/comments/123n64v/automated_deployment_in_heroku/) | techcury | 15 |
-| [What are my options for cheap multi-step API testing? Datadog is ridiculous.](https://www.reddit.com/r/devops/comments/123zjau/what_are_my_options_for_cheap_multistep_api/) | jfan827 | 8 |
-| [Kubernetes Operator](https://www.reddit.com/r/devops/comments/124375i/kubernetes_operator/) | Present_Abalone3951 | 4 |
-| [How do you do release management across repositories?](https://www.reddit.com/r/devops/comments/123r9ah/how_do_you_do_release_management_across/) | arendjr | 4 |
-| [Hikaru 1.0.0 released](https://www.reddit.com/r/devops/comments/123stdi/hikaru_100_released/) | hoover | 4 |
-| [Setting up a CI/CD pipeline with a lightweight, responsive, and self-hosted solution](https://www.reddit.com/r/devops/comments/12419dv/setting_up_a_cicd_pipeline_with_a_lightweight/) | jypelle | 2 |
-| [Manage one chart - deploy many apps](https://www.reddit.com/r/devops/comments/124aaz5/manage_one_chart_deploy_many_apps/) | SpykeSpeegel | 1 |
-| [Best practices for database history collection](https://www.reddit.com/r/devops/comments/123qwje/best_practices_for_database_history_collection/) | GeorgeRNorfolk | 1 |
+| [How does your team handle GitOps for your IaC repos?](https://www.reddit.com/r/devops/comments/1257rbv/how_does_your_team_handle_gitops_for_your_iac/) | yeah-not-really | 27 |
+| [How do you make tooling decisions?](https://www.reddit.com/r/devops/comments/124t393/how_do_you_make_tooling_decisions/) | rr-geil-j | 6 |
+| [Web developer looking to specialize in devops should I learn Ansible or Terraform?](https://www.reddit.com/r/devops/comments/125ezvw/web_developer_looking_to_specialize_in_devops/) | fedoraneckbeardanime | 4 |
+| [pretty green in need of advice / coworkers opinion](https://www.reddit.com/r/devops/comments/124oldz/pretty_green_in_need_of_advice_coworkers_opinion/) | crumpy_panda | 2 |
+| [Needed a tool to easily get a snapshot of a non-enterprise self-hosted Vault cluster and maybe it will be useful for someone else as well](https://www.reddit.com/r/devops/comments/125kuue/needed_a_tool_to_easily_get_a_snapshot_of_a/) | Sidicer | 2 |
+| [Envio - Supercharge Your Workflow with this Must-Have CLI Tool!](https://www.reddit.com/r/devops/comments/125jbjr/envio_supercharge_your_workflow_with_this/) | Ok_Acanthopterygii40 | 2 |
+| [unit tests require a full build on my pipeline, and each build takes around 10 minutes. am i doing something wrong?](https://www.reddit.com/r/devops/comments/124uc9l/unit_tests_require_a_full_build_on_my_pipeline/) | V3Qn117x0UFQ | 1 |
+| [handling configmap and code changes simultaniously when using Helm](https://www.reddit.com/r/devops/comments/125kyq7/handling_configmap_and_code_changes/) | PickleRick5 | 1 |
+| [Least-privilege for Kafka data](https://www.reddit.com/r/devops/comments/125lkzr/leastprivilege_for_kafka_data/) | TomerGreenwald | 1 |
+| [How do you track if an AWS resource is created by Terraform Vs Manual creation?](https://www.reddit.com/r/devops/comments/125l0mj/how_do_you_track_if_an_aws_resource_is_created_by/) | IamOkei | 1 |
