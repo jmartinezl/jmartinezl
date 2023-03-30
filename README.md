@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How does your team handle GitOps for your IaC repos?](https://www.reddit.com/r/devops/comments/1257rbv/how_does_your_team_handle_gitops_for_your_iac/) | yeah-not-really | 27 |
-| [How do you make tooling decisions?](https://www.reddit.com/r/devops/comments/124t393/how_do_you_make_tooling_decisions/) | rr-geil-j | 6 |
-| [Web developer looking to specialize in devops should I learn Ansible or Terraform?](https://www.reddit.com/r/devops/comments/125ezvw/web_developer_looking_to_specialize_in_devops/) | fedoraneckbeardanime | 4 |
-| [pretty green in need of advice / coworkers opinion](https://www.reddit.com/r/devops/comments/124oldz/pretty_green_in_need_of_advice_coworkers_opinion/) | crumpy_panda | 2 |
-| [Needed a tool to easily get a snapshot of a non-enterprise self-hosted Vault cluster and maybe it will be useful for someone else as well](https://www.reddit.com/r/devops/comments/125kuue/needed_a_tool_to_easily_get_a_snapshot_of_a/) | Sidicer | 2 |
-| [Envio - Supercharge Your Workflow with this Must-Have CLI Tool!](https://www.reddit.com/r/devops/comments/125jbjr/envio_supercharge_your_workflow_with_this/) | Ok_Acanthopterygii40 | 2 |
-| [unit tests require a full build on my pipeline, and each build takes around 10 minutes. am i doing something wrong?](https://www.reddit.com/r/devops/comments/124uc9l/unit_tests_require_a_full_build_on_my_pipeline/) | V3Qn117x0UFQ | 1 |
-| [handling configmap and code changes simultaniously when using Helm](https://www.reddit.com/r/devops/comments/125kyq7/handling_configmap_and_code_changes/) | PickleRick5 | 1 |
-| [Least-privilege for Kafka data](https://www.reddit.com/r/devops/comments/125lkzr/leastprivilege_for_kafka_data/) | TomerGreenwald | 1 |
-| [How do you track if an AWS resource is created by Terraform Vs Manual creation?](https://www.reddit.com/r/devops/comments/125l0mj/how_do_you_track_if_an_aws_resource_is_created_by/) | IamOkei | 1 |
+| [GitHub Actions down. AGAIN! (2023-03-29)](https://www.reddit.com/r/devops/comments/125reo6/github_actions_down_again_20230329/) | marmarama | 138 |
+| [Semi panicking feeling like jack of all trades, master of none](https://www.reddit.com/r/devops/comments/12664k7/semi_panicking_feeling_like_jack_of_all_trades/) | forestspirit1011 | 41 |
+| [Public Database of 54M SBOMs](https://www.reddit.com/r/devops/comments/125or7e/public_database_of_54m_sboms/) | josh_jennings | 10 |
+| [Is anyone else severely impacted by the frequent GitHub actions outrages?](https://www.reddit.com/r/devops/comments/125w9wp/is_anyone_else_severely_impacted_by_the_frequent/) | mikeschem | 9 |
+| [Azure DevOps deploy to internal servers](https://www.reddit.com/r/devops/comments/125umsy/azure_devops_deploy_to_internal_servers/) | No_Butterfly_1888 | 9 |
+| [DevOpsDays Tel Aviv 2023 - CFP Open March 30-May 31st](https://www.reddit.com/r/devops/comments/126h6u1/devopsdays_tel_aviv_2023_cfp_open_march_30may_31st/) | shar1z | 7 |
+| [CI/CD Structure for Pulumi with Local Backend](https://www.reddit.com/r/devops/comments/125wwi3/cicd_structure_for_pulumi_with_local_backend/) | Sfedosman | 4 |
+| [working in a shop that uses heavy CLI for builds, automation. is there some solution to log and have all the errors sent to me for troubleshooting besides a user giving a screenshot or complete copy paste into chat?](https://www.reddit.com/r/devops/comments/126b7xu/working_in_a_shop_that_uses_heavy_cli_for_builds/) | V3Qn117x0UFQ | 2 |
+| [Github Actions for multi-tenant/subscription deployments](https://www.reddit.com/r/devops/comments/125ya0d/github_actions_for_multitenantsubscription/) | winle22 | 2 |
+| [Blue/Green Enhancements](https://www.reddit.com/r/devops/comments/126hrnk/bluegreen_enhancements/) | InterestedBalboa | 2 |
