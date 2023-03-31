@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [GitHub Actions down. AGAIN! (2023-03-29)](https://www.reddit.com/r/devops/comments/125reo6/github_actions_down_again_20230329/) | marmarama | 138 |
-| [Semi panicking feeling like jack of all trades, master of none](https://www.reddit.com/r/devops/comments/12664k7/semi_panicking_feeling_like_jack_of_all_trades/) | forestspirit1011 | 41 |
-| [Public Database of 54M SBOMs](https://www.reddit.com/r/devops/comments/125or7e/public_database_of_54m_sboms/) | josh_jennings | 10 |
-| [Is anyone else severely impacted by the frequent GitHub actions outrages?](https://www.reddit.com/r/devops/comments/125w9wp/is_anyone_else_severely_impacted_by_the_frequent/) | mikeschem | 9 |
-| [Azure DevOps deploy to internal servers](https://www.reddit.com/r/devops/comments/125umsy/azure_devops_deploy_to_internal_servers/) | No_Butterfly_1888 | 9 |
-| [DevOpsDays Tel Aviv 2023 - CFP Open March 30-May 31st](https://www.reddit.com/r/devops/comments/126h6u1/devopsdays_tel_aviv_2023_cfp_open_march_30may_31st/) | shar1z | 7 |
-| [CI/CD Structure for Pulumi with Local Backend](https://www.reddit.com/r/devops/comments/125wwi3/cicd_structure_for_pulumi_with_local_backend/) | Sfedosman | 4 |
-| [working in a shop that uses heavy CLI for builds, automation. is there some solution to log and have all the errors sent to me for troubleshooting besides a user giving a screenshot or complete copy paste into chat?](https://www.reddit.com/r/devops/comments/126b7xu/working_in_a_shop_that_uses_heavy_cli_for_builds/) | V3Qn117x0UFQ | 2 |
-| [Github Actions for multi-tenant/subscription deployments](https://www.reddit.com/r/devops/comments/125ya0d/github_actions_for_multitenantsubscription/) | winle22 | 2 |
-| [Blue/Green Enhancements](https://www.reddit.com/r/devops/comments/126hrnk/bluegreen_enhancements/) | InterestedBalboa | 2 |
+| [Anyone doing Environments-as-a-service?](https://www.reddit.com/r/devops/comments/126v2e4/anyone_doing_environmentsasaservice/) | lost_your_fill | 60 |
+| [Do you, or have you ever regretted getting into DevOps, as opposed to something like Software Engineering or some other field in tech?](https://www.reddit.com/r/devops/comments/126o1fx/do_you_or_have_you_ever_regretted_getting_into/) | yeahdude78 | 21 |
+| [The DevOps Conference video session recordings now available!](https://www.reddit.com/r/devops/comments/126ws9l/the_devops_conference_video_session_recordings/) | cipher-zer0 | 13 |
+| [How to Succeed at DevOps: Wrong Answers Only!](https://www.reddit.com/r/devops/comments/126omdb/how_to_succeed_at_devops_wrong_answers_only/) | setheliot | 12 |
+| [How important is DORA to you?](https://www.reddit.com/r/devops/comments/1277699/how_important_is_dora_to_you/) | icewatercoffee | 6 |
+| [The evolution and erosion of a service-oriented architecture in enterprise software](https://www.reddit.com/r/devops/comments/1275m3q/the_evolution_and_erosion_of_a_serviceoriented/) | gdahlm | 3 |
+| [Need some advice: Was laid off after roughly a year in my first DevOps role, now I'm back on the job market again. Series A startup I was at laid off 4 out of the 6 engineers on the team. I have a non-traditional career trajectory and absolutely DO NOT want to go back to product.](https://www.reddit.com/r/devops/comments/126ummi/need_some_advice_was_laid_off_after_roughly_a/) | bknyohmyy | 2 |
+| [baltocdn.com (helm apt repo) domain suspended or not configured](https://www.reddit.com/r/devops/comments/1272hpn/baltocdncom_helm_apt_repo_domain_suspended_or_not/) | AchimAlman | 0 |
+| [automation ideas](https://www.reddit.com/r/devops/comments/126rbai/automation_ideas/) | GetFit_Messi | 0 |
+| [Turn any VM into a PaaS](https://www.reddit.com/r/devops/comments/12787eh/turn_any_vm_into_a_paas/) | zacksiri | 0 |
