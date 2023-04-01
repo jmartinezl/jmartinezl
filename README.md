@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Anyone doing Environments-as-a-service?](https://www.reddit.com/r/devops/comments/126v2e4/anyone_doing_environmentsasaservice/) | lost_your_fill | 60 |
-| [Do you, or have you ever regretted getting into DevOps, as opposed to something like Software Engineering or some other field in tech?](https://www.reddit.com/r/devops/comments/126o1fx/do_you_or_have_you_ever_regretted_getting_into/) | yeahdude78 | 21 |
-| [The DevOps Conference video session recordings now available!](https://www.reddit.com/r/devops/comments/126ws9l/the_devops_conference_video_session_recordings/) | cipher-zer0 | 13 |
-| [How to Succeed at DevOps: Wrong Answers Only!](https://www.reddit.com/r/devops/comments/126omdb/how_to_succeed_at_devops_wrong_answers_only/) | setheliot | 12 |
-| [How important is DORA to you?](https://www.reddit.com/r/devops/comments/1277699/how_important_is_dora_to_you/) | icewatercoffee | 6 |
-| [The evolution and erosion of a service-oriented architecture in enterprise software](https://www.reddit.com/r/devops/comments/1275m3q/the_evolution_and_erosion_of_a_serviceoriented/) | gdahlm | 3 |
-| [Need some advice: Was laid off after roughly a year in my first DevOps role, now I'm back on the job market again. Series A startup I was at laid off 4 out of the 6 engineers on the team. I have a non-traditional career trajectory and absolutely DO NOT want to go back to product.](https://www.reddit.com/r/devops/comments/126ummi/need_some_advice_was_laid_off_after_roughly_a/) | bknyohmyy | 2 |
-| [baltocdn.com (helm apt repo) domain suspended or not configured](https://www.reddit.com/r/devops/comments/1272hpn/baltocdncom_helm_apt_repo_domain_suspended_or_not/) | AchimAlman | 0 |
-| [automation ideas](https://www.reddit.com/r/devops/comments/126rbai/automation_ideas/) | GetFit_Messi | 0 |
-| [Turn any VM into a PaaS](https://www.reddit.com/r/devops/comments/12787eh/turn_any_vm_into_a_paas/) | zacksiri | 0 |
+| [Looking for a speaker on a panel on "how to make the most of Jenkins", pm me if interested](https://www.reddit.com/r/devops/comments/127mrh2/looking_for_a_speaker_on_a_panel_on_how_to_make/) | No_Presentation_9821 | 49 |
+| [How does your company roll out code?](https://www.reddit.com/r/devops/comments/127wv4v/how_does_your_company_roll_out_code/) | jigoolik | 39 |
+| [As a new team member, when is it appropriate to tell your boss that there's a a tech conference you want to go to?](https://www.reddit.com/r/devops/comments/1281ffv/as_a_new_team_member_when_is_it_appropriate_to/) | mkhadar | 21 |
+| [Where do y’all get good quality DevOps Stickers?](https://www.reddit.com/r/devops/comments/127y6il/where_do_yall_get_good_quality_devops_stickers/) | Maverik_10 | 9 |
+| [Reverse Engineer Advise Needed](https://www.reddit.com/r/devops/comments/128jel2/reverse_engineer_advise_needed/) | theresumeartisan | 3 |
+| [Kubernetes vault first authentication token root](https://www.reddit.com/r/devops/comments/128iwa0/kubernetes_vault_first_authentication_token_root/) | ScriptorTux | 3 |
+| [HashiCorp Vault vs AWS Secrets Manager](https://www.reddit.com/r/devops/comments/127tqjf/hashicorp_vault_vs_aws_secrets_manager/) | Shot-Bag-9219 | 3 |
+| [Demonstrating auto scaling with Docker and or Kubernetes for my Thesis](https://www.reddit.com/r/devops/comments/128jfys/demonstrating_auto_scaling_with_docker_and_or/) | SadanielsVD | 3 |
+| [Kubespray Join Worker Node Issue IP Sans](https://www.reddit.com/r/devops/comments/127ndqs/kubespray_join_worker_node_issue_ip_sans/) | Cultural-Pizza-1916 | 2 |
+| [Do you use any kind of tracking software for your deployments? A poll!](https://www.reddit.com/r/devops/comments/128frxn/do_you_use_any_kind_of_tracking_software_for_your/) | Bubbly_Penalty6048 | 1 |
