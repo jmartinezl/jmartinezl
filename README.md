@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Looking for a speaker on a panel on "how to make the most of Jenkins", pm me if interested](https://www.reddit.com/r/devops/comments/127mrh2/looking_for_a_speaker_on_a_panel_on_how_to_make/) | No_Presentation_9821 | 49 |
-| [How does your company roll out code?](https://www.reddit.com/r/devops/comments/127wv4v/how_does_your_company_roll_out_code/) | jigoolik | 39 |
-| [As a new team member, when is it appropriate to tell your boss that there's a a tech conference you want to go to?](https://www.reddit.com/r/devops/comments/1281ffv/as_a_new_team_member_when_is_it_appropriate_to/) | mkhadar | 21 |
-| [Where do y’all get good quality DevOps Stickers?](https://www.reddit.com/r/devops/comments/127y6il/where_do_yall_get_good_quality_devops_stickers/) | Maverik_10 | 9 |
-| [Reverse Engineer Advise Needed](https://www.reddit.com/r/devops/comments/128jel2/reverse_engineer_advise_needed/) | theresumeartisan | 3 |
-| [Kubernetes vault first authentication token root](https://www.reddit.com/r/devops/comments/128iwa0/kubernetes_vault_first_authentication_token_root/) | ScriptorTux | 3 |
-| [HashiCorp Vault vs AWS Secrets Manager](https://www.reddit.com/r/devops/comments/127tqjf/hashicorp_vault_vs_aws_secrets_manager/) | Shot-Bag-9219 | 3 |
-| [Demonstrating auto scaling with Docker and or Kubernetes for my Thesis](https://www.reddit.com/r/devops/comments/128jfys/demonstrating_auto_scaling_with_docker_and_or/) | SadanielsVD | 3 |
-| [Kubespray Join Worker Node Issue IP Sans](https://www.reddit.com/r/devops/comments/127ndqs/kubespray_join_worker_node_issue_ip_sans/) | Cultural-Pizza-1916 | 2 |
-| [Do you use any kind of tracking software for your deployments? A poll!](https://www.reddit.com/r/devops/comments/128frxn/do_you_use_any_kind_of_tracking_software_for_your/) | Bubbly_Penalty6048 | 1 |
+| [I want to give another engineer production access safely](https://www.reddit.com/r/devops/comments/1291ugy/i_want_to_give_another_engineer_production_access/) | dont_forget_canada | 43 |
+| [Using Github Actions to Run Python Scripts and have Discord Bots as User Interfaces.](https://www.reddit.com/r/devops/comments/128m0c7/using_github_actions_to_run_python_scripts_and/) | Sulstice2 | 31 |
+| [DevOps - Stuck between a rock and a hard place?](https://www.reddit.com/r/devops/comments/128yunm/devops_stuck_between_a_rock_and_a_hard_place/) | elasticweed | 6 |
+| [What percentage of your DevOps knowledge is actually used in your work?](https://www.reddit.com/r/devops/comments/129dwse/what_percentage_of_your_devops_knowledge_is/) | IamOkei | 5 |
+| [Monthly 'Shameless Self Promotion' thread - 2023/04](https://www.reddit.com/r/devops/comments/129a5qm/monthly_shameless_self_promotion_thread_202304/) | mthode | 5 |
+| [SRE this week - 2nd April 2023](https://www.reddit.com/r/devops/comments/129fksr/sre_this_week_2nd_april_2023/) | vy94 | 3 |
+| [linux mint 21 Cinnamon packer build](https://www.reddit.com/r/devops/comments/128p73a/linux_mint_21_cinnamon_packer_build/) | --MUFFIN_FACE-- | 2 |
+| [DevOps projects](https://www.reddit.com/r/devops/comments/129gvgm/devops_projects/) | lev-13 | 1 |
+| [🚀 tfgpt - Terraform Meets GPT](https://www.reddit.com/r/devops/comments/129fg4d/tfgpt_terraform_meets_gpt/) | flaviuscdinu | 0 |
+| [Open source solution to build internal apps](https://www.reddit.com/r/devops/comments/129d362/open_source_solution_to_build_internal_apps/) | GetFit_Messi | 0 |
