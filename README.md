@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I want to give another engineer production access safely](https://www.reddit.com/r/devops/comments/1291ugy/i_want_to_give_another_engineer_production_access/) | dont_forget_canada | 43 |
-| [Using Github Actions to Run Python Scripts and have Discord Bots as User Interfaces.](https://www.reddit.com/r/devops/comments/128m0c7/using_github_actions_to_run_python_scripts_and/) | Sulstice2 | 31 |
-| [DevOps - Stuck between a rock and a hard place?](https://www.reddit.com/r/devops/comments/128yunm/devops_stuck_between_a_rock_and_a_hard_place/) | elasticweed | 6 |
-| [What percentage of your DevOps knowledge is actually used in your work?](https://www.reddit.com/r/devops/comments/129dwse/what_percentage_of_your_devops_knowledge_is/) | IamOkei | 5 |
-| [Monthly 'Shameless Self Promotion' thread - 2023/04](https://www.reddit.com/r/devops/comments/129a5qm/monthly_shameless_self_promotion_thread_202304/) | mthode | 5 |
-| [SRE this week - 2nd April 2023](https://www.reddit.com/r/devops/comments/129fksr/sre_this_week_2nd_april_2023/) | vy94 | 3 |
-| [linux mint 21 Cinnamon packer build](https://www.reddit.com/r/devops/comments/128p73a/linux_mint_21_cinnamon_packer_build/) | --MUFFIN_FACE-- | 2 |
-| [DevOps projects](https://www.reddit.com/r/devops/comments/129gvgm/devops_projects/) | lev-13 | 1 |
-| [🚀 tfgpt - Terraform Meets GPT](https://www.reddit.com/r/devops/comments/129fg4d/tfgpt_terraform_meets_gpt/) | flaviuscdinu | 0 |
-| [Open source solution to build internal apps](https://www.reddit.com/r/devops/comments/129d362/open_source_solution_to_build_internal_apps/) | GetFit_Messi | 0 |
+| [How do you initially upload your docker image to an ECR](https://www.reddit.com/r/devops/comments/12a7x62/how_do_you_initially_upload_your_docker_image_to/) | izner82 | 21 |
+| [What are you favorite dashboard tools? Stack and usecases inside.](https://www.reddit.com/r/devops/comments/129vxcz/what_are_you_favorite_dashboard_tools_stack_and/) | Davek804 | 8 |
+| [What are the contents of layers in containers](https://www.reddit.com/r/devops/comments/129pd1a/what_are_the_contents_of_layers_in_containers/) | Mosesmbadi | 8 |
+| [what is best and cleanest way to manage terraform code](https://www.reddit.com/r/devops/comments/12agk9c/what_is_best_and_cleanest_way_to_manage_terraform/) | vedant31 | 3 |
+| [Which branching strategy are you currently using?](https://www.reddit.com/r/devops/comments/12adkyc/which_branching_strategy_are_you_currently_using/) | shellwhale | 3 |
+| [DNS IaC options](https://www.reddit.com/r/devops/comments/12ah3ca/dns_iac_options/) | fab_space | 3 |
+| [How to safely gradually roll out WAF rules](https://www.reddit.com/r/devops/comments/12aatpa/how_to_safely_gradually_roll_out_waf_rules/) | devops_wannabe | 2 |
+| [Gitops explained using Argo, Harbor and Kubernetes](https://www.reddit.com/r/devops/comments/12ai327/gitops_explained_using_argo_harbor_and_kubernetes/) | appinv | 2 |
+| [Need help trying to make POST request from my static web app on Github Pages to SpringBoot on EC2 via HTTPS](https://www.reddit.com/r/devops/comments/129u3ix/need_help_trying_to_make_post_request_from_my/) | thisGuyCodes | 0 |
+| [Looking for some concise guidance to move into DevOps or Cloud Engineering Role](https://www.reddit.com/r/devops/comments/12aflci/looking_for_some_concise_guidance_to_move_into/) | niaznishu | 0 |
