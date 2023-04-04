@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you initially upload your docker image to an ECR](https://www.reddit.com/r/devops/comments/12a7x62/how_do_you_initially_upload_your_docker_image_to/) | izner82 | 21 |
-| [What are you favorite dashboard tools? Stack and usecases inside.](https://www.reddit.com/r/devops/comments/129vxcz/what_are_you_favorite_dashboard_tools_stack_and/) | Davek804 | 8 |
-| [What are the contents of layers in containers](https://www.reddit.com/r/devops/comments/129pd1a/what_are_the_contents_of_layers_in_containers/) | Mosesmbadi | 8 |
-| [what is best and cleanest way to manage terraform code](https://www.reddit.com/r/devops/comments/12agk9c/what_is_best_and_cleanest_way_to_manage_terraform/) | vedant31 | 3 |
-| [Which branching strategy are you currently using?](https://www.reddit.com/r/devops/comments/12adkyc/which_branching_strategy_are_you_currently_using/) | shellwhale | 3 |
-| [DNS IaC options](https://www.reddit.com/r/devops/comments/12ah3ca/dns_iac_options/) | fab_space | 3 |
-| [How to safely gradually roll out WAF rules](https://www.reddit.com/r/devops/comments/12aatpa/how_to_safely_gradually_roll_out_waf_rules/) | devops_wannabe | 2 |
-| [Gitops explained using Argo, Harbor and Kubernetes](https://www.reddit.com/r/devops/comments/12ai327/gitops_explained_using_argo_harbor_and_kubernetes/) | appinv | 2 |
-| [Need help trying to make POST request from my static web app on Github Pages to SpringBoot on EC2 via HTTPS](https://www.reddit.com/r/devops/comments/129u3ix/need_help_trying_to_make_post_request_from_my/) | thisGuyCodes | 0 |
-| [Looking for some concise guidance to move into DevOps or Cloud Engineering Role](https://www.reddit.com/r/devops/comments/12aflci/looking_for_some_concise_guidance_to_move_into/) | niaznishu | 0 |
+| [What's the shortest you've ever stayed at a job](https://www.reddit.com/r/devops/comments/12apgin/whats_the_shortest_youve_ever_stayed_at_a_job/) | Obj_Sea | 143 |
+| [On-Call Scars: What system did you support that hurt you the most? Here's Mine.](https://www.reddit.com/r/devops/comments/12aw8uw/oncall_scars_what_system_did_you_support_that/) | CS-0010 | 33 |
+| [Does anyone have experience with Spotify's Backstage?](https://www.reddit.com/r/devops/comments/12be0o6/does_anyone_have_experience_with_spotifys/) | C12H16N | 4 |
+| [Prometheus - balancing cardinality with ephemeral bs](https://www.reddit.com/r/devops/comments/12aygos/prometheus_balancing_cardinality_with_ephemeral_bs/) | dampersand | 2 |
+| [Gitlab CI/CD -- Changing the Default Repo URL?](https://www.reddit.com/r/devops/comments/12ayvq4/gitlab_cicd_changing_the_default_repo_url/) | matterful | 2 |
+| [How to find out how much terraform changes cost?](https://www.reddit.com/r/devops/comments/12aou9f/how_to_find_out_how_much_terraform_changes_cost/) | mesamunefire | 1 |
+| [Experiences combining multiple product APIs?](https://www.reddit.com/r/devops/comments/12augyf/experiences_combining_multiple_product_apis/) | pneRock | 1 |
+| [DevOps course for small companies and individuals](https://www.reddit.com/r/devops/comments/12almj1/devops_course_for_small_companies_and_individuals/) | predmijat | 1 |
+| [Deciding on how to manage our configuration on our fleet of linux boxes](https://www.reddit.com/r/devops/comments/12arfl4/deciding_on_how_to_manage_our_configuration_on/) | bopete1313 | 1 |
+| [Artifactory Remote Repo Connection Issue](https://www.reddit.com/r/devops/comments/12aqbu4/artifactory_remote_repo_connection_issue/) | DevOps_Noob1 | 1 |
