@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What's the shortest you've ever stayed at a job](https://www.reddit.com/r/devops/comments/12apgin/whats_the_shortest_youve_ever_stayed_at_a_job/) | Obj_Sea | 143 |
-| [On-Call Scars: What system did you support that hurt you the most? Here's Mine.](https://www.reddit.com/r/devops/comments/12aw8uw/oncall_scars_what_system_did_you_support_that/) | CS-0010 | 33 |
-| [Does anyone have experience with Spotify's Backstage?](https://www.reddit.com/r/devops/comments/12be0o6/does_anyone_have_experience_with_spotifys/) | C12H16N | 4 |
-| [Prometheus - balancing cardinality with ephemeral bs](https://www.reddit.com/r/devops/comments/12aygos/prometheus_balancing_cardinality_with_ephemeral_bs/) | dampersand | 2 |
-| [Gitlab CI/CD -- Changing the Default Repo URL?](https://www.reddit.com/r/devops/comments/12ayvq4/gitlab_cicd_changing_the_default_repo_url/) | matterful | 2 |
-| [How to find out how much terraform changes cost?](https://www.reddit.com/r/devops/comments/12aou9f/how_to_find_out_how_much_terraform_changes_cost/) | mesamunefire | 1 |
-| [Experiences combining multiple product APIs?](https://www.reddit.com/r/devops/comments/12augyf/experiences_combining_multiple_product_apis/) | pneRock | 1 |
-| [DevOps course for small companies and individuals](https://www.reddit.com/r/devops/comments/12almj1/devops_course_for_small_companies_and_individuals/) | predmijat | 1 |
-| [Deciding on how to manage our configuration on our fleet of linux boxes](https://www.reddit.com/r/devops/comments/12arfl4/deciding_on_how_to_manage_our_configuration_on/) | bopete1313 | 1 |
-| [Artifactory Remote Repo Connection Issue](https://www.reddit.com/r/devops/comments/12aqbu4/artifactory_remote_repo_connection_issue/) | DevOps_Noob1 | 1 |
+| [Do we even need Infrastructure Visualization Tools?](https://www.reddit.com/r/devops/comments/12bor39/do_we_even_need_infrastructure_visualization_tools/) | CS-0010 | 82 |
+| [Best learning subscriptions for ~350 USD per year?](https://www.reddit.com/r/devops/comments/12by5t9/best_learning_subscriptions_for_350_usd_per_year/) | RubixKuber | 7 |
+| [Programming](https://www.reddit.com/r/devops/comments/12bjm2e/programming/) | -lousyd | 6 |
+| [I need a vent - toxic micromanaging Managers who remove permissions.](https://www.reddit.com/r/devops/comments/12cht7g/i_need_a_vent_toxic_micromanaging_managers_who/) | PowerfulExchange6220 | 6 |
+| [Need a roadmap for Jr. Linux Admin](https://www.reddit.com/r/devops/comments/12ccrs7/need_a_roadmap_for_jr_linux_admin/) | ak17hg | 5 |
+| [How you freelance/contractor guys manage the time to be billed to customers?](https://www.reddit.com/r/devops/comments/12by5m5/how_you_freelancecontractor_guys_manage_the_time/) | Middle-Sprinkles-165 | 5 |
+| [Making The Transition - SysAdmin to DevOps/SRE](https://www.reddit.com/r/devops/comments/12boxd3/making_the_transition_sysadmin_to_devopssre/) | brainthrash | 4 |
+| [Manually failing a step in gitaction workflow](https://www.reddit.com/r/devops/comments/12cguex/manually_failing_a_step_in_gitaction_workflow/) | jaango123 | 1 |
+| [Hey folks, we're in 2023 and I was wondering where this community generally was when it comes to the fast paced evolution of the industry in the last 15 years?](https://www.reddit.com/r/devops/comments/12cgdct/hey_folks_were_in_2023_and_i_was_wondering_where/) | chub79 | 1 |
+| [Good AWS WAF course?](https://www.reddit.com/r/devops/comments/12cf1g4/good_aws_waf_course/) | dancingraccoons | 1 |
