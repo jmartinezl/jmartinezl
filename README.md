@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do we even need Infrastructure Visualization Tools?](https://www.reddit.com/r/devops/comments/12bor39/do_we_even_need_infrastructure_visualization_tools/) | CS-0010 | 82 |
-| [Best learning subscriptions for ~350 USD per year?](https://www.reddit.com/r/devops/comments/12by5t9/best_learning_subscriptions_for_350_usd_per_year/) | RubixKuber | 7 |
-| [Programming](https://www.reddit.com/r/devops/comments/12bjm2e/programming/) | -lousyd | 6 |
-| [I need a vent - toxic micromanaging Managers who remove permissions.](https://www.reddit.com/r/devops/comments/12cht7g/i_need_a_vent_toxic_micromanaging_managers_who/) | PowerfulExchange6220 | 6 |
-| [Need a roadmap for Jr. Linux Admin](https://www.reddit.com/r/devops/comments/12ccrs7/need_a_roadmap_for_jr_linux_admin/) | ak17hg | 5 |
-| [How you freelance/contractor guys manage the time to be billed to customers?](https://www.reddit.com/r/devops/comments/12by5m5/how_you_freelancecontractor_guys_manage_the_time/) | Middle-Sprinkles-165 | 5 |
-| [Making The Transition - SysAdmin to DevOps/SRE](https://www.reddit.com/r/devops/comments/12boxd3/making_the_transition_sysadmin_to_devopssre/) | brainthrash | 4 |
-| [Manually failing a step in gitaction workflow](https://www.reddit.com/r/devops/comments/12cguex/manually_failing_a_step_in_gitaction_workflow/) | jaango123 | 1 |
-| [Hey folks, we're in 2023 and I was wondering where this community generally was when it comes to the fast paced evolution of the industry in the last 15 years?](https://www.reddit.com/r/devops/comments/12cgdct/hey_folks_were_in_2023_and_i_was_wondering_where/) | chub79 | 1 |
-| [Good AWS WAF course?](https://www.reddit.com/r/devops/comments/12cf1g4/good_aws_waf_course/) | dancingraccoons | 1 |
+| [Got fired from my first DevOps job -- LF Feedback](https://www.reddit.com/r/devops/comments/12d0upu/got_fired_from_my_first_devops_job_lf_feedback/) | dr-tenma | 161 |
+| [Made it to DevOps Engineer](https://www.reddit.com/r/devops/comments/12d3n2a/made_it_to_devops_engineer/) | jjans002 | 30 |
+| [People who have started, or been, looking for a job.. how bad is the market currently?](https://www.reddit.com/r/devops/comments/12cspa3/people_who_have_started_or_been_looking_for_a_job/) | yeahdude78 | 23 |
+| [How do you measure the success of your DevOps services, and what metrics do you use to evaluate performance?](https://www.reddit.com/r/devops/comments/12dcsll/how_do_you_measure_the_success_of_your_devops/) | risabh07 | 2 |
+| [Are you unhappy with IaC?](https://www.reddit.com/r/devops/comments/12czmj7/are_you_unhappy_with_iac/) | g0_g6t_1t | 2 |
+| [User Authentication Demo- looking for feedback](https://www.reddit.com/r/devops/comments/12dbtmd/user_authentication_demo_looking_for_feedback/) | Adventurous_Meet9560 | 1 |
+| [Question about DevOps pipline documentstion](https://www.reddit.com/r/devops/comments/12cn6d4/question_about_devops_pipline_documentstion/) | cciex6 | 1 |
+| [How do you configure your cluster after it is deployed?](https://www.reddit.com/r/devops/comments/12d1yrh/how_do_you_configure_your_cluster_after_it_is/) | ForgettablePersona | 1 |
+| [Bare Metal provisioning of 20+ Servers](https://www.reddit.com/r/devops/comments/12cp9jh/bare_metal_provisioning_of_20_servers/) | luney800 | 1 |
+| [Introducing “The Hangar”: A Community for Senior DevOps &amp; Software Engineers](https://www.reddit.com/r/devops/comments/12ddmka/introducing_the_hangar_a_community_for_senior/) | efunction | 0 |
