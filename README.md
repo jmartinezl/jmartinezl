@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Got fired from my first DevOps job -- LF Feedback](https://www.reddit.com/r/devops/comments/12d0upu/got_fired_from_my_first_devops_job_lf_feedback/) | dr-tenma | 161 |
-| [Made it to DevOps Engineer](https://www.reddit.com/r/devops/comments/12d3n2a/made_it_to_devops_engineer/) | jjans002 | 30 |
-| [People who have started, or been, looking for a job.. how bad is the market currently?](https://www.reddit.com/r/devops/comments/12cspa3/people_who_have_started_or_been_looking_for_a_job/) | yeahdude78 | 23 |
-| [How do you measure the success of your DevOps services, and what metrics do you use to evaluate performance?](https://www.reddit.com/r/devops/comments/12dcsll/how_do_you_measure_the_success_of_your_devops/) | risabh07 | 2 |
-| [Are you unhappy with IaC?](https://www.reddit.com/r/devops/comments/12czmj7/are_you_unhappy_with_iac/) | g0_g6t_1t | 2 |
-| [User Authentication Demo- looking for feedback](https://www.reddit.com/r/devops/comments/12dbtmd/user_authentication_demo_looking_for_feedback/) | Adventurous_Meet9560 | 1 |
-| [Question about DevOps pipline documentstion](https://www.reddit.com/r/devops/comments/12cn6d4/question_about_devops_pipline_documentstion/) | cciex6 | 1 |
-| [How do you configure your cluster after it is deployed?](https://www.reddit.com/r/devops/comments/12d1yrh/how_do_you_configure_your_cluster_after_it_is/) | ForgettablePersona | 1 |
-| [Bare Metal provisioning of 20+ Servers](https://www.reddit.com/r/devops/comments/12cp9jh/bare_metal_provisioning_of_20_servers/) | luney800 | 1 |
-| [Introducing “The Hangar”: A Community for Senior DevOps &amp; Software Engineers](https://www.reddit.com/r/devops/comments/12ddmka/introducing_the_hangar_a_community_for_senior/) | efunction | 0 |
+| [Any ideas for how to complete 100 vCPU-seconds worth of tasks in less than 3 seconds?](https://www.reddit.com/r/devops/comments/12dkn0p/any_ideas_for_how_to_complete_100_vcpuseconds/) | Hexafluoride74 | 93 |
+| [Spring Boot pod takes 60 seconds to become ready; trouble handling spiky workloads](https://www.reddit.com/r/devops/comments/12e9n8n/spring_boot_pod_takes_60_seconds_to_become_ready/) | geospatialdeveloper | 33 |
+| [Studied 2.5 years for DevOps, what now?](https://www.reddit.com/r/devops/comments/12dnvsk/studied_25_years_for_devops_what_now/) | deanala | 19 |
+| [Any tool for "Terraform Diff Coverage"?](https://www.reddit.com/r/devops/comments/12edesn/any_tool_for_terraform_diff_coverage/) | Jatalocks2 | 7 |
+| [Where do I find clients for consulting? Do I cold call?](https://www.reddit.com/r/devops/comments/12dw41c/where_do_i_find_clients_for_consulting_do_i_cold/) | Minute_Box6650 | 5 |
+| [Is it common to transition from Security automation engineer to devops/devsecop?](https://www.reddit.com/r/devops/comments/12efbtw/is_it_common_to_transition_from_security/) | ImHhW | 2 |
+| [Spark simple query to Ceph cluster - Unable to execute HTTP request: Unsupported or unrecognized SSL message](https://www.reddit.com/r/devops/comments/12dv9f5/spark_simple_query_to_ceph_cluster_unable_to/) | pioneeringwork | 1 |
+| [Should I use base for a single command that runs every minute instead of crontab?](https://www.reddit.com/r/devops/comments/12ef599/should_i_use_base_for_a_single_command_that_runs/) | pc_magas | 1 |
+| [Flask app container on fargate unable to connect on mongodb container](https://www.reddit.com/r/devops/comments/12dqy5l/flask_app_container_on_fargate_unable_to_connect/) | Blitzpat | 1 |
+| [SSO for Third Party Users and Web App Auth Integration](https://www.reddit.com/r/devops/comments/12dwqcq/sso_for_third_party_users_and_web_app_auth/) | MeatBag23 | 0 |
