@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Any ideas for how to complete 100 vCPU-seconds worth of tasks in less than 3 seconds?](https://www.reddit.com/r/devops/comments/12dkn0p/any_ideas_for_how_to_complete_100_vcpuseconds/) | Hexafluoride74 | 93 |
-| [Spring Boot pod takes 60 seconds to become ready; trouble handling spiky workloads](https://www.reddit.com/r/devops/comments/12e9n8n/spring_boot_pod_takes_60_seconds_to_become_ready/) | geospatialdeveloper | 33 |
-| [Studied 2.5 years for DevOps, what now?](https://www.reddit.com/r/devops/comments/12dnvsk/studied_25_years_for_devops_what_now/) | deanala | 19 |
-| [Any tool for "Terraform Diff Coverage"?](https://www.reddit.com/r/devops/comments/12edesn/any_tool_for_terraform_diff_coverage/) | Jatalocks2 | 7 |
-| [Where do I find clients for consulting? Do I cold call?](https://www.reddit.com/r/devops/comments/12dw41c/where_do_i_find_clients_for_consulting_do_i_cold/) | Minute_Box6650 | 5 |
-| [Is it common to transition from Security automation engineer to devops/devsecop?](https://www.reddit.com/r/devops/comments/12efbtw/is_it_common_to_transition_from_security/) | ImHhW | 2 |
-| [Spark simple query to Ceph cluster - Unable to execute HTTP request: Unsupported or unrecognized SSL message](https://www.reddit.com/r/devops/comments/12dv9f5/spark_simple_query_to_ceph_cluster_unable_to/) | pioneeringwork | 1 |
-| [Should I use base for a single command that runs every minute instead of crontab?](https://www.reddit.com/r/devops/comments/12ef599/should_i_use_base_for_a_single_command_that_runs/) | pc_magas | 1 |
-| [Flask app container on fargate unable to connect on mongodb container](https://www.reddit.com/r/devops/comments/12dqy5l/flask_app_container_on_fargate_unable_to_connect/) | Blitzpat | 1 |
-| [SSO for Third Party Users and Web App Auth Integration](https://www.reddit.com/r/devops/comments/12dwqcq/sso_for_third_party_users_and_web_app_auth/) | MeatBag23 | 0 |
+| [Can we stop with the "DevOps is not a role!!!!" posts?](https://www.reddit.com/r/devops/comments/12es2dk/can_we_stop_with_the_devops_is_not_a_role_posts/) | bioinformaticsthrow1 | 345 |
+| [Is there always this much chaos in DevOps?](https://www.reddit.com/r/devops/comments/12eur2u/is_there_always_this_much_chaos_in_devops/) | jizzthonian | 25 |
+| [Did I fuck up by choosing a wrong career at the end of the interview](https://www.reddit.com/r/devops/comments/12elfof/did_i_fuck_up_by_choosing_a_wrong_career_at_the/) | Weather_Only | 13 |
+| [Using Documentation as Code for a deployment guide](https://www.reddit.com/r/devops/comments/12epvyc/using_documentation_as_code_for_a_deployment_guide/) | mfmcdonagh | 5 |
+| [What are the real cons of using jenkins?](https://www.reddit.com/r/devops/comments/12fhdkm/what_are_the_real_cons_of_using_jenkins/) | youngeng | 4 |
+| [DevOps and NetDevOps](https://www.reddit.com/r/devops/comments/12f8jr4/devops_and_netdevops/) | Twanza | 2 |
+| [file copy to S3](https://www.reddit.com/r/devops/comments/12fd48c/file_copy_to_s3/) | anacondaonline | 1 |
+| [Which cicd tool is the most worthy to invest my time in?](https://www.reddit.com/r/devops/comments/12ekx2i/which_cicd_tool_is_the_most_worthy_to_invest_my/) | izner82 | 1 |
+| [Use EC2 as ad-hoc node in on-prem k8s cluster](https://www.reddit.com/r/devops/comments/12fi8sm/use_ec2_as_adhoc_node_in_onprem_k8s_cluster/) | romanzdk | 1 |
+| [Generate OpenAPI specs from traffic](https://www.reddit.com/r/devops/comments/12fa9of/generate_openapi_specs_from_traffic/) | v3duuu | 1 |
