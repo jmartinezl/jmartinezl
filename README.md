@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Can we stop with the "DevOps is not a role!!!!" posts?](https://www.reddit.com/r/devops/comments/12es2dk/can_we_stop_with_the_devops_is_not_a_role_posts/) | bioinformaticsthrow1 | 345 |
-| [Is there always this much chaos in DevOps?](https://www.reddit.com/r/devops/comments/12eur2u/is_there_always_this_much_chaos_in_devops/) | jizzthonian | 25 |
-| [Did I fuck up by choosing a wrong career at the end of the interview](https://www.reddit.com/r/devops/comments/12elfof/did_i_fuck_up_by_choosing_a_wrong_career_at_the/) | Weather_Only | 13 |
-| [Using Documentation as Code for a deployment guide](https://www.reddit.com/r/devops/comments/12epvyc/using_documentation_as_code_for_a_deployment_guide/) | mfmcdonagh | 5 |
-| [What are the real cons of using jenkins?](https://www.reddit.com/r/devops/comments/12fhdkm/what_are_the_real_cons_of_using_jenkins/) | youngeng | 4 |
-| [DevOps and NetDevOps](https://www.reddit.com/r/devops/comments/12f8jr4/devops_and_netdevops/) | Twanza | 2 |
-| [file copy to S3](https://www.reddit.com/r/devops/comments/12fd48c/file_copy_to_s3/) | anacondaonline | 1 |
-| [Which cicd tool is the most worthy to invest my time in?](https://www.reddit.com/r/devops/comments/12ekx2i/which_cicd_tool_is_the_most_worthy_to_invest_my/) | izner82 | 1 |
-| [Use EC2 as ad-hoc node in on-prem k8s cluster](https://www.reddit.com/r/devops/comments/12fi8sm/use_ec2_as_adhoc_node_in_onprem_k8s_cluster/) | romanzdk | 1 |
-| [Generate OpenAPI specs from traffic](https://www.reddit.com/r/devops/comments/12fa9of/generate_openapi_specs_from_traffic/) | v3duuu | 1 |
+| [Introducing the Comprehensive DevOps Learning Series](https://www.reddit.com/r/devops/comments/12gcft0/introducing_the_comprehensive_devops_learning/) | Throwmetothewolf | 67 |
+| [Need to learn AWS and Kubernetes ASAP](https://www.reddit.com/r/devops/comments/12fsj4r/need_to_learn_aws_and_kubernetes_asap/) | basketballah21 | 29 |
+| [Up to $1000 to spend on "professional development". How would you spend it?](https://www.reddit.com/r/devops/comments/12fpjs7/up_to_1000_to_spend_on_professional_development/) | jdptechnc | 17 |
+| [The History and Evolution of DevOps](https://www.reddit.com/r/devops/comments/12ge71h/the_history_and_evolution_of_devops/) | Throwmetothewolf | 13 |
+| [How do you deploy ephemeral Windows Server with Terraform on-premise?](https://www.reddit.com/r/devops/comments/12fse6m/how_do_you_deploy_ephemeral_windows_server_with/) | AemonQE | 7 |
+| [GHA Actions from Marketplace vs Jenkins Plugins](https://www.reddit.com/r/devops/comments/12fmkgf/gha_actions_from_marketplace_vs_jenkins_plugins/) | btdeviant | 5 |
+| [Best study tools to learn azure and azure devops?](https://www.reddit.com/r/devops/comments/12gelug/best_study_tools_to_learn_azure_and_azure_devops/) | JayceThompson101 | 1 |
+| [Azure resources like the ones that Adrian Cantrills have for AWS?](https://www.reddit.com/r/devops/comments/12ge90i/azure_resources_like_the_ones_that_adrian/) | GurkanG | 1 |
+| [Version control table changes with a data warehouse in a multienvironment setup?](https://www.reddit.com/r/devops/comments/12fszhd/version_control_table_changes_with_a_data/) | Fit-Swordfish-5533 | 0 |
+| [List of DevOps / Engineering Capabilities](https://www.reddit.com/r/devops/comments/12fuxy5/list_of_devops_engineering_capabilities/) | FlorianHoppner | 0 |
