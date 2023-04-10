@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Introducing the Comprehensive DevOps Learning Series](https://www.reddit.com/r/devops/comments/12gcft0/introducing_the_comprehensive_devops_learning/) | Throwmetothewolf | 67 |
-| [Need to learn AWS and Kubernetes ASAP](https://www.reddit.com/r/devops/comments/12fsj4r/need_to_learn_aws_and_kubernetes_asap/) | basketballah21 | 29 |
-| [Up to $1000 to spend on "professional development". How would you spend it?](https://www.reddit.com/r/devops/comments/12fpjs7/up_to_1000_to_spend_on_professional_development/) | jdptechnc | 17 |
-| [The History and Evolution of DevOps](https://www.reddit.com/r/devops/comments/12ge71h/the_history_and_evolution_of_devops/) | Throwmetothewolf | 13 |
-| [How do you deploy ephemeral Windows Server with Terraform on-premise?](https://www.reddit.com/r/devops/comments/12fse6m/how_do_you_deploy_ephemeral_windows_server_with/) | AemonQE | 7 |
-| [GHA Actions from Marketplace vs Jenkins Plugins](https://www.reddit.com/r/devops/comments/12fmkgf/gha_actions_from_marketplace_vs_jenkins_plugins/) | btdeviant | 5 |
-| [Best study tools to learn azure and azure devops?](https://www.reddit.com/r/devops/comments/12gelug/best_study_tools_to_learn_azure_and_azure_devops/) | JayceThompson101 | 1 |
-| [Azure resources like the ones that Adrian Cantrills have for AWS?](https://www.reddit.com/r/devops/comments/12ge90i/azure_resources_like_the_ones_that_adrian/) | GurkanG | 1 |
-| [Version control table changes with a data warehouse in a multienvironment setup?](https://www.reddit.com/r/devops/comments/12fszhd/version_control_table_changes_with_a_data/) | Fit-Swordfish-5533 | 0 |
-| [List of DevOps / Engineering Capabilities](https://www.reddit.com/r/devops/comments/12fuxy5/list_of_devops_engineering_capabilities/) | FlorianHoppner | 0 |
+| [Hired as an external DevOps engineer with unclear objective - what should I do?](https://www.reddit.com/r/devops/comments/12gp2jo/hired_as_an_external_devops_engineer_with_unclear/) | Moritz_Loritz | 82 |
+| [Do you use external uptime monitoring?](https://www.reddit.com/r/devops/comments/12h7ou2/do_you_use_external_uptime_monitoring/) | strzibny | 13 |
+| [Automation of your team's local environment setup](https://www.reddit.com/r/devops/comments/12hapa1/automation_of_your_teams_local_environment_setup/) | Sfedosman | 12 |
+| [terracove - open-source to instantly test the health of your terraform/terragrunt repository](https://www.reddit.com/r/devops/comments/12hcafq/terracove_opensource_to_instantly_test_the_health/) | Jatalocks2 | 7 |
+| [DevOps to Product owner](https://www.reddit.com/r/devops/comments/12gj4es/devops_to_product_owner/) | DataFreakk | 5 |
+| [SonarQube Testlink Integration](https://www.reddit.com/r/devops/comments/12hg8uk/sonarqube_testlink_integration/) | Visual_Athlete_192 | 1 |
+| [Quick question about release management](https://www.reddit.com/r/devops/comments/12hemca/quick_question_about_release_management/) | navotvolk | 1 |
+| [Chef berks package](https://www.reddit.com/r/devops/comments/12h5hfh/chef_berks_package/) | yanggang20202024 | 1 |
+| [Which Cloud provider to build infra for LLM-based app](https://www.reddit.com/r/devops/comments/12gwfey/which_cloud_provider_to_build_infra_for_llmbased/) | Separate-Still3770 | 0 |
+| [What did your career up until now look like?](https://www.reddit.com/r/devops/comments/12guyym/what_did_your_career_up_until_now_look_like/) | AemonQE | 0 |
