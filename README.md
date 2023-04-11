@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Hired as an external DevOps engineer with unclear objective - what should I do?](https://www.reddit.com/r/devops/comments/12gp2jo/hired_as_an_external_devops_engineer_with_unclear/) | Moritz_Loritz | 82 |
-| [Do you use external uptime monitoring?](https://www.reddit.com/r/devops/comments/12h7ou2/do_you_use_external_uptime_monitoring/) | strzibny | 13 |
-| [Automation of your team's local environment setup](https://www.reddit.com/r/devops/comments/12hapa1/automation_of_your_teams_local_environment_setup/) | Sfedosman | 12 |
-| [terracove - open-source to instantly test the health of your terraform/terragrunt repository](https://www.reddit.com/r/devops/comments/12hcafq/terracove_opensource_to_instantly_test_the_health/) | Jatalocks2 | 7 |
-| [DevOps to Product owner](https://www.reddit.com/r/devops/comments/12gj4es/devops_to_product_owner/) | DataFreakk | 5 |
-| [SonarQube Testlink Integration](https://www.reddit.com/r/devops/comments/12hg8uk/sonarqube_testlink_integration/) | Visual_Athlete_192 | 1 |
-| [Quick question about release management](https://www.reddit.com/r/devops/comments/12hemca/quick_question_about_release_management/) | navotvolk | 1 |
-| [Chef berks package](https://www.reddit.com/r/devops/comments/12h5hfh/chef_berks_package/) | yanggang20202024 | 1 |
-| [Which Cloud provider to build infra for LLM-based app](https://www.reddit.com/r/devops/comments/12gwfey/which_cloud_provider_to_build_infra_for_llmbased/) | Separate-Still3770 | 0 |
-| [What did your career up until now look like?](https://www.reddit.com/r/devops/comments/12guyym/what_did_your_career_up_until_now_look_like/) | AemonQE | 0 |
+| [How do I win over my new team and get them to use the stuff I was hired to implement?](https://www.reddit.com/r/devops/comments/12hlcfm/how_do_i_win_over_my_new_team_and_get_them_to_use/) | AthleticAcquiantance | 192 |
+| [What's that one time you realised a client/employer just wasn't ready for DevOps?](https://www.reddit.com/r/devops/comments/12hoxjz/whats_that_one_time_you_realised_a_clientemployer/) | vsysio | 16 |
+| [GitHub Secrets: Is it safe to store an environment secret to a file from within a GitHub Action?](https://www.reddit.com/r/devops/comments/12i56ye/github_secrets_is_it_safe_to_store_an_environment/) | brobot206 | 13 |
+| [[DevOps Learning Series] Principles and a look at their impact.](https://www.reddit.com/r/devops/comments/12hrjt4/devops_learning_series_principles_and_a_look_at/) | Throwmetothewolf | 12 |
+| [Building in public: Cloud pricing calculators are super annoying - so here is one based on natural language](https://www.reddit.com/r/devops/comments/12hz7wy/building_in_public_cloud_pricing_calculators_are/) | No_Presentation_9821 | 6 |
+| [Is Udemy certificates worth anything?](https://www.reddit.com/r/devops/comments/12ifdal/is_udemy_certificates_worth_anything/) | kavee9 | 5 |
+| [Java-based Jailer Database Tools 14.5 released.](https://www.reddit.com/r/devops/comments/12ifwc0/javabased_jailer_database_tools_145_released/) | Plane-Discussion | 4 |
+| [How much would you earn as a Senior Consultant in DevOps in AWS Poland?](https://www.reddit.com/r/devops/comments/12idrgi/how_much_would_you_earn_as_a_senior_consultant_in/) | Immediate_Local_3791 | 3 |
+| [Platform Engineering for Hashicorp Vault?](https://www.reddit.com/r/devops/comments/12i17s4/platform_engineering_for_hashicorp_vault/) | mfinnigan | 2 |
+| [Need some help with terraformer](https://www.reddit.com/r/devops/comments/12hvsjl/need_some_help_with_terraformer/) | brew87 | 1 |
