@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do I win over my new team and get them to use the stuff I was hired to implement?](https://www.reddit.com/r/devops/comments/12hlcfm/how_do_i_win_over_my_new_team_and_get_them_to_use/) | AthleticAcquiantance | 192 |
-| [What's that one time you realised a client/employer just wasn't ready for DevOps?](https://www.reddit.com/r/devops/comments/12hoxjz/whats_that_one_time_you_realised_a_clientemployer/) | vsysio | 16 |
-| [GitHub Secrets: Is it safe to store an environment secret to a file from within a GitHub Action?](https://www.reddit.com/r/devops/comments/12i56ye/github_secrets_is_it_safe_to_store_an_environment/) | brobot206 | 13 |
-| [[DevOps Learning Series] Principles and a look at their impact.](https://www.reddit.com/r/devops/comments/12hrjt4/devops_learning_series_principles_and_a_look_at/) | Throwmetothewolf | 12 |
-| [Building in public: Cloud pricing calculators are super annoying - so here is one based on natural language](https://www.reddit.com/r/devops/comments/12hz7wy/building_in_public_cloud_pricing_calculators_are/) | No_Presentation_9821 | 6 |
-| [Is Udemy certificates worth anything?](https://www.reddit.com/r/devops/comments/12ifdal/is_udemy_certificates_worth_anything/) | kavee9 | 5 |
-| [Java-based Jailer Database Tools 14.5 released.](https://www.reddit.com/r/devops/comments/12ifwc0/javabased_jailer_database_tools_145_released/) | Plane-Discussion | 4 |
-| [How much would you earn as a Senior Consultant in DevOps in AWS Poland?](https://www.reddit.com/r/devops/comments/12idrgi/how_much_would_you_earn_as_a_senior_consultant_in/) | Immediate_Local_3791 | 3 |
-| [Platform Engineering for Hashicorp Vault?](https://www.reddit.com/r/devops/comments/12i17s4/platform_engineering_for_hashicorp_vault/) | mfinnigan | 2 |
-| [Need some help with terraformer](https://www.reddit.com/r/devops/comments/12hvsjl/need_some_help_with_terraformer/) | brew87 | 1 |
+| [Needing to work with developers to fix something feels like asking them to do sidequests.](https://www.reddit.com/r/devops/comments/12isaka/needing_to_work_with_developers_to_fix_something/) | Vanthian | 130 |
+| [bash/shell scripting](https://www.reddit.com/r/devops/comments/12iptwr/bashshell_scripting/) | lev-13 | 22 |
+| [Why do some people say DevOps would be one of the first fields to be replaced by AI?](https://www.reddit.com/r/devops/comments/12j6zml/why_do_some_people_say_devops_would_be_one_of_the/) | SnooPineapples7791 | 8 |
+| [Database user management?](https://www.reddit.com/r/devops/comments/12is0o1/database_user_management/) | dahlesreb | 8 |
+| [Learning path](https://www.reddit.com/r/devops/comments/12iqsqy/learning_path/) | OkYak2915 | 4 |
+| [KubeCon -- Rooftop Happy Hour](https://www.reddit.com/r/devops/comments/12ilykk/kubecon_rooftop_happy_hour/) | Karan-Sohi | 4 |
+| [Which centralised key/value store datasource are you using ?](https://www.reddit.com/r/devops/comments/12jek75/which_centralised_keyvalue_store_datasource_are/) | jayff | 2 |
+| [Need help with getting practice projects for a job](https://www.reddit.com/r/devops/comments/12jcgj7/need_help_with_getting_practice_projects_for_a_job/) | udbasil | 2 |
+| [Grafana to sumologic pricing](https://www.reddit.com/r/devops/comments/12jhxbg/grafana_to_sumologic_pricing/) | doshimar | 2 |
+| [What would you consider a high pressure DevOps role?](https://www.reddit.com/r/devops/comments/12iki4b/what_would_you_consider_a_high_pressure_devops/) | petulanthedgehog | 1 |
