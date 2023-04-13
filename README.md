@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Needing to work with developers to fix something feels like asking them to do sidequests.](https://www.reddit.com/r/devops/comments/12isaka/needing_to_work_with_developers_to_fix_something/) | Vanthian | 130 |
-| [bash/shell scripting](https://www.reddit.com/r/devops/comments/12iptwr/bashshell_scripting/) | lev-13 | 22 |
-| [Why do some people say DevOps would be one of the first fields to be replaced by AI?](https://www.reddit.com/r/devops/comments/12j6zml/why_do_some_people_say_devops_would_be_one_of_the/) | SnooPineapples7791 | 8 |
-| [Database user management?](https://www.reddit.com/r/devops/comments/12is0o1/database_user_management/) | dahlesreb | 8 |
-| [Learning path](https://www.reddit.com/r/devops/comments/12iqsqy/learning_path/) | OkYak2915 | 4 |
-| [KubeCon -- Rooftop Happy Hour](https://www.reddit.com/r/devops/comments/12ilykk/kubecon_rooftop_happy_hour/) | Karan-Sohi | 4 |
-| [Which centralised key/value store datasource are you using ?](https://www.reddit.com/r/devops/comments/12jek75/which_centralised_keyvalue_store_datasource_are/) | jayff | 2 |
-| [Need help with getting practice projects for a job](https://www.reddit.com/r/devops/comments/12jcgj7/need_help_with_getting_practice_projects_for_a_job/) | udbasil | 2 |
-| [Grafana to sumologic pricing](https://www.reddit.com/r/devops/comments/12jhxbg/grafana_to_sumologic_pricing/) | doshimar | 2 |
-| [What would you consider a high pressure DevOps role?](https://www.reddit.com/r/devops/comments/12iki4b/what_would_you_consider_a_high_pressure_devops/) | petulanthedgehog | 1 |
+| [Terraform, AWS, and user management](https://www.reddit.com/r/devops/comments/12k0i4r/terraform_aws_and_user_management/) | thelastknowngod | 40 |
+| [How to migrate off Hashicorp Vault (transit engine specifically)](https://www.reddit.com/r/devops/comments/12jr7hg/how_to_migrate_off_hashicorp_vault_transit_engine/) | illttyl | 16 |
+| [How to improve negotiation skill as a DevOps Engineer / Consultant](https://www.reddit.com/r/devops/comments/12kgph7/how_to_improve_negotiation_skill_as_a_devops/) | Cultural-Pizza-1916 | 13 |
+| [Offsite Openshit Redundancy](https://www.reddit.com/r/devops/comments/12jo6m5/offsite_openshit_redundancy/) | SkyzSoldier | 9 |
+| [How people generate examples for multiple programming languages?](https://www.reddit.com/r/devops/comments/12jnpxk/how_people_generate_examples_for_multiple/) | pbn4 | 6 |
+| [Cheapest GPU for small model deployment](https://www.reddit.com/r/devops/comments/12jsiz7/cheapest_gpu_for_small_model_deployment/) | gokulPRO | 5 |
+| [Building Unprivileged Multi-Arch Images Using Kaniko and Gitlab CI](https://www.reddit.com/r/devops/comments/12jstaj/building_unprivileged_multiarch_images_using/) | plaj | 4 |
+| [What is your methodology when dealing with IaC on a cloud service?](https://www.reddit.com/r/devops/comments/12k0ygn/what_is_your_methodology_when_dealing_with_iac_on/) | htaidirt | 1 |
+| [Bind server in AWS?](https://www.reddit.com/r/devops/comments/12klk46/bind_server_in_aws/) | WonFishTwoFish | 1 |
+| [The Case for Function-Level Metrics: An observability sweet spot that balances debuggability, cost, and ease of use](https://www.reddit.com/r/devops/comments/12jpv5l/the_case_for_functionlevel_metrics_an/) | emschwartz | 0 |
