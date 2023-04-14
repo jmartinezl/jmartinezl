@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Terraform, AWS, and user management](https://www.reddit.com/r/devops/comments/12k0i4r/terraform_aws_and_user_management/) | thelastknowngod | 40 |
-| [How to migrate off Hashicorp Vault (transit engine specifically)](https://www.reddit.com/r/devops/comments/12jr7hg/how_to_migrate_off_hashicorp_vault_transit_engine/) | illttyl | 16 |
-| [How to improve negotiation skill as a DevOps Engineer / Consultant](https://www.reddit.com/r/devops/comments/12kgph7/how_to_improve_negotiation_skill_as_a_devops/) | Cultural-Pizza-1916 | 13 |
-| [Offsite Openshit Redundancy](https://www.reddit.com/r/devops/comments/12jo6m5/offsite_openshit_redundancy/) | SkyzSoldier | 9 |
-| [How people generate examples for multiple programming languages?](https://www.reddit.com/r/devops/comments/12jnpxk/how_people_generate_examples_for_multiple/) | pbn4 | 6 |
-| [Cheapest GPU for small model deployment](https://www.reddit.com/r/devops/comments/12jsiz7/cheapest_gpu_for_small_model_deployment/) | gokulPRO | 5 |
-| [Building Unprivileged Multi-Arch Images Using Kaniko and Gitlab CI](https://www.reddit.com/r/devops/comments/12jstaj/building_unprivileged_multiarch_images_using/) | plaj | 4 |
-| [What is your methodology when dealing with IaC on a cloud service?](https://www.reddit.com/r/devops/comments/12k0ygn/what_is_your_methodology_when_dealing_with_iac_on/) | htaidirt | 1 |
-| [Bind server in AWS?](https://www.reddit.com/r/devops/comments/12klk46/bind_server_in_aws/) | WonFishTwoFish | 1 |
-| [The Case for Function-Level Metrics: An observability sweet spot that balances debuggability, cost, and ease of use](https://www.reddit.com/r/devops/comments/12jpv5l/the_case_for_functionlevel_metrics_an/) | emschwartz | 0 |
+| [Welcome Kubernetes v1.27 release, a.k.a. Chill Vibes](https://www.reddit.com/r/devops/comments/12ksmti/welcome_kubernetes_v127_release_aka_chill_vibes/) | horovits | 68 |
+| [DevOps interview: Picking random facts from AWS docs and use them as interview question.](https://www.reddit.com/r/devops/comments/12lkgwp/devops_interview_picking_random_facts_from_aws/) | IamOkei | 55 |
+| [How does GitLab protect itself from developers forking to get around license restrictions?](https://www.reddit.com/r/devops/comments/12l6nkg/how_does_gitlab_protect_itself_from_developers/) | saltyrefrigerator | 18 |
+| [Homelab VMware + Cloudflare DNS automation](https://www.reddit.com/r/devops/comments/12l7eiv/homelab_vmware_cloudflare_dns_automation/) | slade208 | 8 |
+| [Permissions on Argo Workflows](https://www.reddit.com/r/devops/comments/12le8h9/permissions_on_argo_workflows/) | TooManyBison | 6 |
+| [Kubectl Cheat Sheet: Navigating Kubernetes like a Pro](https://www.reddit.com/r/devops/comments/12ltp3w/kubectl_cheat_sheet_navigating_kubernetes_like_a/) | Bloodbone9829 | 5 |
+| [Ideas for over engineered k8s cluster with most popular tech stack and best practicies.](https://www.reddit.com/r/devops/comments/12kq5je/ideas_for_over_engineered_k8s_cluster_with_most/) | domanpanda | 4 |
+| [Is it possible to access environment level secrets from within the context of a variable block when using GitHub environments?](https://www.reddit.com/r/devops/comments/12kvolz/is_it_possible_to_access_environment_level/) | InquisitiveProgramme | 3 |
+| [progressive deployment in event based systems](https://www.reddit.com/r/devops/comments/12l1dj1/progressive_deployment_in_event_based_systems/) | Sloppyjoeman | 2 |
+| [Best authentication mechanisms for different microservices communicating with each other intra-VPC and across VPCs.](https://www.reddit.com/r/devops/comments/12lrraw/best_authentication_mechanisms_for_different/) | Lostwhispers05 | 2 |
