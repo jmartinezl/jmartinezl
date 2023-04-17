@@ -44,10 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [New open-source programming language for DevOps engineers by the creator of the CDK](https://www.reddit.com/r/devops/comments/12n4sna/new_opensource_programming_language_for_devops/) | shai-ber | 134 |
-| [Learn 9 CI/CD tools for FREE](https://www.reddit.com/r/devops/comments/12ncdss/learn_9_cicd_tools_for_free/) | akshayvsuresh | 14 |
-| [Does mid / regular devops role exist? How would you define it?](https://www.reddit.com/r/devops/comments/12n8r8t/does_mid_regular_devops_role_exist_how_would_you/) | domanpanda | 14 |
-| [Portainer (swarm) nginx reverse proxy](https://www.reddit.com/r/devops/comments/12nkcf8/portainer_swarm_nginx_reverse_proxy/) | ScriptorTux | 1 |
-| [Looking for a monitoring suction for on prem transcode servers](https://www.reddit.com/r/devops/comments/12n7gvd/looking_for_a_monitoring_suction_for_on_prem/) | PM_ME_A_WEBSITE_IDEA | 1 |
-| [Is AutoGPT gonna take over DevOps?](https://www.reddit.com/r/devops/comments/12n6r82/is_autogpt_gonna_take_over_devops/) | hbsk8156 | 0 |
-| [Distributing Work](https://www.reddit.com/r/devops/comments/12n7og4/distributing_work/) | papamayhem87 | 0 |
+| [Tired of people trying to make tools IaaS agnostic](https://www.reddit.com/r/devops/comments/12o96gi/tired_of_people_trying_to_make_tools_iaas_agnostic/) | CooperNettees | 130 |
+| [Anything on par with HashiCorp Vault](https://www.reddit.com/r/devops/comments/12oxakd/anything_on_par_with_hashicorp_vault/) | idkwhatname23 | 40 |
+| [Is Jenkins still the king?](https://www.reddit.com/r/devops/comments/12ovcoe/is_jenkins_still_the_king/) | bobwmcgrath | 31 |
+| [The Role of Automation in DevOps: CI/CD Pipelines](https://www.reddit.com/r/devops/comments/12opa8w/the_role_of_automation_in_devops_cicd_pipelines/) | Throwmetothewolf | 16 |
+| [How you deal with pain-in-the-ass team member?](https://www.reddit.com/r/devops/comments/12ox31l/how_you_deal_with_painintheass_team_member/) | Dubinko | 14 |
+| [First position as a dev ops engineer](https://www.reddit.com/r/devops/comments/12p3hpn/first_position_as_a_dev_ops_engineer/) | mzattitude | 7 |
+| [[Help] Project repo structure with common code, dependencies, IP protection issues](https://www.reddit.com/r/devops/comments/12paw3k/help_project_repo_structure_with_common_code/) | OverlyCivilXenomorph | 6 |
+| [KCL v0.4.6 is Coming — Rust-Based IDE Extension, Helm/Kustomize/KPT Integrations](https://www.reddit.com/r/devops/comments/12p75ny/kcl_v046_is_coming_rustbased_ide_extension/) | Peefy- | 4 |
+| [Saw a techfluencer in LinkedIn with all AWS, Azure and GCP cert.](https://www.reddit.com/r/devops/comments/12p4bnw/saw_a_techfluencer_in_linkedin_with_all_aws_azure/) | IamOkei | 1 |
+| [View Kubernetes Secrets Quickly with a Single Command](https://www.reddit.com/r/devops/comments/12ozske/view_kubernetes_secrets_quickly_with_a_single/) | professorCLOUDD | 0 |
