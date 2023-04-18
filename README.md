@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Tired of people trying to make tools IaaS agnostic](https://www.reddit.com/r/devops/comments/12o96gi/tired_of_people_trying_to_make_tools_iaas_agnostic/) | CooperNettees | 130 |
-| [Anything on par with HashiCorp Vault](https://www.reddit.com/r/devops/comments/12oxakd/anything_on_par_with_hashicorp_vault/) | idkwhatname23 | 40 |
-| [Is Jenkins still the king?](https://www.reddit.com/r/devops/comments/12ovcoe/is_jenkins_still_the_king/) | bobwmcgrath | 31 |
-| [The Role of Automation in DevOps: CI/CD Pipelines](https://www.reddit.com/r/devops/comments/12opa8w/the_role_of_automation_in_devops_cicd_pipelines/) | Throwmetothewolf | 16 |
-| [How you deal with pain-in-the-ass team member?](https://www.reddit.com/r/devops/comments/12ox31l/how_you_deal_with_painintheass_team_member/) | Dubinko | 14 |
-| [First position as a dev ops engineer](https://www.reddit.com/r/devops/comments/12p3hpn/first_position_as_a_dev_ops_engineer/) | mzattitude | 7 |
-| [[Help] Project repo structure with common code, dependencies, IP protection issues](https://www.reddit.com/r/devops/comments/12paw3k/help_project_repo_structure_with_common_code/) | OverlyCivilXenomorph | 6 |
-| [KCL v0.4.6 is Coming — Rust-Based IDE Extension, Helm/Kustomize/KPT Integrations](https://www.reddit.com/r/devops/comments/12p75ny/kcl_v046_is_coming_rustbased_ide_extension/) | Peefy- | 4 |
-| [Saw a techfluencer in LinkedIn with all AWS, Azure and GCP cert.](https://www.reddit.com/r/devops/comments/12p4bnw/saw_a_techfluencer_in_linkedin_with_all_aws_azure/) | IamOkei | 1 |
-| [View Kubernetes Secrets Quickly with a Single Command](https://www.reddit.com/r/devops/comments/12ozske/view_kubernetes_secrets_quickly_with_a_single/) | professorCLOUDD | 0 |
+| [Any real benefit on going with Datadog for AWS monitoring?](https://www.reddit.com/r/devops/comments/12pofo8/any_real_benefit_on_going_with_datadog_for_aws/) | Empire230 | 51 |
+| [How much networking is required for devops?](https://www.reddit.com/r/devops/comments/12qbx86/how_much_networking_is_required_for_devops/) | golesu | 30 |
+| [Addressing high cardinality using streaming aggregation](https://www.reddit.com/r/devops/comments/12pqsk0/addressing_high_cardinality_using_streaming/) | PrathameshSonpatki | 12 |
+| [What's your take if DevOps colleague always got new initiative / idea?](https://www.reddit.com/r/devops/comments/12ptlab/whats_your_take_if_devops_colleague_always_got/) | Cultural-Pizza-1916 | 7 |
+| [Kubernetes-Native Synthetic Monitoring with Kuberhealthy](https://www.reddit.com/r/devops/comments/12pojwu/kubernetesnative_synthetic_monitoring_with/) | Am4t3uR | 7 |
+| [Docker desktop ?](https://www.reddit.com/r/devops/comments/12q4wcd/docker_desktop/) | nipaellafunk | 5 |
+| [Resume Review for DevOps/Cloud jobs](https://www.reddit.com/r/devops/comments/12pyoyj/resume_review_for_devopscloud_jobs/) | 1ooking4advice | 3 |
+| [TLS cert provisioning and secrets management for secure enclaves](https://www.reddit.com/r/devops/comments/12qfqk1/tls_cert_provisioning_and_secrets_management_for/) | Ecmoy | 2 |
+| [Why wouldn't you just use all rules for a tool like Sonarcloud?](https://www.reddit.com/r/devops/comments/12qiuw5/why_wouldnt_you_just_use_all_rules_for_a_tool/) | waste2muchtime | 1 |
+| [I also hate it whenever I have to wait for a pipeline to finish wanting to know if my change is good and the pipeline passes or if there are problems I need to fix first.](https://www.reddit.com/r/devops/comments/12qfol5/i_also_hate_it_whenever_i_have_to_wait_for_a/) | Nice_Score_7552 | 1 |
