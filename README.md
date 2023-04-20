@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you go about learning a new technology?](https://www.reddit.com/r/devops/comments/12r813h/how_do_you_go_about_learning_a_new_technology/) | anonymouswitchking | 24 |
-| [Is Docker and Lens owned by a very bad company now? They are harassing users to pay their licenses.](https://www.reddit.com/r/devops/comments/12qqdth/is_docker_and_lens_owned_by_a_very_bad_company/) | IamOkei | 22 |
-| [Junior DevOps Job - no docker, no k8s. Good/ bad?](https://www.reddit.com/r/devops/comments/12ric1h/junior_devops_job_no_docker_no_k8s_good_bad/) | 3p1demicz | 15 |
-| [How do you manage secret manager token on your cluster](https://www.reddit.com/r/devops/comments/12r0jq7/how_do_you_manage_secret_manager_token_on_your/) | smark91 | 14 |
-| [Testdeck, an open-to-everyone tool that connects with your CI system to provide test case-level insights](https://www.reddit.com/r/devops/comments/12qx4xe/testdeck_an_opentoeveryone_tool_that_connects/) | efunction | 10 |
-| [Running business while working full time DevOps](https://www.reddit.com/r/devops/comments/12qv397/running_business_while_working_full_time_devops/) | goldman21 | 7 |
-| [Thoughts on windmill.dev?](https://www.reddit.com/r/devops/comments/12rp0th/thoughts_on_windmilldev/) | Jatalocks2 | 3 |
-| [Is Using Pulumi or TerraForm overkill for starting out with ephemeral environments?](https://www.reddit.com/r/devops/comments/12rntw5/is_using_pulumi_or_terraform_overkill_for/) | just_hodl | 2 |
-| [GCP Folder Structure experiences](https://www.reddit.com/r/devops/comments/12qx5rn/gcp_folder_structure_experiences/) | lost_your_fill | 2 |
-| [Dynamically creating cloud resources and managing them. Is Terraform the answer? CDKTF?](https://www.reddit.com/r/devops/comments/12rmi7x/dynamically_creating_cloud_resources_and_managing/) | GurkanG | 2 |
+| [Can we be kinder to people doing ops work?](https://www.reddit.com/r/devops/comments/12s8n5o/can_we_be_kinder_to_people_doing_ops_work/) | reikobi | 170 |
+| [I tried writing a serverless app at home before doing it at work and this is what happened](https://www.reddit.com/r/devops/comments/12sqwjf/i_tried_writing_a_serverless_app_at_home_before/) | PowerfulExchange6220 | 38 |
+| [Whether 'tis nobler in the mind to upgrade Argo or to take arms against a sea of inconsistencies and by opposing migrate.](https://www.reddit.com/r/devops/comments/12s863x/whether_tis_nobler_in_the_mind_to_upgrade_argo_or/) | thelastknowngod | 28 |
+| [IAMbic, A multi-account identity-centric IaC](https://www.reddit.com/r/devops/comments/12ryryt/iambic_a_multiaccount_identitycentric_iac/) | z0mbietime | 15 |
+| [Junior DevOps Engineer here](https://www.reddit.com/r/devops/comments/12rv2wj/junior_devops_engineer_here/) | domooc | 9 |
+| [No DNS address record found for repo.maven.apache.org](https://www.reddit.com/r/devops/comments/12sjj61/no_dns_address_record_found_for_repomavenapacheorg/) | Soul_Shot | 5 |
+| [Loadbalancer - round robin with 100%](https://www.reddit.com/r/devops/comments/12ss262/loadbalancer_round_robin_with_100/) | dotaleaker | 3 |
+| [CI/CD pipeline architecture in repository containing multiple services](https://www.reddit.com/r/devops/comments/12sskxz/cicd_pipeline_architecture_in_repository/) | beskucnik_na_feru | 3 |
+| [I created a simple project that allows you find some good resources around devops tooling](https://www.reddit.com/r/devops/comments/12s399u/i_created_a_simple_project_that_allows_you_find/) | joshua_jebaraj | 2 |
+| [Workflow-Watcher: Pause a GitHub Actions workflow and wait for another workflow to complete before continuing](https://www.reddit.com/r/devops/comments/12s7dcl/workflowwatcher_pause_a_github_actions_workflow/) | mostafahussein | 1 |
