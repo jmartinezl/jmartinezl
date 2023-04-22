@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Bit of a "wow" this company is great to work for post, feel free to share stories yourselves](https://www.reddit.com/r/devops/comments/12txhbs/bit_of_a_wow_this_company_is_great_to_work_for/) | pushbutan | 46 |
-| [When applying for roles, how much does the purpose/vision of it affect your decision?](https://www.reddit.com/r/devops/comments/12t2kah/when_applying_for_roles_how_much_does_the/) | me_and_the_cloud | 7 |
-| [Database / Platform to track releases done on each system - Does it exist?](https://www.reddit.com/r/devops/comments/12tmczj/database_platform_to_track_releases_done_on_each/) | mechastorm | 7 |
-| [what is needed to be an SRE/Devops/platform in MAANG](https://www.reddit.com/r/devops/comments/12twdrf/what_is_needed_to_be_an_sredevopsplatform_in_maang/) | Destroychan | 1 |
-| [Small environment on docker swarm](https://www.reddit.com/r/devops/comments/12tctuw/small_environment_on_docker_swarm/) | javiers | 1 |
-| [IaC - best practices](https://www.reddit.com/r/devops/comments/12tmzln/iac_best_practices/) | GhostOfThe6ix | 1 |
-| [How to create a multi developer bitbucket workflow](https://www.reddit.com/r/devops/comments/12tvrcg/how_to_create_a_multi_developer_bitbucket_workflow/) | thisgirlsforreal | 1 |
-| [How do you decouple metrics generation from structured logging?](https://www.reddit.com/r/devops/comments/12tuwyk/how_do_you_decouple_metrics_generation_from/) | gmdotes | 1 |
-| [Terraform Cloud Discord Webhook Proxy golang app](https://www.reddit.com/r/devops/comments/12tkjhb/terraform_cloud_discord_webhook_proxy_golang_app/) | smark91 | 0 |
-| [Summer internship](https://www.reddit.com/r/devops/comments/12tgiuo/summer_internship/) | Essa-Fabu | 0 |
+| [First DevOps Job is a dumpster fire](https://www.reddit.com/r/devops/comments/12umxp0/first_devops_job_is_a_dumpster_fire/) | Dexstr0s | 86 |
+| [Anybody adopted OpenTelemetry for all observability signals (logs, metrics, and traces)? If so, any thoughts?](https://www.reddit.com/r/devops/comments/12u3g7z/anybody_adopted_opentelemetry_for_all/) | chillysurfer | 57 |
+| [Intermittent DNS issues in EKS](https://www.reddit.com/r/devops/comments/12unh2a/intermittent_dns_issues_in_eks/) | calibrono | 10 |
+| [6 months, 1 failed attempt and a lot of studying - got my RHCSA](https://www.reddit.com/r/devops/comments/12ujta0/6_months_1_failed_attempt_and_a_lot_of_studying/) | TTT94 | 8 |
+| [cloudformation logic](https://www.reddit.com/r/devops/comments/12ukdfq/cloudformation_logic/) | mrkurtz | 4 |
+| [What are good job boards for senior (ICs and managers/directors) EU-based remote jobs?](https://www.reddit.com/r/devops/comments/12uzvdy/what_are_good_job_boards_for_senior_ics_and/) | trustmeitsfine | 3 |
+| [Looking for the cheapest deployment option](https://www.reddit.com/r/devops/comments/12u1xt6/looking_for_the_cheapest_deployment_option/) | MarcCDB | 3 |
+| [How do you deploy secret files within a pipeline?](https://www.reddit.com/r/devops/comments/12u5fpb/how_do_you_deploy_secret_files_within_a_pipeline/) | DankerOfMemes | 2 |
+| [How Useful has Distributed Tracing Been for You?](https://www.reddit.com/r/devops/comments/12ufbqh/how_useful_has_distributed_tracing_been_for_you/) | fdntrhfbtt | 2 |
+| [Five Rookie Mistakes with Kubernetes on AWS](https://www.reddit.com/r/devops/comments/12ugpqp/five_rookie_mistakes_with_kubernetes_on_aws/) | Equianox | 2 |
