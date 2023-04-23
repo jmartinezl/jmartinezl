@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [First DevOps Job is a dumpster fire](https://www.reddit.com/r/devops/comments/12umxp0/first_devops_job_is_a_dumpster_fire/) | Dexstr0s | 86 |
-| [Anybody adopted OpenTelemetry for all observability signals (logs, metrics, and traces)? If so, any thoughts?](https://www.reddit.com/r/devops/comments/12u3g7z/anybody_adopted_opentelemetry_for_all/) | chillysurfer | 57 |
-| [Intermittent DNS issues in EKS](https://www.reddit.com/r/devops/comments/12unh2a/intermittent_dns_issues_in_eks/) | calibrono | 10 |
-| [6 months, 1 failed attempt and a lot of studying - got my RHCSA](https://www.reddit.com/r/devops/comments/12ujta0/6_months_1_failed_attempt_and_a_lot_of_studying/) | TTT94 | 8 |
-| [cloudformation logic](https://www.reddit.com/r/devops/comments/12ukdfq/cloudformation_logic/) | mrkurtz | 4 |
-| [What are good job boards for senior (ICs and managers/directors) EU-based remote jobs?](https://www.reddit.com/r/devops/comments/12uzvdy/what_are_good_job_boards_for_senior_ics_and/) | trustmeitsfine | 3 |
-| [Looking for the cheapest deployment option](https://www.reddit.com/r/devops/comments/12u1xt6/looking_for_the_cheapest_deployment_option/) | MarcCDB | 3 |
-| [How do you deploy secret files within a pipeline?](https://www.reddit.com/r/devops/comments/12u5fpb/how_do_you_deploy_secret_files_within_a_pipeline/) | DankerOfMemes | 2 |
-| [How Useful has Distributed Tracing Been for You?](https://www.reddit.com/r/devops/comments/12ufbqh/how_useful_has_distributed_tracing_been_for_you/) | fdntrhfbtt | 2 |
-| [Five Rookie Mistakes with Kubernetes on AWS](https://www.reddit.com/r/devops/comments/12ugpqp/five_rookie_mistakes_with_kubernetes_on_aws/) | Equianox | 2 |
+| [If im making mistakes every week, should i quit devops ?](https://www.reddit.com/r/devops/comments/12vkhi2/if_im_making_mistakes_every_week_should_i_quit/) | No_Mousse_6714 | 48 |
+| [Finding balance on Enterprise Priorities vs Team level Priorities for new SRE TEAM?](https://www.reddit.com/r/devops/comments/12vi36j/finding_balance_on_enterprise_priorities_vs_team/) | sportsfan56 | 34 |
+| [Do you know, or or is it worth knowing, any front-end languages?](https://www.reddit.com/r/devops/comments/12vd3ni/do_you_know_or_or_is_it_worth_knowing_any/) | Zyster1 | 14 |
+| [Nomad agent dev - missing drivers (docker)](https://www.reddit.com/r/devops/comments/12vb0x3/nomad_agent_dev_missing_drivers_docker/) | ScriptorTux | 9 |
+| [Gitlab Project Automatically Creating Basic TF Project](https://www.reddit.com/r/devops/comments/12vjuew/gitlab_project_automatically_creating_basic_tf/) | DevOps_Noob1 | 9 |
+| [[Observability] Getting metrics for an endpoint "when in" a trace of another endpoint](https://www.reddit.com/r/devops/comments/12vg0m4/observability_getting_metrics_for_an_endpoint/) | piernrajzark | 4 |
+| [Github actions conditional matrix](https://www.reddit.com/r/devops/comments/12v5bcm/github_actions_conditional_matrix/) | segap | 0 |
+| [Free Udemy Coupon Collections](https://www.reddit.com/r/devops/comments/12w63l8/free_udemy_coupon_collections/) | CKangel | 0 |
+| [Are there things like Ephemeral Virtual Machines that can be used in CI system?](https://www.reddit.com/r/devops/comments/12v4gwe/are_there_things_like_ephemeral_virtual_machines/) | dugindeep | 0 |
