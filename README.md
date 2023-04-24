@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [If im making mistakes every week, should i quit devops ?](https://www.reddit.com/r/devops/comments/12vkhi2/if_im_making_mistakes_every_week_should_i_quit/) | No_Mousse_6714 | 48 |
-| [Finding balance on Enterprise Priorities vs Team level Priorities for new SRE TEAM?](https://www.reddit.com/r/devops/comments/12vi36j/finding_balance_on_enterprise_priorities_vs_team/) | sportsfan56 | 34 |
-| [Do you know, or or is it worth knowing, any front-end languages?](https://www.reddit.com/r/devops/comments/12vd3ni/do_you_know_or_or_is_it_worth_knowing_any/) | Zyster1 | 14 |
-| [Nomad agent dev - missing drivers (docker)](https://www.reddit.com/r/devops/comments/12vb0x3/nomad_agent_dev_missing_drivers_docker/) | ScriptorTux | 9 |
-| [Gitlab Project Automatically Creating Basic TF Project](https://www.reddit.com/r/devops/comments/12vjuew/gitlab_project_automatically_creating_basic_tf/) | DevOps_Noob1 | 9 |
-| [[Observability] Getting metrics for an endpoint "when in" a trace of another endpoint](https://www.reddit.com/r/devops/comments/12vg0m4/observability_getting_metrics_for_an_endpoint/) | piernrajzark | 4 |
-| [Github actions conditional matrix](https://www.reddit.com/r/devops/comments/12v5bcm/github_actions_conditional_matrix/) | segap | 0 |
-| [Free Udemy Coupon Collections](https://www.reddit.com/r/devops/comments/12w63l8/free_udemy_coupon_collections/) | CKangel | 0 |
-| [Are there things like Ephemeral Virtual Machines that can be used in CI system?](https://www.reddit.com/r/devops/comments/12v4gwe/are_there_things_like_ephemeral_virtual_machines/) | dugindeep | 0 |
+| [Deploying a monolith in 2023](https://www.reddit.com/r/devops/comments/12wfb91/deploying_a_monolith_in_2023/) | ctoyan | 72 |
+| [Instant public URLs for debugging](https://www.reddit.com/r/devops/comments/12x52j3/instant_public_urls_for_debugging/) | bishakhghosh_ | 6 |
+| [Senior with 3YOE - Roast My Resumee](https://www.reddit.com/r/devops/comments/12x7jab/senior_with_3yoe_roast_my_resumee/) | ThrowHawaii12 | 5 |
+| [GitLab pipeline for a Java application that uses PostgreSQL and is compiled with Maven](https://www.reddit.com/r/devops/comments/12wzz3i/gitlab_pipeline_for_a_java_application_that_uses/) | The-spian | 5 |
+| [Dynatrace end-to-end map flow](https://www.reddit.com/r/devops/comments/12wmlbq/dynatrace_endtoend_map_flow/) | LocationOwn1717 | 5 |
+| [Best states to work in if you work in IT for example ccna holder and and have network eng/admin exp?](https://www.reddit.com/r/devops/comments/12x554q/best_states_to_work_in_if_you_work_in_it_for/) | strider2025 | 4 |
+| [Career Opportunities Out of College](https://www.reddit.com/r/devops/comments/12x0o0b/career_opportunities_out_of_college/) | Interesting_Chard138 | 3 |
+| [Day to Day task as a devops](https://www.reddit.com/r/devops/comments/12x74ye/day_to_day_task_as_a_devops/) | Smooth_Platypus_8352 | 2 |
+| [Overwhelmed](https://www.reddit.com/r/devops/comments/12wt2ee/overwhelmed/) | Wanderlust1101 | 1 |
+| [Having problems while converting my .p7b certificate into .pfx format.](https://www.reddit.com/r/devops/comments/12x2j2o/having_problems_while_converting_my_p7b/) | mrburnwal | 1 |
