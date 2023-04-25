@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Deploying a monolith in 2023](https://www.reddit.com/r/devops/comments/12wfb91/deploying_a_monolith_in_2023/) | ctoyan | 72 |
-| [Instant public URLs for debugging](https://www.reddit.com/r/devops/comments/12x52j3/instant_public_urls_for_debugging/) | bishakhghosh_ | 6 |
-| [Senior with 3YOE - Roast My Resumee](https://www.reddit.com/r/devops/comments/12x7jab/senior_with_3yoe_roast_my_resumee/) | ThrowHawaii12 | 5 |
-| [GitLab pipeline for a Java application that uses PostgreSQL and is compiled with Maven](https://www.reddit.com/r/devops/comments/12wzz3i/gitlab_pipeline_for_a_java_application_that_uses/) | The-spian | 5 |
-| [Dynatrace end-to-end map flow](https://www.reddit.com/r/devops/comments/12wmlbq/dynatrace_endtoend_map_flow/) | LocationOwn1717 | 5 |
-| [Best states to work in if you work in IT for example ccna holder and and have network eng/admin exp?](https://www.reddit.com/r/devops/comments/12x554q/best_states_to_work_in_if_you_work_in_it_for/) | strider2025 | 4 |
-| [Career Opportunities Out of College](https://www.reddit.com/r/devops/comments/12x0o0b/career_opportunities_out_of_college/) | Interesting_Chard138 | 3 |
-| [Day to Day task as a devops](https://www.reddit.com/r/devops/comments/12x74ye/day_to_day_task_as_a_devops/) | Smooth_Platypus_8352 | 2 |
-| [Overwhelmed](https://www.reddit.com/r/devops/comments/12wt2ee/overwhelmed/) | Wanderlust1101 | 1 |
-| [Having problems while converting my .p7b certificate into .pfx format.](https://www.reddit.com/r/devops/comments/12x2j2o/having_problems_while_converting_my_p7b/) | mrburnwal | 1 |
+| [How your perfect CI/CD pipeline look like?](https://www.reddit.com/r/devops/comments/12xrfii/how_your_perfect_cicd_pipeline_look_like/) | arslan70 | 96 |
+| [As a developer/SWE (particularly in a regulated industry) do you have admin access access to your local work laptop?](https://www.reddit.com/r/devops/comments/12xs5xp/as_a_developerswe_particularly_in_a_regulated/) | civicode | 18 |
+| [Those of you with internal CLIs/tooling written in general purpose languages what do they do and what language?](https://www.reddit.com/r/devops/comments/12y2r51/those_of_you_with_internal_clistooling_written_in/) | noobernetes | 3 |
+| [Automated Release Versioning and Bumping on Gitlab](https://www.reddit.com/r/devops/comments/12y8kdg/automated_release_versioning_and_bumping_on_gitlab/) | godOfOps | 3 |
+| [Is secure string variable a different format from the usual string?](https://www.reddit.com/r/devops/comments/12xu8xz/is_secure_string_variable_a_different_format_from/) | chloyeeet | 1 |
+| [I need a proxy to cache (incl. POST, body based keys) and modify headers](https://www.reddit.com/r/devops/comments/12xozaw/i_need_a_proxy_to_cache_incl_post_body_based_keys/) | hagg3n | 1 |
+| [Getting better at observability, looking for suggestions for my python-based discord bot.](https://www.reddit.com/r/devops/comments/12xmd90/getting_better_at_observability_looking_for/) | polyphonyrequiem | 1 |
+| [Fabcy a DevSecOps CTF](https://www.reddit.com/r/devops/comments/12xussr/fabcy_a_devsecops_ctf/) | punksecurity_simon | 1 |
+| [javax.ejb.CreateException: Initialization failed for Singleton ResourceLoader](https://www.reddit.com/r/devops/comments/12yeo6d/javaxejbcreateexception_initialization_failed_for/) | Brief-Wishbone9091 | 0 |
+| [Transitioning to DevOps](https://www.reddit.com/r/devops/comments/12xtbk8/transitioning_to_devops/) | GulabiGovind | 0 |
