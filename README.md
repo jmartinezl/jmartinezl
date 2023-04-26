@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How your perfect CI/CD pipeline look like?](https://www.reddit.com/r/devops/comments/12xrfii/how_your_perfect_cicd_pipeline_look_like/) | arslan70 | 96 |
-| [As a developer/SWE (particularly in a regulated industry) do you have admin access access to your local work laptop?](https://www.reddit.com/r/devops/comments/12xs5xp/as_a_developerswe_particularly_in_a_regulated/) | civicode | 18 |
-| [Those of you with internal CLIs/tooling written in general purpose languages what do they do and what language?](https://www.reddit.com/r/devops/comments/12y2r51/those_of_you_with_internal_clistooling_written_in/) | noobernetes | 3 |
-| [Automated Release Versioning and Bumping on Gitlab](https://www.reddit.com/r/devops/comments/12y8kdg/automated_release_versioning_and_bumping_on_gitlab/) | godOfOps | 3 |
-| [Is secure string variable a different format from the usual string?](https://www.reddit.com/r/devops/comments/12xu8xz/is_secure_string_variable_a_different_format_from/) | chloyeeet | 1 |
-| [I need a proxy to cache (incl. POST, body based keys) and modify headers](https://www.reddit.com/r/devops/comments/12xozaw/i_need_a_proxy_to_cache_incl_post_body_based_keys/) | hagg3n | 1 |
-| [Getting better at observability, looking for suggestions for my python-based discord bot.](https://www.reddit.com/r/devops/comments/12xmd90/getting_better_at_observability_looking_for/) | polyphonyrequiem | 1 |
-| [Fabcy a DevSecOps CTF](https://www.reddit.com/r/devops/comments/12xussr/fabcy_a_devsecops_ctf/) | punksecurity_simon | 1 |
-| [javax.ejb.CreateException: Initialization failed for Singleton ResourceLoader](https://www.reddit.com/r/devops/comments/12yeo6d/javaxejbcreateexception_initialization_failed_for/) | Brief-Wishbone9091 | 0 |
-| [Transitioning to DevOps](https://www.reddit.com/r/devops/comments/12xtbk8/transitioning_to_devops/) | GulabiGovind | 0 |
+| [Fast-Terraform: Terraform Tutorial, How-To: Hands-on LABs, and AWS Hands-on Sample Usage Scenarios (Infrastructure As Code)](https://www.reddit.com/r/devops/comments/12yjmm3/fastterraform_terraform_tutorial_howto_handson/) | obsezer | 228 |
+| [Securing Release Pipelines in Github Actions? How?](https://www.reddit.com/r/devops/comments/12yhqpb/securing_release_pipelines_in_github_actions_how/) | techcury | 13 |
+| [Am i really expected to make regex expressions by hand on the spot?](https://www.reddit.com/r/devops/comments/12z52m8/am_i_really_expected_to_make_regex_expressions_by/) | tekno45 | 12 |
+| [Need Help - New to Devops. Docker or VM?](https://www.reddit.com/r/devops/comments/12ytpu5/need_help_new_to_devops_docker_or_vm/) | tanMud | 7 |
+| [Using GlusterFS as a storage for Kubernetes?](https://www.reddit.com/r/devops/comments/12zd9h1/using_glusterfs_as_a_storage_for_kubernetes/) | NedkoHristov | 6 |
+| [Noone mentions Backup in devops? Is Veeam knowledge important?](https://www.reddit.com/r/devops/comments/12zek00/noone_mentions_backup_in_devops_is_veeam/) | coolredditguy1 | 5 |
+| [Monitoring and Observability - Pain Points](https://www.reddit.com/r/devops/comments/12yzxlg/monitoring_and_observability_pain_points/) | Empire230 | 3 |
+| [IaC best practices level up your DevOps security (+ Free Cheat Sheet)](https://www.reddit.com/r/devops/comments/12zf0tq/iac_best_practices_level_up_your_devops_security/) | segtekdev | 2 |
+| [System.Net.Mail.SmtpClient is not recommended anymore; what is the alternative?](https://www.reddit.com/r/devops/comments/12z7cg6/systemnetmailsmtpclient_is_not_recommended/) | sreejukg | 1 |
+| [Phantom folder in docker overlay2](https://www.reddit.com/r/devops/comments/12z9vbo/phantom_folder_in_docker_overlay2/) | ncubez | 1 |
