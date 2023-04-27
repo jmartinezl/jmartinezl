@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Fast-Terraform: Terraform Tutorial, How-To: Hands-on LABs, and AWS Hands-on Sample Usage Scenarios (Infrastructure As Code)](https://www.reddit.com/r/devops/comments/12yjmm3/fastterraform_terraform_tutorial_howto_handson/) | obsezer | 228 |
-| [Securing Release Pipelines in Github Actions? How?](https://www.reddit.com/r/devops/comments/12yhqpb/securing_release_pipelines_in_github_actions_how/) | techcury | 13 |
-| [Am i really expected to make regex expressions by hand on the spot?](https://www.reddit.com/r/devops/comments/12z52m8/am_i_really_expected_to_make_regex_expressions_by/) | tekno45 | 12 |
-| [Need Help - New to Devops. Docker or VM?](https://www.reddit.com/r/devops/comments/12ytpu5/need_help_new_to_devops_docker_or_vm/) | tanMud | 7 |
-| [Using GlusterFS as a storage for Kubernetes?](https://www.reddit.com/r/devops/comments/12zd9h1/using_glusterfs_as_a_storage_for_kubernetes/) | NedkoHristov | 6 |
-| [Noone mentions Backup in devops? Is Veeam knowledge important?](https://www.reddit.com/r/devops/comments/12zek00/noone_mentions_backup_in_devops_is_veeam/) | coolredditguy1 | 5 |
-| [Monitoring and Observability - Pain Points](https://www.reddit.com/r/devops/comments/12yzxlg/monitoring_and_observability_pain_points/) | Empire230 | 3 |
-| [IaC best practices level up your DevOps security (+ Free Cheat Sheet)](https://www.reddit.com/r/devops/comments/12zf0tq/iac_best_practices_level_up_your_devops_security/) | segtekdev | 2 |
-| [System.Net.Mail.SmtpClient is not recommended anymore; what is the alternative?](https://www.reddit.com/r/devops/comments/12z7cg6/systemnetmailsmtpclient_is_not_recommended/) | sreejukg | 1 |
-| [Phantom folder in docker overlay2](https://www.reddit.com/r/devops/comments/12z9vbo/phantom_folder_in_docker_overlay2/) | ncubez | 1 |
+| [FYI to anyone running Terraform on a Mac, you may need to re-install it](https://www.reddit.com/r/devops/comments/12zki4z/fyi_to_anyone_running_terraform_on_a_mac_you_may/) | lmm7425 | 126 |
+| [DevOps Jobs list. (EU &amp; UK, India and USA)](https://www.reddit.com/r/devops/comments/12zjo2f/devops_jobs_list_eu_uk_india_and_usa/) | utpalnadiger | 41 |
+| [DevOps - Bait and Switch](https://www.reddit.com/r/devops/comments/12zvj2a/devops_bait_and_switch/) | newhere006 | 40 |
+| [Is "Certified GitOps Associate" a joke or desperate attempt by CNCF?](https://www.reddit.com/r/devops/comments/1309zrg/is_certified_gitops_associate_a_joke_or_desperate/) | IamOkei | 18 |
+| [Front End Observability with Grafana Faro](https://www.reddit.com/r/devops/comments/12zkey6/front_end_observability_with_grafana_faro/) | globinXX | 18 |
+| [Was told "&lt;tool&gt; can be configured with &lt;language&gt; because it is written in &lt;language&gt;", am skeptical.](https://www.reddit.com/r/devops/comments/1303yuf/was_told_tool_can_be_configured_with_language/) | Tabouret- | 14 |
+| [Writing a Kubernetes Network Plugin (CNI) in Rust](https://www.reddit.com/r/devops/comments/1303q6q/writing_a_kubernetes_network_plugin_cni_in_rust/) | sliferdragonx | 4 |
+| [NewRelic and CloudWatch integration](https://www.reddit.com/r/devops/comments/12zfvdw/newrelic_and_cloudwatch_integration/) | operatorius | 3 |
+| [Learnings from integrating JMX based metrics from Java applications into time series databases](https://www.reddit.com/r/devops/comments/1308y1v/learnings_from_integrating_jmx_based_metrics_from/) | PrathameshSonpatki | 2 |
+| [Help: Docerkize IIS app and SQL server with windows authentication](https://www.reddit.com/r/devops/comments/12zyo5f/help_docerkize_iis_app_and_sql_server_with/) | v3-3y | 2 |
