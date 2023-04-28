@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [FYI to anyone running Terraform on a Mac, you may need to re-install it](https://www.reddit.com/r/devops/comments/12zki4z/fyi_to_anyone_running_terraform_on_a_mac_you_may/) | lmm7425 | 126 |
-| [DevOps Jobs list. (EU &amp; UK, India and USA)](https://www.reddit.com/r/devops/comments/12zjo2f/devops_jobs_list_eu_uk_india_and_usa/) | utpalnadiger | 41 |
-| [DevOps - Bait and Switch](https://www.reddit.com/r/devops/comments/12zvj2a/devops_bait_and_switch/) | newhere006 | 40 |
-| [Is "Certified GitOps Associate" a joke or desperate attempt by CNCF?](https://www.reddit.com/r/devops/comments/1309zrg/is_certified_gitops_associate_a_joke_or_desperate/) | IamOkei | 18 |
-| [Front End Observability with Grafana Faro](https://www.reddit.com/r/devops/comments/12zkey6/front_end_observability_with_grafana_faro/) | globinXX | 18 |
-| [Was told "&lt;tool&gt; can be configured with &lt;language&gt; because it is written in &lt;language&gt;", am skeptical.](https://www.reddit.com/r/devops/comments/1303yuf/was_told_tool_can_be_configured_with_language/) | Tabouret- | 14 |
-| [Writing a Kubernetes Network Plugin (CNI) in Rust](https://www.reddit.com/r/devops/comments/1303q6q/writing_a_kubernetes_network_plugin_cni_in_rust/) | sliferdragonx | 4 |
-| [NewRelic and CloudWatch integration](https://www.reddit.com/r/devops/comments/12zfvdw/newrelic_and_cloudwatch_integration/) | operatorius | 3 |
-| [Learnings from integrating JMX based metrics from Java applications into time series databases](https://www.reddit.com/r/devops/comments/1308y1v/learnings_from_integrating_jmx_based_metrics_from/) | PrathameshSonpatki | 2 |
-| [Help: Docerkize IIS app and SQL server with windows authentication](https://www.reddit.com/r/devops/comments/12zyo5f/help_docerkize_iis_app_and_sql_server_with/) | v3-3y | 2 |
+| [For anyone that's created their own company to do contract work, how did you set up your company?](https://www.reddit.com/r/devops/comments/131cpj6/for_anyone_thats_created_their_own_company_to_do/) | Soccham | 58 |
+| [Scaling RabbitMQ](https://www.reddit.com/r/devops/comments/130kiu0/scaling_rabbitmq/) | Easy-Dragonfruit6606 | 42 |
+| [DevOps redirected to "study" work for AI project](https://www.reddit.com/r/devops/comments/1316ub9/devops_redirected_to_study_work_for_ai_project/) | Felix1178 | 22 |
+| [Technical debt prevention](https://www.reddit.com/r/devops/comments/1310pr6/technical_debt_prevention/) | Fit-Strain5146 | 11 |
+| [How important is Software Craftsmanship at your work ?](https://www.reddit.com/r/devops/comments/1318mf2/how_important_is_software_craftsmanship_at_your/) | pojzon_poe | 11 |
+| [Essay on Datadog, Splunk and Grafana](https://www.reddit.com/r/devops/comments/130wsro/essay_on_datadog_splunk_and_grafana/) | usernameUnlikely | 3 |
+| [What books do you recommend for general Devops/Tools and Cloud best practices?](https://www.reddit.com/r/devops/comments/130kgxd/what_books_do_you_recommend_for_general/) | Cevap | 2 |
+| [Keep telling PM theories something doesn’t work](https://www.reddit.com/r/devops/comments/131myxn/keep_telling_pm_theories_something_doesnt_work/) | CodeLyoko26 | 2 |
+| [Hey guys, So I've decided to take on the challenge of getting Kubernetes certified within the next three weeks. Any tips or resources you can share would be greatly appreciated! Let's do this! #KubernetesCertified #DecemberChallenge](https://www.reddit.com/r/devops/comments/131peku/hey_guys_so_ive_decided_to_take_on_the_challenge/) | CassiusBlackwood | 2 |
+| [GHA/ADO - Manual deployment of YAML pipeline to multiple environments - single pipeline with env selection vs separate pipelines per environment](https://www.reddit.com/r/devops/comments/131a1vt/ghaado_manual_deployment_of_yaml_pipeline_to/) | 0x4ddd | 2 |
