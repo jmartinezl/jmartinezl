@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Beware of pricing tricks from Kodekloud](https://www.reddit.com/r/devops/comments/131r8q8/beware_of_pricing_tricks_from_kodekloud/) | IamOkei | 70 |
-| [Best AI course for a senior DevOps engineer?](https://www.reddit.com/r/devops/comments/1324o7i/best_ai_course_for_a_senior_devops_engineer/) | y3llowm4rker | 34 |
-| [People who went back for a degree, what degree did you get](https://www.reddit.com/r/devops/comments/132js8u/people_who_went_back_for_a_degree_what_degree_did/) | akali1987 | 14 |
-| [Intelligent next-gen editor for infra-as-code](https://www.reddit.com/r/devops/comments/131psex/intelligent_nextgen_editor_for_infraascode/) | SharpEndss | 13 |
-| [How do I restrict access to a Vercel app to traffic from my companys VPN?](https://www.reddit.com/r/devops/comments/131ylq0/how_do_i_restrict_access_to_a_vercel_app_to/) | BigBootyBear | 6 |
-| [Help with upcoming devops interview](https://www.reddit.com/r/devops/comments/132nkar/help_with_upcoming_devops_interview/) | readyman16 | 3 |
-| [Best way to control Code PR Merge/Approval at Github/Gitlab level or at Argo/Jenkins Level?](https://www.reddit.com/r/devops/comments/131sba9/best_way_to_control_code_pr_mergeapproval_at/) | Mountain_Ad_1548 | 3 |
-| [Best Practices for Managing On-Call Rotations](https://www.reddit.com/r/devops/comments/131un1v/best_practices_for_managing_oncall_rotations/) | AminAstaneh | 2 |
-| [Octopus Deploy with TFS](https://www.reddit.com/r/devops/comments/131tmpm/octopus_deploy_with_tfs/) | intrasight | 1 |
-| [setting up ingress easily on your local machine](https://www.reddit.com/r/devops/comments/132jvv2/setting_up_ingress_easily_on_your_local_machine/) | darkcatpirate | 0 |
+| [Anyone want a mentor? Staff engineer looking to pay it forward](https://www.reddit.com/r/devops/comments/132sem4/anyone_want_a_mentor_staff_engineer_looking_to/) | awesomefossum | 206 |
+| [What strategies do you use for cloud permissions?](https://www.reddit.com/r/devops/comments/133cjxc/what_strategies_do_you_use_for_cloud_permissions/) | Almenon | 17 |
+| [What's the easiest way to do database replication with Kubernetes?](https://www.reddit.com/r/devops/comments/133du6g/whats_the_easiest_way_to_do_database_replication/) | darkcatpirate | 3 |
+| [Cheap WebApp Hosting with (huge) Database?](https://www.reddit.com/r/devops/comments/1330e80/cheap_webapp_hosting_with_huge_database/) | erythana | 3 |
+| [Nomad/Consul integration doubts](https://www.reddit.com/r/devops/comments/1330lai/nomadconsul_integration_doubts/) | salmoneaffumicat0 | 1 |
+| [How do I convert my CloudFormation template into a Terraform file?](https://www.reddit.com/r/devops/comments/132v5ha/how_do_i_convert_my_cloudformation_template_into/) | bald_baby128 | 1 |
+| [Which is generally more cost-effective: running stuff on your infrastructure (cloud) or using a paid service API for that stuff](https://www.reddit.com/r/devops/comments/133g2dt/which_is_generally_more_costeffective_running/) | izner82 | 0 |
