@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [FluxCD vs Weaveworks](https://www.reddit.com/r/devops/comments/134li6d/fluxcd_vs_weaveworks/) | jblaaa | 27 |
-| [junior web dev, want to switch to SRE/Platform/Infra or DevOps with a focus on the "Dev". Any tips?](https://www.reddit.com/r/devops/comments/134m860/junior_web_dev_want_to_switch_to_sreplatforminfra/) | miso--- | 22 |
-| [How would u explain cicd pipeline to a 10yo](https://www.reddit.com/r/devops/comments/135eed6/how_would_u_explain_cicd_pipeline_to_a_10yo/) | iyshmn | 11 |
-| [Devop positions with emphasis on CODING](https://www.reddit.com/r/devops/comments/135d0yv/devop_positions_with_emphasis_on_coding/) | pacman2081 | 7 |
-| [Monthly 'Shameless Self Promotion' thread - 2023/05](https://www.reddit.com/r/devops/comments/134yd5d/monthly_shameless_self_promotion_thread_202305/) | mthode | 6 |
-| [How to get into devops with certifications and no degree?](https://www.reddit.com/r/devops/comments/134w3q2/how_to_get_into_devops_with_certifications_and_no/) | Epicest_GamerYT | 6 |
-| [Seeking Criticism and Advice for Automated Web App Security Testing Project](https://www.reddit.com/r/devops/comments/1359y9k/seeking_criticism_and_advice_for_automated_web/) | Nabstar333 | 5 |
-| [The Case for 'Headless Terraform IDP'](https://www.reddit.com/r/devops/comments/135fau8/the_case_for_headless_terraform_idp/) | utpalnadiger | 1 |
-| [Can someone help me on how I could have handled this Prisma issue better?](https://www.reddit.com/r/devops/comments/134ohtz/can_someone_help_me_on_how_i_could_have_handled/) | Hot_Aardvark5193 | 1 |
-| [Trying to understand devops vs SWE](https://www.reddit.com/r/devops/comments/134rqva/trying_to_understand_devops_vs_swe/) | Fine_Writing5451 | 0 |
+| [Kubernetes and feeling defeated](https://www.reddit.com/r/devops/comments/1362sgb/kubernetes_and_feeling_defeated/) | muchasxmaracas | 54 |
+| [How do you guys stay productive?](https://www.reddit.com/r/devops/comments/135k8bh/how_do_you_guys_stay_productive/) | bald_baby128 | 39 |
+| [Feeling hopeless in my pursuit of a career in DevOps/cloud engineering](https://www.reddit.com/r/devops/comments/1365rp9/feeling_hopeless_in_my_pursuit_of_a_career_in/) | Blankcarbon | 18 |
+| [How do you approach microservices development organization.](https://www.reddit.com/r/devops/comments/135u8l7/how_do_you_approach_microservices_development/) | Suvulaan | 12 |
+| [Converting from Pulumi to Terraform (rewriting all deployment code)](https://www.reddit.com/r/devops/comments/1363bux/converting_from_pulumi_to_terraform_rewriting_all/) | cjmull94 | 11 |
+| [1000 100% OFF coupons: DevOps course for small companies and individuals](https://www.reddit.com/r/devops/comments/136gc7d/1000_100_off_coupons_devops_course_for_small/) | predmijat | 9 |
+| [Automating a homelab - vSphere, Ubuntu VMs as K3S hosts.... easy approach?](https://www.reddit.com/r/devops/comments/135qts6/automating_a_homelab_vsphere_ubuntu_vms_as_k3s/) | Fluffer_Wuffer | 8 |
+| [Tips and good practices around architecture design with Kafka](https://www.reddit.com/r/devops/comments/135rn9g/tips_and_good_practices_around_architecture/) | Financial_Comb_3550 | 7 |
+| [Why are there so many people shilling eBPF? And there seems to be aggressive marketing to associate eBPF with Cilium.](https://www.reddit.com/r/devops/comments/135pldv/why_are_there_so_many_people_shilling_ebpf_and/) | IamOkei | 6 |
+| [Azure zero downtime deployments with Terraform](https://www.reddit.com/r/devops/comments/1363h3o/azure_zero_downtime_deployments_with_terraform/) | ipromiseimcool | 4 |
