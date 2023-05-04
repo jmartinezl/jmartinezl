@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Kubernetes and feeling defeated](https://www.reddit.com/r/devops/comments/1362sgb/kubernetes_and_feeling_defeated/) | muchasxmaracas | 54 |
-| [How do you guys stay productive?](https://www.reddit.com/r/devops/comments/135k8bh/how_do_you_guys_stay_productive/) | bald_baby128 | 39 |
-| [Feeling hopeless in my pursuit of a career in DevOps/cloud engineering](https://www.reddit.com/r/devops/comments/1365rp9/feeling_hopeless_in_my_pursuit_of_a_career_in/) | Blankcarbon | 18 |
-| [How do you approach microservices development organization.](https://www.reddit.com/r/devops/comments/135u8l7/how_do_you_approach_microservices_development/) | Suvulaan | 12 |
-| [Converting from Pulumi to Terraform (rewriting all deployment code)](https://www.reddit.com/r/devops/comments/1363bux/converting_from_pulumi_to_terraform_rewriting_all/) | cjmull94 | 11 |
-| [1000 100% OFF coupons: DevOps course for small companies and individuals](https://www.reddit.com/r/devops/comments/136gc7d/1000_100_off_coupons_devops_course_for_small/) | predmijat | 9 |
-| [Automating a homelab - vSphere, Ubuntu VMs as K3S hosts.... easy approach?](https://www.reddit.com/r/devops/comments/135qts6/automating_a_homelab_vsphere_ubuntu_vms_as_k3s/) | Fluffer_Wuffer | 8 |
-| [Tips and good practices around architecture design with Kafka](https://www.reddit.com/r/devops/comments/135rn9g/tips_and_good_practices_around_architecture/) | Financial_Comb_3550 | 7 |
-| [Why are there so many people shilling eBPF? And there seems to be aggressive marketing to associate eBPF with Cilium.](https://www.reddit.com/r/devops/comments/135pldv/why_are_there_so_many_people_shilling_ebpf_and/) | IamOkei | 6 |
-| [Azure zero downtime deployments with Terraform](https://www.reddit.com/r/devops/comments/1363h3o/azure_zero_downtime_deployments_with_terraform/) | ipromiseimcool | 4 |
+| [The Hitchhiking Contributer’s Guide to Onboarding Docs in CI/CD](https://www.reddit.com/r/devops/comments/136r2xl/the_hitchhiking_contributers_guide_to_onboarding/) | hans_claasen | 60 |
+| [[DevOps Learning Series] Infrastructure as Code (IaC): The Foundation for Automated Infrastructure Management](https://www.reddit.com/r/devops/comments/137bwv9/devops_learning_series_infrastructure_as_code_iac/) | Throwmetothewolf | 44 |
+| [Sysadmin/DevOps Engineer without Terraform experience looking for relocation feeling hopeless advice needed.](https://www.reddit.com/r/devops/comments/136yccz/sysadmindevops_engineer_without_terraform/) | Maxcoder95 | 17 |
+| [Transition to devops](https://www.reddit.com/r/devops/comments/136is5f/transition_to_devops/) | ahaller1993 | 5 |
+| [From Chaos to Clarity: How to Secure Your Supply Chain with Attestations](https://www.reddit.com/r/devops/comments/137f7ak/from_chaos_to_clarity_how_to_secure_your_supply/) | BarakScribe | 5 |
+| [How to open source code from a private monorepo](https://www.reddit.com/r/devops/comments/136pj21/how_to_open_source_code_from_a_private_monorepo/) | averagemrjoe | 2 |
+| [AWS Permission Bouncers: Letting Loose in Dev, Keeping it Tight in Prod](https://www.reddit.com/r/devops/comments/136tnkd/aws_permission_bouncers_letting_loose_in_dev/) | Securiy | 2 |
+| [tool for pushing AWS costs in analytics tool like Metabase, Looker etc..](https://www.reddit.com/r/devops/comments/13779d7/tool_for_pushing_aws_costs_in_analytics_tool_like/) | neeltom92 | 1 |
+| [remote connection to GCE Vm machines](https://www.reddit.com/r/devops/comments/136pmjo/remote_connection_to_gce_vm_machines/) | danamerr | 1 |
+| [User quotas on AWS EFS](https://www.reddit.com/r/devops/comments/137hui3/user_quotas_on_aws_efs/) | Psychological_Money8 | 1 |
