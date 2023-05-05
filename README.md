@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [The Hitchhiking Contributer’s Guide to Onboarding Docs in CI/CD](https://www.reddit.com/r/devops/comments/136r2xl/the_hitchhiking_contributers_guide_to_onboarding/) | hans_claasen | 60 |
-| [[DevOps Learning Series] Infrastructure as Code (IaC): The Foundation for Automated Infrastructure Management](https://www.reddit.com/r/devops/comments/137bwv9/devops_learning_series_infrastructure_as_code_iac/) | Throwmetothewolf | 44 |
-| [Sysadmin/DevOps Engineer without Terraform experience looking for relocation feeling hopeless advice needed.](https://www.reddit.com/r/devops/comments/136yccz/sysadmindevops_engineer_without_terraform/) | Maxcoder95 | 17 |
-| [Transition to devops](https://www.reddit.com/r/devops/comments/136is5f/transition_to_devops/) | ahaller1993 | 5 |
-| [From Chaos to Clarity: How to Secure Your Supply Chain with Attestations](https://www.reddit.com/r/devops/comments/137f7ak/from_chaos_to_clarity_how_to_secure_your_supply/) | BarakScribe | 5 |
-| [How to open source code from a private monorepo](https://www.reddit.com/r/devops/comments/136pj21/how_to_open_source_code_from_a_private_monorepo/) | averagemrjoe | 2 |
-| [AWS Permission Bouncers: Letting Loose in Dev, Keeping it Tight in Prod](https://www.reddit.com/r/devops/comments/136tnkd/aws_permission_bouncers_letting_loose_in_dev/) | Securiy | 2 |
-| [tool for pushing AWS costs in analytics tool like Metabase, Looker etc..](https://www.reddit.com/r/devops/comments/13779d7/tool_for_pushing_aws_costs_in_analytics_tool_like/) | neeltom92 | 1 |
-| [remote connection to GCE Vm machines](https://www.reddit.com/r/devops/comments/136pmjo/remote_connection_to_gce_vm_machines/) | danamerr | 1 |
-| [User quotas on AWS EFS](https://www.reddit.com/r/devops/comments/137hui3/user_quotas_on_aws_efs/) | Psychological_Money8 | 1 |
+| [Why does it seem like GitHub goes down every other week these days?](https://www.reddit.com/r/devops/comments/137s18r/why_does_it_seem_like_github_goes_down_every/) | space_iio | 135 |
+| [Is GitHub less stable this year or just me?](https://www.reddit.com/r/devops/comments/137ryrk/is_github_less_stable_this_year_or_just_me/) | mesamunefire | 25 |
+| [Your interview questions for the company](https://www.reddit.com/r/devops/comments/138gajf/your_interview_questions_for_the_company/) | sh0xHH | 9 |
+| [AWS Load Balancer Controller](https://www.reddit.com/r/devops/comments/13858hk/aws_load_balancer_controller/) | alsophocus | 9 |
+| [Questions to ask new team](https://www.reddit.com/r/devops/comments/137qxub/questions_to_ask_new_team/) | Titanguru7 | 4 |
+| [I write an article about how to automate a ecs task creation and execution using event rules](https://www.reddit.com/r/devops/comments/137tcx9/i_write_an_article_about_how_to_automate_a_ecs/) | Efficient-Monitor-88 | 4 |
+| [Best way to ship code to multiple edge devices on intranet?](https://www.reddit.com/r/devops/comments/138e987/best_way_to_ship_code_to_multiple_edge_devices_on/) | veryjagad | 3 |
+| [Tutorial: Deploying a Django &amp; django-q application with Kubernetes at Digital Ocean with CI/CD Github actions and SSL certificate using HTTPS communication.](https://www.reddit.com/r/devops/comments/137ouon/tutorial_deploying_a_django_djangoq_application/) | arthurows | 2 |
+| [Is it possible to install Rancher to manage an already functioning K8S?](https://www.reddit.com/r/devops/comments/137wcs2/is_it_possible_to_install_rancher_to_manage_an/) | heathzz | 2 |
+| [How to use Git with SHA-2](https://www.reddit.com/r/devops/comments/138bis1/how_to_use_git_with_sha2/) | blueomg | 2 |
