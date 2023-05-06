@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Why does it seem like GitHub goes down every other week these days?](https://www.reddit.com/r/devops/comments/137s18r/why_does_it_seem_like_github_goes_down_every/) | space_iio | 135 |
-| [Is GitHub less stable this year or just me?](https://www.reddit.com/r/devops/comments/137ryrk/is_github_less_stable_this_year_or_just_me/) | mesamunefire | 25 |
-| [Your interview questions for the company](https://www.reddit.com/r/devops/comments/138gajf/your_interview_questions_for_the_company/) | sh0xHH | 9 |
-| [AWS Load Balancer Controller](https://www.reddit.com/r/devops/comments/13858hk/aws_load_balancer_controller/) | alsophocus | 9 |
-| [Questions to ask new team](https://www.reddit.com/r/devops/comments/137qxub/questions_to_ask_new_team/) | Titanguru7 | 4 |
-| [I write an article about how to automate a ecs task creation and execution using event rules](https://www.reddit.com/r/devops/comments/137tcx9/i_write_an_article_about_how_to_automate_a_ecs/) | Efficient-Monitor-88 | 4 |
-| [Best way to ship code to multiple edge devices on intranet?](https://www.reddit.com/r/devops/comments/138e987/best_way_to_ship_code_to_multiple_edge_devices_on/) | veryjagad | 3 |
-| [Tutorial: Deploying a Django &amp; django-q application with Kubernetes at Digital Ocean with CI/CD Github actions and SSL certificate using HTTPS communication.](https://www.reddit.com/r/devops/comments/137ouon/tutorial_deploying_a_django_djangoq_application/) | arthurows | 2 |
-| [Is it possible to install Rancher to manage an already functioning K8S?](https://www.reddit.com/r/devops/comments/137wcs2/is_it_possible_to_install_rancher_to_manage_an/) | heathzz | 2 |
-| [How to use Git with SHA-2](https://www.reddit.com/r/devops/comments/138bis1/how_to_use_git_with_sha2/) | blueomg | 2 |
+| [Does this seem like an efficient route for me to get into DevOps?](https://www.reddit.com/r/devops/comments/13992xz/does_this_seem_like_an_efficient_route_for_me_to/) | YoshiFelipe | 26 |
+| [Datadog Metrics for Terminated Kubernetes Pods+Nodes](https://www.reddit.com/r/devops/comments/1396yn7/datadog_metrics_for_terminated_kubernetes/) | deuxclique1 | 8 |
+| [Preferred way of handling/exposing gRPC backends on K8S?](https://www.reddit.com/r/devops/comments/139appz/preferred_way_of_handlingexposing_grpc_backends/) | watermelongatorade | 7 |
+| [Backstage vs Custom](https://www.reddit.com/r/devops/comments/138rrvo/backstage_vs_custom/) | Snoo_69473 | 2 |
+| [Help picking a book for a potential intern.](https://www.reddit.com/r/devops/comments/13935cp/help_picking_a_book_for_a_potential_intern/) | khaledmam | 1 |
+| [where can i get to know tech stacks of big companies other than stackshare(which seems to be incomplete often)](https://www.reddit.com/r/devops/comments/1397act/where_can_i_get_to_know_tech_stacks_of_big/) | actionwaifu | 0 |
+| [gitlab updates](https://www.reddit.com/r/devops/comments/1393kem/gitlab_updates/) | Valuable-Flatworm270 | 0 |
+| [Thoughts on "Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%"](https://www.reddit.com/r/devops/comments/139hib7/thoughts_on_scaling_up_the_prime_video_audiovideo/) | MariusKimmina | 0 |
+| [Laptop suggestion](https://www.reddit.com/r/devops/comments/139fftn/laptop_suggestion/) | AnvaySingh | 0 |
+| [How do you connect to the pgpool from bitnami/postgres-ha with Sequelize?](https://www.reddit.com/r/devops/comments/1397dak/how_do_you_connect_to_the_pgpool_from/) | darkcatpirate | 0 |
