@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does this seem like an efficient route for me to get into DevOps?](https://www.reddit.com/r/devops/comments/13992xz/does_this_seem_like_an_efficient_route_for_me_to/) | YoshiFelipe | 26 |
-| [Datadog Metrics for Terminated Kubernetes Pods+Nodes](https://www.reddit.com/r/devops/comments/1396yn7/datadog_metrics_for_terminated_kubernetes/) | deuxclique1 | 8 |
-| [Preferred way of handling/exposing gRPC backends on K8S?](https://www.reddit.com/r/devops/comments/139appz/preferred_way_of_handlingexposing_grpc_backends/) | watermelongatorade | 7 |
-| [Backstage vs Custom](https://www.reddit.com/r/devops/comments/138rrvo/backstage_vs_custom/) | Snoo_69473 | 2 |
-| [Help picking a book for a potential intern.](https://www.reddit.com/r/devops/comments/13935cp/help_picking_a_book_for_a_potential_intern/) | khaledmam | 1 |
-| [where can i get to know tech stacks of big companies other than stackshare(which seems to be incomplete often)](https://www.reddit.com/r/devops/comments/1397act/where_can_i_get_to_know_tech_stacks_of_big/) | actionwaifu | 0 |
-| [gitlab updates](https://www.reddit.com/r/devops/comments/1393kem/gitlab_updates/) | Valuable-Flatworm270 | 0 |
-| [Thoughts on "Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%"](https://www.reddit.com/r/devops/comments/139hib7/thoughts_on_scaling_up_the_prime_video_audiovideo/) | MariusKimmina | 0 |
-| [Laptop suggestion](https://www.reddit.com/r/devops/comments/139fftn/laptop_suggestion/) | AnvaySingh | 0 |
-| [How do you connect to the pgpool from bitnami/postgres-ha with Sequelize?](https://www.reddit.com/r/devops/comments/1397dak/how_do_you_connect_to_the_pgpool_from/) | darkcatpirate | 0 |
+| [Looking for projects ideas for experienced devops engineers](https://www.reddit.com/r/devops/comments/139pynp/looking_for_projects_ideas_for_experienced_devops/) | -abracadabra-- | 88 |
+| [Trunk based dev to deployment](https://www.reddit.com/r/devops/comments/139xotd/trunk_based_dev_to_deployment/) | badumtum | 23 |
+| [How do you write documentation that developers without experience are able to follow and understand ?](https://www.reddit.com/r/devops/comments/139ryg1/how_do_you_write_documentation_that_developers/) | pojzon_poe | 22 |
+| [Lightweight ELK alternative for ingesting and analyzing local logs?](https://www.reddit.com/r/devops/comments/13ab0l5/lightweight_elk_alternative_for_ingesting_and/) | gajus0 | 14 |
+| [Transitioning back to a hands-on DevOps/platform engineering role](https://www.reddit.com/r/devops/comments/13aja3f/transitioning_back_to_a_handson_devopsplatform/) | mac_bbe | 9 |
+| [Amidst Docker, Podman why does one not hear about systemd-nspawn, mkiso and debootstrap often?](https://www.reddit.com/r/devops/comments/139u04t/amidst_docker_podman_why_does_one_not_hear_about/) | dugindeep | 9 |
+| [Where do you go for your dev related news? i'm looking for magazine's interpage's or newsoutlets.](https://www.reddit.com/r/devops/comments/139q1fn/where_do_you_go_for_your_dev_related_news_im/) | brad-li | 6 |
+| [Aren't we just glorified linux admins?](https://www.reddit.com/r/devops/comments/13adr4v/arent_we_just_glorified_linux_admins/) | AemonQE | 3 |
+| [ingress-service not working on minikube](https://www.reddit.com/r/devops/comments/13aac21/ingressservice_not_working_on_minikube/) | darkcatpirate | 2 |
+| [Keeping contents in the same git repository from two different folders](https://www.reddit.com/r/devops/comments/139qdlx/keeping_contents_in_the_same_git_repository_from/) | jaango123 | 1 |
