@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Looking for projects ideas for experienced devops engineers](https://www.reddit.com/r/devops/comments/139pynp/looking_for_projects_ideas_for_experienced_devops/) | -abracadabra-- | 88 |
-| [Trunk based dev to deployment](https://www.reddit.com/r/devops/comments/139xotd/trunk_based_dev_to_deployment/) | badumtum | 23 |
-| [How do you write documentation that developers without experience are able to follow and understand ?](https://www.reddit.com/r/devops/comments/139ryg1/how_do_you_write_documentation_that_developers/) | pojzon_poe | 22 |
-| [Lightweight ELK alternative for ingesting and analyzing local logs?](https://www.reddit.com/r/devops/comments/13ab0l5/lightweight_elk_alternative_for_ingesting_and/) | gajus0 | 14 |
-| [Transitioning back to a hands-on DevOps/platform engineering role](https://www.reddit.com/r/devops/comments/13aja3f/transitioning_back_to_a_handson_devopsplatform/) | mac_bbe | 9 |
-| [Amidst Docker, Podman why does one not hear about systemd-nspawn, mkiso and debootstrap often?](https://www.reddit.com/r/devops/comments/139u04t/amidst_docker_podman_why_does_one_not_hear_about/) | dugindeep | 9 |
-| [Where do you go for your dev related news? i'm looking for magazine's interpage's or newsoutlets.](https://www.reddit.com/r/devops/comments/139q1fn/where_do_you_go_for_your_dev_related_news_im/) | brad-li | 6 |
-| [Aren't we just glorified linux admins?](https://www.reddit.com/r/devops/comments/13adr4v/arent_we_just_glorified_linux_admins/) | AemonQE | 3 |
-| [ingress-service not working on minikube](https://www.reddit.com/r/devops/comments/13aac21/ingressservice_not_working_on_minikube/) | darkcatpirate | 2 |
-| [Keeping contents in the same git repository from two different folders](https://www.reddit.com/r/devops/comments/139qdlx/keeping_contents_in_the_same_git_repository_from/) | jaango123 | 1 |
+| [What do people use for quota management?](https://www.reddit.com/r/devops/comments/13apl9h/what_do_people_use_for_quota_management/) | Troppelmann | 39 |
+| [No operation guys in Devops anymore.](https://www.reddit.com/r/devops/comments/13bfefu/no_operation_guys_in_devops_anymore/) | CliffClifferson | 26 |
+| [Dev self service portal](https://www.reddit.com/r/devops/comments/13b966p/dev_self_service_portal/) | jblaaa | 9 |
+| [Help required](https://www.reddit.com/r/devops/comments/13amxs7/help_required/) | hasta-maithun | 8 |
+| [Quick poll for folks using centralized logging: Do you use encryption to ingest your logs?](https://www.reddit.com/r/devops/comments/13aw20d/quick_poll_for_folks_using_centralized_logging_do/) | AndroTux | 5 |
+| [OpenTelemetry Tracing - What are the options?](https://www.reddit.com/r/devops/comments/13bjamr/opentelemetry_tracing_what_are_the_options/) | Einav_Laviv | 4 |
+| [When am I ready for a junior role?](https://www.reddit.com/r/devops/comments/13bgso9/when_am_i_ready_for_a_junior_role/) | zapdude0 | 3 |
+| [Argo Ecosystem: Argo CD, Argo Workflows, Argo Events, Argo Rollouts, Argo Everything](https://www.reddit.com/r/devops/comments/13bgzdj/argo_ecosystem_argo_cd_argo_workflows_argo_events/) | kshirinkin | 2 |
+| [eliminating saas bills](https://www.reddit.com/r/devops/comments/13bjyv7/eliminating_saas_bills/) | ajpauwels | 1 |
+| [Learning about Authentication and Authorization - courses/certifications?](https://www.reddit.com/r/devops/comments/13b09hh/learning_about_authentication_and_authorization/) | Dante_A | 1 |
