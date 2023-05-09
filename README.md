@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What do people use for quota management?](https://www.reddit.com/r/devops/comments/13apl9h/what_do_people_use_for_quota_management/) | Troppelmann | 39 |
-| [No operation guys in Devops anymore.](https://www.reddit.com/r/devops/comments/13bfefu/no_operation_guys_in_devops_anymore/) | CliffClifferson | 26 |
-| [Dev self service portal](https://www.reddit.com/r/devops/comments/13b966p/dev_self_service_portal/) | jblaaa | 9 |
-| [Help required](https://www.reddit.com/r/devops/comments/13amxs7/help_required/) | hasta-maithun | 8 |
-| [Quick poll for folks using centralized logging: Do you use encryption to ingest your logs?](https://www.reddit.com/r/devops/comments/13aw20d/quick_poll_for_folks_using_centralized_logging_do/) | AndroTux | 5 |
-| [OpenTelemetry Tracing - What are the options?](https://www.reddit.com/r/devops/comments/13bjamr/opentelemetry_tracing_what_are_the_options/) | Einav_Laviv | 4 |
-| [When am I ready for a junior role?](https://www.reddit.com/r/devops/comments/13bgso9/when_am_i_ready_for_a_junior_role/) | zapdude0 | 3 |
-| [Argo Ecosystem: Argo CD, Argo Workflows, Argo Events, Argo Rollouts, Argo Everything](https://www.reddit.com/r/devops/comments/13bgzdj/argo_ecosystem_argo_cd_argo_workflows_argo_events/) | kshirinkin | 2 |
-| [eliminating saas bills](https://www.reddit.com/r/devops/comments/13bjyv7/eliminating_saas_bills/) | ajpauwels | 1 |
-| [Learning about Authentication and Authorization - courses/certifications?](https://www.reddit.com/r/devops/comments/13b09hh/learning_about_authentication_and_authorization/) | Dante_A | 1 |
+| [$65M for Obsevability](https://www.reddit.com/r/devops/comments/13c7q3x/65m_for_obsevability/) | TechnicalPackage | 113 |
+| [DevOps Employment Market](https://www.reddit.com/r/devops/comments/13c69m6/devops_employment_market/) | thebigtomat | 35 |
+| [help with my job title.](https://www.reddit.com/r/devops/comments/13booz5/help_with_my_job_title/) | annkozar | 13 |
+| [Pulumi Self-Managed vs Pulumi Cloud](https://www.reddit.com/r/devops/comments/13byf49/pulumi_selfmanaged_vs_pulumi_cloud/) | cjmull94 | 12 |
+| [What skills on a resume would make you hire someone from a another country that you wouldn't mostly hire from?](https://www.reddit.com/r/devops/comments/13cldyo/what_skills_on_a_resume_would_make_you_hire/) | FinnaGetRichh | 7 |
+| [Multi service ci/cd best practices](https://www.reddit.com/r/devops/comments/13c88ix/multi_service_cicd_best_practices/) | NtzsnS32 | 5 |
+| [what advice would you give me to negotiate a better performance bonus percentage?](https://www.reddit.com/r/devops/comments/13ccqab/what_advice_would_you_give_me_to_negotiate_a/) | King_Taco_70 | 3 |
+| [Offering resume feedback to Platform/Cloud/DevOps engineers](https://www.reddit.com/r/devops/comments/13ckek1/offering_resume_feedback_to_platformclouddevops/) | MattHodge | 3 |
+| [Humble bundle cloud computing](https://www.reddit.com/r/devops/comments/13cm3hh/humble_bundle_cloud_computing/) | PanPanPunch | 3 |
+| [Should I use Custom OS image or Docker or Ansible to manage config/installed packages?](https://www.reddit.com/r/devops/comments/13cbz4w/should_i_use_custom_os_image_or_docker_or_ansible/) | AwShix | 2 |
