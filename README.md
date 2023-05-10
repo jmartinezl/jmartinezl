@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [$65M for Obsevability](https://www.reddit.com/r/devops/comments/13c7q3x/65m_for_obsevability/) | TechnicalPackage | 113 |
-| [DevOps Employment Market](https://www.reddit.com/r/devops/comments/13c69m6/devops_employment_market/) | thebigtomat | 35 |
-| [help with my job title.](https://www.reddit.com/r/devops/comments/13booz5/help_with_my_job_title/) | annkozar | 13 |
-| [Pulumi Self-Managed vs Pulumi Cloud](https://www.reddit.com/r/devops/comments/13byf49/pulumi_selfmanaged_vs_pulumi_cloud/) | cjmull94 | 12 |
-| [What skills on a resume would make you hire someone from a another country that you wouldn't mostly hire from?](https://www.reddit.com/r/devops/comments/13cldyo/what_skills_on_a_resume_would_make_you_hire/) | FinnaGetRichh | 7 |
-| [Multi service ci/cd best practices](https://www.reddit.com/r/devops/comments/13c88ix/multi_service_cicd_best_practices/) | NtzsnS32 | 5 |
-| [what advice would you give me to negotiate a better performance bonus percentage?](https://www.reddit.com/r/devops/comments/13ccqab/what_advice_would_you_give_me_to_negotiate_a/) | King_Taco_70 | 3 |
-| [Offering resume feedback to Platform/Cloud/DevOps engineers](https://www.reddit.com/r/devops/comments/13ckek1/offering_resume_feedback_to_platformclouddevops/) | MattHodge | 3 |
-| [Humble bundle cloud computing](https://www.reddit.com/r/devops/comments/13cm3hh/humble_bundle_cloud_computing/) | PanPanPunch | 3 |
-| [Should I use Custom OS image or Docker or Ansible to manage config/installed packages?](https://www.reddit.com/r/devops/comments/13cbz4w/should_i_use_custom_os_image_or_docker_or_ansible/) | AwShix | 2 |
+| [Just started a director job at a company 5x the size of my last one and am quietly freaking out. Could use some advice on how to hold my crap together so I don't quit.](https://www.reddit.com/r/devops/comments/13cykjj/just_started_a_director_job_at_a_company_5x_the/) | impolite_bomber99 | 187 |
+| [Prime Video reduces costs by 90% by switching from distributed microservices to a monolith application](https://www.reddit.com/r/devops/comments/13cnspx/prime_video_reduces_costs_by_90_by_switching_from/) | According_Ad6749 | 143 |
+| [What the fuck is going on with github lately?](https://www.reddit.com/r/devops/comments/13cw9wm/what_the_fuck_is_going_on_with_github_lately/) | flagbearer223 | 94 |
+| [I can't believe it's not DNS - Or how I spent a weekend fighting networking in Kubernetes](https://www.reddit.com/r/devops/comments/13dj0bh/i_cant_believe_its_not_dns_or_how_i_spent_a/) | bruj0and | 50 |
+| [Am I a bad platform engineer or am I just a bad platform engineer at this company?](https://www.reddit.com/r/devops/comments/13dbccy/am_i_a_bad_platform_engineer_or_am_i_just_a_bad/) | PartemConsilio | 19 |
+| [How do you guys manage "promotions" between environments with kustomize?](https://www.reddit.com/r/devops/comments/13d0ddl/how_do_you_guys_manage_promotions_between/) | salmoneaffumicat0 | 8 |
+| [Running DataDog agent as a sidecar container for APM in ECS Fargate](https://www.reddit.com/r/devops/comments/13dbpj4/running_datadog_agent_as_a_sidecar_container_for/) | theBeeprApp | 6 |
+| [Chicken-and-egg issue with repos, CIs &amp; k8s - sanity check](https://www.reddit.com/r/devops/comments/13dlj8d/chickenandegg_issue_with_repos_cis_k8s_sanity/) | oOFishbowlOo | 5 |
+| [What next?](https://www.reddit.com/r/devops/comments/13cqjvd/what_next/) | PenguinGerman | 4 |
+| [Is this anti-devops pattern?](https://www.reddit.com/r/devops/comments/13csvh8/is_this_antidevops_pattern/) | Oxffff0000 | 4 |
