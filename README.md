@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Just started a director job at a company 5x the size of my last one and am quietly freaking out. Could use some advice on how to hold my crap together so I don't quit.](https://www.reddit.com/r/devops/comments/13cykjj/just_started_a_director_job_at_a_company_5x_the/) | impolite_bomber99 | 187 |
-| [Prime Video reduces costs by 90% by switching from distributed microservices to a monolith application](https://www.reddit.com/r/devops/comments/13cnspx/prime_video_reduces_costs_by_90_by_switching_from/) | According_Ad6749 | 143 |
-| [What the fuck is going on with github lately?](https://www.reddit.com/r/devops/comments/13cw9wm/what_the_fuck_is_going_on_with_github_lately/) | flagbearer223 | 94 |
-| [I can't believe it's not DNS - Or how I spent a weekend fighting networking in Kubernetes](https://www.reddit.com/r/devops/comments/13dj0bh/i_cant_believe_its_not_dns_or_how_i_spent_a/) | bruj0and | 50 |
-| [Am I a bad platform engineer or am I just a bad platform engineer at this company?](https://www.reddit.com/r/devops/comments/13dbccy/am_i_a_bad_platform_engineer_or_am_i_just_a_bad/) | PartemConsilio | 19 |
-| [How do you guys manage "promotions" between environments with kustomize?](https://www.reddit.com/r/devops/comments/13d0ddl/how_do_you_guys_manage_promotions_between/) | salmoneaffumicat0 | 8 |
-| [Running DataDog agent as a sidecar container for APM in ECS Fargate](https://www.reddit.com/r/devops/comments/13dbpj4/running_datadog_agent_as_a_sidecar_container_for/) | theBeeprApp | 6 |
-| [Chicken-and-egg issue with repos, CIs &amp; k8s - sanity check](https://www.reddit.com/r/devops/comments/13dlj8d/chickenandegg_issue_with_repos_cis_k8s_sanity/) | oOFishbowlOo | 5 |
-| [What next?](https://www.reddit.com/r/devops/comments/13cqjvd/what_next/) | PenguinGerman | 4 |
-| [Is this anti-devops pattern?](https://www.reddit.com/r/devops/comments/13csvh8/is_this_antidevops_pattern/) | Oxffff0000 | 4 |
+| [Yet another GitHub Outage..](https://www.reddit.com/r/devops/comments/13dr7el/yet_another_github_outage/) | TheAlmightyZach | 116 |
+| [GitHub actions top alternatives](https://www.reddit.com/r/devops/comments/13dvu0n/github_actions_top_alternatives/) | libert-y | 33 |
+| [Has anyone switched to a product team from devops? What were your reasons and how are you liking it?](https://www.reddit.com/r/devops/comments/13eesqi/has_anyone_switched_to_a_product_team_from_devops/) | Paramourn2 | 24 |
+| [OneUptime: Open Source StatusPage.io alternative that you can self-host.](https://www.reddit.com/r/devops/comments/13dzh5n/oneuptime_open_source_statuspageio_alternative/) | simlarsen | 7 |
+| [GitHub vs Gitlab](https://www.reddit.com/r/devops/comments/13e4eoj/github_vs_gitlab/) | Expensive_Finance_20 | 7 |
+| [Mixing infrastructure provisioning and configuration](https://www.reddit.com/r/devops/comments/13e3nm1/mixing_infrastructure_provisioning_and/) | distrustingwaffle | 3 |
+| [Documentation/Help for your platform](https://www.reddit.com/r/devops/comments/13dvfzb/documentationhelp_for_your_platform/) | Inevitable_Abies_777 | 3 |
+| [DevOps to ‘DevOps’](https://www.reddit.com/r/devops/comments/13ei26p/devops_to_devops/) | Masterboog | 2 |
+| [Branching Strategy for multiple APIGW endpoints split in different resources](https://www.reddit.com/r/devops/comments/13eaz54/branching_strategy_for_multiple_apigw_endpoints/) | Gr3gorius | 2 |
+| [AWS WAF and SQLiMatchStatement](https://www.reddit.com/r/devops/comments/13dxx6p/aws_waf_and_sqlimatchstatement/) | Toast42 | 2 |
