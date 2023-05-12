@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Yet another GitHub Outage..](https://www.reddit.com/r/devops/comments/13dr7el/yet_another_github_outage/) | TheAlmightyZach | 116 |
-| [GitHub actions top alternatives](https://www.reddit.com/r/devops/comments/13dvu0n/github_actions_top_alternatives/) | libert-y | 33 |
-| [Has anyone switched to a product team from devops? What were your reasons and how are you liking it?](https://www.reddit.com/r/devops/comments/13eesqi/has_anyone_switched_to_a_product_team_from_devops/) | Paramourn2 | 24 |
-| [OneUptime: Open Source StatusPage.io alternative that you can self-host.](https://www.reddit.com/r/devops/comments/13dzh5n/oneuptime_open_source_statuspageio_alternative/) | simlarsen | 7 |
-| [GitHub vs Gitlab](https://www.reddit.com/r/devops/comments/13e4eoj/github_vs_gitlab/) | Expensive_Finance_20 | 7 |
-| [Mixing infrastructure provisioning and configuration](https://www.reddit.com/r/devops/comments/13e3nm1/mixing_infrastructure_provisioning_and/) | distrustingwaffle | 3 |
-| [Documentation/Help for your platform](https://www.reddit.com/r/devops/comments/13dvfzb/documentationhelp_for_your_platform/) | Inevitable_Abies_777 | 3 |
-| [DevOps to ‘DevOps’](https://www.reddit.com/r/devops/comments/13ei26p/devops_to_devops/) | Masterboog | 2 |
-| [Branching Strategy for multiple APIGW endpoints split in different resources](https://www.reddit.com/r/devops/comments/13eaz54/branching_strategy_for_multiple_apigw_endpoints/) | Gr3gorius | 2 |
-| [AWS WAF and SQLiMatchStatement](https://www.reddit.com/r/devops/comments/13dxx6p/aws_waf_and_sqlimatchstatement/) | Toast42 | 2 |
+| [FYI: GitHub appears to be down at the moment (https://www.githubstatus.com/)](https://www.reddit.com/r/devops/comments/13enp35/fyi_github_appears_to_be_down_at_the_moment/) | esixar | 171 |
+| [Oh, it's just Github having their 'routine' daily outages](https://www.reddit.com/r/devops/comments/13f6f56/oh_its_just_github_having_their_routine_daily/) | toobrokeforboba | 91 |
+| [Leaving job after 6 months](https://www.reddit.com/r/devops/comments/13eph8w/leaving_job_after_6_months/) | Obj_Sea | 47 |
+| [3 straight days of degraded github performance](https://www.reddit.com/r/devops/comments/13enths/3_straight_days_of_degraded_github_performance/) | herereadthis | 43 |
+| [Friend &amp; I built a production debugging &amp; monitoring alternative to Datadog, New Relic (based on OpenTelemetry + Clickhouse)](https://www.reddit.com/r/devops/comments/13espyq/friend_i_built_a_production_debugging_monitoring/) | __boba__ | 16 |
+| [Needing help with the non-technical side of pipelines.](https://www.reddit.com/r/devops/comments/13eqkut/needing_help_with_the_nontechnical_side_of/) | busybaer | 6 |
+| [5 hours interview for Principal DevOps Engineer?](https://www.reddit.com/r/devops/comments/13ey6mn/5_hours_interview_for_principal_devops_engineer/) | itnerdie | 5 |
+| [How to increase visibility on GitFlow?](https://www.reddit.com/r/devops/comments/13fhpmn/how_to_increase_visibility_on_gitflow/) | gcstr | 3 |
+| [How to Approach Kubernetes Infrastructure With Container Sprawl in Mind](https://www.reddit.com/r/devops/comments/13f54vg/how_to_approach_kubernetes_infrastructure_with/) | Dannyc2021 | 2 |
+| [For a career in DevOps what certification should I acquire?](https://www.reddit.com/r/devops/comments/13elq9u/for_a_career_in_devops_what_certification_should/) | Mima_m | 2 |
