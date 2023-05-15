@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [If you want to exceel in your career, you MUST be able to write code](https://www.reddit.com/r/devops/comments/13h6nk4/if_you_want_to_exceel_in_your_career_you_must_be/) | Nimda_lel | 30 |
-| [Azure DevOps - How to do DevOps with Azure](https://www.reddit.com/r/devops/comments/13h3qkk/azure_devops_how_to_do_devops_with_azure/) | Intelligent_Tune_392 | 30 |
-| [Work like balance as a devops engineer?](https://www.reddit.com/r/devops/comments/13gmayq/work_like_balance_as_a_devops_engineer/) | zhuofan420 | 27 |
-| [Where are the recipes for "Hybrid" Delivery?](https://www.reddit.com/r/devops/comments/13gl6t4/where_are_the_recipes_for_hybrid_delivery/) | jafo | 12 |
-| [Is this a good CI/CD setup to build and deploy services to Kubernetes?](https://www.reddit.com/r/devops/comments/13gjsz5/is_this_a_good_cicd_setup_to_build_and_deploy/) | engimere | 12 |
-| [Migrating from Nexus to Harbor: A Comparison of Features and Easy Steps](https://www.reddit.com/r/devops/comments/13gpzk6/migrating_from_nexus_to_harbor_a_comparison_of/) | GreenAstronaut6179 | 4 |
-| [What Linux knowledge is expected for an interview?](https://www.reddit.com/r/devops/comments/13h4zrv/what_linux_knowledge_is_expected_for_an_interview/) | 29092 | 3 |
-| [Throw in the key](https://www.reddit.com/r/devops/comments/13gjwn7/throw_in_the_key/) | dstahlberg | 2 |
-| [Have things become better since the "Phoenix Project"? I don't see any of these stories in real life anymore](https://www.reddit.com/r/devops/comments/13h81e9/have_things_become_better_since_the_phoenix/) | IamOkei | 1 |
-| [secrets management for noobs](https://www.reddit.com/r/devops/comments/13h10wp/secrets_management_for_noobs/) | Cobra-Chicken | 0 |
+| [Meaningless subreddit](https://www.reddit.com/r/devops/comments/13hzbh6/meaningless_subreddit/) | Nimda_lel | 123 |
+| [History and Future of Infrastructure as Code](https://www.reddit.com/r/devops/comments/13hi5bm/history_and_future_of_infrastructure_as_code/) | shai-ber | 62 |
+| [What are some good self-hosted CI/CD tools where pipeline steps run in docker containers?](https://www.reddit.com/r/devops/comments/13hmwsg/what_are_some_good_selfhosted_cicd_tools_where/) | engimere | 12 |
+| [Doing projects or taking another AWS certification](https://www.reddit.com/r/devops/comments/13hfh4t/doing_projects_or_taking_another_aws_certification/) | Ionceburntpasta | 4 |
+| [What sort of technical tasks should I expect in an interview?](https://www.reddit.com/r/devops/comments/13hkl38/what_sort_of_technical_tasks_should_i_expect_in/) | deadassmf | 3 |
+| [What tools or services do you use for your cloud infrastructure other than monitoring/logging/APM](https://www.reddit.com/r/devops/comments/13hduhs/what_tools_or_services_do_you_use_for_your_cloud/) | theBeeprApp | 2 |
+| [Modernising IIS .net app deployments](https://www.reddit.com/r/devops/comments/13i24n4/modernising_iis_net_app_deployments/) | xIMAINZIx | 1 |
+| [Continuous Delivery - When do you tag?](https://www.reddit.com/r/devops/comments/13i3fqk/continuous_delivery_when_do_you_tag/) | shellwhale | 1 |
+| [Why worry about Delivery &amp; Deployment Security?](https://www.reddit.com/r/devops/comments/13i0egi/why_worry_about_delivery_deployment_security/) | opsmxspinnaker | 0 |
+| [Volume types in Kubernetes](https://www.reddit.com/r/devops/comments/13i2d9b/volume_types_in_kubernetes/) | ncubez | 0 |
