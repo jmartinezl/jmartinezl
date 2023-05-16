@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Meaningless subreddit](https://www.reddit.com/r/devops/comments/13hzbh6/meaningless_subreddit/) | Nimda_lel | 123 |
-| [History and Future of Infrastructure as Code](https://www.reddit.com/r/devops/comments/13hi5bm/history_and_future_of_infrastructure_as_code/) | shai-ber | 62 |
-| [What are some good self-hosted CI/CD tools where pipeline steps run in docker containers?](https://www.reddit.com/r/devops/comments/13hmwsg/what_are_some_good_selfhosted_cicd_tools_where/) | engimere | 12 |
-| [Doing projects or taking another AWS certification](https://www.reddit.com/r/devops/comments/13hfh4t/doing_projects_or_taking_another_aws_certification/) | Ionceburntpasta | 4 |
-| [What sort of technical tasks should I expect in an interview?](https://www.reddit.com/r/devops/comments/13hkl38/what_sort_of_technical_tasks_should_i_expect_in/) | deadassmf | 3 |
-| [What tools or services do you use for your cloud infrastructure other than monitoring/logging/APM](https://www.reddit.com/r/devops/comments/13hduhs/what_tools_or_services_do_you_use_for_your_cloud/) | theBeeprApp | 2 |
-| [Modernising IIS .net app deployments](https://www.reddit.com/r/devops/comments/13i24n4/modernising_iis_net_app_deployments/) | xIMAINZIx | 1 |
-| [Continuous Delivery - When do you tag?](https://www.reddit.com/r/devops/comments/13i3fqk/continuous_delivery_when_do_you_tag/) | shellwhale | 1 |
-| [Why worry about Delivery &amp; Deployment Security?](https://www.reddit.com/r/devops/comments/13i0egi/why_worry_about_delivery_deployment_security/) | opsmxspinnaker | 0 |
-| [Volume types in Kubernetes](https://www.reddit.com/r/devops/comments/13i2d9b/volume_types_in_kubernetes/) | ncubez | 0 |
+| [New Grad, landed a DevOps job](https://www.reddit.com/r/devops/comments/13israw/new_grad_landed_a_devops_job/) | beardedcaplfc | 26 |
+| [Mac VMs with GUI for ui-tests](https://www.reddit.com/r/devops/comments/13ih8t9/mac_vms_with_gui_for_uitests/) | remzinho | 14 |
+| [How to handle major version bumps when using a fully automated CI/CD pipeline? (SemVer)](https://www.reddit.com/r/devops/comments/13j0781/how_to_handle_major_version_bumps_when_using_a/) | Dan6erbond2 | 6 |
+| [How valuable is home lab automation when applying for Devops?](https://www.reddit.com/r/devops/comments/13ie31y/how_valuable_is_home_lab_automation_when_applying/) | ReverendRou | 5 |
+| [What are Devops Contractors charging in 2023?](https://www.reddit.com/r/devops/comments/13ir3yr/what_are_devops_contractors_charging_in_2023/) | Minute_Box6650 | 4 |
+| [What do you use for your pipelines?](https://www.reddit.com/r/devops/comments/13i6ewv/what_do_you_use_for_your_pipelines/) | Gustavo_AV | 1 |
+| [SaaS-based SAST tool for enterprise code quality scanning?](https://www.reddit.com/r/devops/comments/13ig8bz/saasbased_sast_tool_for_enterprise_code_quality/) | AMercifulHello | 1 |
+| [New gig, rough in-place ops. Biz buy-in for an overhaul, want some advice, technical and managing human interactions.](https://www.reddit.com/r/devops/comments/13ixfww/new_gig_rough_inplace_ops_biz_buyin_for_an/) | Someoneoldbutnew | 1 |
+| [Modeling EC2 on-demand vs reserved instance pricing](https://www.reddit.com/r/devops/comments/13iuxop/modeling_ec2_ondemand_vs_reserved_instance_pricing/) | overandoutage | 1 |
+| [How to renegotiate salary as a DevOps engineer?](https://www.reddit.com/r/devops/comments/13itlyf/how_to_renegotiate_salary_as_a_devops_engineer/) | KiwiZ0 | 1 |
