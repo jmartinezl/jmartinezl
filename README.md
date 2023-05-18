@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Introducing DevPod - Codespaces but Open Source](https://www.reddit.com/r/devops/comments/13j9oaq/introducing_devpod_codespaces_but_open_source/) | mpetersen_loft-sh | 82 |
-| [Venting - CI/CD requirements](https://www.reddit.com/r/devops/comments/13jvxzq/venting_cicd_requirements/) | Sinnedangel8027 | 25 |
-| [Oracle Cloud Infrastructure](https://www.reddit.com/r/devops/comments/13jjc0d/oracle_cloud_infrastructure/) | namenotpicked | 8 |
-| [Udacity's nanodegree reviews](https://www.reddit.com/r/devops/comments/13jrxqw/udacitys_nanodegree_reviews/) | defqon_39 | 5 |
-| [Odigos v0.1.5 - Managing OpenTelemetry using Kubernetes labels](https://www.reddit.com/r/devops/comments/13jxid4/odigos_v015_managing_opentelemetry_using/) | Barakikia | 4 |
-| [Tailor AWS Identity Center (SSO) Permissions Per Account with IAMbic](https://www.reddit.com/r/devops/comments/13j86y7/tailor_aws_identity_center_sso_permissions_per/) | Securiy | 2 |
-| [Masking AWS RDS](https://www.reddit.com/r/devops/comments/13j70uh/masking_aws_rds/) | Antartica96 | 2 |
-| [Any advice to integrate my knowledge of DevOps?](https://www.reddit.com/r/devops/comments/13jlbwc/any_advice_to_integrate_my_knowledge_of_devops/) | BillyRoca | 2 |
-| [Terraform question. Do I need to worry about state management for a small Lab?](https://www.reddit.com/r/devops/comments/13jymsk/terraform_question_do_i_need_to_worry_about_state/) | AwShix | 1 |
-| [Repo for small scripts - What's the best practice](https://www.reddit.com/r/devops/comments/13jyvue/repo_for_small_scripts_whats_the_best_practice/) | Kitchen_Word4224 | 1 |
+| [Looks like GitHub is responding to the chronic downtime they have been having](https://www.reddit.com/r/devops/comments/13k7v8i/looks_like_github_is_responding_to_the_chronic/) | mesamunefire | 114 |
+| [A detailed article on Datadog's $5M outage](https://www.reddit.com/r/devops/comments/13kq12p/a_detailed_article_on_datadogs_5m_outage/) | Bulletproof_Begairat | 54 |
+| [How did you handle burnout?](https://www.reddit.com/r/devops/comments/13kiqcm/how_did_you_handle_burnout/) | FernandoJaimes | 18 |
+| [Advanced End-to-End DevOps Pipeline for a Java Web Application: A Step-by-Step Guide](https://www.reddit.com/r/devops/comments/13k6nsn/advanced_endtoend_devops_pipeline_for_a_java_web/) | sysadnoobie | 13 |
+| [Infrastructure As Code - Trying to setup an automation around a very messy tech stack](https://www.reddit.com/r/devops/comments/13k9wy7/infrastructure_as_code_trying_to_setup_an/) | Mountain_Ad_1548 | 4 |
+| [Create Service Now requests via Ansible - Possibility](https://www.reddit.com/r/devops/comments/13kd8xk/create_service_now_requests_via_ansible/) | Mountain_Ad_1548 | 4 |
+| [Analyzing AWS EC2 Cloud Security Issues with Selefra GPT](https://www.reddit.com/r/devops/comments/13kos1v/analyzing_aws_ec2_cloud_security_issues_with/) | Sad-Dependent-759 | 3 |
+| [Open-source IAM Access Visualizer](https://www.reddit.com/r/devops/comments/13k8qao/opensource_iam_access_visualizer/) | VariousAd5147 | 1 |
+| [You already reused the code of your company outside company?](https://www.reddit.com/r/devops/comments/13k1ne8/you_already_reused_the_code_of_your_company/) | Apart_Side3441 | 0 |
+| [What skills do I need to acquire to be devops engineer?](https://www.reddit.com/r/devops/comments/13kph6k/what_skills_do_i_need_to_acquire_to_be_devops/) | fromMultiverse | 0 |
