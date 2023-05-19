@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Looks like GitHub is responding to the chronic downtime they have been having](https://www.reddit.com/r/devops/comments/13k7v8i/looks_like_github_is_responding_to_the_chronic/) | mesamunefire | 114 |
-| [A detailed article on Datadog's $5M outage](https://www.reddit.com/r/devops/comments/13kq12p/a_detailed_article_on_datadogs_5m_outage/) | Bulletproof_Begairat | 54 |
-| [How did you handle burnout?](https://www.reddit.com/r/devops/comments/13kiqcm/how_did_you_handle_burnout/) | FernandoJaimes | 18 |
-| [Advanced End-to-End DevOps Pipeline for a Java Web Application: A Step-by-Step Guide](https://www.reddit.com/r/devops/comments/13k6nsn/advanced_endtoend_devops_pipeline_for_a_java_web/) | sysadnoobie | 13 |
-| [Infrastructure As Code - Trying to setup an automation around a very messy tech stack](https://www.reddit.com/r/devops/comments/13k9wy7/infrastructure_as_code_trying_to_setup_an/) | Mountain_Ad_1548 | 4 |
-| [Create Service Now requests via Ansible - Possibility](https://www.reddit.com/r/devops/comments/13kd8xk/create_service_now_requests_via_ansible/) | Mountain_Ad_1548 | 4 |
-| [Analyzing AWS EC2 Cloud Security Issues with Selefra GPT](https://www.reddit.com/r/devops/comments/13kos1v/analyzing_aws_ec2_cloud_security_issues_with/) | Sad-Dependent-759 | 3 |
-| [Open-source IAM Access Visualizer](https://www.reddit.com/r/devops/comments/13k8qao/opensource_iam_access_visualizer/) | VariousAd5147 | 1 |
-| [You already reused the code of your company outside company?](https://www.reddit.com/r/devops/comments/13k1ne8/you_already_reused_the_code_of_your_company/) | Apart_Side3441 | 0 |
-| [What skills do I need to acquire to be devops engineer?](https://www.reddit.com/r/devops/comments/13kph6k/what_skills_do_i_need_to_acquire_to_be_devops/) | fromMultiverse | 0 |
+| [Best tips for reducing cloud costs?](https://www.reddit.com/r/devops/comments/13l6rde/best_tips_for_reducing_cloud_costs/) | Jatalocks2 | 108 |
+| [DataDog: Where does it hurt.](https://www.reddit.com/r/devops/comments/13ky2iq/datadog_where_does_it_hurt/) | jeffdwyer | 33 |
+| [What kind of Monitoring or Observability questions should I be asking?](https://www.reddit.com/r/devops/comments/13lf5in/what_kind_of_monitoring_or_observability/) | Sebasterd_09 | 8 |
+| [Which role to accept?](https://www.reddit.com/r/devops/comments/13ll1wf/which_role_to_accept/) | learnamap | 7 |
+| [Read the DevOps handbook and Phoenix project. But I don't have a way to change the Org practices because of low rank. What should I do?](https://www.reddit.com/r/devops/comments/13lor87/read_the_devops_handbook_and_phoenix_project_but/) | IamOkei | 6 |
+| [GitHub Actions vs Cloud Build](https://www.reddit.com/r/devops/comments/13l8dr6/github_actions_vs_cloud_build/) | themouthoftruth | 2 |
+| [Awesome Cloud Cost Repository](https://www.reddit.com/r/devops/comments/13lsltj/awesome_cloud_cost_repository/) | Jatalocks2 | 2 |
+| [SQL or no sql for user analytics](https://www.reddit.com/r/devops/comments/13l5gc5/sql_or_no_sql_for_user_analytics/) | dirk_klement | 1 |
+| [Programming without a stack trace: When abstractions become illusions](https://www.reddit.com/r/devops/comments/13kz8y5/programming_without_a_stack_trace_when/) | shai-ber | 1 |
+| [MKPM Makefile Package Manager](https://www.reddit.com/r/devops/comments/13lo5hc/mkpm_makefile_package_manager/) | jamrizzi | 1 |
