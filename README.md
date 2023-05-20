@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Best tips for reducing cloud costs?](https://www.reddit.com/r/devops/comments/13l6rde/best_tips_for_reducing_cloud_costs/) | Jatalocks2 | 108 |
-| [DataDog: Where does it hurt.](https://www.reddit.com/r/devops/comments/13ky2iq/datadog_where_does_it_hurt/) | jeffdwyer | 33 |
-| [What kind of Monitoring or Observability questions should I be asking?](https://www.reddit.com/r/devops/comments/13lf5in/what_kind_of_monitoring_or_observability/) | Sebasterd_09 | 8 |
-| [Which role to accept?](https://www.reddit.com/r/devops/comments/13ll1wf/which_role_to_accept/) | learnamap | 7 |
-| [Read the DevOps handbook and Phoenix project. But I don't have a way to change the Org practices because of low rank. What should I do?](https://www.reddit.com/r/devops/comments/13lor87/read_the_devops_handbook_and_phoenix_project_but/) | IamOkei | 6 |
-| [GitHub Actions vs Cloud Build](https://www.reddit.com/r/devops/comments/13l8dr6/github_actions_vs_cloud_build/) | themouthoftruth | 2 |
-| [Awesome Cloud Cost Repository](https://www.reddit.com/r/devops/comments/13lsltj/awesome_cloud_cost_repository/) | Jatalocks2 | 2 |
-| [SQL or no sql for user analytics](https://www.reddit.com/r/devops/comments/13l5gc5/sql_or_no_sql_for_user_analytics/) | dirk_klement | 1 |
-| [Programming without a stack trace: When abstractions become illusions](https://www.reddit.com/r/devops/comments/13kz8y5/programming_without_a_stack_trace_when/) | shai-ber | 1 |
-| [MKPM Makefile Package Manager](https://www.reddit.com/r/devops/comments/13lo5hc/mkpm_makefile_package_manager/) | jamrizzi | 1 |
+| [I'm new to infrastructure as code and I wonder if Ansible or Terraform is the right tool for my purpose](https://www.reddit.com/r/devops/comments/13m0sny/im_new_to_infrastructure_as_code_and_i_wonder_if/) | notreallyaredditor8 | 27 |
+| [How much of your learning and experience is self (personal AWS account) vs on the job?](https://www.reddit.com/r/devops/comments/13mh5fd/how_much_of_your_learning_and_experience_is_self/) | txs2300 | 25 |
+| [Preparation materials for interview](https://www.reddit.com/r/devops/comments/13ma3da/preparation_materials_for_interview/) | TheoremsAndProofs | 22 |
+| [Became a devops engineer with 3 years exp as a windows system admin.](https://www.reddit.com/r/devops/comments/13md9hn/became_a_devops_engineer_with_3_years_exp_as_a/) | TypeBanzai | 17 |
+| [What are good options for observability for tiny startup?](https://www.reddit.com/r/devops/comments/13luhnt/what_are_good_options_for_observability_for_tiny/) | pwab | 7 |
+| [Contract Testing on Kubernetes with Microcks](https://www.reddit.com/r/devops/comments/13mlx9j/contract_testing_on_kubernetes_with_microcks/) | piotr_minkowski | 2 |
+| [Cloudquery, Resoto, Steampipe, or Airbyte?](https://www.reddit.com/r/devops/comments/13m3gjv/cloudquery_resoto_steampipe_or_airbyte/) | Pumpkin-Main | 2 |
+| [Terraform and ansible or only ansible?](https://www.reddit.com/r/devops/comments/13mm6cx/terraform_and_ansible_or_only_ansible/) | Sylogz | 1 |
+| [Monitor - IIS App Pool](https://www.reddit.com/r/devops/comments/13lyq23/monitor_iis_app_pool/) | ash_ind | 1 |
+| [How do I get real client IP inside docker container for logging to the database](https://www.reddit.com/r/devops/comments/13m9a2n/how_do_i_get_real_client_ip_inside_docker/) | SnooHabits4550 | 1 |
