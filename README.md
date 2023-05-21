@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I'm new to infrastructure as code and I wonder if Ansible or Terraform is the right tool for my purpose](https://www.reddit.com/r/devops/comments/13m0sny/im_new_to_infrastructure_as_code_and_i_wonder_if/) | notreallyaredditor8 | 27 |
-| [How much of your learning and experience is self (personal AWS account) vs on the job?](https://www.reddit.com/r/devops/comments/13mh5fd/how_much_of_your_learning_and_experience_is_self/) | txs2300 | 25 |
-| [Preparation materials for interview](https://www.reddit.com/r/devops/comments/13ma3da/preparation_materials_for_interview/) | TheoremsAndProofs | 22 |
-| [Became a devops engineer with 3 years exp as a windows system admin.](https://www.reddit.com/r/devops/comments/13md9hn/became_a_devops_engineer_with_3_years_exp_as_a/) | TypeBanzai | 17 |
-| [What are good options for observability for tiny startup?](https://www.reddit.com/r/devops/comments/13luhnt/what_are_good_options_for_observability_for_tiny/) | pwab | 7 |
-| [Contract Testing on Kubernetes with Microcks](https://www.reddit.com/r/devops/comments/13mlx9j/contract_testing_on_kubernetes_with_microcks/) | piotr_minkowski | 2 |
-| [Cloudquery, Resoto, Steampipe, or Airbyte?](https://www.reddit.com/r/devops/comments/13m3gjv/cloudquery_resoto_steampipe_or_airbyte/) | Pumpkin-Main | 2 |
-| [Terraform and ansible or only ansible?](https://www.reddit.com/r/devops/comments/13mm6cx/terraform_and_ansible_or_only_ansible/) | Sylogz | 1 |
-| [Monitor - IIS App Pool](https://www.reddit.com/r/devops/comments/13lyq23/monitor_iis_app_pool/) | ash_ind | 1 |
-| [How do I get real client IP inside docker container for logging to the database](https://www.reddit.com/r/devops/comments/13m9a2n/how_do_i_get_real_client_ip_inside_docker/) | SnooHabits4550 | 1 |
+| [What are some harsh truths that r/devops needs to hear?](https://www.reddit.com/r/devops/comments/13n6pmp/what_are_some_harsh_truths_that_rdevops_needs_to/) | tata348320 | 117 |
+| [How's DevOps market right now?](https://www.reddit.com/r/devops/comments/13n005y/hows_devops_market_right_now/) | Mountain_Ad_1548 | 18 |
+| [What interview questions trip or expose most or a significant number of candidates](https://www.reddit.com/r/devops/comments/13ncs07/what_interview_questions_trip_or_expose_most_or_a/) | fullmetal_wolf_titan | 12 |
+| [Ubuntu cloud-config / autoinstall - Anyway of making it more modular?](https://www.reddit.com/r/devops/comments/13ncmrw/ubuntu_cloudconfig_autoinstall_anyway_of_making/) | Fluffer_Wuffer | 2 |
+| [Industrial engineering and Devops](https://www.reddit.com/r/devops/comments/13npvs2/industrial_engineering_and_devops/) | rudy004 | 2 |
+| [How to encrypt traffic from NginX server to upstream servers?](https://www.reddit.com/r/devops/comments/13n8gmm/how_to_encrypt_traffic_from_nginx_server_to/) | hashing_512 | 2 |
+| [How do you rotate 3rd parties API keys?](https://www.reddit.com/r/devops/comments/13nke0n/how_do_you_rotate_3rd_parties_api_keys/) | ninjaplot | 2 |
+| [What's the point of defining the URL of an environment in GitHub Actions?](https://www.reddit.com/r/devops/comments/13nbdxg/whats_the_point_of_defining_the_url_of_an/) | yzT- | 1 |
+| [How do you learn the implementation of mTLS? For example you have two flask microservices](https://www.reddit.com/r/devops/comments/13nqfap/how_do_you_learn_the_implementation_of_mtls_for/) | IamOkei | 1 |
+| [How do you WORK WITH testing teams?](https://www.reddit.com/r/devops/comments/13mxhqh/how_do_you_work_with_testing_teams/) | mothzilla | 1 |
