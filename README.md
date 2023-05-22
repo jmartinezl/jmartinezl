@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What are some harsh truths that r/devops needs to hear?](https://www.reddit.com/r/devops/comments/13n6pmp/what_are_some_harsh_truths_that_rdevops_needs_to/) | tata348320 | 117 |
-| [How's DevOps market right now?](https://www.reddit.com/r/devops/comments/13n005y/hows_devops_market_right_now/) | Mountain_Ad_1548 | 18 |
-| [What interview questions trip or expose most or a significant number of candidates](https://www.reddit.com/r/devops/comments/13ncs07/what_interview_questions_trip_or_expose_most_or_a/) | fullmetal_wolf_titan | 12 |
-| [Ubuntu cloud-config / autoinstall - Anyway of making it more modular?](https://www.reddit.com/r/devops/comments/13ncmrw/ubuntu_cloudconfig_autoinstall_anyway_of_making/) | Fluffer_Wuffer | 2 |
-| [Industrial engineering and Devops](https://www.reddit.com/r/devops/comments/13npvs2/industrial_engineering_and_devops/) | rudy004 | 2 |
-| [How to encrypt traffic from NginX server to upstream servers?](https://www.reddit.com/r/devops/comments/13n8gmm/how_to_encrypt_traffic_from_nginx_server_to/) | hashing_512 | 2 |
-| [How do you rotate 3rd parties API keys?](https://www.reddit.com/r/devops/comments/13nke0n/how_do_you_rotate_3rd_parties_api_keys/) | ninjaplot | 2 |
-| [What's the point of defining the URL of an environment in GitHub Actions?](https://www.reddit.com/r/devops/comments/13nbdxg/whats_the_point_of_defining_the_url_of_an/) | yzT- | 1 |
-| [How do you learn the implementation of mTLS? For example you have two flask microservices](https://www.reddit.com/r/devops/comments/13nqfap/how_do_you_learn_the_implementation_of_mtls_for/) | IamOkei | 1 |
-| [How do you WORK WITH testing teams?](https://www.reddit.com/r/devops/comments/13mxhqh/how_do_you_work_with_testing_teams/) | mothzilla | 1 |
+| [Why isn't azure popular?](https://www.reddit.com/r/devops/comments/13o0gz1/why_isnt_azure_popular/) | bubbleofdeath950 | 84 |
+| [Example Terraform codebase for beginners](https://www.reddit.com/r/devops/comments/13omo0n/example_terraform_codebase_for_beginners/) | thelastknowngod | 26 |
+| [Rate this company's secret management process](https://www.reddit.com/r/devops/comments/13ocfb7/rate_this_companys_secret_management_process/) | corean1993 | 14 |
+| [How to maintain/migrate DynamoDB tables over time with zero-downtime?](https://www.reddit.com/r/devops/comments/13ohv11/how_to_maintainmigrate_dynamodb_tables_over_time/) | InsolentDreams | 12 |
+| [Managing Data Residency - the demo](https://www.reddit.com/r/devops/comments/13o038j/managing_data_residency_the_demo/) | nfrankel | 9 |
+| [What are some of the unsaid skills that a Devops Engineer should have including his Day to Day activities?](https://www.reddit.com/r/devops/comments/13o16yq/what_are_some_of_the_unsaid_skills_that_a_devops/) | aditya_dhopade | 6 |
+| [I want to practice making dockerfiles.](https://www.reddit.com/r/devops/comments/13on73b/i_want_to_practice_making_dockerfiles/) | Playful-Ad6177 | 5 |
+| [[Prometheus] Are summaries just client side histograms ?](https://www.reddit.com/r/devops/comments/13ol4dl/prometheus_are_summaries_just_client_side/) | getenforce | 4 |
+| [Testing with Chef, Different Outcomes](https://www.reddit.com/r/devops/comments/13o3ygg/testing_with_chef_different_outcomes/) | DevOps_Noob1 | 4 |
+| [Optimizing ArgoCD deployments for multiple services](https://www.reddit.com/r/devops/comments/13oehim/optimizing_argocd_deployments_for_multiple/) | XDPokeLOL | 3 |
