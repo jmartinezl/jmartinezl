@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Anyone else find DevOps LESS stressful than other career paths?](https://www.reddit.com/r/devops/comments/13owbb1/anyone_else_find_devops_less_stressful_than_other/) | tata348320 | 77 |
-| [Struggling to understand the difference between Cloud Engineer, DevOps Engineer, Platform Engineer and Site Reliability Engineer, as well as which I should be applying for](https://www.reddit.com/r/devops/comments/13oqhc0/struggling_to_understand_the_difference_between/) | deadassmf | 65 |
-| [Platform engineering: the perfect solution for companies that can't afford a dedicated DevOps team, but still want to feel cool and trendy.](https://www.reddit.com/r/devops/comments/13ov6vz/platform_engineering_the_perfect_solution_for/) | segtekdev | 13 |
-| [How do you handle API documentation and change logs?](https://www.reddit.com/r/devops/comments/13pdlvn/how_do_you_handle_api_documentation_and_change/) | Angrydie-a-ria | 8 |
-| [Introducing NCP (NFS Copy): Effortless File Transfer for NFS Servers](https://www.reddit.com/r/devops/comments/13oqeo0/introducing_ncp_nfs_copy_effortless_file_transfer/) | m47ik | 5 |
-| [How would you tackle dynamic code plugins](https://www.reddit.com/r/devops/comments/13pblgd/how_would_you_tackle_dynamic_code_plugins/) | its-deadpan | 2 |
-| [The Tezos Art x Web3 Hackathon Will Be Held At The Paris Ubisoft Headquarters](https://www.reddit.com/r/devops/comments/13pladb/the_tezos_art_x_web3_hackathon_will_be_held_at/) | Rossa774Tezos | 1 |
-| [QUestion for anyone familiar with Circle CI](https://www.reddit.com/r/devops/comments/13orj5z/question_for_anyone_familiar_with_circle_ci/) | caveyh96 | 1 |
-| [Overview of DevSecOps Tools to Secure your Applications in 2023](https://www.reddit.com/r/devops/comments/13plqgd/overview_of_devsecops_tools_to_secure_your/) | apitester23 | 1 |
-| [Ok, this is dumb but... Anyone tried to back up and restore a VM with active containers on it?](https://www.reddit.com/r/devops/comments/13osegr/ok_this_is_dumb_but_anyone_tried_to_back_up_and/) | HELP_ALLOWED | 1 |
+| ["um": GPT-powered CLI Assistant](https://www.reddit.com/r/devops/comments/13q48o5/um_gptpowered_cli_assistant/) | Silly_Squidward_42 | 76 |
+| [Hypocritical managers and devops](https://www.reddit.com/r/devops/comments/13pwwnb/hypocritical_managers_and_devops/) | suberdoo | 59 |
+| [Any exciting projects/tools](https://www.reddit.com/r/devops/comments/13pnsa7/any_exciting_projectstools/) | Tranceash | 37 |
+| [My boss keeps committing his creds into git](https://www.reddit.com/r/devops/comments/13q6fwm/my_boss_keeps_committing_his_creds_into_git/) | KentrosChari | 30 |
+| [Ansible - how widely used is it ?](https://www.reddit.com/r/devops/comments/13q3oo3/ansible_how_widely_used_is_it/) | hiamanon1 | 12 |
+| [How long do you stay “stuck”](https://www.reddit.com/r/devops/comments/13q3k4n/how_long_do_you_stay_stuck/) | nipaellafunk | 9 |
+| [DevPod Demo - Walkthrough of the UI and CLI tips (Open Source alternative to Codespaces)](https://www.reddit.com/r/devops/comments/13psb7z/devpod_demo_walkthrough_of_the_ui_and_cli_tips/) | mpetersen_loft-sh | 5 |
+| [DevOps Conferences -Europe 2023](https://www.reddit.com/r/devops/comments/13qi5lz/devops_conferences_europe_2023/) | WorriedJaguar206 | 5 |
+| [When do you promote from Dev-&gt;QA-&gt;Stage-&gt;Prod?](https://www.reddit.com/r/devops/comments/13ppz4i/when_do_you_promote_from_devqastageprod/) | redfournine | 3 |
+| [What would be the optimal working environment for junior cloud/devops engineers?](https://www.reddit.com/r/devops/comments/13qg6m4/what_would_be_the_optimal_working_environment_for/) | AemonQE | 2 |
