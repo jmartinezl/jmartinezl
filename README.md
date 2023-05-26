@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [On AWS: Why use EKS instead of ECS?](https://www.reddit.com/r/devops/comments/13qtujx/on_aws_why_use_eks_instead_of_ecs/) | RandomWalk55 | 103 |
-| [How do you on onboard new engineers?](https://www.reddit.com/r/devops/comments/13r28vf/how_do_you_on_onboard_new_engineers/) | openwidecomeinside | 41 |
-| [Self heal timeout per app in Argo?](https://www.reddit.com/r/devops/comments/13qkp3r/self_heal_timeout_per_app_in_argo/) | thelastknowngod | 2 |
-| [High Availability and Shared Storage for Docker Containers](https://www.reddit.com/r/devops/comments/13r2n6w/high_availability_and_shared_storage_for_docker/) | lolSaam | 2 |
-| [Recommended approach for setting up performance testing with Locust to test an EKS cluster?](https://www.reddit.com/r/devops/comments/13ql7t6/recommended_approach_for_setting_up_performance/) | HeadTea | 1 |
-| [Issue in packed](https://www.reddit.com/r/devops/comments/13rb3jl/issue_in_packed/) | Destroychan | 1 |
-| [Help in choosing a course on udemy or any other platform](https://www.reddit.com/r/devops/comments/13rbgas/help_in_choosing_a_course_on_udemy_or_any_other/) | LeadershipTasty3507 | 1 |
-| [Changing parameter during container "boot"](https://www.reddit.com/r/devops/comments/13rd7en/changing_parameter_during_container_boot/) | ncubez | 1 |
-| [Can anybody help with a Gitlab / Docker-Compose issue?](https://www.reddit.com/r/devops/comments/13qs3fg/can_anybody_help_with_a_gitlab_dockercompose_issue/) | NowThenMates | 1 |
-| [Can Terraform Replace Powershell scripts ?](https://www.reddit.com/r/devops/comments/13qk8ou/can_terraform_replace_powershell_scripts/) | ThePathOfKami | 1 |
+| [Ukrainian family relocating to BC, Canada - pls recommend employment Agency](https://www.reddit.com/r/devops/comments/13rq1jd/ukrainian_family_relocating_to_bc_canada_pls/) | creslinux | 59 |
+| [How often are you working off-hours or extra hours](https://www.reddit.com/r/devops/comments/13rmoqq/how_often_are_you_working_offhours_or_extra_hours/) | Obj_Sea | 31 |
+| [Free Udemy Coupon Collections](https://www.reddit.com/r/devops/comments/13rnzmg/free_udemy_coupon_collections/) | CKangel | 22 |
+| [How do you debug CI/CD pipelines? Breakpoints?](https://www.reddit.com/r/devops/comments/13s8jga/how_do_you_debug_cicd_pipelines_breakpoints/) | Forsaken_Committee17 | 18 |
+| [How TLS/SSL works](https://www.reddit.com/r/devops/comments/13rnmcl/how_tlsssl_works/) | namenotpicked | 11 |
+| [How much generic knowledge to expect from candidates?](https://www.reddit.com/r/devops/comments/13ro9to/how_much_generic_knowledge_to_expect_from/) | lorarc | 8 |
+| [Stepping up the YAML engineer game](https://www.reddit.com/r/devops/comments/13rukry/stepping_up_the_yaml_engineer_game/) | muchasxmaracas | 7 |
+| [Anyone here use AWS Cloud9? What's it good for?](https://www.reddit.com/r/devops/comments/13rjm6v/anyone_here_use_aws_cloud9_whats_it_good_for/) | SeriouslySally36 | 5 |
+| [Using Serverless to Retire Servers On Premise and Save Money](https://www.reddit.com/r/devops/comments/13rnd55/using_serverless_to_retire_servers_on_premise_and/) | tolarewaju3 | 3 |
+| [Understanding Crossplane. Steep learning curve](https://www.reddit.com/r/devops/comments/13rjztj/understanding_crossplane_steep_learning_curve/) | neowiz92 | 3 |
