@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Ukrainian family relocating to BC, Canada - pls recommend employment Agency](https://www.reddit.com/r/devops/comments/13rq1jd/ukrainian_family_relocating_to_bc_canada_pls/) | creslinux | 59 |
-| [How often are you working off-hours or extra hours](https://www.reddit.com/r/devops/comments/13rmoqq/how_often_are_you_working_offhours_or_extra_hours/) | Obj_Sea | 31 |
-| [Free Udemy Coupon Collections](https://www.reddit.com/r/devops/comments/13rnzmg/free_udemy_coupon_collections/) | CKangel | 22 |
-| [How do you debug CI/CD pipelines? Breakpoints?](https://www.reddit.com/r/devops/comments/13s8jga/how_do_you_debug_cicd_pipelines_breakpoints/) | Forsaken_Committee17 | 18 |
-| [How TLS/SSL works](https://www.reddit.com/r/devops/comments/13rnmcl/how_tlsssl_works/) | namenotpicked | 11 |
-| [How much generic knowledge to expect from candidates?](https://www.reddit.com/r/devops/comments/13ro9to/how_much_generic_knowledge_to_expect_from/) | lorarc | 8 |
-| [Stepping up the YAML engineer game](https://www.reddit.com/r/devops/comments/13rukry/stepping_up_the_yaml_engineer_game/) | muchasxmaracas | 7 |
-| [Anyone here use AWS Cloud9? What's it good for?](https://www.reddit.com/r/devops/comments/13rjm6v/anyone_here_use_aws_cloud9_whats_it_good_for/) | SeriouslySally36 | 5 |
-| [Using Serverless to Retire Servers On Premise and Save Money](https://www.reddit.com/r/devops/comments/13rnd55/using_serverless_to_retire_servers_on_premise_and/) | tolarewaju3 | 3 |
-| [Understanding Crossplane. Steep learning curve](https://www.reddit.com/r/devops/comments/13rjztj/understanding_crossplane_steep_learning_curve/) | neowiz92 | 3 |
+| [Every job I’ve taken seems to follow a pattern](https://www.reddit.com/r/devops/comments/13svlci/every_job_ive_taken_seems_to_follow_a_pattern/) | LugubriousQuentin | 143 |
+| [CI/CD pipeline set up!](https://www.reddit.com/r/devops/comments/13sv9sf/cicd_pipeline_set_up/) | prakashperam94 | 12 |
+| [how to containerize a multi-container application using docker-compose?](https://www.reddit.com/r/devops/comments/13t0lm9/how_to_containerize_a_multicontainer_application/) | Playful-Ad6177 | 1 |
+| [What's your incident response flow?](https://www.reddit.com/r/devops/comments/13suum0/whats_your_incident_response_flow/) | weewooPE | 1 |
+| [OpenTelemetry for Open Source Telemetry?](https://www.reddit.com/r/devops/comments/13sfinw/opentelemetry_for_open_source_telemetry/) | saltyrefrigerator | 1 |
+| [How much of the AWS cert content is actually relevant to DevOps?](https://www.reddit.com/r/devops/comments/13t55fr/how_much_of_the_aws_cert_content_is_actually/) | BoratShuffle | 1 |
+| [Anyone has experience building IDP for dev team to spin up infrastructure?](https://www.reddit.com/r/devops/comments/13t0xf4/anyone_has_experience_building_idp_for_dev_team/) | NextFennel3227 | 1 |
+| [struggling to sync teams when one uses Jira, other uses Gitlab. is this normal in the industry? am i missing something that ensures a seamless integration between Jira and Gitlab?](https://www.reddit.com/r/devops/comments/13t1b40/struggling_to_sync_teams_when_one_uses_jira_other/) | V3Qn117x0UFQ | 0 |
+| [great, now i'll be thinking about this all weekend](https://www.reddit.com/r/devops/comments/13sr3l7/great_now_ill_be_thinking_about_this_all_weekend/) | mushuweasel | 0 |
+| [Who is responsible for ensuring the quality checks related to Code Health (ex detecting complex code, duplicate code etc)?](https://www.reddit.com/r/devops/comments/13sbemm/who_is_responsible_for_ensuring_the_quality/) | Right_Spinach7137 | 0 |
