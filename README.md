@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Every job I’ve taken seems to follow a pattern](https://www.reddit.com/r/devops/comments/13svlci/every_job_ive_taken_seems_to_follow_a_pattern/) | LugubriousQuentin | 143 |
-| [CI/CD pipeline set up!](https://www.reddit.com/r/devops/comments/13sv9sf/cicd_pipeline_set_up/) | prakashperam94 | 12 |
-| [how to containerize a multi-container application using docker-compose?](https://www.reddit.com/r/devops/comments/13t0lm9/how_to_containerize_a_multicontainer_application/) | Playful-Ad6177 | 1 |
-| [What's your incident response flow?](https://www.reddit.com/r/devops/comments/13suum0/whats_your_incident_response_flow/) | weewooPE | 1 |
-| [OpenTelemetry for Open Source Telemetry?](https://www.reddit.com/r/devops/comments/13sfinw/opentelemetry_for_open_source_telemetry/) | saltyrefrigerator | 1 |
-| [How much of the AWS cert content is actually relevant to DevOps?](https://www.reddit.com/r/devops/comments/13t55fr/how_much_of_the_aws_cert_content_is_actually/) | BoratShuffle | 1 |
-| [Anyone has experience building IDP for dev team to spin up infrastructure?](https://www.reddit.com/r/devops/comments/13t0xf4/anyone_has_experience_building_idp_for_dev_team/) | NextFennel3227 | 1 |
-| [struggling to sync teams when one uses Jira, other uses Gitlab. is this normal in the industry? am i missing something that ensures a seamless integration between Jira and Gitlab?](https://www.reddit.com/r/devops/comments/13t1b40/struggling_to_sync_teams_when_one_uses_jira_other/) | V3Qn117x0UFQ | 0 |
-| [great, now i'll be thinking about this all weekend](https://www.reddit.com/r/devops/comments/13sr3l7/great_now_ill_be_thinking_about_this_all_weekend/) | mushuweasel | 0 |
-| [Who is responsible for ensuring the quality checks related to Code Health (ex detecting complex code, duplicate code etc)?](https://www.reddit.com/r/devops/comments/13sbemm/who_is_responsible_for_ensuring_the_quality/) | Right_Spinach7137 | 0 |
+| [Are stupid database questions allowed? If a database is backed up only every hour, do we just lose the unbacked up data within the one hour time frame?](https://www.reddit.com/r/devops/comments/13tcq2s/are_stupid_database_questions_allowed_if_a/) | cscqmain | 69 |
+| [How do you maintain a real time back up?](https://www.reddit.com/r/devops/comments/13te3f7/how_do_you_maintain_a_real_time_back_up/) | Barack_obameme | 13 |
+| [Parllelx.sh - run chmod or chown command parallelly on huge amount of file](https://www.reddit.com/r/devops/comments/13tk8rj/parllelxsh_run_chmod_or_chown_command_parallelly/) | alok74 | 4 |
+| [What skills and concepts/topics are required to land dev ops straight out of college?](https://www.reddit.com/r/devops/comments/13tfyxi/what_skills_and_conceptstopics_are_required_to/) | imnotokaylol_ | 0 |
+| [Resume review](https://www.reddit.com/r/devops/comments/13tx4ik/resume_review/) | Neither_Wallaby_9033 | 0 |
+| [No resources found in default namespace.](https://www.reddit.com/r/devops/comments/13ty9r1/no_resources_found_in_default_namespace/) | Playful-Ad6177 | 0 |
+| [How long it will take me to learn how to be an devops?](https://www.reddit.com/r/devops/comments/13t9xfx/how_long_it_will_take_me_to_learn_how_to_be_an/) | kimioin | 0 |
+| [Has anyone tried using terragrunt for PR environments in GitHub actions pulling private repo?](https://www.reddit.com/r/devops/comments/13tfwcp/has_anyone_tried_using_terragrunt_for_pr/) | Minute_Box6650 | 0 |
+| [Explore the basics of distributed tracing](https://www.reddit.com/r/devops/comments/13t8w6d/explore_the_basics_of_distributed_tracing/) | TheLostWanderer47 | 0 |
+| [DevOps / Cloud / Site reliability engineers - How much DSA questions have you noticed in the job search process?](https://www.reddit.com/r/devops/comments/13teg7e/devops_cloud_site_reliability_engineers_how_much/) | yeahdude78 | 0 |
