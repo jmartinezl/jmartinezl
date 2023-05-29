@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Are stupid database questions allowed? If a database is backed up only every hour, do we just lose the unbacked up data within the one hour time frame?](https://www.reddit.com/r/devops/comments/13tcq2s/are_stupid_database_questions_allowed_if_a/) | cscqmain | 69 |
-| [How do you maintain a real time back up?](https://www.reddit.com/r/devops/comments/13te3f7/how_do_you_maintain_a_real_time_back_up/) | Barack_obameme | 13 |
-| [Parllelx.sh - run chmod or chown command parallelly on huge amount of file](https://www.reddit.com/r/devops/comments/13tk8rj/parllelxsh_run_chmod_or_chown_command_parallelly/) | alok74 | 4 |
-| [What skills and concepts/topics are required to land dev ops straight out of college?](https://www.reddit.com/r/devops/comments/13tfyxi/what_skills_and_conceptstopics_are_required_to/) | imnotokaylol_ | 0 |
-| [Resume review](https://www.reddit.com/r/devops/comments/13tx4ik/resume_review/) | Neither_Wallaby_9033 | 0 |
-| [No resources found in default namespace.](https://www.reddit.com/r/devops/comments/13ty9r1/no_resources_found_in_default_namespace/) | Playful-Ad6177 | 0 |
-| [How long it will take me to learn how to be an devops?](https://www.reddit.com/r/devops/comments/13t9xfx/how_long_it_will_take_me_to_learn_how_to_be_an/) | kimioin | 0 |
-| [Has anyone tried using terragrunt for PR environments in GitHub actions pulling private repo?](https://www.reddit.com/r/devops/comments/13tfwcp/has_anyone_tried_using_terragrunt_for_pr/) | Minute_Box6650 | 0 |
-| [Explore the basics of distributed tracing](https://www.reddit.com/r/devops/comments/13t8w6d/explore_the_basics_of_distributed_tracing/) | TheLostWanderer47 | 0 |
-| [DevOps / Cloud / Site reliability engineers - How much DSA questions have you noticed in the job search process?](https://www.reddit.com/r/devops/comments/13teg7e/devops_cloud_site_reliability_engineers_how_much/) | yeahdude78 | 0 |
+| [Exploring Datadog alternative](https://www.reddit.com/r/devops/comments/13ubihi/exploring_datadog_alternative/) | [deleted] | 57 |
+| [Troubleshooting and Debugging Terraform Providers](https://www.reddit.com/r/devops/comments/13tztkl/troubleshooting_and_debugging_terraform_providers/) | hacops | 25 |
+| [Supplemental Productivity Software](https://www.reddit.com/r/devops/comments/13u5wkk/supplemental_productivity_software/) | NickBlasta3rd | 4 |
+| [Has any Integrated RASP that can detect custom use cases ?](https://www.reddit.com/r/devops/comments/13uk983/has_any_integrated_rasp_that_can_detect_custom/) | SignalPractical4526 | 4 |
+| [Health Check Response Format for HTTP APIs](https://www.reddit.com/r/devops/comments/13u5cs2/health_check_response_format_for_http_apis/) | nfrankel | 2 |
+| [Do You Know Devops - Crossword](https://www.reddit.com/r/devops/comments/13ur7v0/do_you_know_devops_crossword/) | AdrianTeri | 2 |
+| [A Manifesto for Cloud-Oriented Programming from the creator of the CDK](https://www.reddit.com/r/devops/comments/13u5zrj/a_manifesto_for_cloudoriented_programming_from/) | shai-ber | 2 |
