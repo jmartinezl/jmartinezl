@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [[GitHub Action][Release]: Add DAST and OSINT to your security pipelines](https://www.reddit.com/r/devops/comments/13v3ega/github_actionrelease_add_dast_and_osint_to_your/) | bilporti | 64 |
-| [Seeking Best Practices for Local Development in a Microservices Environment](https://www.reddit.com/r/devops/comments/13vg0sm/seeking_best_practices_for_local_development_in_a/) | _classname__spam | 13 |
-| [Seeking advice for joining a DevOps team for the first time](https://www.reddit.com/r/devops/comments/13v538h/seeking_advice_for_joining_a_devops_team_for_the/) | weversel12 | 12 |
-| [Looking for DevSecOps Practical Guides or Tutorials](https://www.reddit.com/r/devops/comments/13vi12w/looking_for_devsecops_practical_guides_or/) | DCGMechanics | 8 |
-| [GitHub Actions equivalent of Azure Devops pipeline resources?](https://www.reddit.com/r/devops/comments/13v2fl8/github_actions_equivalent_of_azure_devops/) | 0x4ddd | 8 |
-| [Seeking opinions on on-call alerting (SMS, phone call) SaaS products](https://www.reddit.com/r/devops/comments/13vmm0e/seeking_opinions_on_oncall_alerting_sms_phone/) | Carr0t | 3 |
-| [Java-based Jailer Database Tools 15.0 released.](https://www.reddit.com/r/devops/comments/13vm8ac/javabased_jailer_database_tools_150_released/) | Plane-Discussion | 3 |
-| [Felon looking to get into software dev](https://www.reddit.com/r/devops/comments/13vmnk0/felon_looking_to_get_into_software_dev/) | Extra_Werewolf_6773 | 2 |
-| [Advice needed on continuous integration](https://www.reddit.com/r/devops/comments/13uxr6d/advice_needed_on_continuous_integration/) | No-Psychology3901 | 2 |
-| [step by step guide of lab scenario to test nodePort in kubernetes?](https://www.reddit.com/r/devops/comments/13uv7jn/step_by_step_guide_of_lab_scenario_to_test/) | Playful-Ad6177 | 0 |
+| [Rancher vs OpenShift opinions](https://www.reddit.com/r/devops/comments/13w5mz7/rancher_vs_openshift_opinions/) | ncubez | 37 |
+| [Advice for new employee in a (so far) toxic work environment](https://www.reddit.com/r/devops/comments/13vu90h/advice_for_new_employee_in_a_so_far_toxic_work/) | burnpitman | 14 |
+| [What do most people do for environment deployments with Git?](https://www.reddit.com/r/devops/comments/13wdtjr/what_do_most_people_do_for_environment/) | XDPokeLOL | 11 |
+| [Do you sometimes also feel like you're too slow?](https://www.reddit.com/r/devops/comments/13vvnwg/do_you_sometimes_also_feel_like_youre_too_slow/) | AemonQE | 10 |
+| [Open source IAM-as-code through IAMbic](https://www.reddit.com/r/devops/comments/13w4bb2/open_source_iamascode_through_iambic/) | Securiy | 7 |
+| [Retriggering github workflow from github action](https://www.reddit.com/r/devops/comments/13w4kvy/retriggering_github_workflow_from_github_action/) | bigbird0525 | 5 |
+| [What are some opinions and experiences when choosing between Elasticsearch and Loki?](https://www.reddit.com/r/devops/comments/13wjs0p/what_are_some_opinions_and_experiences_when/) | chillysurfer | 4 |
+| [Should I always carry a second phone specifically for work?](https://www.reddit.com/r/devops/comments/13w21ny/should_i_always_carry_a_second_phone_specifically/) | QFugp6IIyR6ZmoOh | 4 |
+| [vmware_guest customisation nom working](https://www.reddit.com/r/devops/comments/13weeg3/vmware_guest_customisation_nom_working/) | DryAioli | 2 |
+| [Creating ChangeLogs/Auto Tag Releases in mono-repo](https://www.reddit.com/r/devops/comments/13w7ir1/creating_changelogsauto_tag_releases_in_monorepo/) | cuddebtj2 | 2 |
