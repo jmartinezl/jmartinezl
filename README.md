@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Rancher vs OpenShift opinions](https://www.reddit.com/r/devops/comments/13w5mz7/rancher_vs_openshift_opinions/) | ncubez | 37 |
-| [Advice for new employee in a (so far) toxic work environment](https://www.reddit.com/r/devops/comments/13vu90h/advice_for_new_employee_in_a_so_far_toxic_work/) | burnpitman | 14 |
-| [What do most people do for environment deployments with Git?](https://www.reddit.com/r/devops/comments/13wdtjr/what_do_most_people_do_for_environment/) | XDPokeLOL | 11 |
-| [Do you sometimes also feel like you're too slow?](https://www.reddit.com/r/devops/comments/13vvnwg/do_you_sometimes_also_feel_like_youre_too_slow/) | AemonQE | 10 |
-| [Open source IAM-as-code through IAMbic](https://www.reddit.com/r/devops/comments/13w4bb2/open_source_iamascode_through_iambic/) | Securiy | 7 |
-| [Retriggering github workflow from github action](https://www.reddit.com/r/devops/comments/13w4kvy/retriggering_github_workflow_from_github_action/) | bigbird0525 | 5 |
-| [What are some opinions and experiences when choosing between Elasticsearch and Loki?](https://www.reddit.com/r/devops/comments/13wjs0p/what_are_some_opinions_and_experiences_when/) | chillysurfer | 4 |
-| [Should I always carry a second phone specifically for work?](https://www.reddit.com/r/devops/comments/13w21ny/should_i_always_carry_a_second_phone_specifically/) | QFugp6IIyR6ZmoOh | 4 |
-| [vmware_guest customisation nom working](https://www.reddit.com/r/devops/comments/13weeg3/vmware_guest_customisation_nom_working/) | DryAioli | 2 |
-| [Creating ChangeLogs/Auto Tag Releases in mono-repo](https://www.reddit.com/r/devops/comments/13w7ir1/creating_changelogsauto_tag_releases_in_monorepo/) | cuddebtj2 | 2 |
+| [Ugh I fucked up and need some love](https://www.reddit.com/r/devops/comments/13ww4cf/ugh_i_fucked_up_and_need_some_love/) | kiddj1 | 90 |
+| [What are my (AWS) options for running one single container reliably?](https://www.reddit.com/r/devops/comments/13woti9/what_are_my_aws_options_for_running_one_single/) | pwab | 21 |
+| [Thoughts about my thoughts on performance / alerting metrics?](https://www.reddit.com/r/devops/comments/13ws7qv/thoughts_about_my_thoughts_on_performance/) | nezbla | 17 |
+| [DevOps course for small companies and individuals](https://www.reddit.com/r/devops/comments/13xckxm/devops_course_for_small_companies_and_individuals/) | predmijat | 16 |
+| [Opensource CD recommendations](https://www.reddit.com/r/devops/comments/13x9a13/opensource_cd_recommendations/) | Oxffff0000 | 6 |
+| [Strategies for converting an existing deployment to IaC?](https://www.reddit.com/r/devops/comments/13wr3fp/strategies_for_converting_an_existing_deployment/) | crabby-owlbear | 4 |
+| [how to package on-prem solution?](https://www.reddit.com/r/devops/comments/13wuj9a/how_to_package_onprem_solution/) | archhelp1 | 2 |
+| [Thread starvation or clock leap detected in ECS with EC2 &amp; Java Application](https://www.reddit.com/r/devops/comments/13xe1t4/thread_starvation_or_clock_leap_detected_in_ecs/) | gpiyush | 1 |
+| [JSON Schema as Source of Truth](https://www.reddit.com/r/devops/comments/13xbcr6/json_schema_as_source_of_truth/) | willitbechips | 1 |
+| [Is there a tool to visualize related stories, tasks, bugs, etc?](https://www.reddit.com/r/devops/comments/13xeijf/is_there_a_tool_to_visualize_related_stories/) | jamawg | 1 |
