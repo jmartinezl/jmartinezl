@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Ugh I fucked up and need some love](https://www.reddit.com/r/devops/comments/13ww4cf/ugh_i_fucked_up_and_need_some_love/) | kiddj1 | 90 |
-| [What are my (AWS) options for running one single container reliably?](https://www.reddit.com/r/devops/comments/13woti9/what_are_my_aws_options_for_running_one_single/) | pwab | 21 |
-| [Thoughts about my thoughts on performance / alerting metrics?](https://www.reddit.com/r/devops/comments/13ws7qv/thoughts_about_my_thoughts_on_performance/) | nezbla | 17 |
-| [DevOps course for small companies and individuals](https://www.reddit.com/r/devops/comments/13xckxm/devops_course_for_small_companies_and_individuals/) | predmijat | 16 |
-| [Opensource CD recommendations](https://www.reddit.com/r/devops/comments/13x9a13/opensource_cd_recommendations/) | Oxffff0000 | 6 |
-| [Strategies for converting an existing deployment to IaC?](https://www.reddit.com/r/devops/comments/13wr3fp/strategies_for_converting_an_existing_deployment/) | crabby-owlbear | 4 |
-| [how to package on-prem solution?](https://www.reddit.com/r/devops/comments/13wuj9a/how_to_package_onprem_solution/) | archhelp1 | 2 |
-| [Thread starvation or clock leap detected in ECS with EC2 &amp; Java Application](https://www.reddit.com/r/devops/comments/13xe1t4/thread_starvation_or_clock_leap_detected_in_ecs/) | gpiyush | 1 |
-| [JSON Schema as Source of Truth](https://www.reddit.com/r/devops/comments/13xbcr6/json_schema_as_source_of_truth/) | willitbechips | 1 |
-| [Is there a tool to visualize related stories, tasks, bugs, etc?](https://www.reddit.com/r/devops/comments/13xeijf/is_there_a_tool_to_visualize_related_stories/) | jamawg | 1 |
+| [Can anyone recommend a dashboard/app to improve productivity when working with many repos in multiple CI/CD tools?](https://www.reddit.com/r/devops/comments/13xo0vs/can_anyone_recommend_a_dashboardapp_to_improve/) | binarysneaker | 45 |
+| [How do your teams run DB migrations?](https://www.reddit.com/r/devops/comments/13xxovs/how_do_your_teams_run_db_migrations/) | SadAd9828 | 35 |
+| [Friends - needs help choosing solution for SBOM vulnerability](https://www.reddit.com/r/devops/comments/13xrpmc/friends_needs_help_choosing_solution_for_sbom/) | Specialist_Ad8839 | 20 |
+| [How does prometheus monitoring work?](https://www.reddit.com/r/devops/comments/13xr8dn/how_does_prometheus_monitoring_work/) | UnC0mfortablyNum | 7 |
+| [Dynamically generate Cloud System Architecture diagram](https://www.reddit.com/r/devops/comments/13y1vnj/dynamically_generate_cloud_system_architecture/) | Specialist_Ad8839 | 5 |
+| [Monthly 'Shameless Self Promotion' thread - 2023/06](https://www.reddit.com/r/devops/comments/13xq62t/monthly_shameless_self_promotion_thread_202306/) | mthode | 4 |
+| [Synthetic monitoring with distributed traces](https://www.reddit.com/r/devops/comments/13xl4zl/synthetic_monitoring_with_distributed_traces/) | adnanrahic | 1 |
+| [Need some infrastructure as code book recommendations for my bachelor thesis](https://www.reddit.com/r/devops/comments/13yad7e/need_some_infrastructure_as_code_book/) | xFichtl1 | 1 |
+| [Interviews - How do you choose to display your problem solving during questions you’re unsure of?](https://www.reddit.com/r/devops/comments/13xyqjb/interviews_how_do_you_choose_to_display_your/) | me_and_the_cloud | 1 |
+| [Free Udemy Coupon Course With Certificate - Limited Time](https://www.reddit.com/r/devops/comments/13xgwne/free_udemy_coupon_course_with_certificate_limited/) | CKangel | 1 |
