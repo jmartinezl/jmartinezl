@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Can anyone recommend a dashboard/app to improve productivity when working with many repos in multiple CI/CD tools?](https://www.reddit.com/r/devops/comments/13xo0vs/can_anyone_recommend_a_dashboardapp_to_improve/) | binarysneaker | 45 |
-| [How do your teams run DB migrations?](https://www.reddit.com/r/devops/comments/13xxovs/how_do_your_teams_run_db_migrations/) | SadAd9828 | 35 |
-| [Friends - needs help choosing solution for SBOM vulnerability](https://www.reddit.com/r/devops/comments/13xrpmc/friends_needs_help_choosing_solution_for_sbom/) | Specialist_Ad8839 | 20 |
-| [How does prometheus monitoring work?](https://www.reddit.com/r/devops/comments/13xr8dn/how_does_prometheus_monitoring_work/) | UnC0mfortablyNum | 7 |
-| [Dynamically generate Cloud System Architecture diagram](https://www.reddit.com/r/devops/comments/13y1vnj/dynamically_generate_cloud_system_architecture/) | Specialist_Ad8839 | 5 |
-| [Monthly 'Shameless Self Promotion' thread - 2023/06](https://www.reddit.com/r/devops/comments/13xq62t/monthly_shameless_self_promotion_thread_202306/) | mthode | 4 |
-| [Synthetic monitoring with distributed traces](https://www.reddit.com/r/devops/comments/13xl4zl/synthetic_monitoring_with_distributed_traces/) | adnanrahic | 1 |
-| [Need some infrastructure as code book recommendations for my bachelor thesis](https://www.reddit.com/r/devops/comments/13yad7e/need_some_infrastructure_as_code_book/) | xFichtl1 | 1 |
-| [Interviews - How do you choose to display your problem solving during questions you’re unsure of?](https://www.reddit.com/r/devops/comments/13xyqjb/interviews_how_do_you_choose_to_display_your/) | me_and_the_cloud | 1 |
-| [Free Udemy Coupon Course With Certificate - Limited Time](https://www.reddit.com/r/devops/comments/13xgwne/free_udemy_coupon_course_with_certificate_limited/) | CKangel | 1 |
+| [Running tests against a different repository (CI/CD)](https://www.reddit.com/r/devops/comments/13ydfvi/running_tests_against_a_different_repository_cicd/) | mercfh85 | 34 |
+| [Friendly Reminder: Do not trust Oracle Cloud. If it's too good to be true, it probably isn't.](https://www.reddit.com/r/devops/comments/13z8rlb/friendly_reminder_do_not_trust_oracle_cloud_if/) | iAhMedZz | 31 |
+| [Does GitHub/GitLab/Azure DevOps/etc use their own product to develop/deploy?](https://www.reddit.com/r/devops/comments/13yyjtw/does_githubgitlabazure_devopsetc_use_their_own/) | kubikdanon | 30 |
+| [Tool to natively query cloud resources](https://www.reddit.com/r/devops/comments/13yek07/tool_to_natively_query_cloud_resources/) | No_Presentation_9821 | 2 |
+| [Database mirroring.](https://www.reddit.com/r/devops/comments/13yfmg1/database_mirroring/) | Mysterious_Low9967 | 1 |
+| [What does Kubernetes and Dolly the Sheep have in common?](https://www.reddit.com/r/devops/comments/13ybqal/what_does_kubernetes_and_dolly_the_sheep_have_in/) | andan02 | 0 |
+| [What are your thougths on QCON?](https://www.reddit.com/r/devops/comments/13ypfux/what_are_your_thougths_on_qcon/) | Oxffff0000 | 0 |
+| [To many pipelines in synapses and cant create ARM template as reaching max size](https://www.reddit.com/r/devops/comments/13yclrg/to_many_pipelines_in_synapses_and_cant_create_arm/) | degzs | 0 |
+| [Should I buy a MacBook Air M1 8gb + 256 gb?](https://www.reddit.com/r/devops/comments/13z1q5s/should_i_buy_a_macbook_air_m1_8gb_256_gb/) | Master-Ooooogway | 0 |
+| [Kubernetes, angular frontend serving by nginx, nginx.conf proxy_pass to spring boot backend api](https://www.reddit.com/r/devops/comments/13ytd32/kubernetes_angular_frontend_serving_by_nginx/) | KIRY4 | 0 |
