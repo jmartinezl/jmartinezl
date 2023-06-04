@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Running tests against a different repository (CI/CD)](https://www.reddit.com/r/devops/comments/13ydfvi/running_tests_against_a_different_repository_cicd/) | mercfh85 | 34 |
-| [Friendly Reminder: Do not trust Oracle Cloud. If it's too good to be true, it probably isn't.](https://www.reddit.com/r/devops/comments/13z8rlb/friendly_reminder_do_not_trust_oracle_cloud_if/) | iAhMedZz | 31 |
-| [Does GitHub/GitLab/Azure DevOps/etc use their own product to develop/deploy?](https://www.reddit.com/r/devops/comments/13yyjtw/does_githubgitlabazure_devopsetc_use_their_own/) | kubikdanon | 30 |
-| [Tool to natively query cloud resources](https://www.reddit.com/r/devops/comments/13yek07/tool_to_natively_query_cloud_resources/) | No_Presentation_9821 | 2 |
-| [Database mirroring.](https://www.reddit.com/r/devops/comments/13yfmg1/database_mirroring/) | Mysterious_Low9967 | 1 |
-| [What does Kubernetes and Dolly the Sheep have in common?](https://www.reddit.com/r/devops/comments/13ybqal/what_does_kubernetes_and_dolly_the_sheep_have_in/) | andan02 | 0 |
-| [What are your thougths on QCON?](https://www.reddit.com/r/devops/comments/13ypfux/what_are_your_thougths_on_qcon/) | Oxffff0000 | 0 |
-| [To many pipelines in synapses and cant create ARM template as reaching max size](https://www.reddit.com/r/devops/comments/13yclrg/to_many_pipelines_in_synapses_and_cant_create_arm/) | degzs | 0 |
-| [Should I buy a MacBook Air M1 8gb + 256 gb?](https://www.reddit.com/r/devops/comments/13z1q5s/should_i_buy_a_macbook_air_m1_8gb_256_gb/) | Master-Ooooogway | 0 |
-| [Kubernetes, angular frontend serving by nginx, nginx.conf proxy_pass to spring boot backend api](https://www.reddit.com/r/devops/comments/13ytd32/kubernetes_angular_frontend_serving_by_nginx/) | KIRY4 | 0 |
+| [Do I need both Terraform and Ansible?](https://www.reddit.com/r/devops/comments/13zzd62/do_i_need_both_terraform_and_ansible/) | kevisazombie | 27 |
+| [GitHub Actions Boilerplate generator](https://www.reddit.com/r/devops/comments/13zsf83/github_actions_boilerplate_generator/) | ashishb_net | 11 |
+| [Top 10 Interview Questions for DevOps Engineer](https://www.reddit.com/r/devops/comments/14005jx/top_10_interview_questions_for_devops_engineer/) | NextFennel3227 | 10 |
+| [How do I become a truly good DevOps/Cloud/etc. engineer?](https://www.reddit.com/r/devops/comments/13ztxn8/how_do_i_become_a_truly_good_devopscloudetc/) | Scared-Loquat-7933 | 9 |
+| [API Gateway + Lambdas vs standard containers](https://www.reddit.com/r/devops/comments/13zbl07/api_gateway_lambdas_vs_standard_containers/) | MarcCDB | 9 |
+| [Azure Postgres vs Postgres on Kubernetes?](https://www.reddit.com/r/devops/comments/1406l9a/azure_postgres_vs_postgres_on_kubernetes/) | faizanbasher | 7 |
+| [is it even possible to dockerize window build environments?](https://www.reddit.com/r/devops/comments/13zod9t/is_it_even_possible_to_dockerize_window_build/) | aspiring_game_dev | 4 |
+| [Pause GCP nigtly](https://www.reddit.com/r/devops/comments/1402ror/pause_gcp_nigtly/) | anhduongviet | 3 |
+| [When do you work on projects/trainings do you configure stuff locally or in cloud?](https://www.reddit.com/r/devops/comments/14068w6/when_do_you_work_on_projectstrainings_do_you/) | ddiaconu21 | 1 |
+| [Starting my first mid-level role, moving on from junior - how should I prepare and what should I expect?](https://www.reddit.com/r/devops/comments/13zn9v0/starting_my_first_midlevel_role_moving_on_from/) | deadassmf | 1 |
