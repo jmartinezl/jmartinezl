@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do I need both Terraform and Ansible?](https://www.reddit.com/r/devops/comments/13zzd62/do_i_need_both_terraform_and_ansible/) | kevisazombie | 27 |
-| [GitHub Actions Boilerplate generator](https://www.reddit.com/r/devops/comments/13zsf83/github_actions_boilerplate_generator/) | ashishb_net | 11 |
-| [Top 10 Interview Questions for DevOps Engineer](https://www.reddit.com/r/devops/comments/14005jx/top_10_interview_questions_for_devops_engineer/) | NextFennel3227 | 10 |
-| [How do I become a truly good DevOps/Cloud/etc. engineer?](https://www.reddit.com/r/devops/comments/13ztxn8/how_do_i_become_a_truly_good_devopscloudetc/) | Scared-Loquat-7933 | 9 |
-| [API Gateway + Lambdas vs standard containers](https://www.reddit.com/r/devops/comments/13zbl07/api_gateway_lambdas_vs_standard_containers/) | MarcCDB | 9 |
-| [Azure Postgres vs Postgres on Kubernetes?](https://www.reddit.com/r/devops/comments/1406l9a/azure_postgres_vs_postgres_on_kubernetes/) | faizanbasher | 7 |
-| [is it even possible to dockerize window build environments?](https://www.reddit.com/r/devops/comments/13zod9t/is_it_even_possible_to_dockerize_window_build/) | aspiring_game_dev | 4 |
-| [Pause GCP nigtly](https://www.reddit.com/r/devops/comments/1402ror/pause_gcp_nigtly/) | anhduongviet | 3 |
-| [When do you work on projects/trainings do you configure stuff locally or in cloud?](https://www.reddit.com/r/devops/comments/14068w6/when_do_you_work_on_projectstrainings_do_you/) | ddiaconu21 | 1 |
-| [Starting my first mid-level role, moving on from junior - how should I prepare and what should I expect?](https://www.reddit.com/r/devops/comments/13zn9v0/starting_my_first_midlevel_role_moving_on_from/) | deadassmf | 1 |
+| [Why use Cloudformation when there are tools like terraform?](https://www.reddit.com/r/devops/comments/140cu83/why_use_cloudformation_when_there_are_tools_like/) | pppreddit | 123 |
+| [Pypi repository mirroring](https://www.reddit.com/r/devops/comments/140q9hl/pypi_repository_mirroring/) | itay51998 | 9 |
+| [Was anyone else's org going 200mph this past couple of weeks to get their EKS cluster off of v1.22...](https://www.reddit.com/r/devops/comments/140grqv/was_anyone_elses_org_going_200mph_this_past/) | cloudsecchris | 8 |
+| [Building a Serverless Playground in Kubernetes using Knative &amp; KinD](https://www.reddit.com/r/devops/comments/141axig/building_a_serverless_playground_in_kubernetes/) | KaranJagtiani | 5 |
+| [HowTo to map a release process into CI/CD](https://www.reddit.com/r/devops/comments/140sapn/howto_to_map_a_release_process_into_cicd/) | DigBig3448 | 4 |
+| [Azure/AWS spot machines](https://www.reddit.com/r/devops/comments/141a3pv/azureaws_spot_machines/) | Jadoggo | 4 |
+| [API monitoring vs. observability in microservices](https://www.reddit.com/r/devops/comments/1417dkk/api_monitoring_vs_observability_in_microservices/) | Einav_Laviv | 2 |
+| [Learning through an AWS SAA course. Should I skip the Cloudformation section and learn Terraform instead?](https://www.reddit.com/r/devops/comments/1417hzk/learning_through_an_aws_saa_course_should_i_skip/) | 29092 | 1 |
+| [Using properly VPN](https://www.reddit.com/r/devops/comments/140hvsl/using_properly_vpn/) | Felix1178 | 0 |
+| [Start a new grad DevSecOps role in September - how to prepare / not look like a fool?](https://www.reddit.com/r/devops/comments/140ygn8/start_a_new_grad_devsecops_role_in_september_how/) | CSStudentCareer | 0 |
