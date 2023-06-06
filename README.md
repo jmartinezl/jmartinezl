@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Why use Cloudformation when there are tools like terraform?](https://www.reddit.com/r/devops/comments/140cu83/why_use_cloudformation_when_there_are_tools_like/) | pppreddit | 123 |
-| [Pypi repository mirroring](https://www.reddit.com/r/devops/comments/140q9hl/pypi_repository_mirroring/) | itay51998 | 9 |
-| [Was anyone else's org going 200mph this past couple of weeks to get their EKS cluster off of v1.22...](https://www.reddit.com/r/devops/comments/140grqv/was_anyone_elses_org_going_200mph_this_past/) | cloudsecchris | 8 |
-| [Building a Serverless Playground in Kubernetes using Knative &amp; KinD](https://www.reddit.com/r/devops/comments/141axig/building_a_serverless_playground_in_kubernetes/) | KaranJagtiani | 5 |
-| [HowTo to map a release process into CI/CD](https://www.reddit.com/r/devops/comments/140sapn/howto_to_map_a_release_process_into_cicd/) | DigBig3448 | 4 |
-| [Azure/AWS spot machines](https://www.reddit.com/r/devops/comments/141a3pv/azureaws_spot_machines/) | Jadoggo | 4 |
-| [API monitoring vs. observability in microservices](https://www.reddit.com/r/devops/comments/1417dkk/api_monitoring_vs_observability_in_microservices/) | Einav_Laviv | 2 |
-| [Learning through an AWS SAA course. Should I skip the Cloudformation section and learn Terraform instead?](https://www.reddit.com/r/devops/comments/1417hzk/learning_through_an_aws_saa_course_should_i_skip/) | 29092 | 1 |
-| [Using properly VPN](https://www.reddit.com/r/devops/comments/140hvsl/using_properly_vpn/) | Felix1178 | 0 |
-| [Start a new grad DevSecOps role in September - how to prepare / not look like a fool?](https://www.reddit.com/r/devops/comments/140ygn8/start_a_new_grad_devsecops_role_in_september_how/) | CSStudentCareer | 0 |
+| [New CEO wants to understand DevOps impact on company bottom line. Help.](https://www.reddit.com/r/devops/comments/141i6xq/new_ceo_wants_to_understand_devops_impact_on/) | Whole-Magician1608 | 194 |
+| [Building a Serverless Playground in Kubernetes using Knative &amp; KinD](https://www.reddit.com/r/devops/comments/141axig/building_a_serverless_playground_in_kubernetes/) | KaranJagtiani | 23 |
+| [Vendor lock in to AWS. Does going multi cloud make sense?](https://www.reddit.com/r/devops/comments/141uqit/vendor_lock_in_to_aws_does_going_multi_cloud_make/) | theBeeprApp | 18 |
+| [Kubernetes confuses the heck out of me](https://www.reddit.com/r/devops/comments/1420cib/kubernetes_confuses_the_heck_out_of_me/) | cyberdot14 | 9 |
+| [Introducing Trolley, an Open Source Multi Cloud/Multi Region Kubernetes management platform.](https://www.reddit.com/r/devops/comments/142999h/introducing_trolley_an_open_source_multi/) | pavelz | 7 |
+| [Easy K8S Connectivity for Local Utils](https://www.reddit.com/r/devops/comments/142al9z/easy_k8s_connectivity_for_local_utils/) | quickslothslowmonkey | 7 |
+| [Node Removal and Workload Migrations in Kubernetes](https://www.reddit.com/r/devops/comments/1422qef/node_removal_and_workload_migrations_in_kubernetes/) | hacops | 5 |
+| [Good monorepo tooling](https://www.reddit.com/r/devops/comments/141cgw7/good_monorepo_tooling/) | Scrat_za | 3 |
+| [Mimir Github actions metrics](https://www.reddit.com/r/devops/comments/141cwyj/mimir_github_actions_metrics/) | warhir | 2 |
+| [Understanding AWS NAT expenses](https://www.reddit.com/r/devops/comments/141dajc/understanding_aws_nat_expenses/) | BrokenKage | 1 |
