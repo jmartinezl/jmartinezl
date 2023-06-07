@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [New CEO wants to understand DevOps impact on company bottom line. Help.](https://www.reddit.com/r/devops/comments/141i6xq/new_ceo_wants_to_understand_devops_impact_on/) | Whole-Magician1608 | 194 |
-| [Building a Serverless Playground in Kubernetes using Knative &amp; KinD](https://www.reddit.com/r/devops/comments/141axig/building_a_serverless_playground_in_kubernetes/) | KaranJagtiani | 23 |
-| [Vendor lock in to AWS. Does going multi cloud make sense?](https://www.reddit.com/r/devops/comments/141uqit/vendor_lock_in_to_aws_does_going_multi_cloud_make/) | theBeeprApp | 18 |
-| [Kubernetes confuses the heck out of me](https://www.reddit.com/r/devops/comments/1420cib/kubernetes_confuses_the_heck_out_of_me/) | cyberdot14 | 9 |
-| [Introducing Trolley, an Open Source Multi Cloud/Multi Region Kubernetes management platform.](https://www.reddit.com/r/devops/comments/142999h/introducing_trolley_an_open_source_multi/) | pavelz | 7 |
-| [Easy K8S Connectivity for Local Utils](https://www.reddit.com/r/devops/comments/142al9z/easy_k8s_connectivity_for_local_utils/) | quickslothslowmonkey | 7 |
-| [Node Removal and Workload Migrations in Kubernetes](https://www.reddit.com/r/devops/comments/1422qef/node_removal_and_workload_migrations_in_kubernetes/) | hacops | 5 |
-| [Good monorepo tooling](https://www.reddit.com/r/devops/comments/141cgw7/good_monorepo_tooling/) | Scrat_za | 3 |
-| [Mimir Github actions metrics](https://www.reddit.com/r/devops/comments/141cwyj/mimir_github_actions_metrics/) | warhir | 2 |
-| [Understanding AWS NAT expenses](https://www.reddit.com/r/devops/comments/141dajc/understanding_aws_nat_expenses/) | BrokenKage | 1 |
+| [I'm a Principal Architect (Cloud/Automation) at a large consulting firm, and I want out. Looking for advice on where to go where I can make a difference, instead of just making someone money. More details inside.](https://www.reddit.com/r/devops/comments/142iyj2/im_a_principal_architect_cloudautomation_at_a/) | huckler | 72 |
+| [What's your long term plan?](https://www.reddit.com/r/devops/comments/142sgwu/whats_your_long_term_plan/) | BrontosaurusB | 53 |
+| [OpenObserve: Open source Elasticsearch/Datadog/Splunk alternative in Rust for logs. 140x lower storage cost](https://www.reddit.com/r/devops/comments/14365yw/openobserve_open_source/) | the_ml_guy | 41 |
+| [Jaeger alternatives?](https://www.reddit.com/r/devops/comments/142hmde/jaeger_alternatives/) | chillysurfer | 7 |
+| [When using helm charts, is there a way to write it down instead of just running the commands?](https://www.reddit.com/r/devops/comments/142vmi0/when_using_helm_charts_is_there_a_way_to_write_it/) | cakemachines | 5 |
+| [Sizing Thanos for large Prometheus installation](https://www.reddit.com/r/devops/comments/142ku8i/sizing_thanos_for_large_prometheus_installation/) | facet1me | 5 |
+| [Anybody running workload on OVH?](https://www.reddit.com/r/devops/comments/142m3hh/anybody_running_workload_on_ovh/) | HappyCathode | 4 |
+| [pull request merging and sync runs Pipeline on source branch](https://www.reddit.com/r/devops/comments/142ygkx/pull_request_merging_and_sync_runs_pipeline_on/) | run-as-admin | 3 |
+| [Where to start?](https://www.reddit.com/r/devops/comments/1430thq/where_to_start/) | mlYuna | 3 |
+| [Versioning advice for a project that consists of multiple projects.](https://www.reddit.com/r/devops/comments/142svdr/versioning_advice_for_a_project_that_consists_of/) | lunarsoap5 | 3 |
