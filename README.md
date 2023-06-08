@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I'm a Principal Architect (Cloud/Automation) at a large consulting firm, and I want out. Looking for advice on where to go where I can make a difference, instead of just making someone money. More details inside.](https://www.reddit.com/r/devops/comments/142iyj2/im_a_principal_architect_cloudautomation_at_a/) | huckler | 72 |
-| [What's your long term plan?](https://www.reddit.com/r/devops/comments/142sgwu/whats_your_long_term_plan/) | BrontosaurusB | 53 |
-| [OpenObserve: Open source Elasticsearch/Datadog/Splunk alternative in Rust for logs. 140x lower storage cost](https://www.reddit.com/r/devops/comments/14365yw/openobserve_open_source/) | the_ml_guy | 41 |
-| [Jaeger alternatives?](https://www.reddit.com/r/devops/comments/142hmde/jaeger_alternatives/) | chillysurfer | 7 |
-| [When using helm charts, is there a way to write it down instead of just running the commands?](https://www.reddit.com/r/devops/comments/142vmi0/when_using_helm_charts_is_there_a_way_to_write_it/) | cakemachines | 5 |
-| [Sizing Thanos for large Prometheus installation](https://www.reddit.com/r/devops/comments/142ku8i/sizing_thanos_for_large_prometheus_installation/) | facet1me | 5 |
-| [Anybody running workload on OVH?](https://www.reddit.com/r/devops/comments/142m3hh/anybody_running_workload_on_ovh/) | HappyCathode | 4 |
-| [pull request merging and sync runs Pipeline on source branch](https://www.reddit.com/r/devops/comments/142ygkx/pull_request_merging_and_sync_runs_pipeline_on/) | run-as-admin | 3 |
-| [Where to start?](https://www.reddit.com/r/devops/comments/1430thq/where_to_start/) | mlYuna | 3 |
-| [Versioning advice for a project that consists of multiple projects.](https://www.reddit.com/r/devops/comments/142svdr/versioning_advice_for_a_project_that_consists_of/) | lunarsoap5 | 3 |
+| [/r/devops will be going dark on the 12th](https://www.reddit.com/r/devops/comments/143jc6m/rdevops_will_be_going_dark_on_the_12th/) | mthode | 604 |
+| [Why are companies caring less and less about linux skills these days? Do you think it's still worthwhile to learn?](https://www.reddit.com/r/devops/comments/143x53t/why_are_companies_caring_less_and_less_about/) | yeahdude78 | 21 |
+| [Efficiently Release Features and Rollback Instantly with Seamless Operations](https://www.reddit.com/r/devops/comments/143vr12/efficiently_release_features_and_rollback/) | deleteLaterRe | 19 |
+| [Devops and Game Servers?](https://www.reddit.com/r/devops/comments/143oedg/devops_and_game_servers/) | Cevap | 4 |
+| [Managing a manual release process](https://www.reddit.com/r/devops/comments/143hipw/managing_a_manual_release_process/) | BigRedS | 2 |
+| [Certificate Management - Renewals &amp; Uploads to K8s Clusters (via Ansible??)](https://www.reddit.com/r/devops/comments/1446s9d/certificate_management_renewals_uploads_to_k8s/) | Mountain_Ad_1548 | 2 |
+| [API Mock or testing with output to Prometheus](https://www.reddit.com/r/devops/comments/14429bu/api_mock_or_testing_with_output_to_prometheus/) | surpyc | 2 |
+| [Thoughts on CI/CD workflow for small team creating an online web application](https://www.reddit.com/r/devops/comments/1440toe/thoughts_on_cicd_workflow_for_small_team_creating/) | adrenaline681 | 1 |
+| [A customer wants our platform to use their domain for outgoing email notifications](https://www.reddit.com/r/devops/comments/143hrk0/a_customer_wants_our_platform_to_use_their_domain/) | pppreddit | 1 |
+| [Video: Kubernetes 1.27 Chill Vibes - WIIFM (What's In It For Me/You)](https://www.reddit.com/r/devops/comments/143duo2/video_kubernetes_127_chill_vibes_wiifm_whats_in/) | iam_the_good_guy | 0 |
