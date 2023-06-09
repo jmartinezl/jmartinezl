@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [/r/devops will be going dark on the 12th](https://www.reddit.com/r/devops/comments/143jc6m/rdevops_will_be_going_dark_on_the_12th/) | mthode | 604 |
-| [Why are companies caring less and less about linux skills these days? Do you think it's still worthwhile to learn?](https://www.reddit.com/r/devops/comments/143x53t/why_are_companies_caring_less_and_less_about/) | yeahdude78 | 21 |
-| [Efficiently Release Features and Rollback Instantly with Seamless Operations](https://www.reddit.com/r/devops/comments/143vr12/efficiently_release_features_and_rollback/) | deleteLaterRe | 19 |
-| [Devops and Game Servers?](https://www.reddit.com/r/devops/comments/143oedg/devops_and_game_servers/) | Cevap | 4 |
-| [Managing a manual release process](https://www.reddit.com/r/devops/comments/143hipw/managing_a_manual_release_process/) | BigRedS | 2 |
-| [Certificate Management - Renewals &amp; Uploads to K8s Clusters (via Ansible??)](https://www.reddit.com/r/devops/comments/1446s9d/certificate_management_renewals_uploads_to_k8s/) | Mountain_Ad_1548 | 2 |
-| [API Mock or testing with output to Prometheus](https://www.reddit.com/r/devops/comments/14429bu/api_mock_or_testing_with_output_to_prometheus/) | surpyc | 2 |
-| [Thoughts on CI/CD workflow for small team creating an online web application](https://www.reddit.com/r/devops/comments/1440toe/thoughts_on_cicd_workflow_for_small_team_creating/) | adrenaline681 | 1 |
-| [A customer wants our platform to use their domain for outgoing email notifications](https://www.reddit.com/r/devops/comments/143hrk0/a_customer_wants_our_platform_to_use_their_domain/) | pppreddit | 1 |
-| [Video: Kubernetes 1.27 Chill Vibes - WIIFM (What's In It For Me/You)](https://www.reddit.com/r/devops/comments/143duo2/video_kubernetes_127_chill_vibes_wiifm_whats_in/) | iam_the_good_guy | 0 |
+| [Improving on the "dev" side of DevOps](https://www.reddit.com/r/devops/comments/1449u5k/improving_on_the_dev_side_of_devops/) | 29092 | 86 |
+| [I recently joined a startup, but it wasn't what I expected.](https://www.reddit.com/r/devops/comments/144epqh/i_recently_joined_a_startup_but_it_wasnt_what_i/) | evangamer9000 | 20 |
+| [Will r/DevOps participate in the blackout?](https://www.reddit.com/r/devops/comments/144j2vt/will_rdevops_participate_in_the_blackout/) | elasticweed | 6 |
+| [Looking for best pratices / advice on incorporating build information into my Docker images](https://www.reddit.com/r/devops/comments/144dlcg/looking_for_best_pratices_advice_on_incorporating/) | K41eb | 6 |
+| [Looking for a study buddy to start from scratch and crack devops roles.](https://www.reddit.com/r/devops/comments/144i8dk/looking_for_a_study_buddy_to_start_from_scratch/) | N30PRENE | 5 |
+| [I stumbled upon the most unusual Error when using Docker Compose v2 with Docker Engine V24.x and I documented it.](https://www.reddit.com/r/devops/comments/144hhc2/i_stumbled_upon_the_most_unusual_error_when_using/) | dugindeep | 4 |
+| [cAdvisor Vs Prometheus](https://www.reddit.com/r/devops/comments/144j7rg/cadvisor_vs_prometheus/) | blueplutomonk | 2 |
+| [What port is this pod listening on?](https://www.reddit.com/r/devops/comments/144fjar/what_port_is_this_pod_listening_on/) | -lousyd | 1 |
+| [Using CNAME abstractions to simplify DNS](https://www.reddit.com/r/devops/comments/144dlck/using_cname_abstractions_to_simplify_dns/) | spoitras | 1 |
+| [Questions about installing DataDog on a Docker Container](https://www.reddit.com/r/devops/comments/144de5g/questions_about_installing_datadog_on_a_docker/) | kosmix_1618 | 1 |
