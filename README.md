@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Improving on the "dev" side of DevOps](https://www.reddit.com/r/devops/comments/1449u5k/improving_on_the_dev_side_of_devops/) | 29092 | 86 |
-| [I recently joined a startup, but it wasn't what I expected.](https://www.reddit.com/r/devops/comments/144epqh/i_recently_joined_a_startup_but_it_wasnt_what_i/) | evangamer9000 | 20 |
-| [Will r/DevOps participate in the blackout?](https://www.reddit.com/r/devops/comments/144j2vt/will_rdevops_participate_in_the_blackout/) | elasticweed | 6 |
-| [Looking for best pratices / advice on incorporating build information into my Docker images](https://www.reddit.com/r/devops/comments/144dlcg/looking_for_best_pratices_advice_on_incorporating/) | K41eb | 6 |
-| [Looking for a study buddy to start from scratch and crack devops roles.](https://www.reddit.com/r/devops/comments/144i8dk/looking_for_a_study_buddy_to_start_from_scratch/) | N30PRENE | 5 |
-| [I stumbled upon the most unusual Error when using Docker Compose v2 with Docker Engine V24.x and I documented it.](https://www.reddit.com/r/devops/comments/144hhc2/i_stumbled_upon_the_most_unusual_error_when_using/) | dugindeep | 4 |
-| [cAdvisor Vs Prometheus](https://www.reddit.com/r/devops/comments/144j7rg/cadvisor_vs_prometheus/) | blueplutomonk | 2 |
-| [What port is this pod listening on?](https://www.reddit.com/r/devops/comments/144fjar/what_port_is_this_pod_listening_on/) | -lousyd | 1 |
-| [Using CNAME abstractions to simplify DNS](https://www.reddit.com/r/devops/comments/144dlck/using_cname_abstractions_to_simplify_dns/) | spoitras | 1 |
-| [Questions about installing DataDog on a Docker Container](https://www.reddit.com/r/devops/comments/144de5g/questions_about_installing_datadog_on_a_docker/) | kosmix_1618 | 1 |
+| [/r/DevOps - I'm calling on you to be the hero that users need right now and build a Lemmy instance for your favorite community.](https://www.reddit.com/r/devops/comments/145h7x8/rdevops_im_calling_on_you_to_be_the_hero_that/) | th3raid0r | 142 |
+| [DevOps managers - tell me where I'm going wrong with my resume](https://www.reddit.com/r/devops/comments/145if7e/devops_managers_tell_me_where_im_going_wrong_with/) | RumRogerz | 9 |
+| [Whats the right basic change / development process in the world of devops?](https://www.reddit.com/r/devops/comments/1459cjx/whats_the_right_basic_change_development_process/) | fr0sty1105 | 8 |
+| [Why do DevOps managers / directors buy new software stuff?](https://www.reddit.com/r/devops/comments/1453f9s/why_do_devops_managers_directors_buy_new_software/) | GweiLondon101 | 4 |
+| [CICD Test Stage Question](https://www.reddit.com/r/devops/comments/1454xz2/cicd_test_stage_question/) | DevOps_Noob1 | 3 |
+| [Any experience on making the Datadog =&gt; Grafana Cloud transition?](https://www.reddit.com/r/devops/comments/145d65j/any_experience_on_making_the_datadog_grafana/) | scottishbee | 2 |
+| [What should you know before iac?](https://www.reddit.com/r/devops/comments/145bpto/what_should_you_know_before_iac/) | Codeeveryday123 | 0 |
+| [Anyone need a Jr. Devop?](https://www.reddit.com/r/devops/comments/145o10o/anyone_need_a_jr_devop/) | FewDream9973 | 0 |
+| [AWS Batch- compute env status is INVALID](https://www.reddit.com/r/devops/comments/14584v2/aws_batch_compute_env_status_is_invalid/) | Maleficent-Pain2765 | 0 |
