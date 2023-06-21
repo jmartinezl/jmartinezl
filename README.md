@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How versatile did the Apple Silicon chips have become now that they are getting ready to present the M3 later this year?](https://www.reddit.com/r/devops/comments/1462uvm/how_versatile_did_the_apple_silicon_chips_have/) | ddiaconu21 | 79 |
-| [How to Prepare for HashiCorp Certified Terraform Associate Certification (002)](https://www.reddit.com/r/devops/comments/146kofr/how_to_prepare_for_hashicorp_certified_terraform/) | Intelligent_Tune_392 | 72 |
-| [mTLS in 15 Minutes](https://www.reddit.com/r/devops/comments/1466qki/mtls_in_15_minutes/) | 5olArchitect | 10 |
-| [For those of you who are really good at problem solving, do you recommend any problem-solving books/videos?](https://www.reddit.com/r/devops/comments/146i9s4/for_those_of_you_who_are_really_good_at_problem/) | Zyster1 | 2 |
-| [AWS Control tower setup using terraform](https://www.reddit.com/r/devops/comments/1466a5f/aws_control_tower_setup_using_terraform/) | pbn4 | 2 |
-| [Trying to come up with a new Continuous Integration (CI) setup](https://www.reddit.com/r/devops/comments/145yuwq/trying_to_come_up_with_a_new_continuous/) | NextAbrocoma1038 | 1 |
-| [What suggestions would you give to a fresher?](https://www.reddit.com/r/devops/comments/14675o2/what_suggestions_would_you_give_to_a_fresher/) | Radon03 | 0 |
-| [Validating product - a tool for database changes](https://www.reddit.com/r/devops/comments/146n0p6/validating_product_a_tool_for_database_changes/) | romaniskos | 0 |
-| [Specialization for SRE, DevOps pursuing a Major and maybe a PhD](https://www.reddit.com/r/devops/comments/146no21/specialization_for_sre_devops_pursuing_a_major/) | asokopo | 0 |
-| [Serverless and AI: How do you use it?](https://www.reddit.com/r/devops/comments/1460zze/serverless_and_ai_how_do_you_use_it/) | valetudoo | 0 |
+| [This sub is being marked NSFW due to past swearing in posts](https://www.reddit.com/r/devops/comments/14eqn7s/this_sub_is_being_marked_nsfw_due_to_past/) | mthode | 574 |
+| [Friend is a known BigTech Pentester, when we have beers he vaguely explains how bad security looks in BigIT...](https://www.reddit.com/r/devops/comments/14f0ow9/friend_is_a_known_bigtech_pentester_when_we_have/) | random_devops | 28 |
+| [built a tool to generate gitops comments from code coverage reports](https://www.reddit.com/r/devops/comments/14f43o4/built_a_tool_to_generate_gitops_comments_from/) | ajpauwels | 3 |
+| [How do you approach off-hours downscaling?](https://www.reddit.com/r/devops/comments/14f42vf/how_do_you_approach_offhours_downscaling/) | Jatalocks2 | 3 |
+| [Day 4 CI/CD: Launch Web App with Jenkins, Ansible, and Docker](https://www.reddit.com/r/devops/comments/14f286n/day_4_cicd_launch_web_app_with_jenkins_ansible/) | sambitsgk | 1 |
+| [How the fuck do I get a fucking job in DevOps?](https://www.reddit.com/r/devops/comments/14eztf0/how_the_fuck_do_i_get_a_fucking_job_in_devops/) | Zalack | 0 |
+| [Devops Role (fresher)](https://www.reddit.com/r/devops/comments/14exgag/devops_role_fresher/) | Dedcode_x | 0 |
+| [DevPod - Like Codespaces but Open-Source](https://www.reddit.com/r/devops/comments/14eyrqk/devpod_like_codespaces_but_opensource/) | join2ashish | 0 |
+| [CI/CD deez nutz](https://www.reddit.com/r/devops/comments/14f5jco/cicd_deez_nutz/) | Jeoh | 0 |
