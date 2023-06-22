@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [This sub is being marked NSFW due to past swearing in posts](https://www.reddit.com/r/devops/comments/14eqn7s/this_sub_is_being_marked_nsfw_due_to_past/) | mthode | 574 |
-| [Friend is a known BigTech Pentester, when we have beers he vaguely explains how bad security looks in BigIT...](https://www.reddit.com/r/devops/comments/14f0ow9/friend_is_a_known_bigtech_pentester_when_we_have/) | random_devops | 28 |
-| [built a tool to generate gitops comments from code coverage reports](https://www.reddit.com/r/devops/comments/14f43o4/built_a_tool_to_generate_gitops_comments_from/) | ajpauwels | 3 |
-| [How do you approach off-hours downscaling?](https://www.reddit.com/r/devops/comments/14f42vf/how_do_you_approach_offhours_downscaling/) | Jatalocks2 | 3 |
-| [Day 4 CI/CD: Launch Web App with Jenkins, Ansible, and Docker](https://www.reddit.com/r/devops/comments/14f286n/day_4_cicd_launch_web_app_with_jenkins_ansible/) | sambitsgk | 1 |
-| [How the fuck do I get a fucking job in DevOps?](https://www.reddit.com/r/devops/comments/14eztf0/how_the_fuck_do_i_get_a_fucking_job_in_devops/) | Zalack | 0 |
-| [Devops Role (fresher)](https://www.reddit.com/r/devops/comments/14exgag/devops_role_fresher/) | Dedcode_x | 0 |
-| [DevPod - Like Codespaces but Open-Source](https://www.reddit.com/r/devops/comments/14eyrqk/devpod_like_codespaces_but_opensource/) | join2ashish | 0 |
-| [CI/CD deez nutz](https://www.reddit.com/r/devops/comments/14f5jco/cicd_deez_nutz/) | Jeoh | 0 |
+| [Shit guys, I need a fucking job](https://www.reddit.com/r/devops/comments/14fgfq8/shit_guys_i_need_a_fucking_job/) | vsysio | 345 |
+| [Steampunk Ansible Challenge](https://www.reddit.com/r/devops/comments/14f6sxg/steampunk_ansible_challenge/) | AnyJellyfish | 33 |
+| [Efficiently and quickly setting up new preview environments on AWS](https://www.reddit.com/r/devops/comments/14fb9aw/efficiently_and_quickly_setting_up_new_preview/) | -plus-equalsplus | 3 |
+| [Tool for viewing/filter logs](https://www.reddit.com/r/devops/comments/14fow7w/tool_for_viewingfilter_logs/) | eastoncr | 2 |
+| [I built a little tool for emailing yourself via webhook](https://www.reddit.com/r/devops/comments/14fr9b8/i_built_a_little_tool_for_emailing_yourself_via/) | hardwaresofton | 2 |
+| [Animated Architecture Graph](https://www.reddit.com/r/devops/comments/14fofbi/animated_architecture_graph/) | Gr3gorius | 2 |
+| [SWE experience Question](https://www.reddit.com/r/devops/comments/14fq9b6/swe_experience_question/) | YinzAintClassy | 1 |
+| [Python logging - log handler vs stdout + fluend](https://www.reddit.com/r/devops/comments/14flklp/python_logging_log_handler_vs_stdout_fluend/) | barcode_5 | 1 |
+| [How to enhance my devope skills](https://www.reddit.com/r/devops/comments/14g1fdn/how_to_enhance_my_devope_skills/) | Waabbu | 1 |
+| [Anyone here with some RPi-4 Lab + Hashicorp Vault Documentation to spare?](https://www.reddit.com/r/devops/comments/14fdo8i/anyone_here_with_some_rpi4_lab_hashicorp_vault/) | dugindeep | 1 |
