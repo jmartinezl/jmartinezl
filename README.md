@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Shit guys, I need a fucking job](https://www.reddit.com/r/devops/comments/14fgfq8/shit_guys_i_need_a_fucking_job/) | vsysio | 345 |
-| [Steampunk Ansible Challenge](https://www.reddit.com/r/devops/comments/14f6sxg/steampunk_ansible_challenge/) | AnyJellyfish | 33 |
-| [Efficiently and quickly setting up new preview environments on AWS](https://www.reddit.com/r/devops/comments/14fb9aw/efficiently_and_quickly_setting_up_new_preview/) | -plus-equalsplus | 3 |
-| [Tool for viewing/filter logs](https://www.reddit.com/r/devops/comments/14fow7w/tool_for_viewingfilter_logs/) | eastoncr | 2 |
-| [I built a little tool for emailing yourself via webhook](https://www.reddit.com/r/devops/comments/14fr9b8/i_built_a_little_tool_for_emailing_yourself_via/) | hardwaresofton | 2 |
-| [Animated Architecture Graph](https://www.reddit.com/r/devops/comments/14fofbi/animated_architecture_graph/) | Gr3gorius | 2 |
-| [SWE experience Question](https://www.reddit.com/r/devops/comments/14fq9b6/swe_experience_question/) | YinzAintClassy | 1 |
-| [Python logging - log handler vs stdout + fluend](https://www.reddit.com/r/devops/comments/14flklp/python_logging_log_handler_vs_stdout_fluend/) | barcode_5 | 1 |
-| [How to enhance my devope skills](https://www.reddit.com/r/devops/comments/14g1fdn/how_to_enhance_my_devope_skills/) | Waabbu | 1 |
-| [Anyone here with some RPi-4 Lab + Hashicorp Vault Documentation to spare?](https://www.reddit.com/r/devops/comments/14fdo8i/anyone_here_with_some_rpi4_lab_hashicorp_vault/) | dugindeep | 1 |
+| [Terraform import block allows to generate code from existing infrastructure](https://www.reddit.com/r/devops/comments/14gfz73/terraform_import_block_allows_to_generate_code/) | Conscious__Use | 168 |
+| [New controller-less WireGuard Mesh - Because fuck you](https://www.reddit.com/r/devops/comments/14g1plu/new_controllerless_wireguard_mesh_because_fuck_you/) | jews4beer | 164 |
+| [Fucking awesome. Not no adds at all appearing in this sub.](https://www.reddit.com/r/devops/comments/14gctv4/fucking_awesome_not_no_adds_at_all_appearing_in/) | dn512215 | 72 |
+| [Rate my DevOps Roadmap Please](https://www.reddit.com/r/devops/comments/14gjv2c/rate_my_devops_roadmap_please/) | checkthatcloud | 3 |
+| [Inexpensive SaaS Git and Argo thingy...](https://www.reddit.com/r/devops/comments/14gktgu/inexpensive_saas_git_and_argo_thingy/) | Fluffer_Wuffer | 3 |
+| [VictoriaMetrics bolsters move from monitoring to observability with VictoriaLogs release](https://www.reddit.com/r/devops/comments/14g2evw/victoriametrics_bolsters_move_from_monitoring_to/) | terryfilch | 2 |
+| [struggling and need some direction](https://www.reddit.com/r/devops/comments/14gvejb/struggling_and_need_some_direction/) | JadedJelly803 | 1 |
+| [software Dev Lifecycle - when to introduce NVA/firewall/Load balancers?](https://www.reddit.com/r/devops/comments/14gvq0o/software_dev_lifecycle_when_to_introduce/) | nextlevelsolution | 1 |
+| [how to setup oauth2.0 authentication for rest calls](https://www.reddit.com/r/devops/comments/14gtkmh/how_to_setup_oauth20_authentication_for_rest_calls/) | GetFit_Messi | 1 |
+| [XAMPP and Firewall issue](https://www.reddit.com/r/devops/comments/14gub2p/xampp_and_firewall_issue/) | broken_py | 1 |
