@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Terraform import block allows to generate code from existing infrastructure](https://www.reddit.com/r/devops/comments/14gfz73/terraform_import_block_allows_to_generate_code/) | Conscious__Use | 168 |
-| [New controller-less WireGuard Mesh - Because fuck you](https://www.reddit.com/r/devops/comments/14g1plu/new_controllerless_wireguard_mesh_because_fuck_you/) | jews4beer | 164 |
-| [Fucking awesome. Not no adds at all appearing in this sub.](https://www.reddit.com/r/devops/comments/14gctv4/fucking_awesome_not_no_adds_at_all_appearing_in/) | dn512215 | 72 |
-| [Rate my DevOps Roadmap Please](https://www.reddit.com/r/devops/comments/14gjv2c/rate_my_devops_roadmap_please/) | checkthatcloud | 3 |
-| [Inexpensive SaaS Git and Argo thingy...](https://www.reddit.com/r/devops/comments/14gktgu/inexpensive_saas_git_and_argo_thingy/) | Fluffer_Wuffer | 3 |
-| [VictoriaMetrics bolsters move from monitoring to observability with VictoriaLogs release](https://www.reddit.com/r/devops/comments/14g2evw/victoriametrics_bolsters_move_from_monitoring_to/) | terryfilch | 2 |
-| [struggling and need some direction](https://www.reddit.com/r/devops/comments/14gvejb/struggling_and_need_some_direction/) | JadedJelly803 | 1 |
-| [software Dev Lifecycle - when to introduce NVA/firewall/Load balancers?](https://www.reddit.com/r/devops/comments/14gvq0o/software_dev_lifecycle_when_to_introduce/) | nextlevelsolution | 1 |
-| [how to setup oauth2.0 authentication for rest calls](https://www.reddit.com/r/devops/comments/14gtkmh/how_to_setup_oauth20_authentication_for_rest_calls/) | GetFit_Messi | 1 |
-| [XAMPP and Firewall issue](https://www.reddit.com/r/devops/comments/14gub2p/xampp_and_firewall_issue/) | broken_py | 1 |
+| [Bazel is absolute pain](https://www.reddit.com/r/devops/comments/14h8a8e/bazel_is_absolute_pain/) | sosou1366 | 70 |
+| [Embed GitHub Actions in your Docs](https://www.reddit.com/r/devops/comments/14h1rbb/embed_github_actions_in_your_docs/) | sourishkrout | 23 |
+| [Projects for beginners in Devops](https://www.reddit.com/r/devops/comments/14hl4ha/projects_for_beginners_in_devops/) | sissy9989 | 15 |
+| [Best way to deploy c++ app on bare metal?](https://www.reddit.com/r/devops/comments/14gzlfs/best_way_to_deploy_c_app_on_bare_metal/) | wannabe_rebel | 10 |
+| [JCenter no longer serves files but redirects to Maven Central instead](https://www.reddit.com/r/devops/comments/14h4gg9/jcenter_no_longer_serves_files_but_redirects_to/) | DIYEngineeringTx | 5 |
+| [What kind of goals are you setting in for the rest of 2023](https://www.reddit.com/r/devops/comments/14hh1pj/what_kind_of_goals_are_you_setting_in_for_the/) | cornymentality57 | 4 |
+| [I built a faster CI tool and I'd love your feedback](https://www.reddit.com/r/devops/comments/14hciw8/i_built_a_faster_ci_tool_and_id_love_your_feedback/) | reillyse | 3 |
+| [AWS S3 Bucket Creation Date Discrepancy In Master And Other Regions](https://www.reddit.com/r/devops/comments/14gzhs0/aws_s3_bucket_creation_date_discrepancy_in_master/) | heldsteel7 | 3 |
+| [How is Podman Compose?](https://www.reddit.com/r/devops/comments/14h0u3h/how_is_podman_compose/) | -lousyd | 2 |
+| [AWS us-east-1 outage handling in DR environment](https://www.reddit.com/r/devops/comments/14hmwtm/aws_useast1_outage_handling_in_dr_environment/) | ayeshabashara | 2 |
