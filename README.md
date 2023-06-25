@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Bazel is absolute pain](https://www.reddit.com/r/devops/comments/14h8a8e/bazel_is_absolute_pain/) | sosou1366 | 70 |
-| [Embed GitHub Actions in your Docs](https://www.reddit.com/r/devops/comments/14h1rbb/embed_github_actions_in_your_docs/) | sourishkrout | 23 |
-| [Projects for beginners in Devops](https://www.reddit.com/r/devops/comments/14hl4ha/projects_for_beginners_in_devops/) | sissy9989 | 15 |
-| [Best way to deploy c++ app on bare metal?](https://www.reddit.com/r/devops/comments/14gzlfs/best_way_to_deploy_c_app_on_bare_metal/) | wannabe_rebel | 10 |
-| [JCenter no longer serves files but redirects to Maven Central instead](https://www.reddit.com/r/devops/comments/14h4gg9/jcenter_no_longer_serves_files_but_redirects_to/) | DIYEngineeringTx | 5 |
-| [What kind of goals are you setting in for the rest of 2023](https://www.reddit.com/r/devops/comments/14hh1pj/what_kind_of_goals_are_you_setting_in_for_the/) | cornymentality57 | 4 |
-| [I built a faster CI tool and I'd love your feedback](https://www.reddit.com/r/devops/comments/14hciw8/i_built_a_faster_ci_tool_and_id_love_your_feedback/) | reillyse | 3 |
-| [AWS S3 Bucket Creation Date Discrepancy In Master And Other Regions](https://www.reddit.com/r/devops/comments/14gzhs0/aws_s3_bucket_creation_date_discrepancy_in_master/) | heldsteel7 | 3 |
-| [How is Podman Compose?](https://www.reddit.com/r/devops/comments/14h0u3h/how_is_podman_compose/) | -lousyd | 2 |
-| [AWS us-east-1 outage handling in DR environment](https://www.reddit.com/r/devops/comments/14hmwtm/aws_useast1_outage_handling_in_dr_environment/) | ayeshabashara | 2 |
+| [Kubernetes Developer - how to start](https://www.reddit.com/r/devops/comments/14i9xor/kubernetes_developer_how_to_start/) | hitechnical | 16 |
+| [Docker Image Tagging Strategies: Commit Hash vs Git Tag](https://www.reddit.com/r/devops/comments/14i2r4x/docker_image_tagging_strategies_commit_hash_vs/) | MinHtet_Oo | 5 |
+| [Best way to do serverless infernece with minimal cold start on GPU machines?](https://www.reddit.com/r/devops/comments/14i963s/best_way_to_do_serverless_infernece_with_minimal/) | ovived | 3 |
+| [What is the perfect job role for my goals?](https://www.reddit.com/r/devops/comments/14hubiz/what_is_the_perfect_job_role_for_my_goals/) | Barack_obameme | 1 |
+| [We've Moved](https://www.reddit.com/r/devops/comments/14hsia6/weve_moved/) | andan02 | 0 |
+| [Shit guys, i fucking need someone to just hire me for a one time job](https://www.reddit.com/r/devops/comments/14hvy4y/shit_guys_i_fucking_need_someone_to_just_hire_me/) | Lower-Upstairs-9973 | 0 |
+| [Read before passing go to cliud](https://www.reddit.com/r/devops/comments/14i9hpb/read_before_passing_go_to_cliud/) | Peyton1717 | 0 |
