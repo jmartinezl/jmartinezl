@@ -44,10 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Kubernetes Developer - how to start](https://www.reddit.com/r/devops/comments/14i9xor/kubernetes_developer_how_to_start/) | hitechnical | 16 |
-| [Docker Image Tagging Strategies: Commit Hash vs Git Tag](https://www.reddit.com/r/devops/comments/14i2r4x/docker_image_tagging_strategies_commit_hash_vs/) | MinHtet_Oo | 5 |
-| [Best way to do serverless infernece with minimal cold start on GPU machines?](https://www.reddit.com/r/devops/comments/14i963s/best_way_to_do_serverless_infernece_with_minimal/) | ovived | 3 |
-| [What is the perfect job role for my goals?](https://www.reddit.com/r/devops/comments/14hubiz/what_is_the_perfect_job_role_for_my_goals/) | Barack_obameme | 1 |
-| [We've Moved](https://www.reddit.com/r/devops/comments/14hsia6/weve_moved/) | andan02 | 0 |
-| [Shit guys, i fucking need someone to just hire me for a one time job](https://www.reddit.com/r/devops/comments/14hvy4y/shit_guys_i_fucking_need_someone_to_just_hire_me/) | Lower-Upstairs-9973 | 0 |
-| [Read before passing go to cliud](https://www.reddit.com/r/devops/comments/14i9hpb/read_before_passing_go_to_cliud/) | Peyton1717 | 0 |
+| [How do you skip creating organization when signing in to Hashicorp cloud platform?](https://www.reddit.com/r/devops/comments/14iv62o/how_do_you_skip_creating_organization_when/) | Bulbasaur2015 | 19 |
+| [Replace HA Proxy by Kong](https://www.reddit.com/r/devops/comments/14jb0cr/replace_ha_proxy_by_kong/) | Arvi89 | 7 |
+| [Anyone in DevOps can review this job description? Is it legit?](https://www.reddit.com/r/devops/comments/14je0yw/anyone_in_devops_can_review_this_job_description/) | sumplookinggai | 6 |
+| [Other DevOps Communities](https://www.reddit.com/r/devops/comments/14jfbvh/other_devops_communities/) | ewpoxy | 4 |
+| [Devops role possibility](https://www.reddit.com/r/devops/comments/14j6ygs/devops_role_possibility/) | mah9221 | 2 |
+| [Is there already a lemmy community that we can migrate to?](https://www.reddit.com/r/devops/comments/14jf8uv/is_there_already_a_lemmy_community_that_we_can/) | sirnak101 | 1 |
+| [Help us decide on our future roadmap](https://www.reddit.com/r/devops/comments/14jbslp/help_us_decide_on_our_future_roadmap/) | Udi_Hofesh | 1 |
+| [Does anybody has a new Strato KVM VPS?](https://www.reddit.com/r/devops/comments/14jbjgo/does_anybody_has_a_new_strato_kvm_vps/) | Lueton | 1 |
+| [The problem with bots: Human laziness](https://www.reddit.com/r/devops/comments/14it5m1/the_problem_with_bots_human_laziness/) | guest271314 | 0 |
