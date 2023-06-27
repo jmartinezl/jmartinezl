@@ -44,12 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you skip creating organization when signing in to Hashicorp cloud platform?](https://www.reddit.com/r/devops/comments/14iv62o/how_do_you_skip_creating_organization_when/) | Bulbasaur2015 | 19 |
-| [Replace HA Proxy by Kong](https://www.reddit.com/r/devops/comments/14jb0cr/replace_ha_proxy_by_kong/) | Arvi89 | 7 |
-| [Anyone in DevOps can review this job description? Is it legit?](https://www.reddit.com/r/devops/comments/14je0yw/anyone_in_devops_can_review_this_job_description/) | sumplookinggai | 6 |
-| [Other DevOps Communities](https://www.reddit.com/r/devops/comments/14jfbvh/other_devops_communities/) | ewpoxy | 4 |
-| [Devops role possibility](https://www.reddit.com/r/devops/comments/14j6ygs/devops_role_possibility/) | mah9221 | 2 |
-| [Is there already a lemmy community that we can migrate to?](https://www.reddit.com/r/devops/comments/14jf8uv/is_there_already_a_lemmy_community_that_we_can/) | sirnak101 | 1 |
-| [Help us decide on our future roadmap](https://www.reddit.com/r/devops/comments/14jbslp/help_us_decide_on_our_future_roadmap/) | Udi_Hofesh | 1 |
-| [Does anybody has a new Strato KVM VPS?](https://www.reddit.com/r/devops/comments/14jbjgo/does_anybody_has_a_new_strato_kvm_vps/) | Lueton | 1 |
-| [The problem with bots: Human laziness](https://www.reddit.com/r/devops/comments/14it5m1/the_problem_with_bots_human_laziness/) | guest271314 | 0 |
+| [Seeking Advice on Terraform and Kubernetes Learning Path](https://www.reddit.com/r/devops/comments/14jfv4x/seeking_advice_on_terraform_and_kubernetes/) | KrissoNN | 14 |
+| [OneUptime: Open Source StatusPage.io alternative that you can self-host.](https://www.reddit.com/r/devops/comments/14jfka7/oneuptime_open_source_statuspageio_alternative/) | simlarsen | 13 |
+| [Multiple cloud platforms](https://www.reddit.com/r/devops/comments/14k7eq6/multiple_cloud_platforms/) | Max-Mielchen | 12 |
+| [AWS MQTT is it worth it?](https://www.reddit.com/r/devops/comments/14jl4u6/aws_mqtt_is_it_worth_it/) | WorriedJaguar206 | 1 |
+| [r/DevOps being marked as "NSFW" on purpose leads to misinformation.](https://www.reddit.com/r/devops/comments/14jo085/rdevops_being_marked_as_nsfw_on_purpose_leads_to/) | Zyster1 | 0 |
+| [Bug Free Remote Development With Any JetBrains IDE!](https://www.reddit.com/r/devops/comments/14k8um7/bug_free_remote_development_with_any_jetbrains_ide/) | TheSaasDev | 0 |
+| [Big Tech Digest #2: Examining HTTP/3 usage one year on, Migrating Netflix to GraphQL Safely, Data loss prevention during outages and more!](https://www.reddit.com/r/devops/comments/14k6t1p/big_tech_digest_2_examining_http3_usage_one_year/) | av818 | 0 |
