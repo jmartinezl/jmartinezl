@@ -44,10 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Seeking Advice on Terraform and Kubernetes Learning Path](https://www.reddit.com/r/devops/comments/14jfv4x/seeking_advice_on_terraform_and_kubernetes/) | KrissoNN | 14 |
-| [OneUptime: Open Source StatusPage.io alternative that you can self-host.](https://www.reddit.com/r/devops/comments/14jfka7/oneuptime_open_source_statuspageio_alternative/) | simlarsen | 13 |
-| [Multiple cloud platforms](https://www.reddit.com/r/devops/comments/14k7eq6/multiple_cloud_platforms/) | Max-Mielchen | 12 |
-| [AWS MQTT is it worth it?](https://www.reddit.com/r/devops/comments/14jl4u6/aws_mqtt_is_it_worth_it/) | WorriedJaguar206 | 1 |
-| [r/DevOps being marked as "NSFW" on purpose leads to misinformation.](https://www.reddit.com/r/devops/comments/14jo085/rdevops_being_marked_as_nsfw_on_purpose_leads_to/) | Zyster1 | 0 |
-| [Bug Free Remote Development With Any JetBrains IDE!](https://www.reddit.com/r/devops/comments/14k8um7/bug_free_remote_development_with_any_jetbrains_ide/) | TheSaasDev | 0 |
-| [Big Tech Digest #2: Examining HTTP/3 usage one year on, Migrating Netflix to GraphQL Safely, Data loss prevention during outages and more!](https://www.reddit.com/r/devops/comments/14k6t1p/big_tech_digest_2_examining_http3_usage_one_year/) | av818 | 0 |
+| [Why are DevOps roles recently become mostly OpsOps or Admin?](https://www.reddit.com/r/devops/comments/14kd052/why_are_devops_roles_recently_become_mostly/) | ri7h | 165 |
+| [CI/CD patterns](https://www.reddit.com/r/devops/comments/14ke947/cicd_patterns/) | caksters | 20 |
+| [Junior DevOps Interview](https://www.reddit.com/r/devops/comments/14kei6g/junior_devops_interview/) | jammy606 | 4 |
+| [Scripting for sre](https://www.reddit.com/r/devops/comments/14ktp5o/scripting_for_sre/) | donomi | 3 |
+| [Terraform Questions](https://www.reddit.com/r/devops/comments/14kgaxp/terraform_questions/) | NoSlipper | 2 |
+| [any professionals here making content and what impact it has on getting a job](https://www.reddit.com/r/devops/comments/14kr6ob/any_professionals_here_making_content_and_what/) | muliwuli | 1 |
+| [What exactly learning linux for devops means?](https://www.reddit.com/r/devops/comments/14kg1n3/what_exactly_learning_linux_for_devops_means/) | shibuzaki | 1 |
+| [Can anyone explain AWS Control Tower &amp; Cloud Custodian in layman terms and with possible use cases from experience?](https://www.reddit.com/r/devops/comments/14kwhhr/can_anyone_explain_aws_control_tower_cloud/) | Codestein | 1 |
+| [What is DevOps and Why You Should Have It](https://www.reddit.com/r/devops/comments/14l5u1i/what_is_devops_and_why_you_should_have_it/) | QArea_ltd | 0 |
+| [Newbie developer deploying apps](https://www.reddit.com/r/devops/comments/14kzjpr/newbie_developer_deploying_apps/) | Darkwingduck48 | 0 |
