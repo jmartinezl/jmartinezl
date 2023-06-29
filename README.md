@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Why are DevOps roles recently become mostly OpsOps or Admin?](https://www.reddit.com/r/devops/comments/14kd052/why_are_devops_roles_recently_become_mostly/) | ri7h | 165 |
-| [CI/CD patterns](https://www.reddit.com/r/devops/comments/14ke947/cicd_patterns/) | caksters | 20 |
-| [Junior DevOps Interview](https://www.reddit.com/r/devops/comments/14kei6g/junior_devops_interview/) | jammy606 | 4 |
-| [Scripting for sre](https://www.reddit.com/r/devops/comments/14ktp5o/scripting_for_sre/) | donomi | 3 |
-| [Terraform Questions](https://www.reddit.com/r/devops/comments/14kgaxp/terraform_questions/) | NoSlipper | 2 |
-| [any professionals here making content and what impact it has on getting a job](https://www.reddit.com/r/devops/comments/14kr6ob/any_professionals_here_making_content_and_what/) | muliwuli | 1 |
-| [What exactly learning linux for devops means?](https://www.reddit.com/r/devops/comments/14kg1n3/what_exactly_learning_linux_for_devops_means/) | shibuzaki | 1 |
-| [Can anyone explain AWS Control Tower &amp; Cloud Custodian in layman terms and with possible use cases from experience?](https://www.reddit.com/r/devops/comments/14kwhhr/can_anyone_explain_aws_control_tower_cloud/) | Codestein | 1 |
-| [What is DevOps and Why You Should Have It](https://www.reddit.com/r/devops/comments/14l5u1i/what_is_devops_and_why_you_should_have_it/) | QArea_ltd | 0 |
-| [Newbie developer deploying apps](https://www.reddit.com/r/devops/comments/14kzjpr/newbie_developer_deploying_apps/) | Darkwingduck48 | 0 |
+| [My review of DevOps podcasts after a year of commute](https://www.reddit.com/r/devops/comments/14lyggo/my_review_of_devops_podcasts_after_a_year_of/) | Jatalocks2 | 52 |
+| [Github oidc provider thumbprint updates](https://www.reddit.com/r/devops/comments/14l93iv/github_oidc_provider_thumbprint_updates/) | kubeguru22 | 33 |
+| [Recent change feels like HUGE mistake...](https://www.reddit.com/r/devops/comments/14lmg8z/recent_change_feels_like_huge_mistake/) | floppy_panoos | 26 |
+| [Automatic semver](https://www.reddit.com/r/devops/comments/14l9u8m/automatic_semver/) | No_Butterfly_1888 | 15 |
+| [IT vs DevOps Responsibilities](https://www.reddit.com/r/devops/comments/14ljnuk/it_vs_devops_responsibilities/) | PitifulPrior8531 | 14 |
+| [Looking for tips on upgrade options for legacy infrastructure](https://www.reddit.com/r/devops/comments/14lc34v/looking_for_tips_on_upgrade_options_for_legacy/) | SnayperskayaX | 4 |
+| [Roadmap to learn devops](https://www.reddit.com/r/devops/comments/14lxx14/roadmap_to_learn_devops/) | blaze29417 | 1 |
+| [RHEL 8 vs RHEL 9 Learning Material](https://www.reddit.com/r/devops/comments/14lxuxv/rhel_8_vs_rhel_9_learning_material/) | 9th_YearlyAccount | 1 |
+| [Monitoring Solution for a small to medium company](https://www.reddit.com/r/devops/comments/14lbio0/monitoring_solution_for_a_small_to_medium_company/) | pport8 | 1 |
+| [Ingest logs from outside AWS](https://www.reddit.com/r/devops/comments/14lgijn/ingest_logs_from_outside_aws/) | sock_templar | 1 |
