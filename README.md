@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [GitHub down](https://www.reddit.com/r/devops/comments/14mbas9/github_down/) | jaymef | 99 |
-| [New job and bored out of my mind - am I overreacting](https://www.reddit.com/r/devops/comments/14m7jc9/new_job_and_bored_out_of_my_mind_am_i_overreacting/) | BadAtBloodBowl2 | 37 |
-| [Is this a good Ci/CD pipeline?](https://www.reddit.com/r/devops/comments/14md2er/is_this_a_good_cicd_pipeline/) | codebreaker101 | 14 |
-| [What option to choose for Bachelor?](https://www.reddit.com/r/devops/comments/14m6c7l/what_option_to_choose_for_bachelor/) | mlYuna | 2 |
-| [Trying to piece together mobile apps ci-cd with self-hosted gitlab.](https://www.reddit.com/r/devops/comments/14m907a/trying_to_piece_together_mobile_apps_cicd_with/) | b037839 | 2 |
-| [How to CI/CD kubernetes-manifest in a monorepo reasonable?](https://www.reddit.com/r/devops/comments/14m75mj/how_to_cicd_kubernetesmanifest_in_a_monorepo/) | 1deep2me | 2 |
-| [Bringing Self-Service to Developers: A Step-by-Step Guide to Building a Portal with Backstage](https://www.reddit.com/r/devops/comments/14m77u0/bringing_selfservice_to_developers_a_stepbystep/) | segtekdev | 2 |
-| [Switch from cloud admin to devops](https://www.reddit.com/r/devops/comments/14mi024/switch_from_cloud_admin_to_devops/) | NRS888 | 1 |
-| [Conntrack table full - solutions?](https://www.reddit.com/r/devops/comments/14mtv6d/conntrack_table_full_solutions/) | calibrono | 1 |
-| [Big Tech Digest #3: Analyzing Volatile Memory on a Google Kubernetes Engine Node, Writing an Istio WASM Plugin in Go and more!](https://www.reddit.com/r/devops/comments/14mffd0/big_tech_digest_3_analyzing_volatile_memory_on_a/) | av818 | 1 |
+| [Does writing documentation worsen job security](https://www.reddit.com/r/devops/comments/14n1fjz/does_writing_documentation_worsen_job_security/) | Blk-homie | 98 |
+| [How should this sub respond to reddit's api changes, part 2](https://www.reddit.com/r/devops/comments/14n6ghq/how_should_this_sub_respond_to_reddits_api/) | mthode | 5 |
+| [flux - helm - ingress-nginx](https://www.reddit.com/r/devops/comments/14nbf4p/flux_helm_ingressnginx/) | PoseidonTheAverage | 2 |
+| [Comparing SAST tools](https://www.reddit.com/r/devops/comments/14ncige/comparing_sast_tools/) | firepower132 | 2 |
+| [Deployment for a customer](https://www.reddit.com/r/devops/comments/14nmgci/deployment_for_a_customer/) | openwidecomeinside | 1 |
+| [Docker Builder is very confusing](https://www.reddit.com/r/devops/comments/14nmyfe/docker_builder_is_very_confusing/) | newswatantraparty | 0 |
+| [DevOps as a career path for juniors](https://www.reddit.com/r/devops/comments/14nsozb/devops_as_a_career_path_for_juniors/) | PapoPiPopA | 0 |
