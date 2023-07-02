@@ -44,10 +44,7 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does writing documentation worsen job security](https://www.reddit.com/r/devops/comments/14n1fjz/does_writing_documentation_worsen_job_security/) | Blk-homie | 98 |
-| [How should this sub respond to reddit's api changes, part 2](https://www.reddit.com/r/devops/comments/14n6ghq/how_should_this_sub_respond_to_reddits_api/) | mthode | 5 |
-| [flux - helm - ingress-nginx](https://www.reddit.com/r/devops/comments/14nbf4p/flux_helm_ingressnginx/) | PoseidonTheAverage | 2 |
-| [Comparing SAST tools](https://www.reddit.com/r/devops/comments/14ncige/comparing_sast_tools/) | firepower132 | 2 |
-| [Deployment for a customer](https://www.reddit.com/r/devops/comments/14nmgci/deployment_for_a_customer/) | openwidecomeinside | 1 |
-| [Docker Builder is very confusing](https://www.reddit.com/r/devops/comments/14nmyfe/docker_builder_is_very_confusing/) | newswatantraparty | 0 |
-| [DevOps as a career path for juniors](https://www.reddit.com/r/devops/comments/14nsozb/devops_as_a_career_path_for_juniors/) | PapoPiPopA | 0 |
+| [Do DevOps Engineers make more than their managers?](https://www.reddit.com/r/devops/comments/14o31xc/do_devops_engineers_make_more_than_their_managers/) | SiurbliuMeistrs | 62 |
+| [Help choosing a brand new automation platform for our project](https://www.reddit.com/r/devops/comments/14nyyld/help_choosing_a_brand_new_automation_platform_for/) | castleking1810 | 4 |
+| [how do you get freelance devops jobs?](https://www.reddit.com/r/devops/comments/14ol4mi/how_do_you_get_freelance_devops_jobs/) | Ok_Side_6654 | 2 |
+| [Advice needed: when you must deploy to on-prem environments](https://www.reddit.com/r/devops/comments/14ollz4/advice_needed_when_you_must_deploy_to_onprem/) | engimere | 1 |
