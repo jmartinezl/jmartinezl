@@ -44,7 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do DevOps Engineers make more than their managers?](https://www.reddit.com/r/devops/comments/14o31xc/do_devops_engineers_make_more_than_their_managers/) | SiurbliuMeistrs | 62 |
-| [Help choosing a brand new automation platform for our project](https://www.reddit.com/r/devops/comments/14nyyld/help_choosing_a_brand_new_automation_platform_for/) | castleking1810 | 4 |
-| [how do you get freelance devops jobs?](https://www.reddit.com/r/devops/comments/14ol4mi/how_do_you_get_freelance_devops_jobs/) | Ok_Side_6654 | 2 |
-| [Advice needed: when you must deploy to on-prem environments](https://www.reddit.com/r/devops/comments/14ollz4/advice_needed_when_you_must_deploy_to_onprem/) | engimere | 1 |
+| [Does anyone here write tests for their CI/CD pipelines?](https://www.reddit.com/r/devops/comments/14p51es/does_anyone_here_write_tests_for_their_cicd/) | GGxSam | 41 |
+| [Any Devops engineers that write powershell code?](https://www.reddit.com/r/devops/comments/14p868f/any_devops_engineers_that_write_powershell_code/) | Ok_Hearing3804 | 29 |
+| [How to monitor prometheus without deploying more infra](https://www.reddit.com/r/devops/comments/14ougo5/how_to_monitor_prometheus_without_deploying_more/) | knitecrawler | 14 |
+| [SaaS vs SelfHost - At which breakpoint you realized its cheaper to self-host than to pay a license ?](https://www.reddit.com/r/devops/comments/14p3pp3/saas_vs_selfhost_at_which_breakpoint_you_realized/) | random_devops | 8 |
+| [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://www.reddit.com/r/devops/comments/14pf19v/goodbye_etcd_hello_postgresql_running_kubernetes/) | Am4t3uR | 6 |
+| [DORA metrics - how do you measure Lead Time for Changes ?](https://www.reddit.com/r/devops/comments/14p092d/dora_metrics_how_do_you_measure_lead_time_for/) | a555555 | 5 |
+| [Set of questions from ex-dev who want to switch to devops](https://www.reddit.com/r/devops/comments/14pg61y/set_of_questions_from_exdev_who_want_to_switch_to/) | hexwit | 4 |
+| [devops for beginner](https://www.reddit.com/r/devops/comments/14pchp9/devops_for_beginner/) | Ex_bhakt69 | 2 |
+| [DevOps Jobs US - Visa](https://www.reddit.com/r/devops/comments/14oovo6/devops_jobs_us_visa/) | SirChango | 1 |
+| [Tips to develop programming skills](https://www.reddit.com/r/devops/comments/14owojd/tips_to_develop_programming_skills/) | grannysquare16 | 0 |
