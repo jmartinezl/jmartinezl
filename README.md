@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does anyone here write tests for their CI/CD pipelines?](https://www.reddit.com/r/devops/comments/14p51es/does_anyone_here_write_tests_for_their_cicd/) | GGxSam | 41 |
-| [Any Devops engineers that write powershell code?](https://www.reddit.com/r/devops/comments/14p868f/any_devops_engineers_that_write_powershell_code/) | Ok_Hearing3804 | 29 |
-| [How to monitor prometheus without deploying more infra](https://www.reddit.com/r/devops/comments/14ougo5/how_to_monitor_prometheus_without_deploying_more/) | knitecrawler | 14 |
-| [SaaS vs SelfHost - At which breakpoint you realized its cheaper to self-host than to pay a license ?](https://www.reddit.com/r/devops/comments/14p3pp3/saas_vs_selfhost_at_which_breakpoint_you_realized/) | random_devops | 8 |
-| [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://www.reddit.com/r/devops/comments/14pf19v/goodbye_etcd_hello_postgresql_running_kubernetes/) | Am4t3uR | 6 |
-| [DORA metrics - how do you measure Lead Time for Changes ?](https://www.reddit.com/r/devops/comments/14p092d/dora_metrics_how_do_you_measure_lead_time_for/) | a555555 | 5 |
-| [Set of questions from ex-dev who want to switch to devops](https://www.reddit.com/r/devops/comments/14pg61y/set_of_questions_from_exdev_who_want_to_switch_to/) | hexwit | 4 |
-| [devops for beginner](https://www.reddit.com/r/devops/comments/14pchp9/devops_for_beginner/) | Ex_bhakt69 | 2 |
-| [DevOps Jobs US - Visa](https://www.reddit.com/r/devops/comments/14oovo6/devops_jobs_us_visa/) | SirChango | 1 |
-| [Tips to develop programming skills](https://www.reddit.com/r/devops/comments/14owojd/tips_to_develop_programming_skills/) | grannysquare16 | 0 |
+| [Going from Sr. back to to Mid Level](https://www.reddit.com/r/devops/comments/14pzr6v/going_from_sr_back_to_to_mid_level/) | Obj_Sea | 30 |
+| [DevOps for Small Businesses: How to Implement DevOps Practices on a Budget](https://www.reddit.com/r/devops/comments/14plwk8/devops_for_small_businesses_how_to_implement/) | SILexRaze | 30 |
+| [What is the best way to deploy Keycloak in HA mode in Kubernetes and is it hte best choice for self-hosted SSO?](https://www.reddit.com/r/devops/comments/14pi97c/what_is_the_best_way_to_deploy_keycloak_in_ha/) | jumperabg | 24 |
+| [Job Market Slow for anyone else? (US, Remote)](https://www.reddit.com/r/devops/comments/14pleuf/job_market_slow_for_anyone_else_us_remote/) | DrapedInVelvet | 22 |
+| [Improve my coding skill](https://www.reddit.com/r/devops/comments/14ppck9/improve_my_coding_skill/) | Destroychan | 14 |
+| [Simplify Node Exporter Deployment with Ansible](https://www.reddit.com/r/devops/comments/14pr1bk/simplify_node_exporter_deployment_with_ansible/) | tvojamatka | 9 |
+| [DevOps project ideas](https://www.reddit.com/r/devops/comments/14ph9vv/devops_project_ideas/) | embracing_athena | 4 |
+| [Where do you find new software for DevOps?](https://www.reddit.com/r/devops/comments/14q6brm/where_do_you_find_new_software_for_devops/) | ssowonny | 2 |
+| [Help needed with Jenkins and SonarQube integration](https://www.reddit.com/r/devops/comments/14qcwd7/help_needed_with_jenkins_and_sonarqube_integration/) | Barack_obameme | 2 |
+| [Best self hotsed api development environments alternative to postman](https://www.reddit.com/r/devops/comments/14q78fm/best_self_hotsed_api_development_environments/) | Neither_Wallaby_9033 | 2 |
