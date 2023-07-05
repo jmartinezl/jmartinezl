@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Going from Sr. back to to Mid Level](https://www.reddit.com/r/devops/comments/14pzr6v/going_from_sr_back_to_to_mid_level/) | Obj_Sea | 30 |
-| [DevOps for Small Businesses: How to Implement DevOps Practices on a Budget](https://www.reddit.com/r/devops/comments/14plwk8/devops_for_small_businesses_how_to_implement/) | SILexRaze | 30 |
-| [What is the best way to deploy Keycloak in HA mode in Kubernetes and is it hte best choice for self-hosted SSO?](https://www.reddit.com/r/devops/comments/14pi97c/what_is_the_best_way_to_deploy_keycloak_in_ha/) | jumperabg | 24 |
-| [Job Market Slow for anyone else? (US, Remote)](https://www.reddit.com/r/devops/comments/14pleuf/job_market_slow_for_anyone_else_us_remote/) | DrapedInVelvet | 22 |
-| [Improve my coding skill](https://www.reddit.com/r/devops/comments/14ppck9/improve_my_coding_skill/) | Destroychan | 14 |
-| [Simplify Node Exporter Deployment with Ansible](https://www.reddit.com/r/devops/comments/14pr1bk/simplify_node_exporter_deployment_with_ansible/) | tvojamatka | 9 |
-| [DevOps project ideas](https://www.reddit.com/r/devops/comments/14ph9vv/devops_project_ideas/) | embracing_athena | 4 |
-| [Where do you find new software for DevOps?](https://www.reddit.com/r/devops/comments/14q6brm/where_do_you_find_new_software_for_devops/) | ssowonny | 2 |
-| [Help needed with Jenkins and SonarQube integration](https://www.reddit.com/r/devops/comments/14qcwd7/help_needed_with_jenkins_and_sonarqube_integration/) | Barack_obameme | 2 |
-| [Best self hotsed api development environments alternative to postman](https://www.reddit.com/r/devops/comments/14q78fm/best_self_hotsed_api_development_environments/) | Neither_Wallaby_9033 | 2 |
+| [Why is this sub NSFW?](https://www.reddit.com/r/devops/comments/14qg9hb/why_is_this_sub_nsfw/) | k2718 | 65 |
+| [What do you guys use Ansible for?](https://www.reddit.com/r/devops/comments/14r3noc/what_do_you_guys_use_ansible_for/) | JuiceStyle | 21 |
+| [Should I trigger CI/CD pipeline on merge to master or PR to master?](https://www.reddit.com/r/devops/comments/14qfuck/should_i_trigger_cicd_pipeline_on_merge_to_master/) | JamieTartTuX5 | 17 |
+| [Direct vSphere access vs. Ansible vs. wrapping in custom service](https://www.reddit.com/r/devops/comments/14qe50e/direct_vsphere_access_vs_ansible_vs_wrapping_in/) | serverhorror | 14 |
+| [Which vulnerability scanner do you recommend?](https://www.reddit.com/r/devops/comments/14r1okk/which_vulnerability_scanner_do_you_recommend/) | Bitter_Farm_8321 | 10 |
+| [trying to work out what everything in my (small) fleet of build agents and IIS hosts does.](https://www.reddit.com/r/devops/comments/14qmn9n/trying_to_work_out_what_everything_in_my_small/) | queBurro | 3 |
+| [Monitoring incident endpoints](https://www.reddit.com/r/devops/comments/14r4ciz/monitoring_incident_endpoints/) | ing80nFU4r225KrEgEBP | 3 |
+| [Managing app configurations/properties with common resources](https://www.reddit.com/r/devops/comments/14qjslh/managing_app_configurationsproperties_with_common/) | recray0n | 2 |
+| [Azure DevOps migrate organization from tenant](https://www.reddit.com/r/devops/comments/14qgkal/azure_devops_migrate_organization_from_tenant/) | No_Butterfly_1888 | 2 |
+| [Why is 0.0.0.0 bad and whats the better practice?](https://www.reddit.com/r/devops/comments/14r5kxe/why_is_0000_bad_and_whats_the_better_practice/) | Barack_obameme | 1 |
