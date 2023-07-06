@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Why is this sub NSFW?](https://www.reddit.com/r/devops/comments/14qg9hb/why_is_this_sub_nsfw/) | k2718 | 65 |
-| [What do you guys use Ansible for?](https://www.reddit.com/r/devops/comments/14r3noc/what_do_you_guys_use_ansible_for/) | JuiceStyle | 21 |
-| [Should I trigger CI/CD pipeline on merge to master or PR to master?](https://www.reddit.com/r/devops/comments/14qfuck/should_i_trigger_cicd_pipeline_on_merge_to_master/) | JamieTartTuX5 | 17 |
-| [Direct vSphere access vs. Ansible vs. wrapping in custom service](https://www.reddit.com/r/devops/comments/14qe50e/direct_vsphere_access_vs_ansible_vs_wrapping_in/) | serverhorror | 14 |
-| [Which vulnerability scanner do you recommend?](https://www.reddit.com/r/devops/comments/14r1okk/which_vulnerability_scanner_do_you_recommend/) | Bitter_Farm_8321 | 10 |
-| [trying to work out what everything in my (small) fleet of build agents and IIS hosts does.](https://www.reddit.com/r/devops/comments/14qmn9n/trying_to_work_out_what_everything_in_my_small/) | queBurro | 3 |
-| [Monitoring incident endpoints](https://www.reddit.com/r/devops/comments/14r4ciz/monitoring_incident_endpoints/) | ing80nFU4r225KrEgEBP | 3 |
-| [Managing app configurations/properties with common resources](https://www.reddit.com/r/devops/comments/14qjslh/managing_app_configurationsproperties_with_common/) | recray0n | 2 |
-| [Azure DevOps migrate organization from tenant](https://www.reddit.com/r/devops/comments/14qgkal/azure_devops_migrate_organization_from_tenant/) | No_Butterfly_1888 | 2 |
-| [Why is 0.0.0.0 bad and whats the better practice?](https://www.reddit.com/r/devops/comments/14r5kxe/why_is_0000_bad_and_whats_the_better_practice/) | Barack_obameme | 1 |
+| [How did you developed Sr/architect skills?](https://www.reddit.com/r/devops/comments/14ry66r/how_did_you_developed_srarchitect_skills/) | WestTF900 | 18 |
+| [Dockerhub alternatives](https://www.reddit.com/r/devops/comments/14rsai6/dockerhub_alternatives/) | Zohandoce1 | 12 |
+| [Is this a Devops or backend developer role?](https://www.reddit.com/r/devops/comments/14rhcj2/is_this_a_devops_or_backend_developer_role/) | devmadops | 10 |
+| [Advanced Linux Course Recommendation](https://www.reddit.com/r/devops/comments/14rg7zw/advanced_linux_course_recommendation/) | embracing_athena | 10 |
+| [On-Prem Container Registry?](https://www.reddit.com/r/devops/comments/14rligq/onprem_container_registry/) | RootHouston | 9 |
+| [Need advice on career path ahead in DevOps](https://www.reddit.com/r/devops/comments/14ramtj/need_advice_on_career_path_ahead_in_devops/) | illuminati-penguin | 8 |
+| [Drowning in DevOps - Need Guidance](https://www.reddit.com/r/devops/comments/14r9mwr/drowning_in_devops_need_guidance/) | whippinoutdanina | 7 |
+| [Devops appliance: AWX or Puppet?](https://www.reddit.com/r/devops/comments/14s452r/devops_appliance_awx_or_puppet/) | Dirty_Punk42 | 2 |
+| [Recommended Event-Driven platform that also supports ChatOps?](https://www.reddit.com/r/devops/comments/14s31nk/recommended_eventdriven_platform_that_also/) | derdlok | 1 |
+| [Need help with setting up SLO for ArgoCD](https://www.reddit.com/r/devops/comments/14s4igs/need_help_with_setting_up_slo_for_argocd/) | psgmdub | 1 |
