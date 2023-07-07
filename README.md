@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How did you developed Sr/architect skills?](https://www.reddit.com/r/devops/comments/14ry66r/how_did_you_developed_srarchitect_skills/) | WestTF900 | 18 |
-| [Dockerhub alternatives](https://www.reddit.com/r/devops/comments/14rsai6/dockerhub_alternatives/) | Zohandoce1 | 12 |
-| [Is this a Devops or backend developer role?](https://www.reddit.com/r/devops/comments/14rhcj2/is_this_a_devops_or_backend_developer_role/) | devmadops | 10 |
-| [Advanced Linux Course Recommendation](https://www.reddit.com/r/devops/comments/14rg7zw/advanced_linux_course_recommendation/) | embracing_athena | 10 |
-| [On-Prem Container Registry?](https://www.reddit.com/r/devops/comments/14rligq/onprem_container_registry/) | RootHouston | 9 |
-| [Need advice on career path ahead in DevOps](https://www.reddit.com/r/devops/comments/14ramtj/need_advice_on_career_path_ahead_in_devops/) | illuminati-penguin | 8 |
-| [Drowning in DevOps - Need Guidance](https://www.reddit.com/r/devops/comments/14r9mwr/drowning_in_devops_need_guidance/) | whippinoutdanina | 7 |
-| [Devops appliance: AWX or Puppet?](https://www.reddit.com/r/devops/comments/14s452r/devops_appliance_awx_or_puppet/) | Dirty_Punk42 | 2 |
-| [Recommended Event-Driven platform that also supports ChatOps?](https://www.reddit.com/r/devops/comments/14s31nk/recommended_eventdriven_platform_that_also/) | derdlok | 1 |
-| [Need help with setting up SLO for ArgoCD](https://www.reddit.com/r/devops/comments/14s4igs/need_help_with_setting_up_slo_for_argocd/) | psgmdub | 1 |
+| [What ops knowledge gaps do devs have, and vice versa?](https://www.reddit.com/r/devops/comments/14sbus1/what_ops_knowledge_gaps_do_devs_have_and_vice/) | ImpostureTechAdmin | 71 |
+| [Is the RHCSA The best Linux Cert For Validating Informal Linux Experience?](https://www.reddit.com/r/devops/comments/14sqzu3/is_the_rhcsa_the_best_linux_cert_for_validating/) | I_need_to_argue | 20 |
+| [Flexibly run tasks inside your markdown files via the open-source Runme CLI](https://www.reddit.com/r/devops/comments/14siw0q/flexibly_run_tasks_inside_your_markdown_files_via/) | sourishkrout | 6 |
+| [I tried MRSK, 37signals container orchestration tool: here are my thoughts](https://www.reddit.com/r/devops/comments/14s945v/i_tried_mrsk_37signals_container_orchestration/) | tomasfern | 4 |
+| [Who is in charge of software supply chain security in your organisation?](https://www.reddit.com/r/devops/comments/14sbd7f/who_is_in_charge_of_software_supply_chain/) | whitew0lf | 2 |
+| [Rec for DevOps/SRE Resume writer](https://www.reddit.com/r/devops/comments/14shz9k/rec_for_devopssre_resume_writer/) | lemon_zhest | 2 |
+| [Productivity tools for a DevOps team?](https://www.reddit.com/r/devops/comments/14t04ku/productivity_tools_for_a_devops_team/) | AMGraduate564 | 2 |
+| [Manage a CI/CD pipeline on a local machine](https://www.reddit.com/r/devops/comments/14slhud/manage_a_cicd_pipeline_on_a_local_machine/) | sampreets3 | 2 |
+| [What's your experience with Scaleway?](https://www.reddit.com/r/devops/comments/14s9x6e/whats_your_experience_with_scaleway/) | ribtoks | 1 |
+| [What is the “ Dev “ of DevOps?](https://www.reddit.com/r/devops/comments/14sx1gs/what_is_the_dev_of_devops/) | Fearless-Mud-4656 | 1 |
