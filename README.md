@@ -44,13 +44,8 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What ops knowledge gaps do devs have, and vice versa?](https://www.reddit.com/r/devops/comments/14sbus1/what_ops_knowledge_gaps_do_devs_have_and_vice/) | ImpostureTechAdmin | 71 |
-| [Is the RHCSA The best Linux Cert For Validating Informal Linux Experience?](https://www.reddit.com/r/devops/comments/14sqzu3/is_the_rhcsa_the_best_linux_cert_for_validating/) | I_need_to_argue | 20 |
-| [Flexibly run tasks inside your markdown files via the open-source Runme CLI](https://www.reddit.com/r/devops/comments/14siw0q/flexibly_run_tasks_inside_your_markdown_files_via/) | sourishkrout | 6 |
-| [I tried MRSK, 37signals container orchestration tool: here are my thoughts](https://www.reddit.com/r/devops/comments/14s945v/i_tried_mrsk_37signals_container_orchestration/) | tomasfern | 4 |
-| [Who is in charge of software supply chain security in your organisation?](https://www.reddit.com/r/devops/comments/14sbd7f/who_is_in_charge_of_software_supply_chain/) | whitew0lf | 2 |
-| [Rec for DevOps/SRE Resume writer](https://www.reddit.com/r/devops/comments/14shz9k/rec_for_devopssre_resume_writer/) | lemon_zhest | 2 |
-| [Productivity tools for a DevOps team?](https://www.reddit.com/r/devops/comments/14t04ku/productivity_tools_for_a_devops_team/) | AMGraduate564 | 2 |
-| [Manage a CI/CD pipeline on a local machine](https://www.reddit.com/r/devops/comments/14slhud/manage_a_cicd_pipeline_on_a_local_machine/) | sampreets3 | 2 |
-| [What's your experience with Scaleway?](https://www.reddit.com/r/devops/comments/14s9x6e/whats_your_experience_with_scaleway/) | ribtoks | 1 |
-| [What is the “ Dev “ of DevOps?](https://www.reddit.com/r/devops/comments/14sx1gs/what_is_the_dev_of_devops/) | Fearless-Mud-4656 | 1 |
+| [Brendan Gregg's Linux Internals Maps](https://www.reddit.com/r/devops/comments/14td48h/brendan_greggs_linux_internals_maps/) | -lousyd | 77 |
+| [lab or no lab?](https://www.reddit.com/r/devops/comments/14tbn67/lab_or_no_lab/) | equisetopsida | 6 |
+| [How to keep web app console available?](https://www.reddit.com/r/devops/comments/14t5zn8/how_to_keep_web_app_console_available/) | LowLvlLiving | 6 |
+| [How/Where do you store your k8s commands?](https://www.reddit.com/r/devops/comments/14u1as4/howwhere_do_you_store_your_k8s_commands/) | magnus-caput | 1 |
+| [Provision Cloud from iOS](https://www.reddit.com/r/devops/comments/14thg84/provision_cloud_from_ios/) | artemkkk | 0 |
