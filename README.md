@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps is not for everyone](https://www.reddit.com/r/devops/comments/14uaxp8/devops_is_not_for_everyone/) | fban_fban | 110 |
-| [New job, new opportunity or is it?](https://www.reddit.com/r/devops/comments/14uabel/new_job_new_opportunity_or_is_it/) | mojokanojojo | 16 |
-| [What do you think of changing the TLS validity to 90 days](https://www.reddit.com/r/devops/comments/14ua9es/what_do_you_think_of_changing_the_tls_validity_to/) | IPv6forDogecoin | 13 |
-| [Women in DevOps, why so few?](https://www.reddit.com/r/devops/comments/14ur21j/women_in_devops_why_so_few/) | kjarkr | 3 |
-| [Devops as a career switch](https://www.reddit.com/r/devops/comments/14uti4h/devops_as_a_career_switch/) | prONoOB1004 | 3 |
-| [Sharing 50 Objective Type Questions on DevOps and CI/CD in AWS](https://www.reddit.com/r/devops/comments/14umuq2/sharing_50_objective_type_questions_on_devops_and/) | nkptcs | 1 |
-| [If you were hiring a DevOps Engineer skilled with Kubernetes, what interview questions would you ask?](https://www.reddit.com/r/devops/comments/14ul927/if_you_were_hiring_a_devops_engineer_skilled_with/) | Codestein | 1 |
-| [Chef Recipe Runlist Question](https://www.reddit.com/r/devops/comments/14uqghl/chef_recipe_runlist_question/) | DevOps_Noob1 | 1 |
-| [pr-agent - Open-source Tool to Generate Ai-based Code Reviews for Pull Requests](https://www.reddit.com/r/devops/comments/14us1m8/pragent_opensource_tool_to_generate_aibased_code/) | thumbsdrivesmecrazy | 0 |
-| [difference between api gateway and appwrite/firebase](https://www.reddit.com/r/devops/comments/14ua1zw/difference_between_api_gateway_and/) | Ok_Side_6654 | 0 |
+| [Do you folks use OKR? If so what for?](https://www.reddit.com/r/devops/comments/14v9etw/do_you_folks_use_okr_if_so_what_for/) | chub79 | 31 |
+| [Trolley - Multi Cloud K8s management system v0.5 just dropped](https://www.reddit.com/r/devops/comments/14vp1tv/trolley_multi_cloud_k8s_management_system_v05/) | pavelz | 11 |
+| [mirrord - Telepresence alternative](https://www.reddit.com/r/devops/comments/14vqgpv/mirrord_telepresence_alternative/) | eyalb181 | 7 |
+| [Where to go after Lead?](https://www.reddit.com/r/devops/comments/14vplyv/where_to_go_after_lead/) | fost3rnator | 4 |
+| [Docker security best practices](https://www.reddit.com/r/devops/comments/14vrgv7/docker_security_best_practices/) | Ogi_GM | 1 |
+| [Advice on a pipeline structure](https://www.reddit.com/r/devops/comments/14vpp69/advice_on_a_pipeline_structure/) | Dry-Profile8103 | 1 |
+| [Chef Help?](https://www.reddit.com/r/devops/comments/14vg1fb/chef_help/) | yanggang20202024 | 0 |
