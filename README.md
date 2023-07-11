@@ -44,10 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do you folks use OKR? If so what for?](https://www.reddit.com/r/devops/comments/14v9etw/do_you_folks_use_okr_if_so_what_for/) | chub79 | 31 |
-| [Trolley - Multi Cloud K8s management system v0.5 just dropped](https://www.reddit.com/r/devops/comments/14vp1tv/trolley_multi_cloud_k8s_management_system_v05/) | pavelz | 11 |
-| [mirrord - Telepresence alternative](https://www.reddit.com/r/devops/comments/14vqgpv/mirrord_telepresence_alternative/) | eyalb181 | 7 |
-| [Where to go after Lead?](https://www.reddit.com/r/devops/comments/14vplyv/where_to_go_after_lead/) | fost3rnator | 4 |
-| [Docker security best practices](https://www.reddit.com/r/devops/comments/14vrgv7/docker_security_best_practices/) | Ogi_GM | 1 |
-| [Advice on a pipeline structure](https://www.reddit.com/r/devops/comments/14vpp69/advice_on_a_pipeline_structure/) | Dry-Profile8103 | 1 |
-| [Chef Help?](https://www.reddit.com/r/devops/comments/14vg1fb/chef_help/) | yanggang20202024 | 0 |
+| [What are your most feared DevOps buzz words?](https://www.reddit.com/r/devops/comments/14vyaih/what_are_your_most_feared_devops_buzz_words/) | binarybrewery | 73 |
+| [What are some good Terraform scanning/linting tools?](https://www.reddit.com/r/devops/comments/14vz5s0/what_are_some_good_terraform_scanninglinting_tools/) | JuiceStyle | 15 |
+| [I keep hitting timeouts and wrong gateway in Grafana / Loki and not sure what's wrong](https://www.reddit.com/r/devops/comments/14w90ud/i_keep_hitting_timeouts_and_wrong_gateway_in/) | InconsiderableArse | 6 |
+| [Deploying Angular App to S3 and CloudFront with GitHub Actions](https://www.reddit.com/r/devops/comments/14wdz0e/deploying_angular_app_to_s3_and_cloudfront_with/) | prateekjaindev | 3 |
+| [How to use subdomain for IP Whitelist](https://www.reddit.com/r/devops/comments/14vwm9d/how_to_use_subdomain_for_ip_whitelist/) | HobbesDurden | 2 |
+| [[K8S] control plane to cluster communication](https://www.reddit.com/r/devops/comments/14vsj3m/k8s_control_plane_to_cluster_communication/) | webgtx | 1 |
+| [Laptop suggestions](https://www.reddit.com/r/devops/comments/14wj521/laptop_suggestions/) | mojokanojojo | 1 |
+| [How much does DevOps freelancer makes in Germany](https://www.reddit.com/r/devops/comments/14vxm24/how_much_does_devops_freelancer_makes_in_germany/) | kingindanord | 1 |
+| [How I can load-balance RDS replicas based upon CPU usage?](https://www.reddit.com/r/devops/comments/14vvclx/how_i_can_loadbalance_rds_replicas_based_upon_cpu/) | pc_magas | 1 |
+| [GitHub Orgs alternative for sharing non-org private code](https://www.reddit.com/r/devops/comments/14vseah/github_orgs_alternative_for_sharing_nonorg/) | cinode | 1 |
