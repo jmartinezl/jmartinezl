@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What are your most feared DevOps buzz words?](https://www.reddit.com/r/devops/comments/14vyaih/what_are_your_most_feared_devops_buzz_words/) | binarybrewery | 73 |
-| [What are some good Terraform scanning/linting tools?](https://www.reddit.com/r/devops/comments/14vz5s0/what_are_some_good_terraform_scanninglinting_tools/) | JuiceStyle | 15 |
-| [I keep hitting timeouts and wrong gateway in Grafana / Loki and not sure what's wrong](https://www.reddit.com/r/devops/comments/14w90ud/i_keep_hitting_timeouts_and_wrong_gateway_in/) | InconsiderableArse | 6 |
-| [Deploying Angular App to S3 and CloudFront with GitHub Actions](https://www.reddit.com/r/devops/comments/14wdz0e/deploying_angular_app_to_s3_and_cloudfront_with/) | prateekjaindev | 3 |
-| [How to use subdomain for IP Whitelist](https://www.reddit.com/r/devops/comments/14vwm9d/how_to_use_subdomain_for_ip_whitelist/) | HobbesDurden | 2 |
-| [[K8S] control plane to cluster communication](https://www.reddit.com/r/devops/comments/14vsj3m/k8s_control_plane_to_cluster_communication/) | webgtx | 1 |
-| [Laptop suggestions](https://www.reddit.com/r/devops/comments/14wj521/laptop_suggestions/) | mojokanojojo | 1 |
-| [How much does DevOps freelancer makes in Germany](https://www.reddit.com/r/devops/comments/14vxm24/how_much_does_devops_freelancer_makes_in_germany/) | kingindanord | 1 |
-| [How I can load-balance RDS replicas based upon CPU usage?](https://www.reddit.com/r/devops/comments/14vvclx/how_i_can_loadbalance_rds_replicas_based_upon_cpu/) | pc_magas | 1 |
-| [GitHub Orgs alternative for sharing non-org private code](https://www.reddit.com/r/devops/comments/14vseah/github_orgs_alternative_for_sharing_nonorg/) | cinode | 1 |
+| [Beginner trying to set up CI/CD pipeline for small team and deciding between GitLab, Jenkins, etc](https://www.reddit.com/r/devops/comments/14x5njs/beginner_trying_to_set_up_cicd_pipeline_for_small/) | CompetitionOk2693 | 46 |
+| [Seeking alternatives to StongDM](https://www.reddit.com/r/devops/comments/14xerxk/seeking_alternatives_to_stongdm/) | MalachiHauck | 23 |
+| [Five essential DevOps books you should be reading](https://www.reddit.com/r/devops/comments/14wvdlm/five_essential_devops_books_you_should_be_reading/) | Ok_Sea9395 | 22 |
+| [Is running devops at a big company really this much more insane than at smaller companies?](https://www.reddit.com/r/devops/comments/14xlzkg/is_running_devops_at_a_big_company_really_this/) | oud_sophistication42 | 21 |
+| [Data-driven CI/CD monitoring with pytest](https://www.reddit.com/r/devops/comments/14wsetr/datadriven_cicd_monitoring_with_pytest/) | itty-bitty-birdy-tb | 11 |
+| [gitlab self hosting feasibility](https://www.reddit.com/r/devops/comments/14x9f26/gitlab_self_hosting_feasibility/) | defcon54321 | 10 |
+| [I'm meeting up with an experienced devops engineer/architect tomorrow. What are some questions I should ask them to learn about the field and their experiences?](https://www.reddit.com/r/devops/comments/14xebkh/im_meeting_up_with_an_experienced_devops/) | JasonCheng54321 | 5 |
+| [How to track meta-information for docker images during deployments](https://www.reddit.com/r/devops/comments/14wsb47/how_to_track_metainformation_for_docker_images/) | briconaut | 4 |
+| [Multirepo trigger in azure devops](https://www.reddit.com/r/devops/comments/14xia33/multirepo_trigger_in_azure_devops/) | eyesniper12 | 2 |
+| [How often do you update Proxmox?](https://www.reddit.com/r/devops/comments/14xgwva/how_often_do_you_update_proxmox/) | mxcdh | 2 |
