@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Beginner trying to set up CI/CD pipeline for small team and deciding between GitLab, Jenkins, etc](https://www.reddit.com/r/devops/comments/14x5njs/beginner_trying_to_set_up_cicd_pipeline_for_small/) | CompetitionOk2693 | 46 |
-| [Seeking alternatives to StongDM](https://www.reddit.com/r/devops/comments/14xerxk/seeking_alternatives_to_stongdm/) | MalachiHauck | 23 |
-| [Five essential DevOps books you should be reading](https://www.reddit.com/r/devops/comments/14wvdlm/five_essential_devops_books_you_should_be_reading/) | Ok_Sea9395 | 22 |
-| [Is running devops at a big company really this much more insane than at smaller companies?](https://www.reddit.com/r/devops/comments/14xlzkg/is_running_devops_at_a_big_company_really_this/) | oud_sophistication42 | 21 |
-| [Data-driven CI/CD monitoring with pytest](https://www.reddit.com/r/devops/comments/14wsetr/datadriven_cicd_monitoring_with_pytest/) | itty-bitty-birdy-tb | 11 |
-| [gitlab self hosting feasibility](https://www.reddit.com/r/devops/comments/14x9f26/gitlab_self_hosting_feasibility/) | defcon54321 | 10 |
-| [I'm meeting up with an experienced devops engineer/architect tomorrow. What are some questions I should ask them to learn about the field and their experiences?](https://www.reddit.com/r/devops/comments/14xebkh/im_meeting_up_with_an_experienced_devops/) | JasonCheng54321 | 5 |
-| [How to track meta-information for docker images during deployments](https://www.reddit.com/r/devops/comments/14wsb47/how_to_track_metainformation_for_docker_images/) | briconaut | 4 |
-| [Multirepo trigger in azure devops](https://www.reddit.com/r/devops/comments/14xia33/multirepo_trigger_in_azure_devops/) | eyesniper12 | 2 |
-| [How often do you update Proxmox?](https://www.reddit.com/r/devops/comments/14xgwva/how_often_do_you_update_proxmox/) | mxcdh | 2 |
+| [How much of your time is spent in meetings vs hands on work?](https://www.reddit.com/r/devops/comments/14y2zjg/how_much_of_your_time_is_spent_in_meetings_vs/) | MaximumRecursion | 8 |
+| [Azure - Where are the batch pool's VMs allocated by default?](https://www.reddit.com/r/devops/comments/14yem4w/azure_where_are_the_batch_pools_vms_allocated_by/) | Acrobatic-Ad-6556 | 2 |
+| [what resources are good to learn grafana](https://www.reddit.com/r/devops/comments/14xwsju/what_resources_are_good_to_learn_grafana/) | Ok_Side_6654 | 1 |
+| [nextjs ui app configure at runtime in k8s question](https://www.reddit.com/r/devops/comments/14y7x5e/nextjs_ui_app_configure_at_runtime_in_k8s_question/) | Lonely-Butterfly5797 | 1 |
+| [Seeking Opinions on Better Stack Alternatives](https://www.reddit.com/r/devops/comments/14ygcmo/seeking_opinions_on_better_stack_alternatives/) | andrewderjack | 1 |
+| [Introducing PICNIC. A Config Notation Interpreter/Converter](https://www.reddit.com/r/devops/comments/14xssgw/introducing_picnic_a_config_notation/) | fabricio77p | 1 |
+| [Ephemeral k8s environments for e2e testing](https://www.reddit.com/r/devops/comments/14y7od7/ephemeral_k8s_environments_for_e2e_testing/) | ForSpareParts | 1 |
+| [Azure batch vms in unusable state](https://www.reddit.com/r/devops/comments/14ydyup/azure_batch_vms_in_unusable_state/) | Acrobatic-Ad-6556 | 1 |
+| [AWS/GCP/AZURE Certification?](https://www.reddit.com/r/devops/comments/14ygy4m/awsgcpazure_certification/) | rushithatsall | 1 |
+| [pr-agent - AI-based automated pull-request code reviews (open-source)](https://www.reddit.com/r/devops/comments/14xreqz/pragent_aibased_automated_pullrequest_code/) | thumbsdrivesmecrazy | 0 |
