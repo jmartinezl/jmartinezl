@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How much of your time is spent in meetings vs hands on work?](https://www.reddit.com/r/devops/comments/14y2zjg/how_much_of_your_time_is_spent_in_meetings_vs/) | MaximumRecursion | 8 |
-| [Azure - Where are the batch pool's VMs allocated by default?](https://www.reddit.com/r/devops/comments/14yem4w/azure_where_are_the_batch_pools_vms_allocated_by/) | Acrobatic-Ad-6556 | 2 |
-| [what resources are good to learn grafana](https://www.reddit.com/r/devops/comments/14xwsju/what_resources_are_good_to_learn_grafana/) | Ok_Side_6654 | 1 |
-| [nextjs ui app configure at runtime in k8s question](https://www.reddit.com/r/devops/comments/14y7x5e/nextjs_ui_app_configure_at_runtime_in_k8s_question/) | Lonely-Butterfly5797 | 1 |
-| [Seeking Opinions on Better Stack Alternatives](https://www.reddit.com/r/devops/comments/14ygcmo/seeking_opinions_on_better_stack_alternatives/) | andrewderjack | 1 |
-| [Introducing PICNIC. A Config Notation Interpreter/Converter](https://www.reddit.com/r/devops/comments/14xssgw/introducing_picnic_a_config_notation/) | fabricio77p | 1 |
-| [Ephemeral k8s environments for e2e testing](https://www.reddit.com/r/devops/comments/14y7od7/ephemeral_k8s_environments_for_e2e_testing/) | ForSpareParts | 1 |
-| [Azure batch vms in unusable state](https://www.reddit.com/r/devops/comments/14ydyup/azure_batch_vms_in_unusable_state/) | Acrobatic-Ad-6556 | 1 |
-| [AWS/GCP/AZURE Certification?](https://www.reddit.com/r/devops/comments/14ygy4m/awsgcpazure_certification/) | rushithatsall | 1 |
-| [pr-agent - AI-based automated pull-request code reviews (open-source)](https://www.reddit.com/r/devops/comments/14xreqz/pragent_aibased_automated_pullrequest_code/) | thumbsdrivesmecrazy | 0 |
+| [What are the differences between SRE, Platform Engineer, Infrastructure Engineer, Cloud Engineer &amp; DevOps Engineer?](https://www.reddit.com/r/devops/comments/14ys4uh/what_are_the_differences_between_sre_platform/) | Codestein | 84 |
+| [Software Engineers are taking over all DevOps / Cloud Engineering tasks... what do you see being the future of this field?](https://www.reddit.com/r/devops/comments/14ymkva/software_engineers_are_taking_over_all_devops/) | yabbagabbamappa | 83 |
+| [life after jira (on prem)](https://www.reddit.com/r/devops/comments/14z3grb/life_after_jira_on_prem/) | defcon54321 | 14 |
+| [Getting list of changed files in PR](https://www.reddit.com/r/devops/comments/14yyagf/getting_list_of_changed_files_in_pr/) | Apprehensive-Wheel18 | 3 |
+| [I am going a bit crazy.](https://www.reddit.com/r/devops/comments/14yvkur/i_am_going_a_bit_crazy/) | mimic751 | 2 |
+| [simple app for monitoring server log?](https://www.reddit.com/r/devops/comments/14ykiio/simple_app_for_monitoring_server_log/) | robokonk | 1 |
+| [Request for some advice - Powershell Azure DevOps?](https://www.reddit.com/r/devops/comments/14yz4k6/request_for_some_advice_powershell_azure_devops/) | sudocp | 1 |
+| [Fearless Tinkering with Nix](https://www.reddit.com/r/devops/comments/14yq3se/fearless_tinkering_with_nix/) | hkailahi | 1 |
+| [Building a Multi-Region Kubernetes Worker Nodes Cluster with Tailscale VPN](https://www.reddit.com/r/devops/comments/14zbyw7/building_a_multiregion_kubernetes_worker_nodes/) | bughunterx | 1 |
+| [Webinar: Embracing Declarative Provisioning and Observability in cloud environments](https://www.reddit.com/r/devops/comments/14yq07h/webinar_embracing_declarative_provisioning_and/) | PrathameshSonpatki | 0 |
