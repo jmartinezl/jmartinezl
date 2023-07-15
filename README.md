@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What are the differences between SRE, Platform Engineer, Infrastructure Engineer, Cloud Engineer &amp; DevOps Engineer?](https://www.reddit.com/r/devops/comments/14ys4uh/what_are_the_differences_between_sre_platform/) | Codestein | 84 |
-| [Software Engineers are taking over all DevOps / Cloud Engineering tasks... what do you see being the future of this field?](https://www.reddit.com/r/devops/comments/14ymkva/software_engineers_are_taking_over_all_devops/) | yabbagabbamappa | 83 |
-| [life after jira (on prem)](https://www.reddit.com/r/devops/comments/14z3grb/life_after_jira_on_prem/) | defcon54321 | 14 |
-| [Getting list of changed files in PR](https://www.reddit.com/r/devops/comments/14yyagf/getting_list_of_changed_files_in_pr/) | Apprehensive-Wheel18 | 3 |
-| [I am going a bit crazy.](https://www.reddit.com/r/devops/comments/14yvkur/i_am_going_a_bit_crazy/) | mimic751 | 2 |
-| [simple app for monitoring server log?](https://www.reddit.com/r/devops/comments/14ykiio/simple_app_for_monitoring_server_log/) | robokonk | 1 |
-| [Request for some advice - Powershell Azure DevOps?](https://www.reddit.com/r/devops/comments/14yz4k6/request_for_some_advice_powershell_azure_devops/) | sudocp | 1 |
-| [Fearless Tinkering with Nix](https://www.reddit.com/r/devops/comments/14yq3se/fearless_tinkering_with_nix/) | hkailahi | 1 |
-| [Building a Multi-Region Kubernetes Worker Nodes Cluster with Tailscale VPN](https://www.reddit.com/r/devops/comments/14zbyw7/building_a_multiregion_kubernetes_worker_nodes/) | bughunterx | 1 |
-| [Webinar: Embracing Declarative Provisioning and Observability in cloud environments](https://www.reddit.com/r/devops/comments/14yq07h/webinar_embracing_declarative_provisioning_and/) | PrathameshSonpatki | 0 |
+| [Screwed up bad… but was saved.](https://www.reddit.com/r/devops/comments/14zhtr9/screwed_up_bad_but_was_saved/) | Heavy-Celebration | 92 |
+| [Starting as a Jr.DevOps from a Help-Desk IT experience, anxious and lost.](https://www.reddit.com/r/devops/comments/14zfddz/starting_as_a_jrdevops_from_a_helpdesk_it/) | BungaJunga3028 | 32 |
+| [What are some cool things you’ve automated with Python?](https://www.reddit.com/r/devops/comments/14zhmvp/what_are_some_cool_things_youve_automated_with/) | Codestein | 12 |
+| [WAF Comparison Project](https://www.reddit.com/r/devops/comments/14zkhbt/waf_comparison_project/) | onirisapp | 10 |
+| [Seeking advice on how to handle a fragmented code base.](https://www.reddit.com/r/devops/comments/14zut0i/seeking_advice_on_how_to_handle_a_fragmented_code/) | Captain_Action_89 | 9 |
+| [What actual metrics do you use for DORA?](https://www.reddit.com/r/devops/comments/14zq4an/what_actual_metrics_do_you_use_for_dora/) | joegoober | 7 |
+| [Text based and drag and drop diagramming tool?](https://www.reddit.com/r/devops/comments/14zthrx/text_based_and_drag_and_drop_diagramming_tool/) | diamondaires | 3 |
+| [What to do when you’re really stuck?](https://www.reddit.com/r/devops/comments/14zms1t/what_to_do_when_youre_really_stuck/) | aihaode | 2 |
+| [NPM seems to be having some issues](https://www.reddit.com/r/devops/comments/14zrnm9/npm_seems_to_be_having_some_issues/) | mesamunefire | 2 |
+| [Chef Setup in MacOS Ventura](https://www.reddit.com/r/devops/comments/1500wn5/chef_setup_in_macos_ventura/) | DevOps_Noob1 | 2 |
