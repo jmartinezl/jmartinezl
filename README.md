@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Screwed up bad… but was saved.](https://www.reddit.com/r/devops/comments/14zhtr9/screwed_up_bad_but_was_saved/) | Heavy-Celebration | 92 |
-| [Starting as a Jr.DevOps from a Help-Desk IT experience, anxious and lost.](https://www.reddit.com/r/devops/comments/14zfddz/starting_as_a_jrdevops_from_a_helpdesk_it/) | BungaJunga3028 | 32 |
-| [What are some cool things you’ve automated with Python?](https://www.reddit.com/r/devops/comments/14zhmvp/what_are_some_cool_things_youve_automated_with/) | Codestein | 12 |
-| [WAF Comparison Project](https://www.reddit.com/r/devops/comments/14zkhbt/waf_comparison_project/) | onirisapp | 10 |
-| [Seeking advice on how to handle a fragmented code base.](https://www.reddit.com/r/devops/comments/14zut0i/seeking_advice_on_how_to_handle_a_fragmented_code/) | Captain_Action_89 | 9 |
-| [What actual metrics do you use for DORA?](https://www.reddit.com/r/devops/comments/14zq4an/what_actual_metrics_do_you_use_for_dora/) | joegoober | 7 |
-| [Text based and drag and drop diagramming tool?](https://www.reddit.com/r/devops/comments/14zthrx/text_based_and_drag_and_drop_diagramming_tool/) | diamondaires | 3 |
-| [What to do when you’re really stuck?](https://www.reddit.com/r/devops/comments/14zms1t/what_to_do_when_youre_really_stuck/) | aihaode | 2 |
-| [NPM seems to be having some issues](https://www.reddit.com/r/devops/comments/14zrnm9/npm_seems_to_be_having_some_issues/) | mesamunefire | 2 |
-| [Chef Setup in MacOS Ventura](https://www.reddit.com/r/devops/comments/1500wn5/chef_setup_in_macos_ventura/) | DevOps_Noob1 | 2 |
+| [State of the industry](https://www.reddit.com/r/devops/comments/150b4ck/state_of_the_industry/) | xagarth | 105 |
+| [Salary Sharing Thread July 2023](https://www.reddit.com/r/devops/comments/150dj8m/salary_sharing_thread_july_2023/) | notechmajor | 46 |
+| [What should you do if you want to make real money in tech? (slightly OT but i trust you guys)](https://www.reddit.com/r/devops/comments/150csbb/what_should_you_do_if_you_want_to_make_real_money/) | AemonQE | 10 |
+| [Recruiting DevOps Engineers in the US/Canada vs UK.](https://www.reddit.com/r/devops/comments/1511i57/recruiting_devops_engineers_in_the_uscanada_vs_uk/) | manyrootsofallevil | 6 |
+| [Advice for Improving Collaboration between DevOps and Development Teams](https://www.reddit.com/r/devops/comments/150jb43/advice_for_improving_collaboration_between_devops/) | Cultural-Pizza-1916 | 3 |
+| [How to secure certificates using http default golang client when making external API calls.](https://www.reddit.com/r/devops/comments/150nrsf/how_to_secure_certificates_using_http_default/) | tha_ghost_007 | 2 |
+| [Learn devops for web app](https://www.reddit.com/r/devops/comments/150axmi/learn_devops_for_web_app/) | netzure | 1 |
+| [good resources for release management](https://www.reddit.com/r/devops/comments/1514axk/good_resources_for_release_management/) | Psychological_Egg_85 | 0 |
+| [Automate all the things](https://www.reddit.com/r/devops/comments/150hoa6/automate_all_the_things/) | sanpino84 | 0 |
