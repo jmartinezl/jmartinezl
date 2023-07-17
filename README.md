@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [State of the industry](https://www.reddit.com/r/devops/comments/150b4ck/state_of_the_industry/) | xagarth | 105 |
-| [Salary Sharing Thread July 2023](https://www.reddit.com/r/devops/comments/150dj8m/salary_sharing_thread_july_2023/) | notechmajor | 46 |
-| [What should you do if you want to make real money in tech? (slightly OT but i trust you guys)](https://www.reddit.com/r/devops/comments/150csbb/what_should_you_do_if_you_want_to_make_real_money/) | AemonQE | 10 |
-| [Recruiting DevOps Engineers in the US/Canada vs UK.](https://www.reddit.com/r/devops/comments/1511i57/recruiting_devops_engineers_in_the_uscanada_vs_uk/) | manyrootsofallevil | 6 |
-| [Advice for Improving Collaboration between DevOps and Development Teams](https://www.reddit.com/r/devops/comments/150jb43/advice_for_improving_collaboration_between_devops/) | Cultural-Pizza-1916 | 3 |
-| [How to secure certificates using http default golang client when making external API calls.](https://www.reddit.com/r/devops/comments/150nrsf/how_to_secure_certificates_using_http_default/) | tha_ghost_007 | 2 |
-| [Learn devops for web app](https://www.reddit.com/r/devops/comments/150axmi/learn_devops_for_web_app/) | netzure | 1 |
-| [good resources for release management](https://www.reddit.com/r/devops/comments/1514axk/good_resources_for_release_management/) | Psychological_Egg_85 | 0 |
-| [Automate all the things](https://www.reddit.com/r/devops/comments/150hoa6/automate_all_the_things/) | sanpino84 | 0 |
+| [Can I switch from DevOps to SWE? Feel like I am pigeonholing myself and not advancing my career.](https://www.reddit.com/r/devops/comments/1518ntt/can_i_switch_from_devops_to_swe_feel_like_i_am/) | yabbagabbamappa | 57 |
+| [Making it better](https://www.reddit.com/r/devops/comments/151qd1q/making_it_better/) | HayabusaJack | 13 |
+| [How important are branch protections at new companies](https://www.reddit.com/r/devops/comments/151a09v/how_important_are_branch_protections_at_new/) | ML_Godzilla | 11 |
+| [Intern jobs application](https://www.reddit.com/r/devops/comments/1518qzs/intern_jobs_application/) | ANoOneYmouse | 5 |
+| [Need help creating custom fluentd / td-agent filter plugin](https://www.reddit.com/r/devops/comments/151vwsz/need_help_creating_custom_fluentd_tdagent_filter/) | JAWFTD | 2 |
+| [KCL programming language v0.5.0 is Coming — Better Language, Toolchain, Integrations for Cloud-Native and DevOps](https://www.reddit.com/r/devops/comments/151srqa/kcl_programming_language_v050_is_coming_better/) | Peefy- | 2 |
+| [FluxCD Helm Charts support or Kustimize helm charts support](https://www.reddit.com/r/devops/comments/151wz7u/fluxcd_helm_charts_support_or_kustimize_helm/) | kk17forever | 2 |
+| [Licensing for volunteers and outsourced](https://www.reddit.com/r/devops/comments/151yd6l/licensing_for_volunteers_and_outsourced/) | Excavator460 | 1 |
+| [Is switching into devops nowadays harder than ever due to the job market?](https://www.reddit.com/r/devops/comments/151z57r/is_switching_into_devops_nowadays_harder_than/) | level_126_programmer | 1 |
+| [CIS AWS Foundations Benchmark v2.0 - What changed since v1.5.0](https://www.reddit.com/r/devops/comments/151plco/cis_aws_foundations_benchmark_v20_what_changed/) | heldsteel7 | 1 |
