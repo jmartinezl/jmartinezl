@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Can I switch from DevOps to SWE? Feel like I am pigeonholing myself and not advancing my career.](https://www.reddit.com/r/devops/comments/1518ntt/can_i_switch_from_devops_to_swe_feel_like_i_am/) | yabbagabbamappa | 57 |
-| [Making it better](https://www.reddit.com/r/devops/comments/151qd1q/making_it_better/) | HayabusaJack | 13 |
-| [How important are branch protections at new companies](https://www.reddit.com/r/devops/comments/151a09v/how_important_are_branch_protections_at_new/) | ML_Godzilla | 11 |
-| [Intern jobs application](https://www.reddit.com/r/devops/comments/1518qzs/intern_jobs_application/) | ANoOneYmouse | 5 |
-| [Need help creating custom fluentd / td-agent filter plugin](https://www.reddit.com/r/devops/comments/151vwsz/need_help_creating_custom_fluentd_tdagent_filter/) | JAWFTD | 2 |
-| [KCL programming language v0.5.0 is Coming — Better Language, Toolchain, Integrations for Cloud-Native and DevOps](https://www.reddit.com/r/devops/comments/151srqa/kcl_programming_language_v050_is_coming_better/) | Peefy- | 2 |
-| [FluxCD Helm Charts support or Kustimize helm charts support](https://www.reddit.com/r/devops/comments/151wz7u/fluxcd_helm_charts_support_or_kustimize_helm/) | kk17forever | 2 |
-| [Licensing for volunteers and outsourced](https://www.reddit.com/r/devops/comments/151yd6l/licensing_for_volunteers_and_outsourced/) | Excavator460 | 1 |
-| [Is switching into devops nowadays harder than ever due to the job market?](https://www.reddit.com/r/devops/comments/151z57r/is_switching_into_devops_nowadays_harder_than/) | level_126_programmer | 1 |
-| [CIS AWS Foundations Benchmark v2.0 - What changed since v1.5.0](https://www.reddit.com/r/devops/comments/151plco/cis_aws_foundations_benchmark_v20_what_changed/) | heldsteel7 | 1 |
+| [What the hell is going on at GitLab?](https://www.reddit.com/r/devops/comments/152o4bb/what_the_hell_is_going_on_at_gitlab/) | rootbeerdan | 87 |
+| [Long time IT dog finally wants to learn new tricks](https://www.reddit.com/r/devops/comments/15263vw/long_time_it_dog_finally_wants_to_learn_new_tricks/) | urafishhead | 39 |
+| [Career Crossroads: Transitioning from QA to DevOps and Cloud - Seeking Insights and Suggestions](https://www.reddit.com/r/devops/comments/15294dg/career_crossroads_transitioning_from_qa_to_devops/) | Alpha_Supreme | 3 |
+| [What’s new in Terraform 1.5: declarative imports](https://www.reddit.com/r/devops/comments/152si06/whats_new_in_terraform_15_declarative_imports/) | kshirinkin | 2 |
+| [On-prem installation for customers](https://www.reddit.com/r/devops/comments/152r5i2/onprem_installation_for_customers/) | ButtleRumble | 2 |
+| [OAuth2 Proxy and API Calls with Bearer tokens](https://www.reddit.com/r/devops/comments/152d19e/oauth2_proxy_and_api_calls_with_bearer_tokens/) | QuarticSmile | 2 |
+| [Main difference between "Senior" and "Lead" DevOps Engineer](https://www.reddit.com/r/devops/comments/152sg85/main_difference_between_senior_and_lead_devops/) | NGSWIFT | 2 |
+| [Demystifying AWS ECS: DevOps Practices for the Modern Age](https://www.reddit.com/r/devops/comments/1525rde/demystifying_aws_ecs_devops_practices_for_the/) | swordfish444 | 2 |
+| [Best / safest method to automatically generate large amounts of e-mail test data?](https://www.reddit.com/r/devops/comments/152dslq/best_safest_method_to_automatically_generate/) | PwshUserLol719 | 2 |
+| [Need Advice on Using Nomad and K3s for a Microservice Project](https://www.reddit.com/r/devops/comments/152b9td/need_advice_on_using_nomad_and_k3s_for_a/) | Clasyc | 1 |
