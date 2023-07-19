@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What the hell is going on at GitLab?](https://www.reddit.com/r/devops/comments/152o4bb/what_the_hell_is_going_on_at_gitlab/) | rootbeerdan | 87 |
-| [Long time IT dog finally wants to learn new tricks](https://www.reddit.com/r/devops/comments/15263vw/long_time_it_dog_finally_wants_to_learn_new_tricks/) | urafishhead | 39 |
-| [Career Crossroads: Transitioning from QA to DevOps and Cloud - Seeking Insights and Suggestions](https://www.reddit.com/r/devops/comments/15294dg/career_crossroads_transitioning_from_qa_to_devops/) | Alpha_Supreme | 3 |
-| [What’s new in Terraform 1.5: declarative imports](https://www.reddit.com/r/devops/comments/152si06/whats_new_in_terraform_15_declarative_imports/) | kshirinkin | 2 |
-| [On-prem installation for customers](https://www.reddit.com/r/devops/comments/152r5i2/onprem_installation_for_customers/) | ButtleRumble | 2 |
-| [OAuth2 Proxy and API Calls with Bearer tokens](https://www.reddit.com/r/devops/comments/152d19e/oauth2_proxy_and_api_calls_with_bearer_tokens/) | QuarticSmile | 2 |
-| [Main difference between "Senior" and "Lead" DevOps Engineer](https://www.reddit.com/r/devops/comments/152sg85/main_difference_between_senior_and_lead_devops/) | NGSWIFT | 2 |
-| [Demystifying AWS ECS: DevOps Practices for the Modern Age](https://www.reddit.com/r/devops/comments/1525rde/demystifying_aws_ecs_devops_practices_for_the/) | swordfish444 | 2 |
-| [Best / safest method to automatically generate large amounts of e-mail test data?](https://www.reddit.com/r/devops/comments/152dslq/best_safest_method_to_automatically_generate/) | PwshUserLol719 | 2 |
-| [Need Advice on Using Nomad and K3s for a Microservice Project](https://www.reddit.com/r/devops/comments/152b9td/need_advice_on_using_nomad_and_k3s_for_a/) | Clasyc | 1 |
+| [Career anxiety](https://www.reddit.com/r/devops/comments/1532x7v/career_anxiety/) | dryday33 | 102 |
+| [Lied to about job - quit?](https://www.reddit.com/r/devops/comments/153iiv7/lied_to_about_job_quit/) | ReputationOrnery8214 | 27 |
+| [My TIL moment as I tried to use hostname spoofing on a HTTPS request](https://www.reddit.com/r/devops/comments/153frzg/my_til_moment_as_i_tried_to_use_hostname_spoofing/) | sathyabhat | 10 |
+| [Moving from devops into something non/less technical?](https://www.reddit.com/r/devops/comments/153186l/moving_from_devops_into_something_nonless/) | HazRi27 | 10 |
+| [Kubernetes operators hands-on](https://www.reddit.com/r/devops/comments/1532qgy/kubernetes_operators_handson/) | Spirited_Horror6603 | 8 |
+| [looking for recommandations on how to connect a LOT of separate AWS accounts, in a way that's manageable](https://www.reddit.com/r/devops/comments/1530wth/looking_for_recommandations_on_how_to_connect_a/) | 50f4f67e-3977-46f7 | 4 |
+| [What skills did you find hardest to learn?](https://www.reddit.com/r/devops/comments/153req8/what_skills_did_you_find_hardest_to_learn/) | ReverendLazarus | 4 |
+| [Assessing devops / Cloud engineer](https://www.reddit.com/r/devops/comments/153987z/assessing_devops_cloud_engineer/) | bigbird0525 | 4 |
+| [Is Ansible the right tool for the job when it comes to tasks like this?](https://www.reddit.com/r/devops/comments/153bf39/is_ansible_the_right_tool_for_the_job_when_it/) | TatsumakiSTORM | 3 |
+| [Webmesh: Yet another WireGuard mesh/VPN solution in Go](https://www.reddit.com/r/devops/comments/153pua2/webmesh_yet_another_wireguard_meshvpn_solution_in/) | jews4beer | 2 |
