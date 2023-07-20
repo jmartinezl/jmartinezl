@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Career anxiety](https://www.reddit.com/r/devops/comments/1532x7v/career_anxiety/) | dryday33 | 102 |
-| [Lied to about job - quit?](https://www.reddit.com/r/devops/comments/153iiv7/lied_to_about_job_quit/) | ReputationOrnery8214 | 27 |
-| [My TIL moment as I tried to use hostname spoofing on a HTTPS request](https://www.reddit.com/r/devops/comments/153frzg/my_til_moment_as_i_tried_to_use_hostname_spoofing/) | sathyabhat | 10 |
-| [Moving from devops into something non/less technical?](https://www.reddit.com/r/devops/comments/153186l/moving_from_devops_into_something_nonless/) | HazRi27 | 10 |
-| [Kubernetes operators hands-on](https://www.reddit.com/r/devops/comments/1532qgy/kubernetes_operators_handson/) | Spirited_Horror6603 | 8 |
-| [looking for recommandations on how to connect a LOT of separate AWS accounts, in a way that's manageable](https://www.reddit.com/r/devops/comments/1530wth/looking_for_recommandations_on_how_to_connect_a/) | 50f4f67e-3977-46f7 | 4 |
-| [What skills did you find hardest to learn?](https://www.reddit.com/r/devops/comments/153req8/what_skills_did_you_find_hardest_to_learn/) | ReverendLazarus | 4 |
-| [Assessing devops / Cloud engineer](https://www.reddit.com/r/devops/comments/153987z/assessing_devops_cloud_engineer/) | bigbird0525 | 4 |
-| [Is Ansible the right tool for the job when it comes to tasks like this?](https://www.reddit.com/r/devops/comments/153bf39/is_ansible_the_right_tool_for_the_job_when_it/) | TatsumakiSTORM | 3 |
-| [Webmesh: Yet another WireGuard mesh/VPN solution in Go](https://www.reddit.com/r/devops/comments/153pua2/webmesh_yet_another_wireguard_meshvpn_solution_in/) | jews4beer | 2 |
+| [How do you visualize CI/CD automation?](https://www.reddit.com/r/devops/comments/153zqtk/how_do_you_visualize_cicd_automation/) | ThePhoebius | 40 |
+| [Is your work tracked? Or does it consist of mostly consist of adhoc requests that aren't tracked?](https://www.reddit.com/r/devops/comments/154atpk/is_your_work_tracked_or_does_it_consist_of_mostly/) | Legitimate_Aside8035 | 31 |
+| [How to provide developers easy self service?](https://www.reddit.com/r/devops/comments/154gfpe/how_to_provide_developers_easy_self_service/) | davidbWI | 4 |
+| [Dealing with “stateful” resources in Terraform?](https://www.reddit.com/r/devops/comments/154efed/dealing_with_stateful_resources_in_terraform/) | MyWeirdThoughtz | 4 |
+| [Seeking suggestions for release with helm chart + k8s](https://www.reddit.com/r/devops/comments/153zf26/seeking_suggestions_for_release_with_helm_chart/) | No_Butterfly_1888 | 3 |
+| [How is the job situation in the US, for a GCP devops ?](https://www.reddit.com/r/devops/comments/153wclk/how_is_the_job_situation_in_the_us_for_a_gcp/) | warwarcar | 3 |
+| [Notion Based Error Logging](https://www.reddit.com/r/devops/comments/154462p/notion_based_error_logging/) | zxrooo | 2 |
+| [CI/CD process - how to build and upload same prod/qa/dev docker images?](https://www.reddit.com/r/devops/comments/154mo07/cicd_process_how_to_build_and_upload_same/) | AccomplishedComplex8 | 2 |
+| [What observability stack would you recommend for a seed stage startup?](https://www.reddit.com/r/devops/comments/154m1d2/what_observability_stack_would_you_recommend_for/) | __tac0 | 1 |
+| [Log Pulling](https://www.reddit.com/r/devops/comments/154k93u/log_pulling/) | Razmab | 1 |
