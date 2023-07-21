@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you visualize CI/CD automation?](https://www.reddit.com/r/devops/comments/153zqtk/how_do_you_visualize_cicd_automation/) | ThePhoebius | 40 |
-| [Is your work tracked? Or does it consist of mostly consist of adhoc requests that aren't tracked?](https://www.reddit.com/r/devops/comments/154atpk/is_your_work_tracked_or_does_it_consist_of_mostly/) | Legitimate_Aside8035 | 31 |
-| [How to provide developers easy self service?](https://www.reddit.com/r/devops/comments/154gfpe/how_to_provide_developers_easy_self_service/) | davidbWI | 4 |
-| [Dealing with “stateful” resources in Terraform?](https://www.reddit.com/r/devops/comments/154efed/dealing_with_stateful_resources_in_terraform/) | MyWeirdThoughtz | 4 |
-| [Seeking suggestions for release with helm chart + k8s](https://www.reddit.com/r/devops/comments/153zf26/seeking_suggestions_for_release_with_helm_chart/) | No_Butterfly_1888 | 3 |
-| [How is the job situation in the US, for a GCP devops ?](https://www.reddit.com/r/devops/comments/153wclk/how_is_the_job_situation_in_the_us_for_a_gcp/) | warwarcar | 3 |
-| [Notion Based Error Logging](https://www.reddit.com/r/devops/comments/154462p/notion_based_error_logging/) | zxrooo | 2 |
-| [CI/CD process - how to build and upload same prod/qa/dev docker images?](https://www.reddit.com/r/devops/comments/154mo07/cicd_process_how_to_build_and_upload_same/) | AccomplishedComplex8 | 2 |
-| [What observability stack would you recommend for a seed stage startup?](https://www.reddit.com/r/devops/comments/154m1d2/what_observability_stack_would_you_recommend_for/) | __tac0 | 1 |
-| [Log Pulling](https://www.reddit.com/r/devops/comments/154k93u/log_pulling/) | Razmab | 1 |
+| [Netdata released v1.41.0, with a completely new dashboard!](https://www.reddit.com/r/devops/comments/154qwai/netdata_released_v1410_with_a_completely_new/) | ktsaou | 57 |
+| [DevOps as a whole is really the Bat-Family, and the trick is figuring out which one you are - are you a Lucius Fox, an Alfred or a Batman?](https://www.reddit.com/r/devops/comments/155a43h/devops_as_a_whole_is_really_the_batfamily_and_the/) | Finagles_Law | 41 |
+| [Cloud-Radar: Test your Cloudformation templates locally without AWS Creds!](https://www.reddit.com/r/devops/comments/154u3ki/cloudradar_test_your_cloudformation_templates/) | shadycuz | 5 |
+| [Managing ArgoCD Application resources](https://www.reddit.com/r/devops/comments/154zyu3/managing_argocd_application_resources/) | Shinoken__ | 4 |
+| [Looking for a Teleport Alternative](https://www.reddit.com/r/devops/comments/155dw55/looking_for_a_teleport_alternative/) | microhunterd | 4 |
+| [KCL Programming Language + CI/CD GitOps Integration Reading List](https://www.reddit.com/r/devops/comments/155e1ou/kcl_programming_language_cicd_gitops_integration/) | Peefy- | 4 |
+| [Job orchestration on local infrastructure](https://www.reddit.com/r/devops/comments/154u4xw/job_orchestration_on_local_infrastructure/) | aleangel1212 | 3 |
+| [When to introduce cloud posture management tools?](https://www.reddit.com/r/devops/comments/1550rq0/when_to_introduce_cloud_posture_management_tools/) | Deku-shrub | 2 |
+| [Does DevOps Adaption now even matters to Companies?](https://www.reddit.com/r/devops/comments/155evni/does_devops_adaption_now_even_matters_to_companies/) | Steve_Dextor | 2 |
+| [What you are suggesting as tool for CI/CD on GitHub actions for different type of files or app?](https://www.reddit.com/r/devops/comments/154sg9e/what_you_are_suggesting_as_tool_for_cicd_on/) | PiratSaKariba | 1 |
