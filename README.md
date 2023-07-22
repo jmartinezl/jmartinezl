@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Netdata released v1.41.0, with a completely new dashboard!](https://www.reddit.com/r/devops/comments/154qwai/netdata_released_v1410_with_a_completely_new/) | ktsaou | 57 |
-| [DevOps as a whole is really the Bat-Family, and the trick is figuring out which one you are - are you a Lucius Fox, an Alfred or a Batman?](https://www.reddit.com/r/devops/comments/155a43h/devops_as_a_whole_is_really_the_batfamily_and_the/) | Finagles_Law | 41 |
-| [Cloud-Radar: Test your Cloudformation templates locally without AWS Creds!](https://www.reddit.com/r/devops/comments/154u3ki/cloudradar_test_your_cloudformation_templates/) | shadycuz | 5 |
-| [Managing ArgoCD Application resources](https://www.reddit.com/r/devops/comments/154zyu3/managing_argocd_application_resources/) | Shinoken__ | 4 |
-| [Looking for a Teleport Alternative](https://www.reddit.com/r/devops/comments/155dw55/looking_for_a_teleport_alternative/) | microhunterd | 4 |
-| [KCL Programming Language + CI/CD GitOps Integration Reading List](https://www.reddit.com/r/devops/comments/155e1ou/kcl_programming_language_cicd_gitops_integration/) | Peefy- | 4 |
-| [Job orchestration on local infrastructure](https://www.reddit.com/r/devops/comments/154u4xw/job_orchestration_on_local_infrastructure/) | aleangel1212 | 3 |
-| [When to introduce cloud posture management tools?](https://www.reddit.com/r/devops/comments/1550rq0/when_to_introduce_cloud_posture_management_tools/) | Deku-shrub | 2 |
-| [Does DevOps Adaption now even matters to Companies?](https://www.reddit.com/r/devops/comments/155evni/does_devops_adaption_now_even_matters_to_companies/) | Steve_Dextor | 2 |
-| [What you are suggesting as tool for CI/CD on GitHub actions for different type of files or app?](https://www.reddit.com/r/devops/comments/154sg9e/what_you_are_suggesting_as_tool_for_cicd_on/) | PiratSaKariba | 1 |
+| [Any Future for someone who just wants to log-in, do his job and log-out?](https://www.reddit.com/r/devops/comments/155qzzh/any_future_for_someone_who_just_wants_to_login_do/) | random_devops | 126 |
+| [GitHub down again 7/21/23](https://www.reddit.com/r/devops/comments/155oeef/github_down_again_72123/) | rolandofghent | 43 |
+| [As a devops engineer what would be a single good source of news?](https://www.reddit.com/r/devops/comments/155w43v/as_a_devops_engineer_what_would_be_a_single_good/) | Vonderchicken | 26 |
+| [GitHub actions and deployment on pull requests](https://www.reddit.com/r/devops/comments/1567g9p/github_actions_and_deployment_on_pull_requests/) | Future-Duck | 5 |
+| [Seeking advice on managing .env files in a PHP web app with GitHub Actions and AWS CodeDeploy](https://www.reddit.com/r/devops/comments/156e20q/seeking_advice_on_managing_env_files_in_a_php_web/) | Sogoku8 | 4 |
+| [Shadowing and mentoring at GitLab](https://www.reddit.com/r/devops/comments/155tq5t/shadowing_and_mentoring_at_gitlab/) | howie1001 | 3 |
+| [Looking for my first full-time - how long before I should worry?](https://www.reddit.com/r/devops/comments/155yha6/looking_for_my_first_fulltime_how_long_before_i/) | alienboy19 | 3 |
+| [Job Switch - DevOps Engr or Support Engr](https://www.reddit.com/r/devops/comments/1567auc/job_switch_devops_engr_or_support_engr/) | erwac | 3 |
+| [Scared about AWS billing as a beginner](https://www.reddit.com/r/devops/comments/155z0th/scared_about_aws_billing_as_a_beginner/) | GlitteringCalendar94 | 2 |
+| [How do I start with devops?](https://www.reddit.com/r/devops/comments/156gzrc/how_do_i_start_with_devops/) | Natural-Suspect8881 | 2 |
