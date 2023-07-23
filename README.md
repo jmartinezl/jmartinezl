@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Any Future for someone who just wants to log-in, do his job and log-out?](https://www.reddit.com/r/devops/comments/155qzzh/any_future_for_someone_who_just_wants_to_login_do/) | random_devops | 126 |
-| [GitHub down again 7/21/23](https://www.reddit.com/r/devops/comments/155oeef/github_down_again_72123/) | rolandofghent | 43 |
-| [As a devops engineer what would be a single good source of news?](https://www.reddit.com/r/devops/comments/155w43v/as_a_devops_engineer_what_would_be_a_single_good/) | Vonderchicken | 26 |
-| [GitHub actions and deployment on pull requests](https://www.reddit.com/r/devops/comments/1567g9p/github_actions_and_deployment_on_pull_requests/) | Future-Duck | 5 |
-| [Seeking advice on managing .env files in a PHP web app with GitHub Actions and AWS CodeDeploy](https://www.reddit.com/r/devops/comments/156e20q/seeking_advice_on_managing_env_files_in_a_php_web/) | Sogoku8 | 4 |
-| [Shadowing and mentoring at GitLab](https://www.reddit.com/r/devops/comments/155tq5t/shadowing_and_mentoring_at_gitlab/) | howie1001 | 3 |
-| [Looking for my first full-time - how long before I should worry?](https://www.reddit.com/r/devops/comments/155yha6/looking_for_my_first_fulltime_how_long_before_i/) | alienboy19 | 3 |
-| [Job Switch - DevOps Engr or Support Engr](https://www.reddit.com/r/devops/comments/1567auc/job_switch_devops_engr_or_support_engr/) | erwac | 3 |
-| [Scared about AWS billing as a beginner](https://www.reddit.com/r/devops/comments/155z0th/scared_about_aws_billing_as_a_beginner/) | GlitteringCalendar94 | 2 |
-| [How do I start with devops?](https://www.reddit.com/r/devops/comments/156gzrc/how_do_i_start_with_devops/) | Natural-Suspect8881 | 2 |
+| [OneUptime: Open Source StatusPage.io + UptimeRobot + PagerDuty alternative that you can self-host.](https://www.reddit.com/r/devops/comments/156qxly/oneuptime_open_source_statuspageio_uptimerobot/) | simlarsen | 59 |
+| [Can I use my DevOps knowledge by myself or do I need a team?](https://www.reddit.com/r/devops/comments/15707mi/can_i_use_my_devops_knowledge_by_myself_or_do_i/) | LeafChange | 6 |
+| [What problem do you consider to be the worst one regarding documentation in software projects?](https://www.reddit.com/r/devops/comments/156iwqn/what_problem_do_you_consider_to_be_the_worst_one/) | serban1313 | 4 |
+| [Pros/Cons of Secrets as CI Vars VS External-secrets and Vault](https://www.reddit.com/r/devops/comments/156tlv2/proscons_of_secrets_as_ci_vars_vs_externalsecrets/) | JuiceStyle | 4 |
+| [Software to create Grafana dashboards. Possible?](https://www.reddit.com/r/devops/comments/15767s5/software_to_create_grafana_dashboards_possible/) | No-Science112 | 3 |
+| [Release Notes - multiple repos](https://www.reddit.com/r/devops/comments/1577yl1/release_notes_multiple_repos/) | chocolate_buttons | 3 |
+| [Use PowerShell to maintain Linux servers instead of Bash?](https://www.reddit.com/r/devops/comments/156tn7q/use_powershell_to_maintain_linux_servers_instead/) | warrior242 | 0 |
+| [Got repo clone](https://www.reddit.com/r/devops/comments/156nik5/got_repo_clone/) | criminy90 | 0 |
