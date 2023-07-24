@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [OneUptime: Open Source StatusPage.io + UptimeRobot + PagerDuty alternative that you can self-host.](https://www.reddit.com/r/devops/comments/156qxly/oneuptime_open_source_statuspageio_uptimerobot/) | simlarsen | 59 |
-| [Can I use my DevOps knowledge by myself or do I need a team?](https://www.reddit.com/r/devops/comments/15707mi/can_i_use_my_devops_knowledge_by_myself_or_do_i/) | LeafChange | 6 |
-| [What problem do you consider to be the worst one regarding documentation in software projects?](https://www.reddit.com/r/devops/comments/156iwqn/what_problem_do_you_consider_to_be_the_worst_one/) | serban1313 | 4 |
-| [Pros/Cons of Secrets as CI Vars VS External-secrets and Vault](https://www.reddit.com/r/devops/comments/156tlv2/proscons_of_secrets_as_ci_vars_vs_externalsecrets/) | JuiceStyle | 4 |
-| [Software to create Grafana dashboards. Possible?](https://www.reddit.com/r/devops/comments/15767s5/software_to_create_grafana_dashboards_possible/) | No-Science112 | 3 |
-| [Release Notes - multiple repos](https://www.reddit.com/r/devops/comments/1577yl1/release_notes_multiple_repos/) | chocolate_buttons | 3 |
-| [Use PowerShell to maintain Linux servers instead of Bash?](https://www.reddit.com/r/devops/comments/156tn7q/use_powershell_to_maintain_linux_servers_instead/) | warrior242 | 0 |
-| [Got repo clone](https://www.reddit.com/r/devops/comments/156nik5/got_repo_clone/) | criminy90 | 0 |
+| [Beware of false sales from KodeKloud. Their "sale" price is higher than before](https://www.reddit.com/r/devops/comments/157yad2/beware_of_false_sales_from_kodekloud_their_sale/) | IamOkei | 38 |
+| [Apache APISIX without etcd](https://www.reddit.com/r/devops/comments/157iedd/apache_apisix_without_etcd/) | nfrankel | 14 |
+| [In GitFlow : Do you merge branches without closing them?](https://www.reddit.com/r/devops/comments/157wzm7/in_gitflow_do_you_merge_branches_without_closing/) | AwShix | 9 |
+| [I will be presenting a big overview of DevSecOps soon, and need help finding resources to refer to!](https://www.reddit.com/r/devops/comments/157r2yh/i_will_be_presenting_a_big_overview_of_devsecops/) | Willy988 | 7 |
+| [My Kubernetes workspace which makes Kubernetes management easy](https://www.reddit.com/r/devops/comments/1582j00/my_kubernetes_workspace_which_makes_kubernetes/) | Bluxmit | 3 |
+| [I'm about to enroll a DevOps traineeship, is this a bad choice for someone who just graduated?](https://www.reddit.com/r/devops/comments/157vk3i/im_about_to_enroll_a_devops_traineeship_is_this_a/) | CannotStopMeOnReddit | 1 |
+| [Do you have Project Managers? Are platform projects handled differently from code projects?](https://www.reddit.com/r/devops/comments/158750n/do_you_have_project_managers_are_platform/) | Finagles_Law | 1 |
+| [What’s a good course or resource to learn how to create a pipeline that instantiates the app on a domain for each PR?](https://www.reddit.com/r/devops/comments/157yhmk/whats_a_good_course_or_resource_to_learn_how_to/) | devpassion | 0 |
+| [No connection could be made because the target machine actively refused it](https://www.reddit.com/r/devops/comments/15806co/no_connection_could_be_made_because_the_target/) | Xie-Yilong | 0 |
+| [DevOps Online Training | DevOps Training](https://www.reddit.com/r/devops/comments/1588amm/devops_online_training_devops_training/) | Epaenetu_Peruka | 0 |
