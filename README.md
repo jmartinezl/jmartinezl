@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Beware of false sales from KodeKloud. Their "sale" price is higher than before](https://www.reddit.com/r/devops/comments/157yad2/beware_of_false_sales_from_kodekloud_their_sale/) | IamOkei | 38 |
-| [Apache APISIX without etcd](https://www.reddit.com/r/devops/comments/157iedd/apache_apisix_without_etcd/) | nfrankel | 14 |
-| [In GitFlow : Do you merge branches without closing them?](https://www.reddit.com/r/devops/comments/157wzm7/in_gitflow_do_you_merge_branches_without_closing/) | AwShix | 9 |
-| [I will be presenting a big overview of DevSecOps soon, and need help finding resources to refer to!](https://www.reddit.com/r/devops/comments/157r2yh/i_will_be_presenting_a_big_overview_of_devsecops/) | Willy988 | 7 |
-| [My Kubernetes workspace which makes Kubernetes management easy](https://www.reddit.com/r/devops/comments/1582j00/my_kubernetes_workspace_which_makes_kubernetes/) | Bluxmit | 3 |
-| [I'm about to enroll a DevOps traineeship, is this a bad choice for someone who just graduated?](https://www.reddit.com/r/devops/comments/157vk3i/im_about_to_enroll_a_devops_traineeship_is_this_a/) | CannotStopMeOnReddit | 1 |
-| [Do you have Project Managers? Are platform projects handled differently from code projects?](https://www.reddit.com/r/devops/comments/158750n/do_you_have_project_managers_are_platform/) | Finagles_Law | 1 |
-| [What’s a good course or resource to learn how to create a pipeline that instantiates the app on a domain for each PR?](https://www.reddit.com/r/devops/comments/157yhmk/whats_a_good_course_or_resource_to_learn_how_to/) | devpassion | 0 |
-| [No connection could be made because the target machine actively refused it](https://www.reddit.com/r/devops/comments/15806co/no_connection_could_be_made_because_the_target/) | Xie-Yilong | 0 |
-| [DevOps Online Training | DevOps Training](https://www.reddit.com/r/devops/comments/1588amm/devops_online_training_devops_training/) | Epaenetu_Peruka | 0 |
+| [Friend's company hiring Devops Engineer just to resolve low effort tickets.](https://www.reddit.com/r/devops/comments/158f6d3/friends_company_hiring_devops_engineer_just_to/) | mamakancha | 67 |
+| [Does this task looks reasonable for an interview? I was given this task to do at home, for a company I’m interviewing.](https://www.reddit.com/r/devops/comments/1590ds7/does_this_task_looks_reasonable_for_an_interview/) | ittookmeagestofind | 26 |
+| [What is your wildest deployment story?](https://www.reddit.com/r/devops/comments/158dws6/what_is_your_wildest_deployment_story/) | UmbracoCMS | 22 |
+| [Which log monitoring tool to use](https://www.reddit.com/r/devops/comments/158cfwa/which_log_monitoring_tool_to_use/) | GetFit_Messi | 11 |
+| [What is your incident management process at your company?](https://www.reddit.com/r/devops/comments/15958vf/what_is_your_incident_management_process_at_your/) | infamousRock | 3 |
+| [[Question] Reliable way of building image based distros for baremetal through containers?](https://www.reddit.com/r/devops/comments/1590x2f/question_reliable_way_of_building_image_based/) | GrabbenD | 2 |
+| [Jr cloud engineer/jr devops CV review](https://www.reddit.com/r/devops/comments/158l4n8/jr_cloud_engineerjr_devops_cv_review/) | NosferatuZ0d | 2 |
+| [Your current IAM principal doesn’t have access to Kubernetes objects on this cluster. (AWS EKS)](https://www.reddit.com/r/devops/comments/158va0p/your_current_iam_principal_doesnt_have_access_to/) | ashishjullia | 1 |
+| [Which is better for infrastructure terraform/tfcdf or other cloud specific sdks?](https://www.reddit.com/r/devops/comments/158rgm9/which_is_better_for_infrastructure_terraformtfcdf/) | ashishjullia | 1 |
+| [Tool to manage systemd processes across machines](https://www.reddit.com/r/devops/comments/15937fa/tool_to_manage_systemd_processes_across_machines/) | wannabe_rebel | 1 |
