@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Friend's company hiring Devops Engineer just to resolve low effort tickets.](https://www.reddit.com/r/devops/comments/158f6d3/friends_company_hiring_devops_engineer_just_to/) | mamakancha | 67 |
-| [Does this task looks reasonable for an interview? I was given this task to do at home, for a company I’m interviewing.](https://www.reddit.com/r/devops/comments/1590ds7/does_this_task_looks_reasonable_for_an_interview/) | ittookmeagestofind | 26 |
-| [What is your wildest deployment story?](https://www.reddit.com/r/devops/comments/158dws6/what_is_your_wildest_deployment_story/) | UmbracoCMS | 22 |
-| [Which log monitoring tool to use](https://www.reddit.com/r/devops/comments/158cfwa/which_log_monitoring_tool_to_use/) | GetFit_Messi | 11 |
-| [What is your incident management process at your company?](https://www.reddit.com/r/devops/comments/15958vf/what_is_your_incident_management_process_at_your/) | infamousRock | 3 |
-| [[Question] Reliable way of building image based distros for baremetal through containers?](https://www.reddit.com/r/devops/comments/1590x2f/question_reliable_way_of_building_image_based/) | GrabbenD | 2 |
-| [Jr cloud engineer/jr devops CV review](https://www.reddit.com/r/devops/comments/158l4n8/jr_cloud_engineerjr_devops_cv_review/) | NosferatuZ0d | 2 |
-| [Your current IAM principal doesn’t have access to Kubernetes objects on this cluster. (AWS EKS)](https://www.reddit.com/r/devops/comments/158va0p/your_current_iam_principal_doesnt_have_access_to/) | ashishjullia | 1 |
-| [Which is better for infrastructure terraform/tfcdf or other cloud specific sdks?](https://www.reddit.com/r/devops/comments/158rgm9/which_is_better_for_infrastructure_terraformtfcdf/) | ashishjullia | 1 |
-| [Tool to manage systemd processes across machines](https://www.reddit.com/r/devops/comments/15937fa/tool_to_manage_systemd_processes_across_machines/) | wannabe_rebel | 1 |
+| [As a Frontend dev getting into Devops, this has to be the most confusing role ever in a company](https://www.reddit.com/r/devops/comments/1598c00/as_a_frontend_dev_getting_into_devops_this_has_to/) | Beginning-Arm-1601 | 123 |
+| [The lame way that our company is trying to pass a "temporary" lay off](https://www.reddit.com/r/devops/comments/159ca9b/the_lame_way_that_our_company_is_trying_to_pass_a/) | Felix1178 | 20 |
+| [Ollama - a project to package and run large language models](https://www.reddit.com/r/devops/comments/159iebz/ollama_a_project_to_package_and_run_large/) | jmorganca | 8 |
+| [Mitigating Security Risks in a K8s based Container Infrastructure Hosting Service](https://www.reddit.com/r/devops/comments/159fedg/mitigating_security_risks_in_a_k8s_based/) | kingindanord | 2 |
+| [UTM versus cloud-init VMs (LIMA, Multipass, etc)](https://www.reddit.com/r/devops/comments/159z1xu/utm_versus_cloudinit_vms_lima_multipass_etc/) | Biog0d | 1 |
+| [Chart of type of release (major/minor)](https://www.reddit.com/r/devops/comments/159bnb6/chart_of_type_of_release_majorminor/) | the_lotus819 | 1 |
+| [Why are all the posts all self tagged/flagged as NSFW in this Reddit?](https://www.reddit.com/r/devops/comments/159sw0z/why_are_all_the_posts_all_self_taggedflagged_as/) | ashishjullia | 0 |
+| [Oracle cloud vs. Alibaba cloud](https://www.reddit.com/r/devops/comments/159z1gy/oracle_cloud_vs_alibaba_cloud/) | engimere | 0 |
+| [How to handle cloud-init in large environnement ?](https://www.reddit.com/r/devops/comments/15a2djg/how_to_handle_cloudinit_in_large_environnement/) | Zeiko-Fr | 0 |
+| [Amazon's Bias for Action](https://www.reddit.com/r/devops/comments/159ayhw/amazons_bias_for_action/) | Beneficial_Company_2 | 0 |
