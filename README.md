@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [As a Frontend dev getting into Devops, this has to be the most confusing role ever in a company](https://www.reddit.com/r/devops/comments/1598c00/as_a_frontend_dev_getting_into_devops_this_has_to/) | Beginning-Arm-1601 | 123 |
-| [The lame way that our company is trying to pass a "temporary" lay off](https://www.reddit.com/r/devops/comments/159ca9b/the_lame_way_that_our_company_is_trying_to_pass_a/) | Felix1178 | 20 |
-| [Ollama - a project to package and run large language models](https://www.reddit.com/r/devops/comments/159iebz/ollama_a_project_to_package_and_run_large/) | jmorganca | 8 |
-| [Mitigating Security Risks in a K8s based Container Infrastructure Hosting Service](https://www.reddit.com/r/devops/comments/159fedg/mitigating_security_risks_in_a_k8s_based/) | kingindanord | 2 |
-| [UTM versus cloud-init VMs (LIMA, Multipass, etc)](https://www.reddit.com/r/devops/comments/159z1xu/utm_versus_cloudinit_vms_lima_multipass_etc/) | Biog0d | 1 |
-| [Chart of type of release (major/minor)](https://www.reddit.com/r/devops/comments/159bnb6/chart_of_type_of_release_majorminor/) | the_lotus819 | 1 |
-| [Why are all the posts all self tagged/flagged as NSFW in this Reddit?](https://www.reddit.com/r/devops/comments/159sw0z/why_are_all_the_posts_all_self_taggedflagged_as/) | ashishjullia | 0 |
-| [Oracle cloud vs. Alibaba cloud](https://www.reddit.com/r/devops/comments/159z1gy/oracle_cloud_vs_alibaba_cloud/) | engimere | 0 |
-| [How to handle cloud-init in large environnement ?](https://www.reddit.com/r/devops/comments/15a2djg/how_to_handle_cloudinit_in_large_environnement/) | Zeiko-Fr | 0 |
-| [Amazon's Bias for Action](https://www.reddit.com/r/devops/comments/159ayhw/amazons_bias_for_action/) | Beneficial_Company_2 | 0 |
+| [According to Levels.fyi compensation report, DevOps Engineers have a median salary 22% lower than Site Reliability Engineers. Time for us to all change our titles over?](https://www.reddit.com/r/devops/comments/15alvge/according_to_levelsfyi_compensation_report_devops/) | donthaveacao | 64 |
+| [What does a DevOps Engineer do on a daily basis?](https://www.reddit.com/r/devops/comments/15afrw2/what_does_a_devops_engineer_do_on_a_daily_basis/) | bebaszna | 41 |
+| [Promotion to Sr. Eng upcoming. What salary should I negotiate for? Tips on tactics?](https://www.reddit.com/r/devops/comments/15a9ufu/promotion_to_sr_eng_upcoming_what_salary_should_i/) | _classname__spam | 40 |
+| [Gitlab CICD with runner+docker+did+insecure registry](https://www.reddit.com/r/devops/comments/15a7d54/gitlab_cicd_with_runnerdockerdidinsecure_registry/) | canyoufixmyspacebar | 7 |
+| [Backstage alternatives](https://www.reddit.com/r/devops/comments/15acjrc/backstage_alternatives/) | STGItsMe | 5 |
+| [npm error with azure self hosted agent](https://www.reddit.com/r/devops/comments/15a6mzi/npm_error_with_azure_self_hosted_agent/) | autodevops | 2 |
+| [docker error parsing HTTP 400 response body: unexpected end of JSON input: ""](https://www.reddit.com/r/devops/comments/15asqt8/docker_error_parsing_http_400_response_body/) | ncubez | 2 |
+| [[Question] Building container and VM images WITHOUT configuration management?](https://www.reddit.com/r/devops/comments/15aat51/question_building_container_and_vm_images_without/) | GrabbenD | 2 |
+| [Running benchmark script on GKE node](https://www.reddit.com/r/devops/comments/15a81ob/running_benchmark_script_on_gke_node/) | marathi_manus | 2 |
+| [Questions for the veterans](https://www.reddit.com/r/devops/comments/15aryxw/questions_for_the_veterans/) | Sure_Monitor_1055 | 2 |
