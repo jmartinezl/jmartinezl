@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [According to Levels.fyi compensation report, DevOps Engineers have a median salary 22% lower than Site Reliability Engineers. Time for us to all change our titles over?](https://www.reddit.com/r/devops/comments/15alvge/according_to_levelsfyi_compensation_report_devops/) | donthaveacao | 64 |
-| [What does a DevOps Engineer do on a daily basis?](https://www.reddit.com/r/devops/comments/15afrw2/what_does_a_devops_engineer_do_on_a_daily_basis/) | bebaszna | 41 |
-| [Promotion to Sr. Eng upcoming. What salary should I negotiate for? Tips on tactics?](https://www.reddit.com/r/devops/comments/15a9ufu/promotion_to_sr_eng_upcoming_what_salary_should_i/) | _classname__spam | 40 |
-| [Gitlab CICD with runner+docker+did+insecure registry](https://www.reddit.com/r/devops/comments/15a7d54/gitlab_cicd_with_runnerdockerdidinsecure_registry/) | canyoufixmyspacebar | 7 |
-| [Backstage alternatives](https://www.reddit.com/r/devops/comments/15acjrc/backstage_alternatives/) | STGItsMe | 5 |
-| [npm error with azure self hosted agent](https://www.reddit.com/r/devops/comments/15a6mzi/npm_error_with_azure_self_hosted_agent/) | autodevops | 2 |
-| [docker error parsing HTTP 400 response body: unexpected end of JSON input: ""](https://www.reddit.com/r/devops/comments/15asqt8/docker_error_parsing_http_400_response_body/) | ncubez | 2 |
-| [[Question] Building container and VM images WITHOUT configuration management?](https://www.reddit.com/r/devops/comments/15aat51/question_building_container_and_vm_images_without/) | GrabbenD | 2 |
-| [Running benchmark script on GKE node](https://www.reddit.com/r/devops/comments/15a81ob/running_benchmark_script_on_gke_node/) | marathi_manus | 2 |
-| [Questions for the veterans](https://www.reddit.com/r/devops/comments/15aryxw/questions_for_the_veterans/) | Sure_Monitor_1055 | 2 |
+| [The company just fired our Brent, how to plan ahead?](https://www.reddit.com/r/devops/comments/15b6t1s/the_company_just_fired_our_brent_how_to_plan_ahead/) | Snoopy-31 | 151 |
+| [What are some common mistakes DevOps practitioners make?](https://www.reddit.com/r/devops/comments/15bo41l/what_are_some_common_mistakes_devops/) | AwarenessCurious6820 | 24 |
+| [How does your company manage secrets?](https://www.reddit.com/r/devops/comments/15b9wuh/how_does_your_company_manage_secrets/) | DirectorDurian | 18 |
+| [Anyone considered Backstage.io but decided for/against it?](https://www.reddit.com/r/devops/comments/15bke0w/anyone_considered_backstageio_but_decided/) | yungbrubru | 8 |
+| [Trace-based Testing officially part of the OpenTelemetry Demo](https://www.reddit.com/r/devops/comments/15b68of/tracebased_testing_officially_part_of_the/) | adnanrahic | 5 |
+| [Is this considered telemetry?](https://www.reddit.com/r/devops/comments/15b85ra/is_this_considered_telemetry/) | mikeruchan | 5 |
+| [How important is it to have those '2 years' of experience from Junior to a mid level role?](https://www.reddit.com/r/devops/comments/15b3oze/how_important_is_it_to_have_those_2_years_of/) | ReverendRou | 5 |
+| [How can i come up with innovative solutions in the context of devops](https://www.reddit.com/r/devops/comments/15b1w5y/how_can_i_come_up_with_innovative_solutions_in/) | eyesniper12 | 3 |
+| [Datadog cost really high after a point?](https://www.reddit.com/r/devops/comments/15b0z7k/datadog_cost_really_high_after_a_point/) | lostcucumber | 3 |
+| [What are you looking for in a container orchestration tool?](https://www.reddit.com/r/devops/comments/15b6uaj/what_are_you_looking_for_in_a_container/) | XiovVTheSecond | 2 |
