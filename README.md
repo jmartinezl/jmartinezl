@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [The company just fired our Brent, how to plan ahead?](https://www.reddit.com/r/devops/comments/15b6t1s/the_company_just_fired_our_brent_how_to_plan_ahead/) | Snoopy-31 | 151 |
-| [What are some common mistakes DevOps practitioners make?](https://www.reddit.com/r/devops/comments/15bo41l/what_are_some_common_mistakes_devops/) | AwarenessCurious6820 | 24 |
-| [How does your company manage secrets?](https://www.reddit.com/r/devops/comments/15b9wuh/how_does_your_company_manage_secrets/) | DirectorDurian | 18 |
-| [Anyone considered Backstage.io but decided for/against it?](https://www.reddit.com/r/devops/comments/15bke0w/anyone_considered_backstageio_but_decided/) | yungbrubru | 8 |
-| [Trace-based Testing officially part of the OpenTelemetry Demo](https://www.reddit.com/r/devops/comments/15b68of/tracebased_testing_officially_part_of_the/) | adnanrahic | 5 |
-| [Is this considered telemetry?](https://www.reddit.com/r/devops/comments/15b85ra/is_this_considered_telemetry/) | mikeruchan | 5 |
-| [How important is it to have those '2 years' of experience from Junior to a mid level role?](https://www.reddit.com/r/devops/comments/15b3oze/how_important_is_it_to_have_those_2_years_of/) | ReverendRou | 5 |
-| [How can i come up with innovative solutions in the context of devops](https://www.reddit.com/r/devops/comments/15b1w5y/how_can_i_come_up_with_innovative_solutions_in/) | eyesniper12 | 3 |
-| [Datadog cost really high after a point?](https://www.reddit.com/r/devops/comments/15b0z7k/datadog_cost_really_high_after_a_point/) | lostcucumber | 3 |
-| [What are you looking for in a container orchestration tool?](https://www.reddit.com/r/devops/comments/15b6uaj/what_are_you_looking_for_in_a_container/) | XiovVTheSecond | 2 |
+| [waf comparison project - results](https://www.reddit.com/r/devops/comments/15cc4lc/waf_comparison_project_results/) | onirisapp | 28 |
+| [Is it reasonable to expect a devops expert to be proficient with Apache server optimization?](https://www.reddit.com/r/devops/comments/15c9lx1/is_it_reasonable_to_expect_a_devops_expert_to_be/) | Agitated_Writing_693 | 4 |
+| [DR Plan Template](https://www.reddit.com/r/devops/comments/15c92cx/dr_plan_template/) | AtlAWSConsultant | 2 |
+| [trying to do multi cluster Loki setup with mTLS](https://www.reddit.com/r/devops/comments/15bxn3c/trying_to_do_multi_cluster_loki_setup_with_mtls/) | minimalniemand | 1 |
+| [[request] a tool that will take in a lower api version and spit out yaml of another api version](https://www.reddit.com/r/devops/comments/15c8qg5/request_a_tool_that_will_take_in_a_lower_api/) | midlevelmybutt | 1 |
+| [Which software documentation challenge causes the most time and financial losses in your development process and project?](https://www.reddit.com/r/devops/comments/15cqix8/which_software_documentation_challenge_causes_the/) | serban1313 | 1 |
+| [datadog dash conference](https://www.reddit.com/r/devops/comments/15c38oa/datadog_dash_conference/) | m3dos | 0 |
+| [Which one do you suggest as a better API for Jenkins, Python or Javascript?](https://www.reddit.com/r/devops/comments/15c418w/which_one_do_you_suggest_as_a_better_api_for/) | saicharan0112 | 0 |
+| [Platform Engineering — A New Era.](https://www.reddit.com/r/devops/comments/15bz186/platform_engineering_a_new_era/) | netwengr | 0 |
+| [Easiest way to implement a search engine based on file content](https://www.reddit.com/r/devops/comments/15chew3/easiest_way_to_implement_a_search_engine_based_on/) | I_am_atree | 0 |
