@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [waf comparison project - results](https://www.reddit.com/r/devops/comments/15cc4lc/waf_comparison_project_results/) | onirisapp | 28 |
-| [Is it reasonable to expect a devops expert to be proficient with Apache server optimization?](https://www.reddit.com/r/devops/comments/15c9lx1/is_it_reasonable_to_expect_a_devops_expert_to_be/) | Agitated_Writing_693 | 4 |
-| [DR Plan Template](https://www.reddit.com/r/devops/comments/15c92cx/dr_plan_template/) | AtlAWSConsultant | 2 |
-| [trying to do multi cluster Loki setup with mTLS](https://www.reddit.com/r/devops/comments/15bxn3c/trying_to_do_multi_cluster_loki_setup_with_mtls/) | minimalniemand | 1 |
-| [[request] a tool that will take in a lower api version and spit out yaml of another api version](https://www.reddit.com/r/devops/comments/15c8qg5/request_a_tool_that_will_take_in_a_lower_api/) | midlevelmybutt | 1 |
-| [Which software documentation challenge causes the most time and financial losses in your development process and project?](https://www.reddit.com/r/devops/comments/15cqix8/which_software_documentation_challenge_causes_the/) | serban1313 | 1 |
-| [datadog dash conference](https://www.reddit.com/r/devops/comments/15c38oa/datadog_dash_conference/) | m3dos | 0 |
-| [Which one do you suggest as a better API for Jenkins, Python or Javascript?](https://www.reddit.com/r/devops/comments/15c418w/which_one_do_you_suggest_as_a_better_api_for/) | saicharan0112 | 0 |
-| [Platform Engineering — A New Era.](https://www.reddit.com/r/devops/comments/15bz186/platform_engineering_a_new_era/) | netwengr | 0 |
-| [Easiest way to implement a search engine based on file content](https://www.reddit.com/r/devops/comments/15chew3/easiest_way_to_implement_a_search_engine_based_on/) | I_am_atree | 0 |
+| [Career change due to not becoming devops guy](https://www.reddit.com/r/devops/comments/15ctz28/career_change_due_to_not_becoming_devops_guy/) | ak17hg | 49 |
+| [Azure DevOps Implementation](https://www.reddit.com/r/devops/comments/15dhfu9/azure_devops_implementation/) | TheCitrixGuy | 6 |
+| [DevOps Hourly Government Contracting Rate?](https://www.reddit.com/r/devops/comments/15d815k/devops_hourly_government_contracting_rate/) | FeatherDust11 | 5 |
+| [Common pipeline for practice](https://www.reddit.com/r/devops/comments/15ctsv1/common_pipeline_for_practice/) | jlijat | 4 |
+| [Anyone ever ignore pawn off even though it will trigger a customer complaint?](https://www.reddit.com/r/devops/comments/15cz393/anyone_ever_ignore_pawn_off_even_though_it_will/) | gerd50501 | 1 |
+| [[GitHub Actions] How should I include JSON objects in my workflow YAML file?](https://www.reddit.com/r/devops/comments/15dakr6/github_actions_how_should_i_include_json_objects/) | mccarthycodes | 0 |
+| [How to enable bidirectional mirroring for a github repo?](https://www.reddit.com/r/devops/comments/15d46ca/how_to_enable_bidirectional_mirroring_for_a/) | lynob | 0 |
