@@ -44,10 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Career change due to not becoming devops guy](https://www.reddit.com/r/devops/comments/15ctz28/career_change_due_to_not_becoming_devops_guy/) | ak17hg | 49 |
-| [Azure DevOps Implementation](https://www.reddit.com/r/devops/comments/15dhfu9/azure_devops_implementation/) | TheCitrixGuy | 6 |
-| [DevOps Hourly Government Contracting Rate?](https://www.reddit.com/r/devops/comments/15d815k/devops_hourly_government_contracting_rate/) | FeatherDust11 | 5 |
-| [Common pipeline for practice](https://www.reddit.com/r/devops/comments/15ctsv1/common_pipeline_for_practice/) | jlijat | 4 |
-| [Anyone ever ignore pawn off even though it will trigger a customer complaint?](https://www.reddit.com/r/devops/comments/15cz393/anyone_ever_ignore_pawn_off_even_though_it_will/) | gerd50501 | 1 |
-| [[GitHub Actions] How should I include JSON objects in my workflow YAML file?](https://www.reddit.com/r/devops/comments/15dakr6/github_actions_how_should_i_include_json_objects/) | mccarthycodes | 0 |
-| [How to enable bidirectional mirroring for a github repo?](https://www.reddit.com/r/devops/comments/15d46ca/how_to_enable_bidirectional_mirroring_for_a/) | lynob | 0 |
+| [Am I justified in feeling burnt out and/or is this standard for the position?](https://www.reddit.com/r/devops/comments/15dx0nj/am_i_justified_in_feeling_burnt_out_andor_is_this/) | randomgupy | 64 |
+| [Prometheus supports OpenTelemetry protocol (OTLP)](https://www.reddit.com/r/devops/comments/15ds4pa/prometheus_supports_opentelemetry_protocol_otlp/) | horovits | 32 |
+| [Saved more than 30% compute cost by switching to amd](https://www.reddit.com/r/devops/comments/15eb5e0/saved_more_than_30_compute_cost_by_switching_to/) | harryharpratap | 22 |
+| [Do i risk PIGEON holing my career if i stay in software/devops consulting?](https://www.reddit.com/r/devops/comments/15dzt9j/do_i_risk_pigeon_holing_my_career_if_i_stay_in/) | Lower-Junket7727 | 9 |
+| [Am I in over my head in a consulting gig?](https://www.reddit.com/r/devops/comments/15ea7w1/am_i_in_over_my_head_in_a_consulting_gig/) | Jatalocks2 | 6 |
+| [CNCF CNF WG Meeting from 2023-07-24](https://www.reddit.com/r/devops/comments/15ec827/cncf_cnf_wg_meeting_from_20230724/) | mtngs_io | 5 |
+| [AWS RDS Postgres DB engine version Upgrade (Pg13 - Pg14 - Pg15)](https://www.reddit.com/r/devops/comments/15e9em6/aws_rds_postgres_db_engine_version_upgrade_pg13/) | amaankhan4u | 2 |
+| [Should a tester be involved in DevOps?](https://www.reddit.com/r/devops/comments/15ebn19/should_a_tester_be_involved_in_devops/) | Olivy_Livy | 1 |
+| [OpenTelemetry for DevOps.](https://www.reddit.com/r/devops/comments/15ea4g6/opentelemetry_for_devops/) | pranabgohain | 1 |
+| [If my docker image is run with multiple container instances simultaneously and across multiple servers, how would you recommend handling logging?](https://www.reddit.com/r/devops/comments/15eb6np/if_my_docker_image_is_run_with_multiple_container/) | CompetitionOk2693 | 1 |
