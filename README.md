@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Am I justified in feeling burnt out and/or is this standard for the position?](https://www.reddit.com/r/devops/comments/15dx0nj/am_i_justified_in_feeling_burnt_out_andor_is_this/) | randomgupy | 64 |
-| [Prometheus supports OpenTelemetry protocol (OTLP)](https://www.reddit.com/r/devops/comments/15ds4pa/prometheus_supports_opentelemetry_protocol_otlp/) | horovits | 32 |
-| [Saved more than 30% compute cost by switching to amd](https://www.reddit.com/r/devops/comments/15eb5e0/saved_more_than_30_compute_cost_by_switching_to/) | harryharpratap | 22 |
-| [Do i risk PIGEON holing my career if i stay in software/devops consulting?](https://www.reddit.com/r/devops/comments/15dzt9j/do_i_risk_pigeon_holing_my_career_if_i_stay_in/) | Lower-Junket7727 | 9 |
-| [Am I in over my head in a consulting gig?](https://www.reddit.com/r/devops/comments/15ea7w1/am_i_in_over_my_head_in_a_consulting_gig/) | Jatalocks2 | 6 |
-| [CNCF CNF WG Meeting from 2023-07-24](https://www.reddit.com/r/devops/comments/15ec827/cncf_cnf_wg_meeting_from_20230724/) | mtngs_io | 5 |
-| [AWS RDS Postgres DB engine version Upgrade (Pg13 - Pg14 - Pg15)](https://www.reddit.com/r/devops/comments/15e9em6/aws_rds_postgres_db_engine_version_upgrade_pg13/) | amaankhan4u | 2 |
-| [Should a tester be involved in DevOps?](https://www.reddit.com/r/devops/comments/15ebn19/should_a_tester_be_involved_in_devops/) | Olivy_Livy | 1 |
-| [OpenTelemetry for DevOps.](https://www.reddit.com/r/devops/comments/15ea4g6/opentelemetry_for_devops/) | pranabgohain | 1 |
-| [If my docker image is run with multiple container instances simultaneously and across multiple servers, how would you recommend handling logging?](https://www.reddit.com/r/devops/comments/15eb6np/if_my_docker_image_is_run_with_multiple_container/) | CompetitionOk2693 | 1 |
+| [Aren't we 'just' senior sysadmins?](https://www.reddit.com/r/devops/comments/15enkbw/arent_we_just_senior_sysadmins/) | AemonQE | 36 |
+| [Production Jenkins has never been updated/backed up](https://www.reddit.com/r/devops/comments/15epkvw/production_jenkins_has_never_been_updatedbacked_up/) | DidItMatter | 16 |
+| [Any tips for mentoring junior devops engineer with confidence issues?](https://www.reddit.com/r/devops/comments/15etoh3/any_tips_for_mentoring_junior_devops_engineer/) | DastardMan | 16 |
+| [Learning Systemd With Unit Files and Also, What Happens When You sudo kill -9 init?](https://www.reddit.com/r/devops/comments/15ehdit/learning_systemd_with_unit_files_and_also_what/) | jjalletto | 12 |
+| [what are cdn's made of?](https://www.reddit.com/r/devops/comments/15f7uzr/what_are_cdns_made_of/) | randomized-reddit | 11 |
+| [Implementing GitOps using Github, Argo CD, and KCL to Simplify DevOps](https://www.reddit.com/r/devops/comments/15f0b0v/implementing_gitops_using_github_argo_cd_and_kcl/) | Peefy- | 9 |
+| [Current and future DevOps concerns](https://www.reddit.com/r/devops/comments/15f6n46/current_and_future_devops_concerns/) | United-Initiative-67 | 6 |
+| [New in Kubernetes 1.27: Query node logs using the kubelet API](https://www.reddit.com/r/devops/comments/15enrwx/new_in_kubernetes_127_query_node_logs_using_the/) | horovits | 3 |
+| [Understanding Nomad networking](https://www.reddit.com/r/devops/comments/15eetqa/understanding_nomad_networking/) | Allaman | 2 |
+| [Question About Deployments](https://www.reddit.com/r/devops/comments/15enef0/question_about_deployments/) | Coughdrip_ | 2 |
