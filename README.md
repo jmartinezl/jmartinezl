@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Has anyone in here ever created/pioneered a DevOps culture/team before?](https://www.reddit.com/r/devops/comments/15fvg9h/has_anyone_in_here_ever_createdpioneered_a_devops/) | Codestein | 38 |
-| [What should you do if everyone is treating you like Brent (in The Phoenix Project)?](https://www.reddit.com/r/devops/comments/15g4u8h/what_should_you_do_if_everyone_is_treating_you/) | IamOkei | 17 |
-| [Moving to IAM, RBAC, and Service Accounts for IAM but what about local dev?](https://www.reddit.com/r/devops/comments/15fiwzz/moving_to_iam_rbac_and_service_accounts_for_iam/) | WonFishTwoFish | 6 |
-| [The concept of a DevOps boot camp](https://www.reddit.com/r/devops/comments/15fpsaw/the_concept_of_a_devops_boot_camp/) | FinnaGetRichh | 3 |
-| [Export traces from datadog?](https://www.reddit.com/r/devops/comments/15fo0x9/export_traces_from_datadog/) | michael7795 | 1 |
-| [step by step labs practice for aws serverless app deployment using terraform using docker image](https://www.reddit.com/r/devops/comments/15fw4ny/step_by_step_labs_practice_for_aws_serverless_app/) | techgig_2007 | 0 |
-| [Why is datadog docker image so huge? 500mb compressed size](https://www.reddit.com/r/devops/comments/15fm6r0/why_is_datadog_docker_image_so_huge_500mb/) | raunchieska | 0 |
-| [Is there anyone who wants to contribute to our open-source tools?](https://www.reddit.com/r/devops/comments/15g5j5m/is_there_anyone_who_wants_to_contribute_to_our/) | luckysideburn2 | 0 |
-| [How do you connect from pipeline to resources? (Azure Pipeline)](https://www.reddit.com/r/devops/comments/15fjbou/how_do_you_connect_from_pipeline_to_resources/) | Johnny_BigHacker | 0 |
-| [Docker on Ubuntu is a mess](https://www.reddit.com/r/devops/comments/15fvjni/docker_on_ubuntu_is_a_mess/) | ncubez | 0 |
+| [Any tool that checks your SQL server and gives you recommendations?](https://www.reddit.com/r/devops/comments/15gm9d3/any_tool_that_checks_your_sql_server_and_gives/) | deadlambs | 25 |
+| [Is it bad to have microservices operate on the same database?](https://www.reddit.com/r/devops/comments/15gwscl/is_it_bad_to_have_microservices_operate_on_the/) | CompetitionOk2693 | 8 |
+| [Developing for complex environments](https://www.reddit.com/r/devops/comments/15gcwq1/developing_for_complex_environments/) | gcstr | 5 |
+| [How to associate OpenTelemetry trace/span ID to Google Cloud Logs?](https://www.reddit.com/r/devops/comments/15giob6/how_to_associate_opentelemetry_tracespan_id_to/) | gajus0 | 3 |
+| [Does kubeadm upgrades manifests?](https://www.reddit.com/r/devops/comments/15gv8b2/does_kubeadm_upgrades_manifests/) | EduMoga | 2 |
+| [Using AWS Managed Grafana with Timestream for Observability](https://www.reddit.com/r/devops/comments/15gj34w/using_aws_managed_grafana_with_timestream_for/) | networkninjainc | 1 |
+| [How to protect APIs with Kong Gateway and open-appsec](https://www.reddit.com/r/devops/comments/15gts5e/how_to_protect_apis_with_kong_gateway_and/) | onirisapp | 1 |
+| [Develop inside a container for easy developer onboarding](https://www.reddit.com/r/devops/comments/15gnux5/develop_inside_a_container_for_easy_developer/) | sanpino84 | 1 |
+| [AWS Inspector findings](https://www.reddit.com/r/devops/comments/15gaq6d/aws_inspector_findings/) | blank1993 | 1 |
+| [♾️ DevOps CI/CD Project with Jenkins, Ansible and Kubernetes(AKS) ♾️](https://www.reddit.com/r/devops/comments/15gzao6/devops_cicd_project_with_jenkins_ansible_and/) | ashfaque_9x | 0 |
