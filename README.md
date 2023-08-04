@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Any tool that checks your SQL server and gives you recommendations?](https://www.reddit.com/r/devops/comments/15gm9d3/any_tool_that_checks_your_sql_server_and_gives/) | deadlambs | 25 |
-| [Is it bad to have microservices operate on the same database?](https://www.reddit.com/r/devops/comments/15gwscl/is_it_bad_to_have_microservices_operate_on_the/) | CompetitionOk2693 | 8 |
-| [Developing for complex environments](https://www.reddit.com/r/devops/comments/15gcwq1/developing_for_complex_environments/) | gcstr | 5 |
-| [How to associate OpenTelemetry trace/span ID to Google Cloud Logs?](https://www.reddit.com/r/devops/comments/15giob6/how_to_associate_opentelemetry_tracespan_id_to/) | gajus0 | 3 |
-| [Does kubeadm upgrades manifests?](https://www.reddit.com/r/devops/comments/15gv8b2/does_kubeadm_upgrades_manifests/) | EduMoga | 2 |
-| [Using AWS Managed Grafana with Timestream for Observability](https://www.reddit.com/r/devops/comments/15gj34w/using_aws_managed_grafana_with_timestream_for/) | networkninjainc | 1 |
-| [How to protect APIs with Kong Gateway and open-appsec](https://www.reddit.com/r/devops/comments/15gts5e/how_to_protect_apis_with_kong_gateway_and/) | onirisapp | 1 |
-| [Develop inside a container for easy developer onboarding](https://www.reddit.com/r/devops/comments/15gnux5/develop_inside_a_container_for_easy_developer/) | sanpino84 | 1 |
-| [AWS Inspector findings](https://www.reddit.com/r/devops/comments/15gaq6d/aws_inspector_findings/) | blank1993 | 1 |
-| [♾️ DevOps CI/CD Project with Jenkins, Ansible and Kubernetes(AKS) ♾️](https://www.reddit.com/r/devops/comments/15gzao6/devops_cicd_project_with_jenkins_ansible_and/) | ashfaque_9x | 0 |
+| [Received a job offer for DevOps after an internship... unsure if I should take it](https://www.reddit.com/r/devops/comments/15hnc2m/received_a_job_offer_for_devops_after_an/) | Crafty-Difference-88 | 27 |
+| [Freelancing in DevOps. How was your experience?](https://www.reddit.com/r/devops/comments/15hs3dk/freelancing_in_devops_how_was_your_experience/) | NeroKnight07 | 25 |
+| [Which log forwarders/aggregators do you use?](https://www.reddit.com/r/devops/comments/15hd9s0/which_log_forwardersaggregators_do_you_use/) | Ok_World_4148 | 23 |
+| [OpenCensus is officially ARCHIVED as of this month](https://www.reddit.com/r/devops/comments/15h6p4a/opencensus_is_officially_archived_as_of_this_month/) | horovits | 9 |
+| [Work/work balance](https://www.reddit.com/r/devops/comments/15hv78i/workwork_balance/) | amarao_san | 4 |
+| [What is the best way to debug ECS service launch issues?](https://www.reddit.com/r/devops/comments/15h6kaz/what_is_the_best_way_to_debug_ecs_service_launch/) | ck_bishop | 4 |
+| [Adding change control to the app that wasn't built with it](https://www.reddit.com/r/devops/comments/15hdxwd/adding_change_control_to_the_app_that_wasnt_built/) | Gesha24 | 3 |
+| [first time joining mid sized company as a team lead - what would you start with?](https://www.reddit.com/r/devops/comments/15hunsq/first_time_joining_mid_sized_company_as_a_team/) | -abracadabra-- | 2 |
+| [Networking issue / question](https://www.reddit.com/r/devops/comments/15honh1/networking_issue_question/) | __markb | 2 |
+| [Grafana renderer help](https://www.reddit.com/r/devops/comments/15hgh9c/grafana_renderer_help/) | RedLightLink | 2 |
