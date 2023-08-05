@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Received a job offer for DevOps after an internship... unsure if I should take it](https://www.reddit.com/r/devops/comments/15hnc2m/received_a_job_offer_for_devops_after_an/) | Crafty-Difference-88 | 27 |
-| [Freelancing in DevOps. How was your experience?](https://www.reddit.com/r/devops/comments/15hs3dk/freelancing_in_devops_how_was_your_experience/) | NeroKnight07 | 25 |
-| [Which log forwarders/aggregators do you use?](https://www.reddit.com/r/devops/comments/15hd9s0/which_log_forwardersaggregators_do_you_use/) | Ok_World_4148 | 23 |
-| [OpenCensus is officially ARCHIVED as of this month](https://www.reddit.com/r/devops/comments/15h6p4a/opencensus_is_officially_archived_as_of_this_month/) | horovits | 9 |
-| [Work/work balance](https://www.reddit.com/r/devops/comments/15hv78i/workwork_balance/) | amarao_san | 4 |
-| [What is the best way to debug ECS service launch issues?](https://www.reddit.com/r/devops/comments/15h6kaz/what_is_the_best_way_to_debug_ecs_service_launch/) | ck_bishop | 4 |
-| [Adding change control to the app that wasn't built with it](https://www.reddit.com/r/devops/comments/15hdxwd/adding_change_control_to_the_app_that_wasnt_built/) | Gesha24 | 3 |
-| [first time joining mid sized company as a team lead - what would you start with?](https://www.reddit.com/r/devops/comments/15hunsq/first_time_joining_mid_sized_company_as_a_team/) | -abracadabra-- | 2 |
-| [Networking issue / question](https://www.reddit.com/r/devops/comments/15honh1/networking_issue_question/) | __markb | 2 |
-| [Grafana renderer help](https://www.reddit.com/r/devops/comments/15hgh9c/grafana_renderer_help/) | RedLightLink | 2 |
+| [Nervous About Starting A New Job - DevOPS - London](https://www.reddit.com/r/devops/comments/15i8oem/nervous_about_starting_a_new_job_devops_london/) | Kronsik | 32 |
+| [When your team updates your Terraform modules code?](https://www.reddit.com/r/devops/comments/15i0b9m/when_your_team_updates_your_terraform_modules_code/) | yeni84 | 10 |
+| [Any advice for my first Junior AWS devops role?](https://www.reddit.com/r/devops/comments/15i374h/any_advice_for_my_first_junior_aws_devops_role/) | MaximusIlI | 7 |
+| [What to learn as an Azure expert](https://www.reddit.com/r/devops/comments/15itaw9/what_to_learn_as_an_azure_expert/) | skinex11 | 5 |
+| [Track cross-repo compatibility](https://www.reddit.com/r/devops/comments/15i5gwc/track_crossrepo_compatibility/) | skinex11 | 2 |
+| [How do you deal with helm charts, repos and environmental values](https://www.reddit.com/r/devops/comments/15i02xh/how_do_you_deal_with_helm_charts_repos_and/) | 10xDevOps | 2 |
+| [1400+ Objective Type Questions on DevOps divided in 23 Online Exams: CI/CD, Git, Jenkins, Docker, Kubernetes, Ansible, Chef, Puppet, Jira and more...](https://www.reddit.com/r/devops/comments/15ijyrh/1400_objective_type_questions_on_devops_divided/) | nkptcs | 2 |
+| [Single Hashicorp Vault Database Secret Engine Role for Multiple Databases](https://www.reddit.com/r/devops/comments/15i4aa9/single_hashicorp_vault_database_secret_engine/) | Frequent_Gur_8648 | 1 |
+| [Push recently merged commits to other branches](https://www.reddit.com/r/devops/comments/15i4ky5/push_recently_merged_commits_to_other_branches/) | Arny597 | 1 |
+| [Advice on Shifting career from ServiceNow to DevOps](https://www.reddit.com/r/devops/comments/15io72o/advice_on_shifting_career_from_servicenow_to/) | mehant_kr | 1 |
