@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Nervous About Starting A New Job - DevOPS - London](https://www.reddit.com/r/devops/comments/15i8oem/nervous_about_starting_a_new_job_devops_london/) | Kronsik | 32 |
-| [When your team updates your Terraform modules code?](https://www.reddit.com/r/devops/comments/15i0b9m/when_your_team_updates_your_terraform_modules_code/) | yeni84 | 10 |
-| [Any advice for my first Junior AWS devops role?](https://www.reddit.com/r/devops/comments/15i374h/any_advice_for_my_first_junior_aws_devops_role/) | MaximusIlI | 7 |
-| [What to learn as an Azure expert](https://www.reddit.com/r/devops/comments/15itaw9/what_to_learn_as_an_azure_expert/) | skinex11 | 5 |
-| [Track cross-repo compatibility](https://www.reddit.com/r/devops/comments/15i5gwc/track_crossrepo_compatibility/) | skinex11 | 2 |
-| [How do you deal with helm charts, repos and environmental values](https://www.reddit.com/r/devops/comments/15i02xh/how_do_you_deal_with_helm_charts_repos_and/) | 10xDevOps | 2 |
-| [1400+ Objective Type Questions on DevOps divided in 23 Online Exams: CI/CD, Git, Jenkins, Docker, Kubernetes, Ansible, Chef, Puppet, Jira and more...](https://www.reddit.com/r/devops/comments/15ijyrh/1400_objective_type_questions_on_devops_divided/) | nkptcs | 2 |
-| [Single Hashicorp Vault Database Secret Engine Role for Multiple Databases](https://www.reddit.com/r/devops/comments/15i4aa9/single_hashicorp_vault_database_secret_engine/) | Frequent_Gur_8648 | 1 |
-| [Push recently merged commits to other branches](https://www.reddit.com/r/devops/comments/15i4ky5/push_recently_merged_commits_to_other_branches/) | Arny597 | 1 |
-| [Advice on Shifting career from ServiceNow to DevOps](https://www.reddit.com/r/devops/comments/15io72o/advice_on_shifting_career_from_servicenow_to/) | mehant_kr | 1 |
+| [Would SRE be a better fit for me?](https://www.reddit.com/r/devops/comments/15j70wb/would_sre_be_a_better_fit_for_me/) | PartemConsilio | 38 |
+| [Please comment on the quote that my boss said.](https://www.reddit.com/r/devops/comments/15j8bnc/please_comment_on_the_quote_that_my_boss_said/) | Top_Chocolate_4203 | 10 |
+| [What is chaos engineering?](https://www.reddit.com/r/devops/comments/15jm56s/what_is_chaos_engineering/) | valetudoo | 9 |
+| [Webmesh: Now with the ability to peer independent meshes](https://www.reddit.com/r/devops/comments/15j1tz7/webmesh_now_with_the_ability_to_peer_independent/) | jews4beer | 9 |
+| [CI/CD CDK?](https://www.reddit.com/r/devops/comments/15j7shu/cicd_cdk/) | ShiftShaper13 | 5 |
+| [Need advice on debugging intermittent failures of external internet connectivity from a cluster](https://www.reddit.com/r/devops/comments/15j9nvc/need_advice_on_debugging_intermittent_failures_of/) | ForSpareParts | 4 |
+| [Does AWS certs/courses actually prepare you for the job?](https://www.reddit.com/r/devops/comments/15jmf3f/does_aws_certscourses_actually_prepare_you_for/) | Lower_Fan | 3 |
+| [What data &amp; security compliances need to be considered for On-Prem vs Cloud Git hosting?](https://www.reddit.com/r/devops/comments/15jg27v/what_data_security_compliances_need_to_be/) | halos1518 | 2 |
+| [I have an idea for a large project. I am new to coding. Is it okay at all or a good idea to try to get others to help me develop it so I can learn along the way?](https://www.reddit.com/r/devops/comments/15jnkig/i_have_an_idea_for_a_large_project_i_am_new_to/) | SignalExternal4459 | 0 |
+| [HELP!!! Beginner in DevOps cloud engineering](https://www.reddit.com/r/devops/comments/15j33l2/help_beginner_in_devops_cloud_engineering/) | Parzival_snow | 0 |
