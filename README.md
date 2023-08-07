@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Would SRE be a better fit for me?](https://www.reddit.com/r/devops/comments/15j70wb/would_sre_be_a_better_fit_for_me/) | PartemConsilio | 38 |
-| [Please comment on the quote that my boss said.](https://www.reddit.com/r/devops/comments/15j8bnc/please_comment_on_the_quote_that_my_boss_said/) | Top_Chocolate_4203 | 10 |
-| [What is chaos engineering?](https://www.reddit.com/r/devops/comments/15jm56s/what_is_chaos_engineering/) | valetudoo | 9 |
-| [Webmesh: Now with the ability to peer independent meshes](https://www.reddit.com/r/devops/comments/15j1tz7/webmesh_now_with_the_ability_to_peer_independent/) | jews4beer | 9 |
-| [CI/CD CDK?](https://www.reddit.com/r/devops/comments/15j7shu/cicd_cdk/) | ShiftShaper13 | 5 |
-| [Need advice on debugging intermittent failures of external internet connectivity from a cluster](https://www.reddit.com/r/devops/comments/15j9nvc/need_advice_on_debugging_intermittent_failures_of/) | ForSpareParts | 4 |
-| [Does AWS certs/courses actually prepare you for the job?](https://www.reddit.com/r/devops/comments/15jmf3f/does_aws_certscourses_actually_prepare_you_for/) | Lower_Fan | 3 |
-| [What data &amp; security compliances need to be considered for On-Prem vs Cloud Git hosting?](https://www.reddit.com/r/devops/comments/15jg27v/what_data_security_compliances_need_to_be/) | halos1518 | 2 |
-| [I have an idea for a large project. I am new to coding. Is it okay at all or a good idea to try to get others to help me develop it so I can learn along the way?](https://www.reddit.com/r/devops/comments/15jnkig/i_have_an_idea_for_a_large_project_i_am_new_to/) | SignalExternal4459 | 0 |
-| [HELP!!! Beginner in DevOps cloud engineering](https://www.reddit.com/r/devops/comments/15j33l2/help_beginner_in_devops_cloud_engineering/) | Parzival_snow | 0 |
+| [Is ChatGPT the ultimate tool for programmers? or just a crutch?](https://www.reddit.com/r/devops/comments/15k1v5v/is_chatgpt_the_ultimate_tool_for_programmers_or/) | Rickety_cricket420 | 33 |
+| [[META] Do posts on reddit and here especially feel weird lately?](https://www.reddit.com/r/devops/comments/15kfqr5/meta_do_posts_on_reddit_and_here_especially_feel/) | lavahot | 11 |
+| [Grafana/Loki - performance issues?](https://www.reddit.com/r/devops/comments/15k0vqx/grafanaloki_performance_issues/) | otherlander00 | 8 |
+| [Best practice for executing docker commands in gitlab ci](https://www.reddit.com/r/devops/comments/15jr79t/best_practice_for_executing_docker_commands_in/) | learnamap | 5 |
+| [Sonarqube -- Keycloak -- SAML - Local Docker Setup](https://www.reddit.com/r/devops/comments/15jonb6/sonarqube_keycloak_saml_local_docker_setup/) | codeaprendiz | 4 |
+| [Why should I store containers in a private registry?](https://www.reddit.com/r/devops/comments/15kdggc/why_should_i_store_containers_in_a_private/) | CerealBit | 3 |
+| [Kubernetes bootcamp](https://www.reddit.com/r/devops/comments/15ked4k/kubernetes_bootcamp/) | Ok_Individual_8271 | 2 |
+| [career advice](https://www.reddit.com/r/devops/comments/15kdwhr/career_advice/) | MutedCan2332 | 1 |
+| [RDS MariaDB Audit Logs](https://www.reddit.com/r/devops/comments/15jph1t/rds_mariadb_audit_logs/) | Ftoy99 | 1 |
+| [Negotiation for new grad offer as a graduate student with 3+ years of prior relevant industry experience](https://www.reddit.com/r/devops/comments/15jss6g/negotiation_for_new_grad_offer_as_a_graduate/) | Lost_Concert8317 | 1 |
