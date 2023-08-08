@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is ChatGPT the ultimate tool for programmers? or just a crutch?](https://www.reddit.com/r/devops/comments/15k1v5v/is_chatgpt_the_ultimate_tool_for_programmers_or/) | Rickety_cricket420 | 33 |
-| [[META] Do posts on reddit and here especially feel weird lately?](https://www.reddit.com/r/devops/comments/15kfqr5/meta_do_posts_on_reddit_and_here_especially_feel/) | lavahot | 11 |
-| [Grafana/Loki - performance issues?](https://www.reddit.com/r/devops/comments/15k0vqx/grafanaloki_performance_issues/) | otherlander00 | 8 |
-| [Best practice for executing docker commands in gitlab ci](https://www.reddit.com/r/devops/comments/15jr79t/best_practice_for_executing_docker_commands_in/) | learnamap | 5 |
-| [Sonarqube -- Keycloak -- SAML - Local Docker Setup](https://www.reddit.com/r/devops/comments/15jonb6/sonarqube_keycloak_saml_local_docker_setup/) | codeaprendiz | 4 |
-| [Why should I store containers in a private registry?](https://www.reddit.com/r/devops/comments/15kdggc/why_should_i_store_containers_in_a_private/) | CerealBit | 3 |
-| [Kubernetes bootcamp](https://www.reddit.com/r/devops/comments/15ked4k/kubernetes_bootcamp/) | Ok_Individual_8271 | 2 |
-| [career advice](https://www.reddit.com/r/devops/comments/15kdwhr/career_advice/) | MutedCan2332 | 1 |
-| [RDS MariaDB Audit Logs](https://www.reddit.com/r/devops/comments/15jph1t/rds_mariadb_audit_logs/) | Ftoy99 | 1 |
-| [Negotiation for new grad offer as a graduate student with 3+ years of prior relevant industry experience](https://www.reddit.com/r/devops/comments/15jss6g/negotiation_for_new_grad_offer_as_a_graduate/) | Lost_Concert8317 | 1 |
+| [TIL “proc” is not a widely known or used word in real life.](https://www.reddit.com/r/devops/comments/15kpxqw/til_proc_is_not_a_widely_known_or_used_word_in/) | donthaveacao | 72 |
+| [Why we ship images not container?](https://www.reddit.com/r/devops/comments/15kpfqg/why_we_ship_images_not_container/) | Beneficial_News_7695 | 11 |
+| [[New to DevOps] Need some guidance](https://www.reddit.com/r/devops/comments/15ldrn3/new_to_devops_need_some_guidance/) | joyfulcyx | 3 |
+| [3 Ways to Accelerate Your Software Testing Life Cycle Analyzed - Shift Left Testing, Continuous Testing and Automation, Defects Prioritization](https://www.reddit.com/r/devops/comments/15lcr1j/3_ways_to_accelerate_your_software_testing_life/) | thumbsdrivesmecrazy | 3 |
+| [how to stop CONNECT calls incoming to apache2 server in AWS EC2?](https://www.reddit.com/r/devops/comments/15lg43d/how_to_stop_connect_calls_incoming_to_apache2/) | Gold-Yam3923 | 2 |
+| [Streaming development environment using Terraform, AWS EC2 and Ubuntu Linux](https://www.reddit.com/r/devops/comments/15kz8tq/streaming_development_environment_using_terraform/) | der-we-went | 2 |
+| [Locust.io and local domain ssl](https://www.reddit.com/r/devops/comments/15kuovs/locustio_and_local_domain_ssl/) | Dazzling-Ad-5403 | 2 |
+| [JDBC based Jailer Database Tools 15.1 released.](https://www.reddit.com/r/devops/comments/15kksmv/jdbc_based_jailer_database_tools_151_released/) | Plane-Discussion | 2 |
+| [Options for deploying many instances of a single container?](https://www.reddit.com/r/devops/comments/15kyqhe/options_for_deploying_many_instances_of_a_single/) | killingaristotle | 1 |
+| [Code reviews](https://www.reddit.com/r/devops/comments/15kxqo0/code_reviews/) | Jubacho | 1 |
