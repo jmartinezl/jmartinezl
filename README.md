@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does it make sense to dockerize a Windows service written in C++?](https://www.reddit.com/r/devops/comments/15lywrk/does_it_make_sense_to_dockerize_a_windows_service/) | deadlambs | 26 |
-| [How to reference Kubernetes secrets in a Helm chart's values.yaml](https://www.reddit.com/r/devops/comments/15lh8wq/how_to_reference_kubernetes_secrets_in_a_helm/) | hashing_512 | 17 |
-| [Ticket resource request in Jira?](https://www.reddit.com/r/devops/comments/15lq8m0/ticket_resource_request_in_jira/) | grlansky | 3 |
-| [nginx from beginner to pro (rahul soni) and nginx cookbook, are these books worth it to learn nginx? Or should I invest in udemy course](https://www.reddit.com/r/devops/comments/15m4kow/nginx_from_beginner_to_pro_rahul_soni_and_nginx/) | Playful-Ad6177 | 1 |
-| [Stateless servers and storage](https://www.reddit.com/r/devops/comments/15m92t9/stateless_servers_and_storage/) | plentifulfuture | 1 |
-| [How do you fix the unformated logs when you run docker-compose on git bash?](https://www.reddit.com/r/devops/comments/15lyz60/how_do_you_fix_the_unformated_logs_when_you_run/) | deadlambs | 1 |
-| [EU / Germany DevOps contracting market](https://www.reddit.com/r/devops/comments/15lovol/eu_germany_devops_contracting_market/) | Mamm0000th_A425_676 | 1 |
-| [An open source tool to detect and remediate GitHub/GitLab misconfigurations and security issues](https://www.reddit.com/r/devops/comments/15ltjjr/an_open_source_tool_to_detect_and_remediate/) | roy_6472 | 1 |
-| [¡¡MAÑANA 10-8 NUEVA ACTUALIZACIÓN!!](https://www.reddit.com/r/devops/comments/15md0bo/mañana_108_nueva_actualización/) | Enthariel-Games | 0 |
-| [[Starting Devops] AWS + Other DevOps Certifications](https://www.reddit.com/r/devops/comments/15m9fbq/starting_devops_aws_other_devops_certifications/) | SeraphicX8 | 0 |
+| [I want out](https://www.reddit.com/r/devops/comments/15mqkj6/i_want_out/) | evangamer9000 | 101 |
+| [What’s the biggest challenge you’ve encountered setting up a CI/CD pipeline?](https://www.reddit.com/r/devops/comments/15mngvu/whats_the_biggest_challenge_youve_encountered/) | UmbracoCMS | 42 |
+| [[Official] Salary Sharing thread for devops :: Aug 2023](https://www.reddit.com/r/devops/comments/15mxj11/official_salary_sharing_thread_for_devops_aug_2023/) | Chompy_99 | 28 |
+| [TL; TR Go 1.21 release highlights](https://www.reddit.com/r/devops/comments/15mfeqn/tl_tr_go_121_release_highlights/) | ygorth | 10 |
+| [What title do you give yourself if you don't have a degree?](https://www.reddit.com/r/devops/comments/15mua2i/what_title_do_you_give_yourself_if_you_dont_have/) | artielange84 | 7 |
+| [Recommendations for a junior ?](https://www.reddit.com/r/devops/comments/15mirbf/recommendations_for_a_junior/) | hiamanon1 | 5 |
+| [Scaling GitOps + Kustomize](https://www.reddit.com/r/devops/comments/15mez7s/scaling_gitops_kustomize/) | lon3wolfandcub | 4 |
+| [How to setup Nginx and Varnish reverse proxy for Node.js?](https://www.reddit.com/r/devops/comments/15mno6a/how_to_setup_nginx_and_varnish_reverse_proxy_for/) | Predaytor | 3 |
+| [How does your team handle PR reviews?](https://www.reddit.com/r/devops/comments/15n8ix5/how_does_your_team_handle_pr_reviews/) | Albininlp | 3 |
+| [Study Tips: How do you take and your organise notes?](https://www.reddit.com/r/devops/comments/15n9qzv/study_tips_how_do_you_take_and_your_organise_notes/) | Responsible_Gate_811 | 2 |
