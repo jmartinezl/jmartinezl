@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [HashiCorp adopts Business Source License](https://www.reddit.com/r/devops/comments/15nq283/hashicorp_adopts_business_source_license/) | rnmkrmn | 98 |
-| [Why do positions heavy in AWS seem to pay more than those in Azure?](https://www.reddit.com/r/devops/comments/15nes6m/why_do_positions_heavy_in_aws_seem_to_pay_more/) | PartemConsilio | 65 |
-| [SigNoz, the open-source DataDog alternative, released their visual query builder](https://www.reddit.com/r/devops/comments/15nj3h3/signoz_the_opensource_datadog_alternative/) | serverlessmom | 4 |
-| [Test Automation Frameworks with Infrastructure Testing? Are they mutually exclusive?](https://www.reddit.com/r/devops/comments/15nkyby/test_automation_frameworks_with_infrastructure/) | dugindeep | 2 |
-| [just a rookie seeks your advice !?](https://www.reddit.com/r/devops/comments/15o3uen/just_a_rookie_seeks_your_advice/) | Rawbee13 | 1 |
-| [Website Uptime Monitoring](https://www.reddit.com/r/devops/comments/15nf6ao/website_uptime_monitoring/) | AtlAWSConsultant | 1 |
-| [Standardize development setup (portal)](https://www.reddit.com/r/devops/comments/15nf9g9/standardize_development_setup_portal/) | emodemo1 | 1 |
-| [Requesting Feedback on One Devops Slide](https://www.reddit.com/r/devops/comments/15nujr2/requesting_feedback_on_one_devops_slide/) | Top-Difference8407 | 1 |
-| [On-prem vs Azure Cloud for .Net/Sql apps?](https://www.reddit.com/r/devops/comments/15nyg5e/onprem_vs_azure_cloud_for_netsql_apps/) | maniac_me | 1 |
-| [Explore the Power of Oracle Cloud Infrastructure Resource Manager!](https://www.reddit.com/r/devops/comments/15o4s16/explore_the_power_of_oracle_cloud_infrastructure/) | Sangwan70 | 1 |
+| [What am I?](https://www.reddit.com/r/devops/comments/15okm6f/what_am_i/) | jabraham-ch | 46 |
+| [IT wants everything whitelisted](https://www.reddit.com/r/devops/comments/15ou7k6/it_wants_everything_whitelisted/) | Mubs | 23 |
+| [I Want to Solve Real Problems and Gain Hands-On Experience](https://www.reddit.com/r/devops/comments/15o96yu/i_want_to_solve_real_problems_and_gain_handson/) | ronster2018 | 19 |
+| [VMware specialist seeking advice](https://www.reddit.com/r/devops/comments/15ogdau/vmware_specialist_seeking_advice/) | trendymission | 6 |
+| [Don't buy "Nehra classes" rhcsa linux course.](https://www.reddit.com/r/devops/comments/15ovir6/dont_buy_nehra_classes_rhcsa_linux_course/) | Playful-Ad6177 | 4 |
+| [Self-hosted Deploy Preview like Netlify](https://www.reddit.com/r/devops/comments/15og6er/selfhosted_deploy_preview_like_netlify/) | thana979 | 2 |
+| [Redis in production as docker container](https://www.reddit.com/r/devops/comments/15odwwc/redis_in_production_as_docker_container/) | greatdeveloper0 | 2 |
+| [Going independent contractor](https://www.reddit.com/r/devops/comments/15osvne/going_independent_contractor/) | ghbrown60640 | 2 |
+| [What to add on resume for fresher](https://www.reddit.com/r/devops/comments/15ouw68/what_to_add_on_resume_for_fresher/) | Greatest_inTheWorld | 1 |
+| [Speeding up PyTorch docker image](https://www.reddit.com/r/devops/comments/15oxotw/speeding_up_pytorch_docker_image/) | maxiedaniels | 1 |
