@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What am I?](https://www.reddit.com/r/devops/comments/15okm6f/what_am_i/) | jabraham-ch | 46 |
-| [IT wants everything whitelisted](https://www.reddit.com/r/devops/comments/15ou7k6/it_wants_everything_whitelisted/) | Mubs | 23 |
-| [I Want to Solve Real Problems and Gain Hands-On Experience](https://www.reddit.com/r/devops/comments/15o96yu/i_want_to_solve_real_problems_and_gain_handson/) | ronster2018 | 19 |
-| [VMware specialist seeking advice](https://www.reddit.com/r/devops/comments/15ogdau/vmware_specialist_seeking_advice/) | trendymission | 6 |
-| [Don't buy "Nehra classes" rhcsa linux course.](https://www.reddit.com/r/devops/comments/15ovir6/dont_buy_nehra_classes_rhcsa_linux_course/) | Playful-Ad6177 | 4 |
-| [Self-hosted Deploy Preview like Netlify](https://www.reddit.com/r/devops/comments/15og6er/selfhosted_deploy_preview_like_netlify/) | thana979 | 2 |
-| [Redis in production as docker container](https://www.reddit.com/r/devops/comments/15odwwc/redis_in_production_as_docker_container/) | greatdeveloper0 | 2 |
-| [Going independent contractor](https://www.reddit.com/r/devops/comments/15osvne/going_independent_contractor/) | ghbrown60640 | 2 |
-| [What to add on resume for fresher](https://www.reddit.com/r/devops/comments/15ouw68/what_to_add_on_resume_for_fresher/) | Greatest_inTheWorld | 1 |
-| [Speeding up PyTorch docker image](https://www.reddit.com/r/devops/comments/15oxotw/speeding_up_pytorch_docker_image/) | maxiedaniels | 1 |
+| [AWS single mindedness annoys me. Am I just old?](https://www.reddit.com/r/devops/comments/15p46oy/aws_single_mindedness_annoys_me_am_i_just_old/) | devfuckedup | 88 |
+| [Company doesn’t use containers nor cloud agnostic solutions](https://www.reddit.com/r/devops/comments/15pj360/company_doesnt_use_containers_nor_cloud_agnostic/) | AzuriteAzul | 42 |
+| [KodeKloud Subscription: What courses would you recommend doing?](https://www.reddit.com/r/devops/comments/15paksa/kodekloud_subscription_what_courses_would_you/) | Appropriate_Tell3714 | 4 |
+| [How to pick AWS services for a large application](https://www.reddit.com/r/devops/comments/15psf0p/how_to_pick_aws_services_for_a_large_application/) | FiveShadesOfBlue | 3 |
+| [Is this possible in Github Actions?](https://www.reddit.com/r/devops/comments/15pcx7t/is_this_possible_in_github_actions/) | americancontrol | 2 |
+| [Weirdest issue of my career](https://www.reddit.com/r/devops/comments/15pwjfo/weirdest_issue_of_my_career/) | imbeback | 1 |
+| [Managing Development Environments](https://www.reddit.com/r/devops/comments/15pih45/managing_development_environments/) | Outrageous_Taro_5733 | 1 |
+| [How to block public access of a specific path on a standard v2 azure application gateway?](https://www.reddit.com/r/devops/comments/15pud4a/how_to_block_public_access_of_a_specific_path_on/) | Lonesome_bday | 1 |
+| [Certification/continuous learning](https://www.reddit.com/r/devops/comments/15p852m/certificationcontinuous_learning/) | Paterwin | 1 |
+| [Suddenly getting VM agent not ready, can’t connect](https://www.reddit.com/r/devops/comments/15p8jda/suddenly_getting_vm_agent_not_ready_cant_connect/) | maxiedaniels | 0 |
