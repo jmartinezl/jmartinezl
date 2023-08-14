@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [AWS single mindedness annoys me. Am I just old?](https://www.reddit.com/r/devops/comments/15p46oy/aws_single_mindedness_annoys_me_am_i_just_old/) | devfuckedup | 88 |
-| [Company doesn’t use containers nor cloud agnostic solutions](https://www.reddit.com/r/devops/comments/15pj360/company_doesnt_use_containers_nor_cloud_agnostic/) | AzuriteAzul | 42 |
-| [KodeKloud Subscription: What courses would you recommend doing?](https://www.reddit.com/r/devops/comments/15paksa/kodekloud_subscription_what_courses_would_you/) | Appropriate_Tell3714 | 4 |
-| [How to pick AWS services for a large application](https://www.reddit.com/r/devops/comments/15psf0p/how_to_pick_aws_services_for_a_large_application/) | FiveShadesOfBlue | 3 |
-| [Is this possible in Github Actions?](https://www.reddit.com/r/devops/comments/15pcx7t/is_this_possible_in_github_actions/) | americancontrol | 2 |
-| [Weirdest issue of my career](https://www.reddit.com/r/devops/comments/15pwjfo/weirdest_issue_of_my_career/) | imbeback | 1 |
-| [Managing Development Environments](https://www.reddit.com/r/devops/comments/15pih45/managing_development_environments/) | Outrageous_Taro_5733 | 1 |
-| [How to block public access of a specific path on a standard v2 azure application gateway?](https://www.reddit.com/r/devops/comments/15pud4a/how_to_block_public_access_of_a_specific_path_on/) | Lonesome_bday | 1 |
-| [Certification/continuous learning](https://www.reddit.com/r/devops/comments/15p852m/certificationcontinuous_learning/) | Paterwin | 1 |
-| [Suddenly getting VM agent not ready, can’t connect](https://www.reddit.com/r/devops/comments/15p8jda/suddenly_getting_vm_agent_not_ready_cant_connect/) | maxiedaniels | 0 |
+| [Free DevOps 150 days practical exercises for DevOps](https://www.reddit.com/r/devops/comments/15q1jt6/free_devops_150_days_practical_exercises_for/) | raidingBear | 121 |
+| [less technical resources impacting devops](https://www.reddit.com/r/devops/comments/15qjkeh/less_technical_resources_impacting_devops/) | Phunk3d | 7 |
+| [Ops friendly Apache APISIX](https://www.reddit.com/r/devops/comments/15q3aq2/ops_friendly_apache_apisix/) | nfrankel | 4 |
+| [ic -&gt; manager](https://www.reddit.com/r/devops/comments/15qq0c3/ic_manager/) | 115v | 2 |
+| [Containerizing a [Nagios + MRTG + RANCID + rsyslog + custom scripts] "app" - purely ideological/architectural discussion](https://www.reddit.com/r/devops/comments/15q826k/containerizing_a_nagios_mrtg_rancid_rsyslog/) | canyoufixmyspacebar | 2 |
+| [Devsecops Bootcamps](https://www.reddit.com/r/devops/comments/15qhjgg/devsecops_bootcamps/) | sowpro | 1 |
+| [Azure DevOps and Metric Tracking](https://www.reddit.com/r/devops/comments/15qsq2s/azure_devops_and_metric_tracking/) | bringer23 | 1 |
+| [AWS Certification Path](https://www.reddit.com/r/devops/comments/15qsmni/aws_certification_path/) | PM_SOMETHING_COOL | 1 |
+| [containerization vs virtualization](https://www.reddit.com/r/devops/comments/15q4azj/containerization_vs_virtualization/) | Playful-Ad6177 | 0 |
+| [Why can I no longer formaty ANYTHING in Azure DevOp?](https://www.reddit.com/r/devops/comments/15qn2ls/why_can_i_no_longer_formaty_anything_in_azure/) | boromae-consultant | 0 |
