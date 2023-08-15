@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Free DevOps 150 days practical exercises for DevOps](https://www.reddit.com/r/devops/comments/15q1jt6/free_devops_150_days_practical_exercises_for/) | raidingBear | 121 |
-| [less technical resources impacting devops](https://www.reddit.com/r/devops/comments/15qjkeh/less_technical_resources_impacting_devops/) | Phunk3d | 7 |
-| [Ops friendly Apache APISIX](https://www.reddit.com/r/devops/comments/15q3aq2/ops_friendly_apache_apisix/) | nfrankel | 4 |
-| [ic -&gt; manager](https://www.reddit.com/r/devops/comments/15qq0c3/ic_manager/) | 115v | 2 |
-| [Containerizing a [Nagios + MRTG + RANCID + rsyslog + custom scripts] "app" - purely ideological/architectural discussion](https://www.reddit.com/r/devops/comments/15q826k/containerizing_a_nagios_mrtg_rancid_rsyslog/) | canyoufixmyspacebar | 2 |
-| [Devsecops Bootcamps](https://www.reddit.com/r/devops/comments/15qhjgg/devsecops_bootcamps/) | sowpro | 1 |
-| [Azure DevOps and Metric Tracking](https://www.reddit.com/r/devops/comments/15qsq2s/azure_devops_and_metric_tracking/) | bringer23 | 1 |
-| [AWS Certification Path](https://www.reddit.com/r/devops/comments/15qsmni/aws_certification_path/) | PM_SOMETHING_COOL | 1 |
-| [containerization vs virtualization](https://www.reddit.com/r/devops/comments/15q4azj/containerization_vs_virtualization/) | Playful-Ad6177 | 0 |
-| [Why can I no longer formaty ANYTHING in Azure DevOp?](https://www.reddit.com/r/devops/comments/15qn2ls/why_can_i_no_longer_formaty_anything_in_azure/) | boromae-consultant | 0 |
+| [What's "formerly" in "Vagrant is a formerly open-source software product"?](https://www.reddit.com/r/devops/comments/15qt11e/whats_formerly_in_vagrant_is_a_formerly/) | Akcarrot | 49 |
+| [How are you protecting your staging environment(s) for your web apps?](https://www.reddit.com/r/devops/comments/15r2edx/how_are_you_protecting_your_staging_environments/) | mel2ywn | 47 |
+| [How to convince my boss Lambda is not spaghetti code?](https://www.reddit.com/r/devops/comments/15r5m4l/how_to_convince_my_boss_lambda_is_not_spaghetti/) | sock_templar | 16 |
+| [EKS Fargate monitoring and limits](https://www.reddit.com/r/devops/comments/15qvcus/eks_fargate_monitoring_and_limits/) | cxtoast | 2 |
+| [Are there any competing tools that offer the same level of UI and automation as Azure Dev/Op Release pipelines?](https://www.reddit.com/r/devops/comments/15r798v/are_there_any_competing_tools_that_offer_the_same/) | extra_specticles | 2 |
+| [What are the best practices for handling interactions between infra and apps code](https://www.reddit.com/r/devops/comments/15r3vgn/what_are_the_best_practices_for_handling/) | rishid | 1 |
+| [Opinions on score.dev](https://www.reddit.com/r/devops/comments/15qxqkz/opinions_on_scoredev/) | Alzyros | 1 |
+| [How do you choose the best hosting service as per your use case?](https://www.reddit.com/r/devops/comments/15r3eas/how_do_you_choose_the_best_hosting_service_as_per/) | Barack_obameme | 1 |
+| [can team city be used for regression testing for specific builds](https://www.reddit.com/r/devops/comments/15qxb58/can_team_city_be_used_for_regression_testing_for/) | SSPYRLL | 0 |
+| [Personal vs Work devices. A bit too much?](https://www.reddit.com/r/devops/comments/15r0olz/personal_vs_work_devices_a_bit_too_much/) | anonman369 | 0 |
