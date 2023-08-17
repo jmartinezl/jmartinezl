@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [OpenTF initiative](https://www.reddit.com/r/devops/comments/15rvasd/opentf_initiative/) | flaviuscdinu | 81 |
-| [What are you using for …](https://www.reddit.com/r/devops/comments/15ruk2d/what_are_you_using_for/) | hiamanon1 | 31 |
-| [How is the DevOps job market these days?](https://www.reddit.com/r/devops/comments/15sd3jy/how_is_the_devops_job_market_these_days/) | crash90 | 26 |
-| [Refactoring Release CI using GitHub Actions](https://www.reddit.com/r/devops/comments/15shqxh/refactoring_release_ci_using_github_actions/) | jeremy_feng | 12 |
-| [Where do you get Codesign Certs from?](https://www.reddit.com/r/devops/comments/15rr9ea/where_do_you_get_codesign_certs_from/) | nevotheless | 9 |
-| [Looking for early adopters - Free 150 days of DevOps exercises](https://www.reddit.com/r/devops/comments/15rtt35/looking_for_early_adopters_free_150_days_of/) | raidingBear | 8 |
-| [Roadmap for learning MLOps (for DevOps engineers)](https://www.reddit.com/r/devops/comments/15sjiko/roadmap_for_learning_mlops_for_devops_engineers/) | DwaywelayTOP | 3 |
-| [How to get from DevOps into Software Development](https://www.reddit.com/r/devops/comments/15sn1mu/how_to_get_from_devops_into_software_development/) | q0ctupus8 | 2 |
-| [Hands-on Nomad blog post](https://www.reddit.com/r/devops/comments/15s18b2/handson_nomad_blog_post/) | Allaman | 1 |
-| [Fan-Out Feature for Time Shift Buffering](https://www.reddit.com/r/devops/comments/15s0kfm/fanout_feature_for_time_shift_buffering/) | swodtke | 1 |
+| [Unimportant job?](https://www.reddit.com/r/devops/comments/15t28c5/unimportant_job/) | No-Leather6291 | 19 |
+| [Terraform Coding Interview - Advice](https://www.reddit.com/r/devops/comments/15sy819/terraform_coding_interview_advice/) | TTT94 | 18 |
+| [What can I do whilst we scale our customer base?](https://www.reddit.com/r/devops/comments/15tewq1/what_can_i_do_whilst_we_scale_our_customer_base/) | backflipbail | 10 |
+| [CI/CD pipelines of choice ?](https://www.reddit.com/r/devops/comments/15t0s02/cicd_pipelines_of_choice/) | hiamanon1 | 5 |
+| [I wrote a blog post about deploying netpols](https://www.reddit.com/r/devops/comments/15szqvy/i_wrote_a_blog_post_about_deploying_netpols/) | santafen | 4 |
+| [How to do “custom monitoring”?](https://www.reddit.com/r/devops/comments/15sqjge/how_to_do_custom_monitoring/) | PristineFinish100 | 2 |
+| [how to cost?](https://www.reddit.com/r/devops/comments/15sumn4/how_to_cost/) | rUbberDucky1984 | 1 |
+| [Is there a practice-oriented service like frontendmentor but for ops and cloud?](https://www.reddit.com/r/devops/comments/15syzd6/is_there_a_practiceoriented_service_like/) | alkersan2 | 1 |
+| [How do I integrate SonarQube into projects using stored files on the build server?](https://www.reddit.com/r/devops/comments/15thm2v/how_do_i_integrate_sonarqube_into_projects_using/) | Abhir-86 | 1 |
+| [Grafana syntax for prometheus query to show all possible values for a specific key](https://www.reddit.com/r/devops/comments/15szgmt/grafana_syntax_for_prometheus_query_to_show_all/) | midlevelmybutt | 1 |
