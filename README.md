@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Unimportant job?](https://www.reddit.com/r/devops/comments/15t28c5/unimportant_job/) | No-Leather6291 | 19 |
-| [Terraform Coding Interview - Advice](https://www.reddit.com/r/devops/comments/15sy819/terraform_coding_interview_advice/) | TTT94 | 18 |
-| [What can I do whilst we scale our customer base?](https://www.reddit.com/r/devops/comments/15tewq1/what_can_i_do_whilst_we_scale_our_customer_base/) | backflipbail | 10 |
-| [CI/CD pipelines of choice ?](https://www.reddit.com/r/devops/comments/15t0s02/cicd_pipelines_of_choice/) | hiamanon1 | 5 |
-| [I wrote a blog post about deploying netpols](https://www.reddit.com/r/devops/comments/15szqvy/i_wrote_a_blog_post_about_deploying_netpols/) | santafen | 4 |
-| [How to do “custom monitoring”?](https://www.reddit.com/r/devops/comments/15sqjge/how_to_do_custom_monitoring/) | PristineFinish100 | 2 |
-| [how to cost?](https://www.reddit.com/r/devops/comments/15sumn4/how_to_cost/) | rUbberDucky1984 | 1 |
-| [Is there a practice-oriented service like frontendmentor but for ops and cloud?](https://www.reddit.com/r/devops/comments/15syzd6/is_there_a_practiceoriented_service_like/) | alkersan2 | 1 |
-| [How do I integrate SonarQube into projects using stored files on the build server?](https://www.reddit.com/r/devops/comments/15thm2v/how_do_i_integrate_sonarqube_into_projects_using/) | Abhir-86 | 1 |
-| [Grafana syntax for prometheus query to show all possible values for a specific key](https://www.reddit.com/r/devops/comments/15szgmt/grafana_syntax_for_prometheus_query_to_show_all/) | midlevelmybutt | 1 |
+| [Is DevOps reduced to Kubernetes and vendor management?](https://www.reddit.com/r/devops/comments/15tnrh4/is_devops_reduced_to_kubernetes_and_vendor/) | arslan70 | 131 |
+| [I don't really enjoy DevOps](https://www.reddit.com/r/devops/comments/15twvvx/i_dont_really_enjoy_devops/) | Separate_Mode8065 | 16 |
+| [How do you present technologies in your CV that you learnt yourself but don’t use in your company?](https://www.reddit.com/r/devops/comments/15tlhux/how_do_you_present_technologies_in_your_cv_that/) | GGxSam | 13 |
+| [I started working on awesome-runbook Github repository.](https://www.reddit.com/r/devops/comments/15ub3bd/i_started_working_on_awesomerunbook_github/) | ssowonny | 11 |
+| [Downside of a 49” ultrawide for Development &amp; systems engineering?](https://www.reddit.com/r/devops/comments/15u2403/downside_of_a_49_ultrawide_for_development/) | RubixKuber | 7 |
+| [Question: am data engineer, how best to break down silo with DevOps team?](https://www.reddit.com/r/devops/comments/15trba0/question_am_data_engineer_how_best_to_break_down/) | CoolmanWilkins | 6 |
+| [From Static to Adaptive: A Framework for Implementing Rate Limits](https://www.reddit.com/r/devops/comments/15tpmn7/from_static_to_adaptive_a_framework_for/) | tuscan-ninja | 5 |
+| [Inspect TLS encrypted traffic using mitmproxy and wireshark](https://www.reddit.com/r/devops/comments/15tnikf/inspect_tls_encrypted_traffic_using_mitmproxy_and/) | Plus_Ad7909 | 2 |
+| [Looking for feedback on canary analysis tool that can root cause issues given time series metrics and logs](https://www.reddit.com/r/devops/comments/15ua4xe/looking_for_feedback_on_canary_analysis_tool_that/) | maatran23 | 1 |
+| [Improving Our Deployment Strategy: Advice on where to start](https://www.reddit.com/r/devops/comments/15uh1kj/improving_our_deployment_strategy_advice_on_where/) | swagrid003 | 1 |
