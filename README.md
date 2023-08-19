@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is DevOps reduced to Kubernetes and vendor management?](https://www.reddit.com/r/devops/comments/15tnrh4/is_devops_reduced_to_kubernetes_and_vendor/) | arslan70 | 131 |
-| [I don't really enjoy DevOps](https://www.reddit.com/r/devops/comments/15twvvx/i_dont_really_enjoy_devops/) | Separate_Mode8065 | 16 |
-| [How do you present technologies in your CV that you learnt yourself but don’t use in your company?](https://www.reddit.com/r/devops/comments/15tlhux/how_do_you_present_technologies_in_your_cv_that/) | GGxSam | 13 |
-| [I started working on awesome-runbook Github repository.](https://www.reddit.com/r/devops/comments/15ub3bd/i_started_working_on_awesomerunbook_github/) | ssowonny | 11 |
-| [Downside of a 49” ultrawide for Development &amp; systems engineering?](https://www.reddit.com/r/devops/comments/15u2403/downside_of_a_49_ultrawide_for_development/) | RubixKuber | 7 |
-| [Question: am data engineer, how best to break down silo with DevOps team?](https://www.reddit.com/r/devops/comments/15trba0/question_am_data_engineer_how_best_to_break_down/) | CoolmanWilkins | 6 |
-| [From Static to Adaptive: A Framework for Implementing Rate Limits](https://www.reddit.com/r/devops/comments/15tpmn7/from_static_to_adaptive_a_framework_for/) | tuscan-ninja | 5 |
-| [Inspect TLS encrypted traffic using mitmproxy and wireshark](https://www.reddit.com/r/devops/comments/15tnikf/inspect_tls_encrypted_traffic_using_mitmproxy_and/) | Plus_Ad7909 | 2 |
-| [Looking for feedback on canary analysis tool that can root cause issues given time series metrics and logs](https://www.reddit.com/r/devops/comments/15ua4xe/looking_for_feedback_on_canary_analysis_tool_that/) | maatran23 | 1 |
-| [Improving Our Deployment Strategy: Advice on where to start](https://www.reddit.com/r/devops/comments/15uh1kj/improving_our_deployment_strategy_advice_on_where/) | swagrid003 | 1 |
+| [Structuring your Infrastructure as code](https://www.reddit.com/r/devops/comments/15ul2ht/structuring_your_infrastructure_as_code/) | jaxxstorm | 84 |
+| [Is it still worth studying devops? Is there growth in the next 10 years? Reddit makes it seem like no one could get a job](https://www.reddit.com/r/devops/comments/15uk82v/is_it_still_worth_studying_devops_is_there_growth/) | futurePluto29 | 32 |
+| [what's your k8s infrastracture like?](https://www.reddit.com/r/devops/comments/15upe81/whats_your_k8s_infrastracture_like/) | No_Tart_3957 | 7 |
+| [Looking for resume feedback](https://www.reddit.com/r/devops/comments/15uq2zs/looking_for_resume_feedback/) | devopsdude212 | 5 |
+| [What is the job title or career path that leads to devops?](https://www.reddit.com/r/devops/comments/15uuczx/what_is_the_job_title_or_career_path_that_leads/) | MysticSkies | 4 |
+| [Contribution to open source](https://www.reddit.com/r/devops/comments/15um20c/contribution_to_open_source/) | raidingBear | 4 |
+| [Just dropped Webmesh v0.2.1 with some fun new features](https://www.reddit.com/r/devops/comments/15ulm7j/just_dropped_webmesh_v021_with_some_fun_new/) | jews4beer | 3 |
+| [I’m really struggling](https://www.reddit.com/r/devops/comments/15ve6c2/im_really_struggling/) | chkpwd | 3 |
+| [What publications in DevOps do you read?](https://www.reddit.com/r/devops/comments/15uj9wc/what_publications_in_devops_do_you_read/) | VladRom89 | 2 |
+| [Is it possible to get a remote DevOps jobs](https://www.reddit.com/r/devops/comments/15uok2u/is_it_possible_to_get_a_remote_devops_jobs/) | No-Culture-8135 | 2 |
