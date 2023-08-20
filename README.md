@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Structuring your Infrastructure as code](https://www.reddit.com/r/devops/comments/15ul2ht/structuring_your_infrastructure_as_code/) | jaxxstorm | 84 |
-| [Is it still worth studying devops? Is there growth in the next 10 years? Reddit makes it seem like no one could get a job](https://www.reddit.com/r/devops/comments/15uk82v/is_it_still_worth_studying_devops_is_there_growth/) | futurePluto29 | 32 |
-| [what's your k8s infrastracture like?](https://www.reddit.com/r/devops/comments/15upe81/whats_your_k8s_infrastracture_like/) | No_Tart_3957 | 7 |
-| [Looking for resume feedback](https://www.reddit.com/r/devops/comments/15uq2zs/looking_for_resume_feedback/) | devopsdude212 | 5 |
-| [What is the job title or career path that leads to devops?](https://www.reddit.com/r/devops/comments/15uuczx/what_is_the_job_title_or_career_path_that_leads/) | MysticSkies | 4 |
-| [Contribution to open source](https://www.reddit.com/r/devops/comments/15um20c/contribution_to_open_source/) | raidingBear | 4 |
-| [Just dropped Webmesh v0.2.1 with some fun new features](https://www.reddit.com/r/devops/comments/15ulm7j/just_dropped_webmesh_v021_with_some_fun_new/) | jews4beer | 3 |
-| [I’m really struggling](https://www.reddit.com/r/devops/comments/15ve6c2/im_really_struggling/) | chkpwd | 3 |
-| [What publications in DevOps do you read?](https://www.reddit.com/r/devops/comments/15uj9wc/what_publications_in_devops_do_you_read/) | VladRom89 | 2 |
-| [Is it possible to get a remote DevOps jobs](https://www.reddit.com/r/devops/comments/15uok2u/is_it_possible_to_get_a_remote_devops_jobs/) | No-Culture-8135 | 2 |
+| [Do I need leetcode for DevOps interviews](https://www.reddit.com/r/devops/comments/15vmfyj/do_i_need_leetcode_for_devops_interviews/) | pear_topologist | 27 |
+| [Containerization and Orchestration Tools: 200 Docker and Kubernetes Objective Type Questions split into 2 Online Exams](https://www.reddit.com/r/devops/comments/15vzz6f/containerization_and_orchestration_tools_200/) | nkptcs | 22 |
+| [Easy way to self-host applications on at-home server?](https://www.reddit.com/r/devops/comments/15vi25s/easy_way_to_selfhost_applications_on_athome_server/) | MammothRaisin7 | 5 |
+| [Beginner networking projects](https://www.reddit.com/r/devops/comments/15w9a1d/beginner_networking_projects/) | frameclowder | 3 |
+| [[Beginner Alert] Turning a spreadsheet into a Saas web application](https://www.reddit.com/r/devops/comments/15vftxi/beginner_alert_turning_a_spreadsheet_into_a_saas/) | Arlindog1 | 0 |
+| [AWS SES cost](https://www.reddit.com/r/devops/comments/15vnwm7/aws_ses_cost/) | canyoufixmyspacebar | 0 |
