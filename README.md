@@ -44,9 +44,11 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do I need leetcode for DevOps interviews](https://www.reddit.com/r/devops/comments/15vmfyj/do_i_need_leetcode_for_devops_interviews/) | pear_topologist | 27 |
-| [Containerization and Orchestration Tools: 200 Docker and Kubernetes Objective Type Questions split into 2 Online Exams](https://www.reddit.com/r/devops/comments/15vzz6f/containerization_and_orchestration_tools_200/) | nkptcs | 22 |
-| [Easy way to self-host applications on at-home server?](https://www.reddit.com/r/devops/comments/15vi25s/easy_way_to_selfhost_applications_on_athome_server/) | MammothRaisin7 | 5 |
-| [Beginner networking projects](https://www.reddit.com/r/devops/comments/15w9a1d/beginner_networking_projects/) | frameclowder | 3 |
-| [[Beginner Alert] Turning a spreadsheet into a Saas web application](https://www.reddit.com/r/devops/comments/15vftxi/beginner_alert_turning_a_spreadsheet_into_a_saas/) | Arlindog1 | 0 |
-| [AWS SES cost](https://www.reddit.com/r/devops/comments/15vnwm7/aws_ses_cost/) | canyoufixmyspacebar | 0 |
+| [Kubernetes service accounts in AWS - What's a good practice when deploying with ArgoCD?](https://www.reddit.com/r/devops/comments/15whynf/kubernetes_service_accounts_in_aws_whats_a_good/) | Ok_World_4148 | 29 |
+| [Best cloud service provider for my case?](https://www.reddit.com/r/devops/comments/15wbl07/best_cloud_service_provider_for_my_case/) | Playful-Ad6177 | 25 |
+| [Zero-downtime Nginx Blue-Green deployment on a service layer with Consul](https://www.reddit.com/r/devops/comments/15wdsf6/zerodowntime_nginx_bluegreen_deployment_on_a/) | Nice-Andy | 7 |
+| [CI/CD for in-house IIS](https://www.reddit.com/r/devops/comments/15x3fbl/cicd_for_inhouse_iis/) | xIMAINZIx | 4 |
+| [Python for devops](https://www.reddit.com/r/devops/comments/15x4nti/python_for_devops/) | rotten_911 | 3 |
+| [Defending Your CI/CD Pipeline](https://www.reddit.com/r/devops/comments/15x1tsd/defending_your_cicd_pipeline/) | BarakScribe | 1 |
+| [Need some advice please](https://www.reddit.com/r/devops/comments/15wvqes/need_some_advice_please/) | coochieeman_ | 0 |
+| [DevTools in the Pipeline: How to Keep Your Website Snappy, Lean, and Beautiful](https://www.reddit.com/r/devops/comments/15wf34c/devtools_in_the_pipeline_how_to_keep_your_website/) | shrsv | 0 |
