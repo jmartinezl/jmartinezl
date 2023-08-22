@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Kubernetes service accounts in AWS - What's a good practice when deploying with ArgoCD?](https://www.reddit.com/r/devops/comments/15whynf/kubernetes_service_accounts_in_aws_whats_a_good/) | Ok_World_4148 | 29 |
-| [Best cloud service provider for my case?](https://www.reddit.com/r/devops/comments/15wbl07/best_cloud_service_provider_for_my_case/) | Playful-Ad6177 | 25 |
-| [Zero-downtime Nginx Blue-Green deployment on a service layer with Consul](https://www.reddit.com/r/devops/comments/15wdsf6/zerodowntime_nginx_bluegreen_deployment_on_a/) | Nice-Andy | 7 |
-| [CI/CD for in-house IIS](https://www.reddit.com/r/devops/comments/15x3fbl/cicd_for_inhouse_iis/) | xIMAINZIx | 4 |
-| [Python for devops](https://www.reddit.com/r/devops/comments/15x4nti/python_for_devops/) | rotten_911 | 3 |
-| [Defending Your CI/CD Pipeline](https://www.reddit.com/r/devops/comments/15x1tsd/defending_your_cicd_pipeline/) | BarakScribe | 1 |
-| [Need some advice please](https://www.reddit.com/r/devops/comments/15wvqes/need_some_advice_please/) | coochieeman_ | 0 |
-| [DevTools in the Pipeline: How to Keep Your Website Snappy, Lean, and Beautiful](https://www.reddit.com/r/devops/comments/15wf34c/devtools_in_the_pipeline_how_to_keep_your_website/) | shrsv | 0 |
+| [Feeling the burn…..](https://www.reddit.com/r/devops/comments/15xift1/feeling_the_burn/) | nipaellafunk | 62 |
+| [Suggestion of goods K/V as a service?](https://www.reddit.com/r/devops/comments/15x6z9s/suggestion_of_goods_kv_as_a_service/) | FakerYeager | 10 |
+| [Resize CPU Limit To Speed Up Java Startup on Kubernetes](https://www.reddit.com/r/devops/comments/15xz3cb/resize_cpu_limit_to_speed_up_java_startup_on/) | piotr_minkowski | 7 |
+| [What is best practice for controlling a container's entry point in the ci/cd proces?](https://www.reddit.com/r/devops/comments/15x9u0b/what_is_best_practice_for_controlling_a/) | mmm_dat_data | 6 |
+| [SRE Story with Alex Hidalgo](https://www.reddit.com/r/devops/comments/15xut3r/sre_story_with_alex_hidalgo/) | PrathameshSonpatki | 5 |
+| [Git branching strategy for project with multiple environments](https://www.reddit.com/r/devops/comments/15x6qan/git_branching_strategy_for_project_with_multiple/) | konghi009 | 5 |
+| [How do you get orgs to care about qa testing in their CICD pipelines?](https://www.reddit.com/r/devops/comments/15xrvxz/how_do_you_get_orgs_to_care_about_qa_testing_in/) | IndieDiscovery | 4 |
+| [testing options for dbt](https://www.reddit.com/r/devops/comments/15x76c1/testing_options_for_dbt/) | Hot_Map_7868 | 3 |
+| [Please give a brutal review. No interviews in the past 30 days](https://www.reddit.com/r/devops/comments/15xvo7m/please_give_a_brutal_review_no_interviews_in_the/) | MrNetNerd | 3 |
+| [I added autocompletion to terraform --target](https://www.reddit.com/r/devops/comments/15xy0vy/i_added_autocompletion_to_terraform_target/) | shellwhale | 3 |
