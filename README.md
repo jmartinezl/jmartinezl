@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Feeling the burn…..](https://www.reddit.com/r/devops/comments/15xift1/feeling_the_burn/) | nipaellafunk | 62 |
-| [Suggestion of goods K/V as a service?](https://www.reddit.com/r/devops/comments/15x6z9s/suggestion_of_goods_kv_as_a_service/) | FakerYeager | 10 |
-| [Resize CPU Limit To Speed Up Java Startup on Kubernetes](https://www.reddit.com/r/devops/comments/15xz3cb/resize_cpu_limit_to_speed_up_java_startup_on/) | piotr_minkowski | 7 |
-| [What is best practice for controlling a container's entry point in the ci/cd proces?](https://www.reddit.com/r/devops/comments/15x9u0b/what_is_best_practice_for_controlling_a/) | mmm_dat_data | 6 |
-| [SRE Story with Alex Hidalgo](https://www.reddit.com/r/devops/comments/15xut3r/sre_story_with_alex_hidalgo/) | PrathameshSonpatki | 5 |
-| [Git branching strategy for project with multiple environments](https://www.reddit.com/r/devops/comments/15x6qan/git_branching_strategy_for_project_with_multiple/) | konghi009 | 5 |
-| [How do you get orgs to care about qa testing in their CICD pipelines?](https://www.reddit.com/r/devops/comments/15xrvxz/how_do_you_get_orgs_to_care_about_qa_testing_in/) | IndieDiscovery | 4 |
-| [testing options for dbt](https://www.reddit.com/r/devops/comments/15x76c1/testing_options_for_dbt/) | Hot_Map_7868 | 3 |
-| [Please give a brutal review. No interviews in the past 30 days](https://www.reddit.com/r/devops/comments/15xvo7m/please_give_a_brutal_review_no_interviews_in_the/) | MrNetNerd | 3 |
-| [I added autocompletion to terraform --target](https://www.reddit.com/r/devops/comments/15xy0vy/i_added_autocompletion_to_terraform_target/) | shellwhale | 3 |
+| [Devops is not entry level](https://www.reddit.com/r/devops/comments/15yg7ha/devops_is_not_entry_level/) | SticklyLicklyHam | 496 |
+| [Not getting valuable experience in current position.](https://www.reddit.com/r/devops/comments/15y5eed/not_getting_valuable_experience_in_current/) | txs2300 | 16 |
+| [What is DevOps to you?](https://www.reddit.com/r/devops/comments/15yr21f/what_is_devops_to_you/) | summaji | 7 |
+| [Struggling to piece together all my infrastructure bits. (IaC + Ansible + devops)](https://www.reddit.com/r/devops/comments/15y9bur/struggling_to_piece_together_all_my/) | Olemus | 6 |
+| [Embedded Linux dev thinking of transitioning to devops - should I?](https://www.reddit.com/r/devops/comments/15yyocq/embedded_linux_dev_thinking_of_transitioning_to/) | jaskij | 3 |
+| [How do I test logrotate configuration on my local machine?](https://www.reddit.com/r/devops/comments/15y6xba/how_do_i_test_logrotate_configuration_on_my_local/) | Playful-Ad6177 | 2 |
+| [DevOps assistance](https://www.reddit.com/r/devops/comments/15y5fgc/devops_assistance/) | happykeyboardwarrior | 2 |
+| [Writing Test Cases with Automation Tools - Step-By-Step Guide](https://www.reddit.com/r/devops/comments/15y9vt2/writing_test_cases_with_automation_tools/) | thumbsdrivesmecrazy | 1 |
+| [What’s a good devops resume look like](https://www.reddit.com/r/devops/comments/15y4bg7/whats_a_good_devops_resume_look_like/) | YouDoNotKnowMeSir | 1 |
+| [Route 53 "dynamic" entries](https://www.reddit.com/r/devops/comments/15yjr1k/route_53_dynamic_entries/) | Toast42 | 1 |
