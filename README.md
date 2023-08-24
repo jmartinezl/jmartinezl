@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Devops is not entry level](https://www.reddit.com/r/devops/comments/15yg7ha/devops_is_not_entry_level/) | SticklyLicklyHam | 496 |
-| [Not getting valuable experience in current position.](https://www.reddit.com/r/devops/comments/15y5eed/not_getting_valuable_experience_in_current/) | txs2300 | 16 |
-| [What is DevOps to you?](https://www.reddit.com/r/devops/comments/15yr21f/what_is_devops_to_you/) | summaji | 7 |
-| [Struggling to piece together all my infrastructure bits. (IaC + Ansible + devops)](https://www.reddit.com/r/devops/comments/15y9bur/struggling_to_piece_together_all_my/) | Olemus | 6 |
-| [Embedded Linux dev thinking of transitioning to devops - should I?](https://www.reddit.com/r/devops/comments/15yyocq/embedded_linux_dev_thinking_of_transitioning_to/) | jaskij | 3 |
-| [How do I test logrotate configuration on my local machine?](https://www.reddit.com/r/devops/comments/15y6xba/how_do_i_test_logrotate_configuration_on_my_local/) | Playful-Ad6177 | 2 |
-| [DevOps assistance](https://www.reddit.com/r/devops/comments/15y5fgc/devops_assistance/) | happykeyboardwarrior | 2 |
-| [Writing Test Cases with Automation Tools - Step-By-Step Guide](https://www.reddit.com/r/devops/comments/15y9vt2/writing_test_cases_with_automation_tools/) | thumbsdrivesmecrazy | 1 |
-| [What’s a good devops resume look like](https://www.reddit.com/r/devops/comments/15y4bg7/whats_a_good_devops_resume_look_like/) | YouDoNotKnowMeSir | 1 |
-| [Route 53 "dynamic" entries](https://www.reddit.com/r/devops/comments/15yjr1k/route_53_dynamic_entries/) | Toast42 | 1 |
+| [What is the hardest thing to do as a DevOps Engineer?](https://www.reddit.com/r/devops/comments/15zm1aq/what_is_the_hardest_thing_to_do_as_a_devops/) | oreeeo1995 | 50 |
+| [How do you explain devops to none technical people?](https://www.reddit.com/r/devops/comments/15z6jcd/how_do_you_explain_devops_to_none_technical_people/) | LarsIcebeer | 44 |
+| [Setting up K3S cluster over VPN](https://www.reddit.com/r/devops/comments/15zfand/setting_up_k3s_cluster_over_vpn/) | Somteencead | 37 |
+| [My friends think I have a good resume - my callback rate says otherwise. Tear it apart](https://www.reddit.com/r/devops/comments/15zbth6/my_friends_think_i_have_a_good_resume_my_callback/) | t5bert | 35 |
+| [Is it just me or do others experience spates of attempted DDOS or Brute force attacks](https://www.reddit.com/r/devops/comments/15z5lzk/is_it_just_me_or_do_others_experience_spates_of/) | Fun-Pirate5910 | 10 |
+| [So what are you all using for secret management?](https://www.reddit.com/r/devops/comments/15zw4dp/so_what_are_you_all_using_for_secret_management/) | _N0K0 | 9 |
+| [Bitwarden Secrets Manager](https://www.reddit.com/r/devops/comments/15zxkrx/bitwarden_secrets_manager/) | AdrianTeri | 6 |
+| [Tips for a beginner in DevOps](https://www.reddit.com/r/devops/comments/15z61m1/tips_for_a_beginner_in_devops/) | Medical-Pickle9886 | 4 |
+| [Is there any advantage to running Karpenter and CordDNS in Fargate?](https://www.reddit.com/r/devops/comments/15z6ed8/is_there_any_advantage_to_running_karpenter_and/) | No_Pain_1586 | 4 |
+| [Project hand off / what are you looking for](https://www.reddit.com/r/devops/comments/15z8jps/project_hand_off_what_are_you_looking_for/) | hiamanon1 | 3 |
