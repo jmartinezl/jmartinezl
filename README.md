@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What is the hardest thing to do as a DevOps Engineer?](https://www.reddit.com/r/devops/comments/15zm1aq/what_is_the_hardest_thing_to_do_as_a_devops/) | oreeeo1995 | 50 |
-| [How do you explain devops to none technical people?](https://www.reddit.com/r/devops/comments/15z6jcd/how_do_you_explain_devops_to_none_technical_people/) | LarsIcebeer | 44 |
-| [Setting up K3S cluster over VPN](https://www.reddit.com/r/devops/comments/15zfand/setting_up_k3s_cluster_over_vpn/) | Somteencead | 37 |
-| [My friends think I have a good resume - my callback rate says otherwise. Tear it apart](https://www.reddit.com/r/devops/comments/15zbth6/my_friends_think_i_have_a_good_resume_my_callback/) | t5bert | 35 |
-| [Is it just me or do others experience spates of attempted DDOS or Brute force attacks](https://www.reddit.com/r/devops/comments/15z5lzk/is_it_just_me_or_do_others_experience_spates_of/) | Fun-Pirate5910 | 10 |
-| [So what are you all using for secret management?](https://www.reddit.com/r/devops/comments/15zw4dp/so_what_are_you_all_using_for_secret_management/) | _N0K0 | 9 |
-| [Bitwarden Secrets Manager](https://www.reddit.com/r/devops/comments/15zxkrx/bitwarden_secrets_manager/) | AdrianTeri | 6 |
-| [Tips for a beginner in DevOps](https://www.reddit.com/r/devops/comments/15z61m1/tips_for_a_beginner_in_devops/) | Medical-Pickle9886 | 4 |
-| [Is there any advantage to running Karpenter and CordDNS in Fargate?](https://www.reddit.com/r/devops/comments/15z6ed8/is_there_any_advantage_to_running_karpenter_and/) | No_Pain_1586 | 4 |
-| [Project hand off / what are you looking for](https://www.reddit.com/r/devops/comments/15z8jps/project_hand_off_what_are_you_looking_for/) | hiamanon1 | 3 |
+| [What is the biggest pain point of a DevOps engineer?](https://www.reddit.com/r/devops/comments/1606cd1/what_is_the_biggest_pain_point_of_a_devops/) | LandADevOpsJob | 87 |
+| [So is it just impossible to change culture?](https://www.reddit.com/r/devops/comments/1608lic/so_is_it_just_impossible_to_change_culture/) | rewgs | 39 |
+| [How did you find your current job](https://www.reddit.com/r/devops/comments/1606ww4/how_did_you_find_your_current_job/) | Obj_Sea | 19 |
+| [If you had the opportunity to start your career from scratch, what profession would you choose?](https://www.reddit.com/r/devops/comments/1603tmt/if_you_had_the_opportunity_to_start_your_career/) | Skedler_IOT | 13 |
+| [Automating the Cloud-based Software Upgrade using Argo CD and Argo Workflows](https://www.reddit.com/r/devops/comments/160uoy5/automating_the_cloudbased_software_upgrade_using/) | jeremy_feng | 13 |
+| [Is KodeKloud a good source to learn about DevOps.](https://www.reddit.com/r/devops/comments/160s8dv/is_kodekloud_a_good_source_to_learn_about_devops/) | Pelayo1991 | 11 |
+| [Software engineer with 3 years of experience - want to pivot to DevOps - how much do I need to know?](https://www.reddit.com/r/devops/comments/160eijy/software_engineer_with_3_years_of_experience_want/) | burnbabyburn694200 | 8 |
+| [How do you limit/restrict access to production databases?](https://www.reddit.com/r/devops/comments/160cbrm/how_do_you_limitrestrict_access_to_production/) | ASamir | 5 |
+| [linuxtutor.github.io: The Complete Linux Learning Resource](https://www.reddit.com/r/devops/comments/1602o1w/linuxtutorgithubio_the_complete_linux_learning/) | Longjumping-Home-136 | 4 |
+| [Meeting Invites With No Context](https://www.reddit.com/r/devops/comments/160au2b/meeting_invites_with_no_context/) | JrdnRgrs | 4 |
