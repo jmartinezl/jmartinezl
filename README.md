@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What is the biggest pain point of a DevOps engineer?](https://www.reddit.com/r/devops/comments/1606cd1/what_is_the_biggest_pain_point_of_a_devops/) | LandADevOpsJob | 87 |
-| [So is it just impossible to change culture?](https://www.reddit.com/r/devops/comments/1608lic/so_is_it_just_impossible_to_change_culture/) | rewgs | 39 |
-| [How did you find your current job](https://www.reddit.com/r/devops/comments/1606ww4/how_did_you_find_your_current_job/) | Obj_Sea | 19 |
-| [If you had the opportunity to start your career from scratch, what profession would you choose?](https://www.reddit.com/r/devops/comments/1603tmt/if_you_had_the_opportunity_to_start_your_career/) | Skedler_IOT | 13 |
-| [Automating the Cloud-based Software Upgrade using Argo CD and Argo Workflows](https://www.reddit.com/r/devops/comments/160uoy5/automating_the_cloudbased_software_upgrade_using/) | jeremy_feng | 13 |
-| [Is KodeKloud a good source to learn about DevOps.](https://www.reddit.com/r/devops/comments/160s8dv/is_kodekloud_a_good_source_to_learn_about_devops/) | Pelayo1991 | 11 |
-| [Software engineer with 3 years of experience - want to pivot to DevOps - how much do I need to know?](https://www.reddit.com/r/devops/comments/160eijy/software_engineer_with_3_years_of_experience_want/) | burnbabyburn694200 | 8 |
-| [How do you limit/restrict access to production databases?](https://www.reddit.com/r/devops/comments/160cbrm/how_do_you_limitrestrict_access_to_production/) | ASamir | 5 |
-| [linuxtutor.github.io: The Complete Linux Learning Resource](https://www.reddit.com/r/devops/comments/1602o1w/linuxtutorgithubio_the_complete_linux_learning/) | Longjumping-Home-136 | 4 |
-| [Meeting Invites With No Context](https://www.reddit.com/r/devops/comments/160au2b/meeting_invites_with_no_context/) | JrdnRgrs | 4 |
+| [12 years experience in Kubernetes and Terraform wanted 🤦](https://www.reddit.com/r/devops/comments/161awyz/12_years_experience_in_kubernetes_and_terraform/) | vgk8931 | 224 |
+| [OpenTF Announces Fork of Terraform](https://www.reddit.com/r/devops/comments/1611shn/opentf_announces_fork_of_terraform/) | cube2222 | 218 |
+| [What are your career goals?](https://www.reddit.com/r/devops/comments/160yda2/what_are_your_career_goals/) | AemonQE | 5 |
+| [NGINX as a Load Balancer not working.](https://www.reddit.com/r/devops/comments/161mi7w/nginx_as_a_load_balancer_not_working/) | Playful-Ad6177 | 2 |
+| [Team Topology Idea and Personal Guidance](https://www.reddit.com/r/devops/comments/160zyrs/team_topology_idea_and_personal_guidance/) | SatoriSlu | 1 |
+| [RDP config with hostname](https://www.reddit.com/r/devops/comments/161q5mq/rdp_config_with_hostname/) | OppositeMiserable663 | 1 |
+| [How to best handle upgrades](https://www.reddit.com/r/devops/comments/160z6w5/how_to_best_handle_upgrades/) | jonathon8903 | 1 |
+| [Devops mindset VS dev mindset](https://www.reddit.com/r/devops/comments/1618aga/devops_mindset_vs_dev_mindset/) | xorteP | 1 |
+| [Wouldn't it be funny if Hashicorp engineers decide to use OpenTF?](https://www.reddit.com/r/devops/comments/161jxla/wouldnt_it_be_funny_if_hashicorp_engineers_decide/) | IamOkei | 0 |
+| [Running rsyslog and haproxy as non-root user, inside a non-root docker container](https://www.reddit.com/r/devops/comments/161p4jn/running_rsyslog_and_haproxy_as_nonroot_user/) | Plastic-Hat-3052 | 0 |
