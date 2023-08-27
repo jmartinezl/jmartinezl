@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [12 years experience in Kubernetes and Terraform wanted 🤦](https://www.reddit.com/r/devops/comments/161awyz/12_years_experience_in_kubernetes_and_terraform/) | vgk8931 | 224 |
-| [OpenTF Announces Fork of Terraform](https://www.reddit.com/r/devops/comments/1611shn/opentf_announces_fork_of_terraform/) | cube2222 | 218 |
-| [What are your career goals?](https://www.reddit.com/r/devops/comments/160yda2/what_are_your_career_goals/) | AemonQE | 5 |
-| [NGINX as a Load Balancer not working.](https://www.reddit.com/r/devops/comments/161mi7w/nginx_as_a_load_balancer_not_working/) | Playful-Ad6177 | 2 |
-| [Team Topology Idea and Personal Guidance](https://www.reddit.com/r/devops/comments/160zyrs/team_topology_idea_and_personal_guidance/) | SatoriSlu | 1 |
-| [RDP config with hostname](https://www.reddit.com/r/devops/comments/161q5mq/rdp_config_with_hostname/) | OppositeMiserable663 | 1 |
-| [How to best handle upgrades](https://www.reddit.com/r/devops/comments/160z6w5/how_to_best_handle_upgrades/) | jonathon8903 | 1 |
-| [Devops mindset VS dev mindset](https://www.reddit.com/r/devops/comments/1618aga/devops_mindset_vs_dev_mindset/) | xorteP | 1 |
-| [Wouldn't it be funny if Hashicorp engineers decide to use OpenTF?](https://www.reddit.com/r/devops/comments/161jxla/wouldnt_it_be_funny_if_hashicorp_engineers_decide/) | IamOkei | 0 |
-| [Running rsyslog and haproxy as non-root user, inside a non-root docker container](https://www.reddit.com/r/devops/comments/161p4jn/running_rsyslog_and_haproxy_as_nonroot_user/) | Plastic-Hat-3052 | 0 |
+| [Malicious -- the repeated term of choice by the CEO of Hashicorp regarding the community building for Terraform.](https://www.reddit.com/r/devops/comments/162ck0z/malicious_the_repeated_term_of_choice_by_the_ceo/) | raiderrobert | 71 |
+| [Should I provision database with Terraform? Is it considered infrastructure or resources?](https://www.reddit.com/r/devops/comments/162354i/should_i_provision_database_with_terraform_is_it/) | No_Pain_1586 | 29 |
+| [Jobs are hard to get](https://www.reddit.com/r/devops/comments/1625pib/jobs_are_hard_to_get/) | NickaTNite1224 | 7 |
+| [Right Sizing On-Prem Elasticsearch](https://www.reddit.com/r/devops/comments/161uabx/right_sizing_onprem_elasticsearch/) | somnambulist79 | 2 |
+| [Can i use Prometheus and Grafana to build a localized cluster monitoring system?](https://www.reddit.com/r/devops/comments/162m7u1/can_i_use_prometheus_and_grafana_to_build_a/) | rechogringo | 2 |
+| [Noob q: est cost to rewrite an x86 app for SoC](https://www.reddit.com/r/devops/comments/16285gt/noob_q_est_cost_to_rewrite_an_x86_app_for_soc/) | Automatic-Ad4699 | 0 |
+| [Is Bachelor degree of DevOps worth it ?](https://www.reddit.com/r/devops/comments/162dksz/is_bachelor_degree_of_devops_worth_it/) | covid2020RN | 0 |
+| [How I went into devops self-taught](https://www.reddit.com/r/devops/comments/162hsdr/how_i_went_into_devops_selftaught/) | jesus-in-gucci | 0 |
+| [Branching strategy question](https://www.reddit.com/r/devops/comments/162j0e8/branching_strategy_question/) | AmishDave | 0 |
