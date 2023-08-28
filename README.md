@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Malicious -- the repeated term of choice by the CEO of Hashicorp regarding the community building for Terraform.](https://www.reddit.com/r/devops/comments/162ck0z/malicious_the_repeated_term_of_choice_by_the_ceo/) | raiderrobert | 71 |
-| [Should I provision database with Terraform? Is it considered infrastructure or resources?](https://www.reddit.com/r/devops/comments/162354i/should_i_provision_database_with_terraform_is_it/) | No_Pain_1586 | 29 |
-| [Jobs are hard to get](https://www.reddit.com/r/devops/comments/1625pib/jobs_are_hard_to_get/) | NickaTNite1224 | 7 |
-| [Right Sizing On-Prem Elasticsearch](https://www.reddit.com/r/devops/comments/161uabx/right_sizing_onprem_elasticsearch/) | somnambulist79 | 2 |
-| [Can i use Prometheus and Grafana to build a localized cluster monitoring system?](https://www.reddit.com/r/devops/comments/162m7u1/can_i_use_prometheus_and_grafana_to_build_a/) | rechogringo | 2 |
-| [Noob q: est cost to rewrite an x86 app for SoC](https://www.reddit.com/r/devops/comments/16285gt/noob_q_est_cost_to_rewrite_an_x86_app_for_soc/) | Automatic-Ad4699 | 0 |
-| [Is Bachelor degree of DevOps worth it ?](https://www.reddit.com/r/devops/comments/162dksz/is_bachelor_degree_of_devops_worth_it/) | covid2020RN | 0 |
-| [How I went into devops self-taught](https://www.reddit.com/r/devops/comments/162hsdr/how_i_went_into_devops_selftaught/) | jesus-in-gucci | 0 |
-| [Branching strategy question](https://www.reddit.com/r/devops/comments/162j0e8/branching_strategy_question/) | AmishDave | 0 |
+| [Terraform: How many of you have decided to move to OpenTF, another alternative, or decided to stay with TF?](https://www.reddit.com/r/devops/comments/1638303/terraform_how_many_of_you_have_decided_to_move_to/) | theBeeprApp | 98 |
+| [Am I being Underpaid?](https://www.reddit.com/r/devops/comments/1632l3u/am_i_being_underpaid/) | solteranis | 31 |
+| [Control/audit devs and dbas with access to production databases](https://www.reddit.com/r/devops/comments/1630hh1/controlaudit_devs_and_dbas_with_access_to/) | imefisto | 10 |
+| [Trying to figure out what to work on next for developer experience](https://www.reddit.com/r/devops/comments/16376mn/trying_to_figure_out_what_to_work_on_next_for/) | ForSpareParts | 7 |
+| [Send your logs to Loki](https://www.reddit.com/r/devops/comments/162x47x/send_your_logs_to_loki/) | nfrankel | 4 |
+| [Managing tens of AWS accounts](https://www.reddit.com/r/devops/comments/163g1lw/managing_tens_of_aws_accounts/) | throwaway_epigra | 4 |
+| [How do you think devops will evolve in the next decade?](https://www.reddit.com/r/devops/comments/163iwrb/how_do_you_think_devops_will_evolve_in_the_next/) | Skedler_IOT | 3 |
+| [Diagramming software for Mac](https://www.reddit.com/r/devops/comments/1631mb6/diagramming_software_for_mac/) | vamkon | 3 |
+| [How do you go about creating a CI/CD service like circleci? Not just for my project, but for other users as well](https://www.reddit.com/r/devops/comments/162qfko/how_do_you_go_about_creating_a_cicd_service_like/) | VillagerNumber2 | 2 |
+| [Best of Devops this week!](https://www.reddit.com/r/devops/comments/163az50/best_of_devops_this_week/) | vy94 | 2 |
