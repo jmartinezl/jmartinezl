@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Terraform: How many of you have decided to move to OpenTF, another alternative, or decided to stay with TF?](https://www.reddit.com/r/devops/comments/1638303/terraform_how_many_of_you_have_decided_to_move_to/) | theBeeprApp | 98 |
-| [Am I being Underpaid?](https://www.reddit.com/r/devops/comments/1632l3u/am_i_being_underpaid/) | solteranis | 31 |
-| [Control/audit devs and dbas with access to production databases](https://www.reddit.com/r/devops/comments/1630hh1/controlaudit_devs_and_dbas_with_access_to/) | imefisto | 10 |
-| [Trying to figure out what to work on next for developer experience](https://www.reddit.com/r/devops/comments/16376mn/trying_to_figure_out_what_to_work_on_next_for/) | ForSpareParts | 7 |
-| [Send your logs to Loki](https://www.reddit.com/r/devops/comments/162x47x/send_your_logs_to_loki/) | nfrankel | 4 |
-| [Managing tens of AWS accounts](https://www.reddit.com/r/devops/comments/163g1lw/managing_tens_of_aws_accounts/) | throwaway_epigra | 4 |
-| [How do you think devops will evolve in the next decade?](https://www.reddit.com/r/devops/comments/163iwrb/how_do_you_think_devops_will_evolve_in_the_next/) | Skedler_IOT | 3 |
-| [Diagramming software for Mac](https://www.reddit.com/r/devops/comments/1631mb6/diagramming_software_for_mac/) | vamkon | 3 |
-| [How do you go about creating a CI/CD service like circleci? Not just for my project, but for other users as well](https://www.reddit.com/r/devops/comments/162qfko/how_do_you_go_about_creating_a_cicd_service_like/) | VillagerNumber2 | 2 |
-| [Best of Devops this week!](https://www.reddit.com/r/devops/comments/163az50/best_of_devops_this_week/) | vy94 | 2 |
+| [Platform Engineering Landmines](https://www.reddit.com/r/devops/comments/163y65b/platform_engineering_landmines/) | SharpEndss | 90 |
+| [software engineering for devops](https://www.reddit.com/r/devops/comments/164e6b5/software_engineering_for_devops/) | MDD_9972 | 6 |
+| [Our AMA is LIVE: Hi, we’re the Bitwarden Secrets Manager team. Ask us anything!](https://www.reddit.com/r/devops/comments/163phkh/our_ama_is_live_hi_were_the_bitwarden_secrets/) | sj-bitwarden | 3 |
+| [Has anyone tried Microsoft dev box?](https://www.reddit.com/r/devops/comments/163ndzc/has_anyone_tried_microsoft_dev_box/) | sardaerian | 3 |
+| [Collecting certs as Staff eng? Is this even the way to go?](https://www.reddit.com/r/devops/comments/163vg7j/collecting_certs_as_staff_eng_is_this_even_the/) | whatwhatwhat56 | 3 |
+| [Centralized vs Local Secret Manager](https://www.reddit.com/r/devops/comments/164bu3a/centralized_vs_local_secret_manager/) | mikeeltiburon | 3 |
+| [System to keep track of DevOps tasks?](https://www.reddit.com/r/devops/comments/164g8xc/system_to_keep_track_of_devops_tasks/) | romeozor | 2 |
+| [IaC in Feature Branches](https://www.reddit.com/r/devops/comments/163q6vp/iac_in_feature_branches/) | miraculix1 | 2 |
+| [how has AI changed your programming experience?](https://www.reddit.com/r/devops/comments/163q84s/how_has_ai_changed_your_programming_experience/) | UmbracoCMS | 1 |
+| [Scalable distributed storage on compute nodes](https://www.reddit.com/r/devops/comments/163ueq3/scalable_distributed_storage_on_compute_nodes/) | SiurbliuMeistrs | 1 |
