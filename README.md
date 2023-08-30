@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Platform Engineering Landmines](https://www.reddit.com/r/devops/comments/163y65b/platform_engineering_landmines/) | SharpEndss | 90 |
-| [software engineering for devops](https://www.reddit.com/r/devops/comments/164e6b5/software_engineering_for_devops/) | MDD_9972 | 6 |
-| [Our AMA is LIVE: Hi, we’re the Bitwarden Secrets Manager team. Ask us anything!](https://www.reddit.com/r/devops/comments/163phkh/our_ama_is_live_hi_were_the_bitwarden_secrets/) | sj-bitwarden | 3 |
-| [Has anyone tried Microsoft dev box?](https://www.reddit.com/r/devops/comments/163ndzc/has_anyone_tried_microsoft_dev_box/) | sardaerian | 3 |
-| [Collecting certs as Staff eng? Is this even the way to go?](https://www.reddit.com/r/devops/comments/163vg7j/collecting_certs_as_staff_eng_is_this_even_the/) | whatwhatwhat56 | 3 |
-| [Centralized vs Local Secret Manager](https://www.reddit.com/r/devops/comments/164bu3a/centralized_vs_local_secret_manager/) | mikeeltiburon | 3 |
-| [System to keep track of DevOps tasks?](https://www.reddit.com/r/devops/comments/164g8xc/system_to_keep_track_of_devops_tasks/) | romeozor | 2 |
-| [IaC in Feature Branches](https://www.reddit.com/r/devops/comments/163q6vp/iac_in_feature_branches/) | miraculix1 | 2 |
-| [how has AI changed your programming experience?](https://www.reddit.com/r/devops/comments/163q84s/how_has_ai_changed_your_programming_experience/) | UmbracoCMS | 1 |
-| [Scalable distributed storage on compute nodes](https://www.reddit.com/r/devops/comments/163ueq3/scalable_distributed_storage_on_compute_nodes/) | SiurbliuMeistrs | 1 |
+| [I'm gonna lose it on some devs](https://www.reddit.com/r/devops/comments/164jdfe/im_gonna_lose_it_on_some_devs/) | LandADevOpsJob | 146 |
+| [Running Kubernetes Onprem. How do I get good at debugging issues.](https://www.reddit.com/r/devops/comments/164ldse/running_kubernetes_onprem_how_do_i_get_good_at/) | imbeback | 10 |
+| [gitnr - CLI tool to search and generate .gitignore files from templates](https://www.reddit.com/r/devops/comments/1658us9/gitnr_cli_tool_to_search_and_generate_gitignore/) | TheSaasDev | 5 |
+| [Super noob question about secret management](https://www.reddit.com/r/devops/comments/165c6w6/super_noob_question_about_secret_management/) | Bamje | 5 |
+| [Does the concept of “upsert” exist in devops? (But for code)](https://www.reddit.com/r/devops/comments/16529f0/does_the_concept_of_upsert_exist_in_devops_but/) | generic-d-engineer | 5 |
+| [event queue (pubsub) message architecture](https://www.reddit.com/r/devops/comments/164hy4o/event_queue_pubsub_message_architecture/) | derp2014 | 3 |
+| [Deploying Digitalocean app by code/command](https://www.reddit.com/r/devops/comments/164jnt5/deploying_digitalocean_app_by_codecommand/) | thenaughtyhand | 3 |
+| [[Baremetal] Treat host distro installation as a container image?](https://www.reddit.com/r/devops/comments/164lgh4/baremetal_treat_host_distro_installation_as_a/) | GrabbenD | 2 |
+| [Getting a position as a jr DevOps engineer.](https://www.reddit.com/r/devops/comments/164zn8s/getting_a_position_as_a_jr_devops_engineer/) | Pelayo1991 | 2 |
+| [Advice needed on managing 4 servers centrally](https://www.reddit.com/r/devops/comments/164up3m/advice_needed_on_managing_4_servers_centrally/) | NYMFET-HUNT___uh_nvm | 2 |
