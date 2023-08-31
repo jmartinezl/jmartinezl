@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I'm gonna lose it on some devs](https://www.reddit.com/r/devops/comments/164jdfe/im_gonna_lose_it_on_some_devs/) | LandADevOpsJob | 146 |
-| [Running Kubernetes Onprem. How do I get good at debugging issues.](https://www.reddit.com/r/devops/comments/164ldse/running_kubernetes_onprem_how_do_i_get_good_at/) | imbeback | 10 |
-| [gitnr - CLI tool to search and generate .gitignore files from templates](https://www.reddit.com/r/devops/comments/1658us9/gitnr_cli_tool_to_search_and_generate_gitignore/) | TheSaasDev | 5 |
-| [Super noob question about secret management](https://www.reddit.com/r/devops/comments/165c6w6/super_noob_question_about_secret_management/) | Bamje | 5 |
-| [Does the concept of “upsert” exist in devops? (But for code)](https://www.reddit.com/r/devops/comments/16529f0/does_the_concept_of_upsert_exist_in_devops_but/) | generic-d-engineer | 5 |
-| [event queue (pubsub) message architecture](https://www.reddit.com/r/devops/comments/164hy4o/event_queue_pubsub_message_architecture/) | derp2014 | 3 |
-| [Deploying Digitalocean app by code/command](https://www.reddit.com/r/devops/comments/164jnt5/deploying_digitalocean_app_by_codecommand/) | thenaughtyhand | 3 |
-| [[Baremetal] Treat host distro installation as a container image?](https://www.reddit.com/r/devops/comments/164lgh4/baremetal_treat_host_distro_installation_as_a/) | GrabbenD | 2 |
-| [Getting a position as a jr DevOps engineer.](https://www.reddit.com/r/devops/comments/164zn8s/getting_a_position_as_a_jr_devops_engineer/) | Pelayo1991 | 2 |
-| [Advice needed on managing 4 servers centrally](https://www.reddit.com/r/devops/comments/164up3m/advice_needed_on_managing_4_servers_centrally/) | NYMFET-HUNT___uh_nvm | 2 |
+| [Thoughts on some IT certs to break into Devops?](https://www.reddit.com/r/devops/comments/165nkrl/thoughts_on_some_it_certs_to_break_into_devops/) | Smokeedopee | 45 |
+| [Exploring secure external NAS access options amid privacy concerns](https://www.reddit.com/r/devops/comments/165qta7/exploring_secure_external_nas_access_options_amid/) | ro5s6wzq | 34 |
+| [What do you think about home assiements as an interview stage?](https://www.reddit.com/r/devops/comments/165qxf0/what_do_you_think_about_home_assiements_as_an/) | Smooth_Inevitable_51 | 17 |
+| [Are there best practices and names for cloud architecture diagrams?](https://www.reddit.com/r/devops/comments/1664mem/are_there_best_practices_and_names_for_cloud/) | mr_iberry | 7 |
+| [The ruthless forking of Terraform](https://www.reddit.com/r/devops/comments/165ibpr/the_ruthless_forking_of_terraform/) | shai-ber | 6 |
+| [GitHub Actions Runners For My CD](https://www.reddit.com/r/devops/comments/165rewc/github_actions_runners_for_my_cd/) | Letmesleeplol | 3 |
+| [Do you use an API gateway to route outbound traffic as well?](https://www.reddit.com/r/devops/comments/165h8uc/do_you_use_an_api_gateway_to_route_outbound/) | automatonv1 | 3 |
+| [As an infant in the dev game, can anyone explain what could have possibly gone so wrong to cause the app Coffee Meets Bagel (10M signups), to be completely down for over 3 days with the outage expected to last until the end of the week?](https://www.reddit.com/r/devops/comments/165x9lp/as_an_infant_in_the_dev_game_can_anyone_explain/) | sardoa11 | 3 |
+| [5-Minute Gameplay with Helmfile KCL Plugin for Easy Management of Kubernetes Helm Charts](https://www.reddit.com/r/devops/comments/1668w03/5minute_gameplay_with_helmfile_kcl_plugin_for/) | Peefy- | 3 |
+| [how to specialize further into the field?](https://www.reddit.com/r/devops/comments/165hym2/how_to_specialize_further_into_the_field/) | waste2muchtime | 2 |
