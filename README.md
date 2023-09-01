@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Thoughts on some IT certs to break into Devops?](https://www.reddit.com/r/devops/comments/165nkrl/thoughts_on_some_it_certs_to_break_into_devops/) | Smokeedopee | 45 |
-| [Exploring secure external NAS access options amid privacy concerns](https://www.reddit.com/r/devops/comments/165qta7/exploring_secure_external_nas_access_options_amid/) | ro5s6wzq | 34 |
-| [What do you think about home assiements as an interview stage?](https://www.reddit.com/r/devops/comments/165qxf0/what_do_you_think_about_home_assiements_as_an/) | Smooth_Inevitable_51 | 17 |
-| [Are there best practices and names for cloud architecture diagrams?](https://www.reddit.com/r/devops/comments/1664mem/are_there_best_practices_and_names_for_cloud/) | mr_iberry | 7 |
-| [The ruthless forking of Terraform](https://www.reddit.com/r/devops/comments/165ibpr/the_ruthless_forking_of_terraform/) | shai-ber | 6 |
-| [GitHub Actions Runners For My CD](https://www.reddit.com/r/devops/comments/165rewc/github_actions_runners_for_my_cd/) | Letmesleeplol | 3 |
-| [Do you use an API gateway to route outbound traffic as well?](https://www.reddit.com/r/devops/comments/165h8uc/do_you_use_an_api_gateway_to_route_outbound/) | automatonv1 | 3 |
-| [As an infant in the dev game, can anyone explain what could have possibly gone so wrong to cause the app Coffee Meets Bagel (10M signups), to be completely down for over 3 days with the outage expected to last until the end of the week?](https://www.reddit.com/r/devops/comments/165x9lp/as_an_infant_in_the_dev_game_can_anyone_explain/) | sardoa11 | 3 |
-| [5-Minute Gameplay with Helmfile KCL Plugin for Easy Management of Kubernetes Helm Charts](https://www.reddit.com/r/devops/comments/1668w03/5minute_gameplay_with_helmfile_kcl_plugin_for/) | Peefy- | 3 |
-| [how to specialize further into the field?](https://www.reddit.com/r/devops/comments/165hym2/how_to_specialize_further_into_the_field/) | waste2muchtime | 2 |
+| [AWS releases support for built-in Kubernetes network policy enforcement for AWS EKS](https://www.reddit.com/r/devops/comments/166dj9c/aws_releases_support_for_builtin_kubernetes/) | comandl | 65 |
+| [How do you manage the gap between devs and sysadmins?](https://www.reddit.com/r/devops/comments/166c9fj/how_do_you_manage_the_gap_between_devs_and/) | AemonQE | 33 |
+| [OpenObserve vs ElasticSearch vs Loki (cloud)](https://www.reddit.com/r/devops/comments/1674nc0/openobserve_vs_elasticsearch_vs_loki_cloud/) | TrafficKey5286 | 7 |
+| [Best podcasts, newsletters, people to subscribe to?](https://www.reddit.com/r/devops/comments/166bpoi/best_podcasts_newsletters_people_to_subscribe_to/) | rickstevesFTW | 4 |
+| [log analysis using grep](https://www.reddit.com/r/devops/comments/166y554/log_analysis_using_grep/) | mraza007 | 3 |
+| [Best practice for available amis for teams to use](https://www.reddit.com/r/devops/comments/166cjzx/best_practice_for_available_amis_for_teams_to_use/) | ViperousTigerz | 3 |
+| [GitHub Actions Semantic Release](https://www.reddit.com/r/devops/comments/166rvda/github_actions_semantic_release/) | mirusky | 2 |
+| [Encountering VPC Endpoint Rate Limits](https://www.reddit.com/r/devops/comments/166ctxq/encountering_vpc_endpoint_rate_limits/) | BrokenKage | 2 |
+| [Azure - AppService API call to VM gives Target Machine Actively Refused](https://www.reddit.com/r/devops/comments/166kprc/azure_appservice_api_call_to_vm_gives_target/) | nathom791 | 2 |
+| [A way to check that app.properties contains variables and no hardcoded values](https://www.reddit.com/r/devops/comments/166bli0/a_way_to_check_that_appproperties_contains/) | nawfalelhaymer | 2 |
