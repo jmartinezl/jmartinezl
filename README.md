@@ -44,13 +44,8 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I'm getting no callbacks, please rate my resume if you have the time, much appreciated thank you!](https://www.reddit.com/r/devops/comments/167o72h/im_getting_no_callbacks_please_rate_my_resume_if/) | __nom__ | 10 |
-| [Building a Data Lakehouse using Apache Iceberg and MinIO](https://www.reddit.com/r/devops/comments/167lsi7/building_a_data_lakehouse_using_apache_iceberg/) | swodtke | 6 |
-| [AWS Service Overload in Resume?](https://www.reddit.com/r/devops/comments/167zrvf/aws_service_overload_in_resume/) | exact-approximate | 3 |
-| [Is there a way to measure the traffic to a Windows service to see if it's able to handle all the requests we're sending to it?](https://www.reddit.com/r/devops/comments/167b6kg/is_there_a_way_to_measure_the_traffic_to_a/) | cakemachines | 2 |
-| [OpenTelemetry](https://www.reddit.com/r/devops/comments/1678ai9/opentelemetry/) | AquaBeTaOp | 1 |
-| [How do you find what the WinRM - IIS Web App Management task in Azure Devops do exactly?](https://www.reddit.com/r/devops/comments/167b4ef/how_do_you_find_what_the_winrm_iis_web_app/) | cakemachines | 1 |
-| [java crash course recommendation?](https://www.reddit.com/r/devops/comments/167jxob/java_crash_course_recommendation/) | respondstolongpauses | 0 |
-| [Write effective resume for dev ops](https://www.reddit.com/r/devops/comments/167ifk3/write_effective_resume_for_dev_ops/) | Titanguru7 | 0 |
-| [Write effective resume for dev ops](https://www.reddit.com/r/devops/comments/167ifjs/write_effective_resume_for_dev_ops/) | Titanguru7 | 0 |
-| [Example Microservice Application like ACME Fitness Demo but scaling?](https://www.reddit.com/r/devops/comments/167igxh/example_microservice_application_like_acme/) | YeNerdLifeChoseMe | 0 |
+| [How do you manage TLS/SSL certificates in development and production?](https://www.reddit.com/r/devops/comments/168bsc7/how_do_you_manage_tlsssl_certificates_in/) | ilyasKerbal | 50 |
+| [Approach to take when non GDPR compliant (and management doesn't care)](https://www.reddit.com/r/devops/comments/168smie/approach_to_take_when_non_gdpr_compliant_and/) | derp2014 | 9 |
+| [How are you planning AWS Reservations?](https://www.reddit.com/r/devops/comments/168r9sj/how_are_you_planning_aws_reservations/) | gp42 | 5 |
+| [Which is the best platform to learn Azure Devops ?](https://www.reddit.com/r/devops/comments/168bwk5/which_is_the_best_platform_to_learn_azure_devops/) | ContractPurple5563 | 2 |
+| [GPT 4 write a Jenkins build pipeline for a custom Kubernetes controller in Golang, to have true "dynamic max replicas" based on real-time node capacity, to read cluster capacity from a parameter file exported by shell script and adjust the HPA maxReplicas value on the fly.](https://www.reddit.com/r/devops/comments/168jetm/gpt_4_write_a_jenkins_build_pipeline_for_a_custom/) | Independent_View8904 | 0 |
