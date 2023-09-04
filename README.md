@@ -44,8 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you manage TLS/SSL certificates in development and production?](https://www.reddit.com/r/devops/comments/168bsc7/how_do_you_manage_tlsssl_certificates_in/) | ilyasKerbal | 50 |
-| [Approach to take when non GDPR compliant (and management doesn't care)](https://www.reddit.com/r/devops/comments/168smie/approach_to_take_when_non_gdpr_compliant_and/) | derp2014 | 9 |
-| [How are you planning AWS Reservations?](https://www.reddit.com/r/devops/comments/168r9sj/how_are_you_planning_aws_reservations/) | gp42 | 5 |
-| [Which is the best platform to learn Azure Devops ?](https://www.reddit.com/r/devops/comments/168bwk5/which_is_the_best_platform_to_learn_azure_devops/) | ContractPurple5563 | 2 |
-| [GPT 4 write a Jenkins build pipeline for a custom Kubernetes controller in Golang, to have true "dynamic max replicas" based on real-time node capacity, to read cluster capacity from a parameter file exported by shell script and adjust the HPA maxReplicas value on the fly.](https://www.reddit.com/r/devops/comments/168jetm/gpt_4_write_a_jenkins_build_pipeline_for_a_custom/) | Independent_View8904 | 0 |
+| [Is knowing Terraform, Azure, GitHub Actions enough to find a Devops job?](https://www.reddit.com/r/devops/comments/1696l6w/is_knowing_terraform_azure_github_actions_enough/) | robin1007 | 50 |
+| [I started a DevOps consulting company and haven't sold anything.](https://www.reddit.com/r/devops/comments/169a9yy/i_started_a_devops_consulting_company_and_havent/) | Feisty-Stretch5212 | 22 |
+| [Redis proxy?](https://www.reddit.com/r/devops/comments/169a33h/redis_proxy/) | YeNerdLifeChoseMe | 3 |
+| [Multicloud machine learning](https://www.reddit.com/r/devops/comments/168vk5u/multicloud_machine_learning/) | remek | 3 |
+| [Multi Environment GitLab w/ FluxCD deployment strategy](https://www.reddit.com/r/devops/comments/1690wml/multi_environment_gitlab_w_fluxcd_deployment/) | nazzjr | 3 |
+| [Metrics classification](https://www.reddit.com/r/devops/comments/168v8nd/metrics_classification/) | inthesum | 2 |
+| [Just dropped Webmesh v0.4.1 with some fun new features](https://www.reddit.com/r/devops/comments/168xgae/just_dropped_webmesh_v041_with_some_fun_new/) | jews4beer | 1 |
+| [Help with Azure Frontdoor (Or any other DNS) with Terraform in Disaster Recovery Scenarios with Long RTOs](https://www.reddit.com/r/devops/comments/169npn1/help_with_azure_frontdoor_or_any_other_dns_with/) | Olemus | 1 |
+| [Why are my input boxes not allowing me to type in them on the mobile website?](https://www.reddit.com/r/devops/comments/169popb/why_are_my_input_boxes_not_allowing_me_to_type_in/) | yung-drilla | 0 |
+| [Which is better for a devops aspirant?](https://www.reddit.com/r/devops/comments/168xs81/which_is_better_for_a_devops_aspirant/) | nileyyy_ | 0 |
