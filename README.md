@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is knowing Terraform, Azure, GitHub Actions enough to find a Devops job?](https://www.reddit.com/r/devops/comments/1696l6w/is_knowing_terraform_azure_github_actions_enough/) | robin1007 | 50 |
-| [I started a DevOps consulting company and haven't sold anything.](https://www.reddit.com/r/devops/comments/169a9yy/i_started_a_devops_consulting_company_and_havent/) | Feisty-Stretch5212 | 22 |
-| [Redis proxy?](https://www.reddit.com/r/devops/comments/169a33h/redis_proxy/) | YeNerdLifeChoseMe | 3 |
-| [Multicloud machine learning](https://www.reddit.com/r/devops/comments/168vk5u/multicloud_machine_learning/) | remek | 3 |
-| [Multi Environment GitLab w/ FluxCD deployment strategy](https://www.reddit.com/r/devops/comments/1690wml/multi_environment_gitlab_w_fluxcd_deployment/) | nazzjr | 3 |
-| [Metrics classification](https://www.reddit.com/r/devops/comments/168v8nd/metrics_classification/) | inthesum | 2 |
-| [Just dropped Webmesh v0.4.1 with some fun new features](https://www.reddit.com/r/devops/comments/168xgae/just_dropped_webmesh_v041_with_some_fun_new/) | jews4beer | 1 |
-| [Help with Azure Frontdoor (Or any other DNS) with Terraform in Disaster Recovery Scenarios with Long RTOs](https://www.reddit.com/r/devops/comments/169npn1/help_with_azure_frontdoor_or_any_other_dns_with/) | Olemus | 1 |
-| [Why are my input boxes not allowing me to type in them on the mobile website?](https://www.reddit.com/r/devops/comments/169popb/why_are_my_input_boxes_not_allowing_me_to_type_in/) | yung-drilla | 0 |
-| [Which is better for a devops aspirant?](https://www.reddit.com/r/devops/comments/168xs81/which_is_better_for_a_devops_aspirant/) | nileyyy_ | 0 |
+| [One docker registry for all environments vs one per each environment? when to use what and why?](https://www.reddit.com/r/devops/comments/16a9p4q/one_docker_registry_for_all_environments_vs_one/) | allwritesri | 34 |
+| [What tooling do you use for your own environment?](https://www.reddit.com/r/devops/comments/169wpeq/what_tooling_do_you_use_for_your_own_environment/) | sp_dev_guy | 7 |
+| [tests general availability in terraform 1.6](https://www.reddit.com/r/devops/comments/16ab9nm/tests_general_availability_in_terraform_16/) | b0000000000000t | 5 |
+| [Meet with Alaz: "Canva" of Observability.](https://www.reddit.com/r/devops/comments/169w8yi/meet_with_alaz_canva_of_observability/) | krstCB | 5 |
+| [How to switch to a ModSecurity WAF alternative before it is EOL in March 2024?](https://www.reddit.com/r/devops/comments/169uwl4/how_to_switch_to_a_modsecurity_waf_alternative/) | onirisapp | 3 |
+| [Speed Up Java Startup on Kubernetes with CRaC](https://www.reddit.com/r/devops/comments/16ahkmd/speed_up_java_startup_on_kubernetes_with_crac/) | piotr_minkowski | 2 |
+| [Is it normal if your DevOps engineer swears at your mistakes?](https://www.reddit.com/r/devops/comments/16am037/is_it_normal_if_your_devops_engineer_swears_at/) | IamOkei | 2 |
+| [Keep - open-source GitHub Action for your monitoring tools](https://www.reddit.com/r/devops/comments/16agbgi/keep_opensource_github_action_for_your_monitoring/) | SnooComics9516 | 0 |
+| [DevOps Interview Live Programming Assignment](https://www.reddit.com/r/devops/comments/16ae6en/devops_interview_live_programming_assignment/) | openwidecomeinside | 0 |
+| [A Collection of Docker Images To Solve All Your Debugging Needs](https://www.reddit.com/r/devops/comments/16a11uz/a_collection_of_docker_images_to_solve_all_your/) | Am4t3uR | 0 |
