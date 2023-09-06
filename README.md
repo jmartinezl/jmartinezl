@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [One docker registry for all environments vs one per each environment? when to use what and why?](https://www.reddit.com/r/devops/comments/16a9p4q/one_docker_registry_for_all_environments_vs_one/) | allwritesri | 34 |
-| [What tooling do you use for your own environment?](https://www.reddit.com/r/devops/comments/169wpeq/what_tooling_do_you_use_for_your_own_environment/) | sp_dev_guy | 7 |
-| [tests general availability in terraform 1.6](https://www.reddit.com/r/devops/comments/16ab9nm/tests_general_availability_in_terraform_16/) | b0000000000000t | 5 |
-| [Meet with Alaz: "Canva" of Observability.](https://www.reddit.com/r/devops/comments/169w8yi/meet_with_alaz_canva_of_observability/) | krstCB | 5 |
-| [How to switch to a ModSecurity WAF alternative before it is EOL in March 2024?](https://www.reddit.com/r/devops/comments/169uwl4/how_to_switch_to_a_modsecurity_waf_alternative/) | onirisapp | 3 |
-| [Speed Up Java Startup on Kubernetes with CRaC](https://www.reddit.com/r/devops/comments/16ahkmd/speed_up_java_startup_on_kubernetes_with_crac/) | piotr_minkowski | 2 |
-| [Is it normal if your DevOps engineer swears at your mistakes?](https://www.reddit.com/r/devops/comments/16am037/is_it_normal_if_your_devops_engineer_swears_at/) | IamOkei | 2 |
-| [Keep - open-source GitHub Action for your monitoring tools](https://www.reddit.com/r/devops/comments/16agbgi/keep_opensource_github_action_for_your_monitoring/) | SnooComics9516 | 0 |
-| [DevOps Interview Live Programming Assignment](https://www.reddit.com/r/devops/comments/16ae6en/devops_interview_live_programming_assignment/) | openwidecomeinside | 0 |
-| [A Collection of Docker Images To Solve All Your Debugging Needs](https://www.reddit.com/r/devops/comments/16a11uz/a_collection_of_docker_images_to_solve_all_your/) | Am4t3uR | 0 |
+| [Terraform Fork OpenTF Repository is now Public](https://www.reddit.com/r/devops/comments/16aqvox/terraform_fork_opentf_repository_is_now_public/) | cube2222 | 162 |
+| [Daily Stand Up has lost its value.](https://www.reddit.com/r/devops/comments/16aoj08/daily_stand_up_has_lost_its_value/) | LandADevOpsJob | 132 |
+| [Do you see a post-container era?](https://www.reddit.com/r/devops/comments/16b2uui/do_you_see_a_postcontainer_era/) | sholderbuffalo | 30 |
+| [How does your team decide what tech to use for projects?](https://www.reddit.com/r/devops/comments/16awzs8/how_does_your_team_decide_what_tech_to_use_for/) | VulgarSolicitation | 5 |
+| [Advice on first steps to moving into IaC](https://www.reddit.com/r/devops/comments/16au0gx/advice_on_first_steps_to_moving_into_iac/) | Vanthian | 4 |
+| [What would be the best topics to give webinars on as a devops engineer ?](https://www.reddit.com/r/devops/comments/16bbsyf/what_would_be_the_best_topics_to_give_webinars_on/) | kalomanxe | 3 |
+| [Postgres Digital Ocean Managed Database vs AWS RDS? Any info from anyone which is the best?](https://www.reddit.com/r/devops/comments/16b99wi/postgres_digital_ocean_managed_database_vs_aws/) | GantorTheSlayor | 3 |
+| [Seeking advice on hosting multiple sites from a VM](https://www.reddit.com/r/devops/comments/16bg1t5/seeking_advice_on_hosting_multiple_sites_from_a_vm/) | cleveralibi | 2 |
+| [Run command on Azure Container boot](https://www.reddit.com/r/devops/comments/16axgsb/run_command_on_azure_container_boot/) | gibranlp | 2 |
+| [Real Use Case ?](https://www.reddit.com/r/devops/comments/16bhhhg/real_use_case/) | ThePathOfKami | 2 |
