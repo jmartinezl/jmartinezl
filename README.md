@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I feel like I'm not getting paid enough](https://www.reddit.com/r/devops/comments/16bwa22/i_feel_like_im_not_getting_paid_enough/) | LandADevOpsJob | 49 |
-| [How are you handling Mac building/testing?](https://www.reddit.com/r/devops/comments/16bty0z/how_are_you_handling_mac_buildingtesting/) | fn0000rd | 8 |
-| [How best to develop management skills for senior devops roles?](https://www.reddit.com/r/devops/comments/16bskic/how_best_to_develop_management_skills_for_senior/) | SillyRelationship424 | 7 |
-| [Tips on partitioning the Filesystem during AMI build for CIS?](https://www.reddit.com/r/devops/comments/16blsyz/tips_on_partitioning_the_filesystem_during_ami/) | Prosk8er735 | 5 |
-| [How many environments is enough?](https://www.reddit.com/r/devops/comments/16carej/how_many_environments_is_enough/) | ellensen | 4 |
-| [[BLOG] Different ways to do automated testing](https://www.reddit.com/r/devops/comments/16bpm26/blog_different_ways_to_do_automated_testing/) | AutoSysOps | 2 |
-| [Running DinD or similar setup in k8s 1.24+ for unit tests during CI flow](https://www.reddit.com/r/devops/comments/16cdhz7/running_dind_or_similar_setup_in_k8s_124_for_unit/) | TheNormalGuy_ | 2 |
-| [KCL Biweekly Newsletter | Kubernetes Operator, More IDE Extensions and v0.5.6 are out!](https://www.reddit.com/r/devops/comments/16c5a2z/kcl_biweekly_newsletter_kubernetes_operator_more/) | Peefy- | 2 |
-| [Frontend Dev switching to DevOps position](https://www.reddit.com/r/devops/comments/16c5enp/frontend_dev_switching_to_devops_position/) | davidazuaje | 2 |
-| [Early testers, k8s compatibility testing](https://www.reddit.com/r/devops/comments/16bxphd/early_testers_k8s_compatibility_testing/) | aaw588 | 2 |
+| [Recently failed a DevOps Interview](https://www.reddit.com/r/devops/comments/16clc8j/recently_failed_a_devops_interview/) | cleveralibi | 57 |
+| [My Ten-Year DevOps Product Welcomed Its First Commercial Customer](https://www.reddit.com/r/devops/comments/16cy035/my_tenyear_devops_product_welcomed_its_first/) | robinshen | 54 |
+| [Tool like ansible that can self manage/doesnt require a master node.](https://www.reddit.com/r/devops/comments/16ciik1/tool_like_ansible_that_can_self_managedoesnt/) | buckypimpin | 8 |
+| [for devops roles, is using ai to generate code accepted or frowned upon?](https://www.reddit.com/r/devops/comments/16cmxph/for_devops_roles_is_using_ai_to_generate_code/) | jert3 | 4 |
+| [Single Pipeline to Deploy DEV/TEST/PRD or different Pipelines?](https://www.reddit.com/r/devops/comments/16cpi45/single_pipeline_to_deploy_devtestprd_or_different/) | TyLeo3 | 4 |
+| [Where can I learn to design pipelines?](https://www.reddit.com/r/devops/comments/16cwqfu/where_can_i_learn_to_design_pipelines/) | steerflesh | 3 |
+| [Moving Jenkins Pipeline to Azure Devops…](https://www.reddit.com/r/devops/comments/16cy8qp/moving_jenkins_pipeline_to_azure_devops/) | ezio0630 | 2 |
+| [DevOps market europe](https://www.reddit.com/r/devops/comments/16d51j7/devops_market_europe/) | Specific-Constant-20 | 2 |
+| [Any AWS video showing complete infra setup with Kubernetes &amp; networking(end to end)](https://www.reddit.com/r/devops/comments/16cno1v/any_aws_video_showing_complete_infra_setup_with/) | deathkillerank | 2 |
+| [SMTP relay (or managed service) with modern authentication and authorization options](https://www.reddit.com/r/devops/comments/16com99/smtp_relay_or_managed_service_with_modern/) | smarzzz | 1 |
