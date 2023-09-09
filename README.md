@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Recently failed a DevOps Interview](https://www.reddit.com/r/devops/comments/16clc8j/recently_failed_a_devops_interview/) | cleveralibi | 57 |
-| [My Ten-Year DevOps Product Welcomed Its First Commercial Customer](https://www.reddit.com/r/devops/comments/16cy035/my_tenyear_devops_product_welcomed_its_first/) | robinshen | 54 |
-| [Tool like ansible that can self manage/doesnt require a master node.](https://www.reddit.com/r/devops/comments/16ciik1/tool_like_ansible_that_can_self_managedoesnt/) | buckypimpin | 8 |
-| [for devops roles, is using ai to generate code accepted or frowned upon?](https://www.reddit.com/r/devops/comments/16cmxph/for_devops_roles_is_using_ai_to_generate_code/) | jert3 | 4 |
-| [Single Pipeline to Deploy DEV/TEST/PRD or different Pipelines?](https://www.reddit.com/r/devops/comments/16cpi45/single_pipeline_to_deploy_devtestprd_or_different/) | TyLeo3 | 4 |
-| [Where can I learn to design pipelines?](https://www.reddit.com/r/devops/comments/16cwqfu/where_can_i_learn_to_design_pipelines/) | steerflesh | 3 |
-| [Moving Jenkins Pipeline to Azure Devops…](https://www.reddit.com/r/devops/comments/16cy8qp/moving_jenkins_pipeline_to_azure_devops/) | ezio0630 | 2 |
-| [DevOps market europe](https://www.reddit.com/r/devops/comments/16d51j7/devops_market_europe/) | Specific-Constant-20 | 2 |
-| [Any AWS video showing complete infra setup with Kubernetes &amp; networking(end to end)](https://www.reddit.com/r/devops/comments/16cno1v/any_aws_video_showing_complete_infra_setup_with/) | deathkillerank | 2 |
-| [SMTP relay (or managed service) with modern authentication and authorization options](https://www.reddit.com/r/devops/comments/16com99/smtp_relay_or_managed_service_with_modern/) | smarzzz | 1 |
+| [Is this authentication method safe and sane?](https://www.reddit.com/r/devops/comments/16dqkhu/is_this_authentication_method_safe_and_sane/) | Barbacamanitu00 | 13 |
+| [Serous existential crisis](https://www.reddit.com/r/devops/comments/16e27jk/serous_existential_crisis/) | rockmegns | 6 |
+| [Config.tips for tips and tricks on all things config](https://www.reddit.com/r/devops/comments/16d8x83/configtips_for_tips_and_tricks_on_all_things/) | Ponicode | 5 |
+| [Any site to practise log parsing/SRE style scripting questions like leetcode for DS Algo?](https://www.reddit.com/r/devops/comments/16dkjxd/any_site_to_practise_log_parsingsre_style/) | Austinto | 4 |
+| [Good Portfolio Projects?](https://www.reddit.com/r/devops/comments/16d9mpb/good_portfolio_projects/) | Daniel_RMR | 3 |
+| [Infrastructure templates](https://www.reddit.com/r/devops/comments/16da5mv/infrastructure_templates/) | jerguslejko | 2 |
+| [Azure Kubernetes Review App flow with Github Actions](https://www.reddit.com/r/devops/comments/16db6i1/azure_kubernetes_review_app_flow_with_github/) | Kpervs | 2 |
+| [Where does Ansible, Jinkins, and Terraform fall in your stack?](https://www.reddit.com/r/devops/comments/16dmxts/where_does_ansible_jinkins_and_terraform_fall_in/) | Heavy-Celebration | 0 |
+| [Simple SSH Manager - A go cli tool to effortlessly manage your ssh configs](https://www.reddit.com/r/devops/comments/16dk490/simple_ssh_manager_a_go_cli_tool_to_effortlessly/) | Elliot40404 | 0 |
+| [Qr codes](https://www.reddit.com/r/devops/comments/16dhde7/qr_codes/) | HideyoshiSokiYuki | 0 |
