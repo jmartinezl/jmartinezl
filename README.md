@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is this authentication method safe and sane?](https://www.reddit.com/r/devops/comments/16dqkhu/is_this_authentication_method_safe_and_sane/) | Barbacamanitu00 | 13 |
-| [Serous existential crisis](https://www.reddit.com/r/devops/comments/16e27jk/serous_existential_crisis/) | rockmegns | 6 |
-| [Config.tips for tips and tricks on all things config](https://www.reddit.com/r/devops/comments/16d8x83/configtips_for_tips_and_tricks_on_all_things/) | Ponicode | 5 |
-| [Any site to practise log parsing/SRE style scripting questions like leetcode for DS Algo?](https://www.reddit.com/r/devops/comments/16dkjxd/any_site_to_practise_log_parsingsre_style/) | Austinto | 4 |
-| [Good Portfolio Projects?](https://www.reddit.com/r/devops/comments/16d9mpb/good_portfolio_projects/) | Daniel_RMR | 3 |
-| [Infrastructure templates](https://www.reddit.com/r/devops/comments/16da5mv/infrastructure_templates/) | jerguslejko | 2 |
-| [Azure Kubernetes Review App flow with Github Actions](https://www.reddit.com/r/devops/comments/16db6i1/azure_kubernetes_review_app_flow_with_github/) | Kpervs | 2 |
-| [Where does Ansible, Jinkins, and Terraform fall in your stack?](https://www.reddit.com/r/devops/comments/16dmxts/where_does_ansible_jinkins_and_terraform_fall_in/) | Heavy-Celebration | 0 |
-| [Simple SSH Manager - A go cli tool to effortlessly manage your ssh configs](https://www.reddit.com/r/devops/comments/16dk490/simple_ssh_manager_a_go_cli_tool_to_effortlessly/) | Elliot40404 | 0 |
-| [Qr codes](https://www.reddit.com/r/devops/comments/16dhde7/qr_codes/) | HideyoshiSokiYuki | 0 |
+| [How often do you review your dependencies?](https://www.reddit.com/r/devops/comments/16ea72x/how_often_do_you_review_your_dependencies/) | edo_44 | 33 |
+| [shift left vs shift everywhere](https://www.reddit.com/r/devops/comments/16e5kxh/shift_left_vs_shift_everywhere/) | zapzanagan | 8 |
+| [Advice on how to deal with this?](https://www.reddit.com/r/devops/comments/16e70j3/advice_on_how_to_deal_with_this/) | Vyalkuran | 8 |
+| [[Discussion] Best developer-experience (DX) PaaS solution?](https://www.reddit.com/r/devops/comments/16ewjyl/discussion_best_developerexperience_dx_paas/) | piavgh | 3 |
+| [Logrotate help](https://www.reddit.com/r/devops/comments/16eqbd8/logrotate_help/) | Lonesome_bday | 2 |
+| [How do you test your Jenkins pipeline?](https://www.reddit.com/r/devops/comments/16eqxl4/how_do_you_test_your_jenkins_pipeline/) | steerflesh | 2 |
+| [How do you create your own hypervisor service like EC2?](https://www.reddit.com/r/devops/comments/16ep5cc/how_do_you_create_your_own_hypervisor_service/) | cakemachines | 2 |
+| [Managing complex sets of environment variables - an approach](https://www.reddit.com/r/devops/comments/16eabsy/managing_complex_sets_of_environment_variables_an/) | munggoggo | 1 |
+| [Hi there folks, what is the sonarcloud of Devops repositories(helm charts, and manifest files) ??](https://www.reddit.com/r/devops/comments/16esayv/hi_there_folks_what_is_the_sonarcloud_of_devops/) | WhistlerBennet | 1 |
+| [Which certification should I do first?](https://www.reddit.com/r/devops/comments/16ekjf0/which_certification_should_i_do_first/) | cuber_dude | 0 |
