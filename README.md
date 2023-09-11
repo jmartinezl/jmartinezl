@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How often do you review your dependencies?](https://www.reddit.com/r/devops/comments/16ea72x/how_often_do_you_review_your_dependencies/) | edo_44 | 33 |
-| [shift left vs shift everywhere](https://www.reddit.com/r/devops/comments/16e5kxh/shift_left_vs_shift_everywhere/) | zapzanagan | 8 |
-| [Advice on how to deal with this?](https://www.reddit.com/r/devops/comments/16e70j3/advice_on_how_to_deal_with_this/) | Vyalkuran | 8 |
-| [[Discussion] Best developer-experience (DX) PaaS solution?](https://www.reddit.com/r/devops/comments/16ewjyl/discussion_best_developerexperience_dx_paas/) | piavgh | 3 |
-| [Logrotate help](https://www.reddit.com/r/devops/comments/16eqbd8/logrotate_help/) | Lonesome_bday | 2 |
-| [How do you test your Jenkins pipeline?](https://www.reddit.com/r/devops/comments/16eqxl4/how_do_you_test_your_jenkins_pipeline/) | steerflesh | 2 |
-| [How do you create your own hypervisor service like EC2?](https://www.reddit.com/r/devops/comments/16ep5cc/how_do_you_create_your_own_hypervisor_service/) | cakemachines | 2 |
-| [Managing complex sets of environment variables - an approach](https://www.reddit.com/r/devops/comments/16eabsy/managing_complex_sets_of_environment_variables_an/) | munggoggo | 1 |
-| [Hi there folks, what is the sonarcloud of Devops repositories(helm charts, and manifest files) ??](https://www.reddit.com/r/devops/comments/16esayv/hi_there_folks_what_is_the_sonarcloud_of_devops/) | WhistlerBennet | 1 |
-| [Which certification should I do first?](https://www.reddit.com/r/devops/comments/16ekjf0/which_certification_should_i_do_first/) | cuber_dude | 0 |
+| [Having a hard time working for being a 1st time dad.](https://www.reddit.com/r/devops/comments/16ez3yx/having_a_hard_time_working_for_being_a_1st_time/) | Head-Championship504 | 88 |
+| [For everyone here thats been on the job market, how has your experience been?](https://www.reddit.com/r/devops/comments/16fgiau/for_everyone_here_thats_been_on_the_job_market/) | ZoneFine888 | 37 |
+| [Manager asked me if I wanted to switch to SWE](https://www.reddit.com/r/devops/comments/16fnhaf/manager_asked_me_if_i_wanted_to_switch_to_swe/) | blueplutomonk | 14 |
+| [When was it deployed? (and other interesting questions)](https://www.reddit.com/r/devops/comments/16fjz2z/when_was_it_deployed_and_other_interesting/) | ghostsquad4 | 8 |
+| [Those who have chosen between Argo and Flux, which did you choose and why?](https://www.reddit.com/r/devops/comments/16fr3id/those_who_have_chosen_between_argo_and_flux_which/) | ebinsugewa | 4 |
+| [Resume Review for Fresh Grad](https://www.reddit.com/r/devops/comments/16flb53/resume_review_for_fresh_grad/) | Practical_Complex_72 | 2 |
+| [How does Mailerlite do it?](https://www.reddit.com/r/devops/comments/16fmo34/how_does_mailerlite_do_it/) | thepramodgeorge | 2 |
+| [Data Masking in Staging](https://www.reddit.com/r/devops/comments/16fqpsm/data_masking_in_staging/) | SnooSuggestions202 | 2 |
+| [Tell me what should I learn next as a tech support guy.](https://www.reddit.com/r/devops/comments/16fi7xh/tell_me_what_should_i_learn_next_as_a_tech/) | Playful-Ad6177 | 1 |
+| [tool recommendation](https://www.reddit.com/r/devops/comments/16f68jv/tool_recommendation/) | lev-13 | 0 |
