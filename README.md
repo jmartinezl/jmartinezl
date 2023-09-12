@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Having a hard time working for being a 1st time dad.](https://www.reddit.com/r/devops/comments/16ez3yx/having_a_hard_time_working_for_being_a_1st_time/) | Head-Championship504 | 88 |
-| [For everyone here thats been on the job market, how has your experience been?](https://www.reddit.com/r/devops/comments/16fgiau/for_everyone_here_thats_been_on_the_job_market/) | ZoneFine888 | 37 |
-| [Manager asked me if I wanted to switch to SWE](https://www.reddit.com/r/devops/comments/16fnhaf/manager_asked_me_if_i_wanted_to_switch_to_swe/) | blueplutomonk | 14 |
-| [When was it deployed? (and other interesting questions)](https://www.reddit.com/r/devops/comments/16fjz2z/when_was_it_deployed_and_other_interesting/) | ghostsquad4 | 8 |
-| [Those who have chosen between Argo and Flux, which did you choose and why?](https://www.reddit.com/r/devops/comments/16fr3id/those_who_have_chosen_between_argo_and_flux_which/) | ebinsugewa | 4 |
-| [Resume Review for Fresh Grad](https://www.reddit.com/r/devops/comments/16flb53/resume_review_for_fresh_grad/) | Practical_Complex_72 | 2 |
-| [How does Mailerlite do it?](https://www.reddit.com/r/devops/comments/16fmo34/how_does_mailerlite_do_it/) | thepramodgeorge | 2 |
-| [Data Masking in Staging](https://www.reddit.com/r/devops/comments/16fqpsm/data_masking_in_staging/) | SnooSuggestions202 | 2 |
-| [Tell me what should I learn next as a tech support guy.](https://www.reddit.com/r/devops/comments/16fi7xh/tell_me_what_should_i_learn_next_as_a_tech/) | Playful-Ad6177 | 1 |
-| [tool recommendation](https://www.reddit.com/r/devops/comments/16f68jv/tool_recommendation/) | lev-13 | 0 |
+| [Is it odd that our manager records every single one of our ~30min daily standups? lol](https://www.reddit.com/r/devops/comments/16g4oxd/is_it_odd_that_our_manager_records_every_single/) | swiftsparky | 110 |
+| [How do you deal with operational fear from the team getting burned?](https://www.reddit.com/r/devops/comments/16fx7jr/how_do_you_deal_with_operational_fear_from_the/) | tekno45 | 29 |
+| [How do you go against bad practices?](https://www.reddit.com/r/devops/comments/16gmaz3/how_do_you_go_against_bad_practices/) | AbdexD | 11 |
+| [From intermediate to advanced?](https://www.reddit.com/r/devops/comments/16g6q41/from_intermediate_to_advanced/) | Complex-Mongoose1123 | 3 |
+| [What is the go-to "infrastructure as code" deployment platform ?](https://www.reddit.com/r/devops/comments/16goifk/what_is_the_goto_infrastructure_as_code/) | ithakaa | 2 |
+| [What is the best way to get real client ip?](https://www.reddit.com/r/devops/comments/16ghi8a/what_is_the_best_way_to_get_real_client_ip/) | Playful-Ad6177 | 2 |
+| [Documentation Portal Structure Suggestions](https://www.reddit.com/r/devops/comments/16g6du0/documentation_portal_structure_suggestions/) | jblaaa | 2 |
+| [At what scale does Kubernetes and other distributed systems become viable?](https://www.reddit.com/r/devops/comments/16goed2/at_what_scale_does_kubernetes_and_other/) | LordAro | 2 |
+| [Snowflake, BigQuery, or ClickHouse? Pro Tricks to Build Cost-Efficient Analytics for Any Business](https://www.reddit.com/r/devops/comments/16fyxo8/snowflake_bigquery_or_clickhouse_pro_tricks_to/) | RyhanSunny_Altinity | 1 |
+| [Simple docker container image update API](https://www.reddit.com/r/devops/comments/16gfj2f/simple_docker_container_image_update_api/) | WardPearce | 1 |
