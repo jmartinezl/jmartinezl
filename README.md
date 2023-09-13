@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is it odd that our manager records every single one of our ~30min daily standups? lol](https://www.reddit.com/r/devops/comments/16g4oxd/is_it_odd_that_our_manager_records_every_single/) | swiftsparky | 110 |
-| [How do you deal with operational fear from the team getting burned?](https://www.reddit.com/r/devops/comments/16fx7jr/how_do_you_deal_with_operational_fear_from_the/) | tekno45 | 29 |
-| [How do you go against bad practices?](https://www.reddit.com/r/devops/comments/16gmaz3/how_do_you_go_against_bad_practices/) | AbdexD | 11 |
-| [From intermediate to advanced?](https://www.reddit.com/r/devops/comments/16g6q41/from_intermediate_to_advanced/) | Complex-Mongoose1123 | 3 |
-| [What is the go-to "infrastructure as code" deployment platform ?](https://www.reddit.com/r/devops/comments/16goifk/what_is_the_goto_infrastructure_as_code/) | ithakaa | 2 |
-| [What is the best way to get real client ip?](https://www.reddit.com/r/devops/comments/16ghi8a/what_is_the_best_way_to_get_real_client_ip/) | Playful-Ad6177 | 2 |
-| [Documentation Portal Structure Suggestions](https://www.reddit.com/r/devops/comments/16g6du0/documentation_portal_structure_suggestions/) | jblaaa | 2 |
-| [At what scale does Kubernetes and other distributed systems become viable?](https://www.reddit.com/r/devops/comments/16goed2/at_what_scale_does_kubernetes_and_other/) | LordAro | 2 |
-| [Snowflake, BigQuery, or ClickHouse? Pro Tricks to Build Cost-Efficient Analytics for Any Business](https://www.reddit.com/r/devops/comments/16fyxo8/snowflake_bigquery_or_clickhouse_pro_tricks_to/) | RyhanSunny_Altinity | 1 |
-| [Simple docker container image update API](https://www.reddit.com/r/devops/comments/16gfj2f/simple_docker_container_image_update_api/) | WardPearce | 1 |
+| [CI/ CD pipelines used in your place of work / shops ?](https://www.reddit.com/r/devops/comments/16gr2r2/ci_cd_pipelines_used_in_your_place_of_work_shops/) | hiamanon1 | 22 |
+| [First few days as a Junior DevOps are overwhelming, looking for tips](https://www.reddit.com/r/devops/comments/16hjm4u/first_few_days_as_a_junior_devops_are/) | Beinish | 8 |
+| [Feeling Stagnant After 2 Years In DevOps/SRE Role? What Should I Focus on For My Next Role?](https://www.reddit.com/r/devops/comments/16h6qgg/feeling_stagnant_after_2_years_in_devopssre_role/) | OutsideYam | 8 |
+| [Decoupling feature releases from application deployments](https://www.reddit.com/r/devops/comments/16h1fxi/decoupling_feature_releases_from_application/) | fahad19 | 5 |
+| [Need a Kanban X Ticketing Software, Open-Source and Self-Hosted?](https://www.reddit.com/r/devops/comments/16gvwgh/need_a_kanban_x_ticketing_software_opensource_and/) | Playful-Ad6177 | 4 |
+| [Terraform module monorepo management tools](https://www.reddit.com/r/devops/comments/16h8rrg/terraform_module_monorepo_management_tools/) | fuzedmind | 2 |
+| [Should I learn Cloudformation, AWS CDK, or Terraform](https://www.reddit.com/r/devops/comments/16gtn1w/should_i_learn_cloudformation_aws_cdk_or_terraform/) | North-Going-Zax | 1 |
+| [Development system problem](https://www.reddit.com/r/devops/comments/16gxfvq/development_system_problem/) | Current_Smile7492 | 1 |
+| [Are there any open-source alternatives for Backstage.io?](https://www.reddit.com/r/devops/comments/16hhcpk/are_there_any_opensource_alternatives_for/) | lumpia-shanghai | 1 |
+| [Am I enough?](https://www.reddit.com/r/devops/comments/16h51c9/am_i_enough/) | papa_blaku | 1 |
