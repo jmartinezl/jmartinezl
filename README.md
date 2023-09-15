@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [30 minute technical interview reduced to 7 minutes thanks to GitHub infrastructure repo.](https://www.reddit.com/r/devops/comments/16i2d80/30_minute_technical_interview_reduced_to_7/) | IndieDiscovery | 110 |
-| [This sub is literally just r/DevOpsCareerAdvice now and it kinda sucks.](https://www.reddit.com/r/devops/comments/16i717i/this_sub_is_literally_just_rdevopscareeradvice/) | Marquis77 | 88 |
-| [Experienced devops engineers: what skills/knowledge do you see developers transitioning into devops roles often lacking?](https://www.reddit.com/r/devops/comments/16hlhsk/experienced_devops_engineers_what_skillsknowledge/) | Hour-Mud4227 | 87 |
-| [Is Terraform absolutely essential to have? Should I be looking for a different role other than DevOps?](https://www.reddit.com/r/devops/comments/16i58b5/is_terraform_absolutely_essential_to_have_should/) | slingshot322 | 25 |
-| [Experienced devops engineers: what skills/knowledge do you see Ops/Admins transitioning into devops roles often lacking?](https://www.reddit.com/r/devops/comments/16hsedy/experienced_devops_engineers_what_skillsknowledge/) | devoopsies | 14 |
-| [How many hours do you actually spend working per day?](https://www.reddit.com/r/devops/comments/16hoci6/how_many_hours_do_you_actually_spend_working_per/) | HazRi27 | 12 |
-| [Merge to main best practice](https://www.reddit.com/r/devops/comments/16i0nge/merge_to_main_best_practice/) | somnambulist79 | 7 |
-| [Cronjobs vs Airflow](https://www.reddit.com/r/devops/comments/16hugqg/cronjobs_vs_airflow/) | romanzdk | 7 |
-| [Working on a project that cuts CI costs by 50%. Looking for insights and feedback!](https://www.reddit.com/r/devops/comments/16ht2xt/working_on_a_project_that_cuts_ci_costs_by_50/) | Remarkable_Ad4470 | 5 |
-| [Platform Eng / DevOps / SRE Interview Prep](https://www.reddit.com/r/devops/comments/16hv3nq/platform_eng_devops_sre_interview_prep/) | FreakingMaxSteel | 2 |
+| [Platform engineering isn't as rosy as they want you to believe (report review)](https://www.reddit.com/r/devops/comments/16ipm9h/platform_engineering_isnt_as_rosy_as_they_want/) | SharpEndss | 67 |
+| [Is there a "What every programmer should know about networks" Resource?](https://www.reddit.com/r/devops/comments/16inoad/is_there_a_what_every_programmer_should_know/) | jfxCurious | 33 |
+| [Are tech skills more important than DevOps culture?](https://www.reddit.com/r/devops/comments/16il6t7/are_tech_skills_more_important_than_devops_culture/) | LandADevOpsJob | 30 |
+| [My company wants to replace IT support with Chatgpt. Was so happy until I tried asking questions](https://www.reddit.com/r/devops/comments/16imjdv/my_company_wants_to_replace_it_support_with/) | IamOkei | 20 |
+| [When a deploy fails, what are actually the most common reasons?](https://www.reddit.com/r/devops/comments/16ioalh/when_a_deploy_fails_what_are_actually_the_most/) | ioah86 | 12 |
+| [Does it make sense to turn a monolith into a microservice if you are going to deploy the microservice in the same physical server?](https://www.reddit.com/r/devops/comments/16j2xl8/does_it_make_sense_to_turn_a_monolith_into_a/) | cakemachines | 6 |
+| [Any automation before Pull Request?](https://www.reddit.com/r/devops/comments/16j9afe/any_automation_before_pull_request/) | EnaGrimm | 6 |
+| [DevOps &amp; Platform Engineering MeetUp in Dublin, Ireland on Sept 27th](https://www.reddit.com/r/devops/comments/16j85gm/devops_platform_engineering_meetup_in_dublin/) | Eeefs123 | 5 |
+| [Architecture Diagram best practices?](https://www.reddit.com/r/devops/comments/16ij7xp/architecture_diagram_best_practices/) | nipaellafunk | 5 |
+| [What client VPN setup do you use?](https://www.reddit.com/r/devops/comments/16jawup/what_client_vpn_setup_do_you_use/) | Alternative-Frame620 | 2 |
