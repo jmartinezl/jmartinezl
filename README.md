@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is “you build it, you run it” really the gold standard of DevOps?](https://www.reddit.com/r/devops/comments/16jgma3/is_you_build_it_you_run_it_really_the_gold/) | PartemConsilio | 99 |
-| [Opinion on my first "ci/cd" setup for a nextjs APP](https://www.reddit.com/r/devops/comments/16jikl2/opinion_on_my_first_cicd_setup_for_a_nextjs_app/) | Nunoc11 | 9 |
-| [Preview environment for noob](https://www.reddit.com/r/devops/comments/16k333g/preview_environment_for_noob/) | VVXSTD | 3 |
-| [Catch22 with azure keyvault](https://www.reddit.com/r/devops/comments/16jmlgi/catch22_with_azure_keyvault/) | ev00rg | 3 |
-| [OpenSSL showcerts on Digicert certificate gives error unable to verify the first certificate](https://www.reddit.com/r/devops/comments/16jraqz/openssl_showcerts_on_digicert_certificate_gives/) | Lekowski | 2 |
-| [Java Networking resources](https://www.reddit.com/r/devops/comments/16jdt8k/java_networking_resources/) | Which_Ad_3554 | 1 |
-| [Is it possible to dynamically correlate queries in Sumologic?](https://www.reddit.com/r/devops/comments/16k14dt/is_it_possible_to_dynamically_correlate_queries/) | devodato | 1 |
-| [DORA metrics on github organization (open source)?](https://www.reddit.com/r/devops/comments/16jvc84/dora_metrics_on_github_organization_open_source/) | ashishjullia | 1 |
-| [Suggestions for LLM Vendors that focus on QA Test Cases and Suites?](https://www.reddit.com/r/devops/comments/16jrci0/suggestions_for_llm_vendors_that_focus_on_qa_test/) | brb_coffee | 0 |
-| [Stack for continuos delivering](https://www.reddit.com/r/devops/comments/16jm6l8/stack_for_continuos_delivering/) | AtreyuG | 0 |
+| [New company and overtime expectations](https://www.reddit.com/r/devops/comments/16kasvn/new_company_and_overtime_expectations/) | Live-Box-5048 | 30 |
+| [I wrote a remote script execution webapp which can be set up as a self-service portal for users](https://www.reddit.com/r/devops/comments/16kxdrl/i_wrote_a_remote_script_execution_webapp_which/) | izalac | 6 |
+| [devops freelance opportunities](https://www.reddit.com/r/devops/comments/16kildh/devops_freelance_opportunities/) | chriswangio | 5 |
+| [GitHub Action for Ansible Key and Passphrase Handling](https://www.reddit.com/r/devops/comments/16ki0oe/github_action_for_ansible_key_and_passphrase/) | BioStar_mvp | 3 |
+| [How to get naked domain DNS to point correctly in Azure?](https://www.reddit.com/r/devops/comments/16kmmfs/how_to_get_naked_domain_dns_to_point_correctly_in/) | tha_real_rocknrolla | 1 |
+| [Nvidia Devops intern technical interview](https://www.reddit.com/r/devops/comments/16kctw2/nvidia_devops_intern_technical_interview/) | NefariousnessAny3653 | 0 |
+| [I have a interview at a dream company as a ops/automation engineer but I’m not quite qualified. So.. project ideas?](https://www.reddit.com/r/devops/comments/16kvsbt/i_have_a_interview_at_a_dream_company_as_a/) | fryedchiken | 0 |
+| [How to clear AZ 104 certification as early as possíble ?](https://www.reddit.com/r/devops/comments/16k9841/how_to_clear_az_104_certification_as_early_as/) | viking_spartan | 0 |
+| [CloudNativeEngineer - Ep 8 - HashiCorp's open-source exodus](https://www.reddit.com/r/devops/comments/16kknud/cloudnativeengineer_ep_8_hashicorps_opensource/) | sanpino84 | 0 |
+| [CI/CD pipeline from azure DevOps to AWS ec2](https://www.reddit.com/r/devops/comments/16ktn44/cicd_pipeline_from_azure_devops_to_aws_ec2/) | HamsterTraditional65 | 0 |
