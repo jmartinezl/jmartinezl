@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [New company and overtime expectations](https://www.reddit.com/r/devops/comments/16kasvn/new_company_and_overtime_expectations/) | Live-Box-5048 | 30 |
-| [I wrote a remote script execution webapp which can be set up as a self-service portal for users](https://www.reddit.com/r/devops/comments/16kxdrl/i_wrote_a_remote_script_execution_webapp_which/) | izalac | 6 |
-| [devops freelance opportunities](https://www.reddit.com/r/devops/comments/16kildh/devops_freelance_opportunities/) | chriswangio | 5 |
-| [GitHub Action for Ansible Key and Passphrase Handling](https://www.reddit.com/r/devops/comments/16ki0oe/github_action_for_ansible_key_and_passphrase/) | BioStar_mvp | 3 |
-| [How to get naked domain DNS to point correctly in Azure?](https://www.reddit.com/r/devops/comments/16kmmfs/how_to_get_naked_domain_dns_to_point_correctly_in/) | tha_real_rocknrolla | 1 |
-| [Nvidia Devops intern technical interview](https://www.reddit.com/r/devops/comments/16kctw2/nvidia_devops_intern_technical_interview/) | NefariousnessAny3653 | 0 |
-| [I have a interview at a dream company as a ops/automation engineer but I’m not quite qualified. So.. project ideas?](https://www.reddit.com/r/devops/comments/16kvsbt/i_have_a_interview_at_a_dream_company_as_a/) | fryedchiken | 0 |
-| [How to clear AZ 104 certification as early as possíble ?](https://www.reddit.com/r/devops/comments/16k9841/how_to_clear_az_104_certification_as_early_as/) | viking_spartan | 0 |
-| [CloudNativeEngineer - Ep 8 - HashiCorp's open-source exodus](https://www.reddit.com/r/devops/comments/16kknud/cloudnativeengineer_ep_8_hashicorps_opensource/) | sanpino84 | 0 |
-| [CI/CD pipeline from azure DevOps to AWS ec2](https://www.reddit.com/r/devops/comments/16ktn44/cicd_pipeline_from_azure_devops_to_aws_ec2/) | HamsterTraditional65 | 0 |
+| [About to start my first job in DevOps and I'm terrified and anxious](https://www.reddit.com/r/devops/comments/16lfxca/about_to_start_my_first_job_in_devops_and_im/) | elcappydaddy | 18 |
+| [Going back into DevOps after 1.5 years. What did I miss?](https://www.reddit.com/r/devops/comments/16lnt62/going_back_into_devops_after_15_years_what_did_i/) | Aerosherm | 15 |
+| [how many repositories In a typical org or yours do you have?](https://www.reddit.com/r/devops/comments/16l6epf/how_many_repositories_in_a_typical_org_or_yours/) | topaztee | 6 |
+| [how often to build and store job artifacts?](https://www.reddit.com/r/devops/comments/16l4vho/how_often_to_build_and_store_job_artifacts/) | 0x11110110 | 5 |
+| [How do you retain all your knowledge?](https://www.reddit.com/r/devops/comments/16lr2bs/how_do_you_retain_all_your_knowledge/) | waste2muchtime | 5 |
+| [CI/CD and Branching](https://www.reddit.com/r/devops/comments/16l384i/cicd_and_branching/) | DevOpsNerd | 4 |
+| [What Tools or Services Do You Wish Were Available as Hosted Solutions?](https://www.reddit.com/r/devops/comments/16lsk9m/what_tools_or_services_do_you_wish_were_available/) | kingindanord | 3 |
+| [Has anyone transitioned from Mulesoft to Devops?](https://www.reddit.com/r/devops/comments/16kzqfs/has_anyone_transitioned_from_mulesoft_to_devops/) | Chinatownhustla | 1 |
+| [CloudFront Invalid Request Count / Metrics ?](https://www.reddit.com/r/devops/comments/16lp1yd/cloudfront_invalid_request_count_metrics/) | pojzon_poe | 1 |
+| [What happened to gitlab?](https://www.reddit.com/r/devops/comments/16lnokj/what_happened_to_gitlab/) | Trudel3000 | 0 |
