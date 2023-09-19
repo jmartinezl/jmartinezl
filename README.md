@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [About to start my first job in DevOps and I'm terrified and anxious](https://www.reddit.com/r/devops/comments/16lfxca/about_to_start_my_first_job_in_devops_and_im/) | elcappydaddy | 18 |
-| [Going back into DevOps after 1.5 years. What did I miss?](https://www.reddit.com/r/devops/comments/16lnt62/going_back_into_devops_after_15_years_what_did_i/) | Aerosherm | 15 |
-| [how many repositories In a typical org or yours do you have?](https://www.reddit.com/r/devops/comments/16l6epf/how_many_repositories_in_a_typical_org_or_yours/) | topaztee | 6 |
-| [how often to build and store job artifacts?](https://www.reddit.com/r/devops/comments/16l4vho/how_often_to_build_and_store_job_artifacts/) | 0x11110110 | 5 |
-| [How do you retain all your knowledge?](https://www.reddit.com/r/devops/comments/16lr2bs/how_do_you_retain_all_your_knowledge/) | waste2muchtime | 5 |
-| [CI/CD and Branching](https://www.reddit.com/r/devops/comments/16l384i/cicd_and_branching/) | DevOpsNerd | 4 |
-| [What Tools or Services Do You Wish Were Available as Hosted Solutions?](https://www.reddit.com/r/devops/comments/16lsk9m/what_tools_or_services_do_you_wish_were_available/) | kingindanord | 3 |
-| [Has anyone transitioned from Mulesoft to Devops?](https://www.reddit.com/r/devops/comments/16kzqfs/has_anyone_transitioned_from_mulesoft_to_devops/) | Chinatownhustla | 1 |
-| [CloudFront Invalid Request Count / Metrics ?](https://www.reddit.com/r/devops/comments/16lp1yd/cloudfront_invalid_request_count_metrics/) | pojzon_poe | 1 |
-| [What happened to gitlab?](https://www.reddit.com/r/devops/comments/16lnokj/what_happened_to_gitlab/) | Trudel3000 | 0 |
+| [Current Employer is asking for Proof of Salary for my New Job Offer](https://www.reddit.com/r/devops/comments/16mggsd/current_employer_is_asking_for_proof_of_salary/) | Wanzer_Mech | 37 |
+| [How does your team manage documentation?](https://www.reddit.com/r/devops/comments/16m1o1v/how_does_your_team_manage_documentation/) | redvelvet92 | 33 |
+| [Transitioning from Traditional VPN to Modern Solutions](https://www.reddit.com/r/devops/comments/16lz8el/transitioning_from_traditional_vpn_to_modern/) | JazzyEssy | 30 |
+| [A rant: Startups vs TeamBlind posters...](https://www.reddit.com/r/devops/comments/16mfuf6/a_rant_startups_vs_teamblind_posters/) | CeremonialDickCheese | 15 |
+| [Is it a good practice for developers to develop micro-services locally with minikube/kind?](https://www.reddit.com/r/devops/comments/16lvq7w/is_it_a_good_practice_for_developers_to_develop/) | jumperabg | 13 |
+| [Got pinged by someone on LinkedIn offering 300$/hr for "market research"](https://www.reddit.com/r/devops/comments/16mm4yw/got_pinged_by_someone_on_linkedin_offering_300hr/) | pppreddit | 4 |
+| [[Request] CloudBees/Jenkins to AWS Kinesis advice.](https://www.reddit.com/r/devops/comments/16lxjef/request_cloudbeesjenkins_to_aws_kinesis_advice/) | sobrietyincorporated | 2 |
+| [Separated IAM roles for terraform plan and apply](https://www.reddit.com/r/devops/comments/16m3716/separated_iam_roles_for_terraform_plan_and_apply/) | Professional_Gene_63 | 2 |
+| [Technical Interviews](https://www.reddit.com/r/devops/comments/16mhkpg/technical_interviews/) | hashkent | 1 |
+| [Python or Go ?](https://www.reddit.com/r/devops/comments/16mltek/python_or_go/) | Dubinko | 1 |
