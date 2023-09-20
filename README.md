@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Current Employer is asking for Proof of Salary for my New Job Offer](https://www.reddit.com/r/devops/comments/16mggsd/current_employer_is_asking_for_proof_of_salary/) | Wanzer_Mech | 37 |
-| [How does your team manage documentation?](https://www.reddit.com/r/devops/comments/16m1o1v/how_does_your_team_manage_documentation/) | redvelvet92 | 33 |
-| [Transitioning from Traditional VPN to Modern Solutions](https://www.reddit.com/r/devops/comments/16lz8el/transitioning_from_traditional_vpn_to_modern/) | JazzyEssy | 30 |
-| [A rant: Startups vs TeamBlind posters...](https://www.reddit.com/r/devops/comments/16mfuf6/a_rant_startups_vs_teamblind_posters/) | CeremonialDickCheese | 15 |
-| [Is it a good practice for developers to develop micro-services locally with minikube/kind?](https://www.reddit.com/r/devops/comments/16lvq7w/is_it_a_good_practice_for_developers_to_develop/) | jumperabg | 13 |
-| [Got pinged by someone on LinkedIn offering 300$/hr for "market research"](https://www.reddit.com/r/devops/comments/16mm4yw/got_pinged_by_someone_on_linkedin_offering_300hr/) | pppreddit | 4 |
-| [[Request] CloudBees/Jenkins to AWS Kinesis advice.](https://www.reddit.com/r/devops/comments/16lxjef/request_cloudbeesjenkins_to_aws_kinesis_advice/) | sobrietyincorporated | 2 |
-| [Separated IAM roles for terraform plan and apply](https://www.reddit.com/r/devops/comments/16m3716/separated_iam_roles_for_terraform_plan_and_apply/) | Professional_Gene_63 | 2 |
-| [Technical Interviews](https://www.reddit.com/r/devops/comments/16mhkpg/technical_interviews/) | hashkent | 1 |
-| [Python or Go ?](https://www.reddit.com/r/devops/comments/16mltek/python_or_go/) | Dubinko | 1 |
+| [Bash Command Prettifier – Never Manually Format Long Commands Again](https://www.reddit.com/r/devops/comments/16n1eho/bash_command_prettifier_never_manually_format/) | lucgagan | 79 |
+| [Linux Foundation Launches OpenTofu](https://www.reddit.com/r/devops/comments/16nfkv8/linux_foundation_launches_opentofu/) | flaviuscdinu | 31 |
+| [Nonexistent DevOps Engineer](https://www.reddit.com/r/devops/comments/16n9tdm/nonexistent_devops_engineer/) | sunnytropics | 11 |
+| [chicken or egg first? Terraform Remote state design question](https://www.reddit.com/r/devops/comments/16n5up9/chicken_or_egg_first_terraform_remote_state/) | Morkelon | 7 |
+| [Good YAML explainer?](https://www.reddit.com/r/devops/comments/16n1kt7/good_yaml_explainer/) | -lousyd | 7 |
+| [real life Kustomize cases?](https://www.reddit.com/r/devops/comments/16n3ol1/real_life_kustomize_cases/) | equisetopsida | 5 |
+| [Branch /workflow strategies for automated deploys to mutiple environments?](https://www.reddit.com/r/devops/comments/16mqdx2/branch_workflow_strategies_for_automated_deploys/) | SpoddyCoder | 2 |
+| [Authorization failure for UAMI using Az Cli](https://www.reddit.com/r/devops/comments/16n423y/authorization_failure_for_uami_using_az_cli/) | Apheun | 2 |
+| [update hosts in an ASG](https://www.reddit.com/r/devops/comments/16ngu87/update_hosts_in_an_asg/) | tmg80 | 1 |
+| [What skills do I need to learn or sharpen for a transition into devops?](https://www.reddit.com/r/devops/comments/16n8umg/what_skills_do_i_need_to_learn_or_sharpen_for_a/) | onequestion1168 | 1 |
