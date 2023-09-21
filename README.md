@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Bash Command Prettifier – Never Manually Format Long Commands Again](https://www.reddit.com/r/devops/comments/16n1eho/bash_command_prettifier_never_manually_format/) | lucgagan | 79 |
-| [Linux Foundation Launches OpenTofu](https://www.reddit.com/r/devops/comments/16nfkv8/linux_foundation_launches_opentofu/) | flaviuscdinu | 31 |
-| [Nonexistent DevOps Engineer](https://www.reddit.com/r/devops/comments/16n9tdm/nonexistent_devops_engineer/) | sunnytropics | 11 |
-| [chicken or egg first? Terraform Remote state design question](https://www.reddit.com/r/devops/comments/16n5up9/chicken_or_egg_first_terraform_remote_state/) | Morkelon | 7 |
-| [Good YAML explainer?](https://www.reddit.com/r/devops/comments/16n1kt7/good_yaml_explainer/) | -lousyd | 7 |
-| [real life Kustomize cases?](https://www.reddit.com/r/devops/comments/16n3ol1/real_life_kustomize_cases/) | equisetopsida | 5 |
-| [Branch /workflow strategies for automated deploys to mutiple environments?](https://www.reddit.com/r/devops/comments/16mqdx2/branch_workflow_strategies_for_automated_deploys/) | SpoddyCoder | 2 |
-| [Authorization failure for UAMI using Az Cli](https://www.reddit.com/r/devops/comments/16n423y/authorization_failure_for_uami_using_az_cli/) | Apheun | 2 |
-| [update hosts in an ASG](https://www.reddit.com/r/devops/comments/16ngu87/update_hosts_in_an_asg/) | tmg80 | 1 |
-| [What skills do I need to learn or sharpen for a transition into devops?](https://www.reddit.com/r/devops/comments/16n8umg/what_skills_do_i_need_to_learn_or_sharpen_for_a/) | onequestion1168 | 1 |
+| [I'm an Operations guy. How can I understand development better ?](https://www.reddit.com/r/devops/comments/16nlkfu/im_an_operations_guy_how_can_i_understand/) | Yoldy | 51 |
+| [Let's raise a glass to the Salesforce peeps right now. But QA next time eh?](https://www.reddit.com/r/devops/comments/16nss5h/lets_raise_a_glass_to_the_salesforce_peeps_right/) | -_Aurora_- | 32 |
+| [1200$ Free credit on IBM Cloud](https://www.reddit.com/r/devops/comments/16nsu67/1200_free_credit_on_ibm_cloud/) | vEncrypted | 27 |
+| [I foresee a new CNCF cert called Certified Tofu Associate](https://www.reddit.com/r/devops/comments/16o7aw3/i_foresee_a_new_cncf_cert_called_certified_tofu/) | IamOkei | 23 |
+| [Roast my decision-making! Help!](https://www.reddit.com/r/devops/comments/16o2i8y/roast_my_decisionmaking_help/) | Aprazors13 | 5 |
+| [Resilient Job scheduling for spot instances](https://www.reddit.com/r/devops/comments/16nwg8n/resilient_job_scheduling_for_spot_instances/) | ForSpareParts | 2 |
+| [K8Studio Reloaded](https://www.reddit.com/r/devops/comments/16nlbzb/k8studio_reloaded/) | gquiman | 2 |
+| [Data engineering to Devops](https://www.reddit.com/r/devops/comments/16oan7e/data_engineering_to_devops/) | Due_Salamander_2931 | 2 |
+| [cdktf or aws cdk or boto3 for a vpc peering ?](https://www.reddit.com/r/devops/comments/16oc79q/cdktf_or_aws_cdk_or_boto3_for_a_vpc_peering/) | scissorsoffbeat1 | 1 |
+| [What types of jobs should I be applying to?](https://www.reddit.com/r/devops/comments/16o3hj2/what_types_of_jobs_should_i_be_applying_to/) | Practical_Complex_72 | 1 |
