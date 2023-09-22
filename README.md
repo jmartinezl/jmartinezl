@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I'm an Operations guy. How can I understand development better ?](https://www.reddit.com/r/devops/comments/16nlkfu/im_an_operations_guy_how_can_i_understand/) | Yoldy | 51 |
-| [Let's raise a glass to the Salesforce peeps right now. But QA next time eh?](https://www.reddit.com/r/devops/comments/16nss5h/lets_raise_a_glass_to_the_salesforce_peeps_right/) | -_Aurora_- | 32 |
-| [1200$ Free credit on IBM Cloud](https://www.reddit.com/r/devops/comments/16nsu67/1200_free_credit_on_ibm_cloud/) | vEncrypted | 27 |
-| [I foresee a new CNCF cert called Certified Tofu Associate](https://www.reddit.com/r/devops/comments/16o7aw3/i_foresee_a_new_cncf_cert_called_certified_tofu/) | IamOkei | 23 |
-| [Roast my decision-making! Help!](https://www.reddit.com/r/devops/comments/16o2i8y/roast_my_decisionmaking_help/) | Aprazors13 | 5 |
-| [Resilient Job scheduling for spot instances](https://www.reddit.com/r/devops/comments/16nwg8n/resilient_job_scheduling_for_spot_instances/) | ForSpareParts | 2 |
-| [K8Studio Reloaded](https://www.reddit.com/r/devops/comments/16nlbzb/k8studio_reloaded/) | gquiman | 2 |
-| [Data engineering to Devops](https://www.reddit.com/r/devops/comments/16oan7e/data_engineering_to_devops/) | Due_Salamander_2931 | 2 |
-| [cdktf or aws cdk or boto3 for a vpc peering ?](https://www.reddit.com/r/devops/comments/16oc79q/cdktf_or_aws_cdk_or_boto3_for_a_vpc_peering/) | scissorsoffbeat1 | 1 |
-| [What types of jobs should I be applying to?](https://www.reddit.com/r/devops/comments/16o3hj2/what_types_of_jobs_should_i_be_applying_to/) | Practical_Complex_72 | 1 |
+| [What the fuck is Devops](https://www.reddit.com/r/devops/comments/16oowkr/what_the_fuck_is_devops/) | Legitimate-Fuel3014 | 186 |
+| [How to succeed in DevOps. [Have a laugh.]](https://www.reddit.com/r/devops/comments/16owffq/how_to_succeed_in_devops_have_a_laugh/) | classixman | 14 |
+| [How do you handle inexperienced dev?](https://www.reddit.com/r/devops/comments/16ottc9/how_do_you_handle_inexperienced_dev/) | Irish1986 | 9 |
+| [What tools are you using for load tests?](https://www.reddit.com/r/devops/comments/16oir3j/what_tools_are_you_using_for_load_tests/) | wingshayz | 8 |
+| [Why is DevOps such a misnomer? The dev and the ops are seldom combined anyway.](https://www.reddit.com/r/devops/comments/16p3g1d/why_is_devops_such_a_misnomer_the_dev_and_the_ops/) | gatestone | 5 |
+| [DevOps Conferences List. Autumn 2023](https://www.reddit.com/r/devops/comments/16p5eya/devops_conferences_list_autumn_2023/) | Xadartt | 5 |
+| [DevOps AI Assistant Open Leaderboard](https://www.reddit.com/r/devops/comments/16ol4d6/devops_ai_assistant_open_leaderboard/) | dliteful23 | 5 |
+| [Looking for GitLab alternatives due to license prince increase :(](https://www.reddit.com/r/devops/comments/16oyk6g/looking_for_gitlab_alternatives_due_to_license/) | SynNoAck | 4 |
+| [Failed AWS Devops Engineer certification](https://www.reddit.com/r/devops/comments/16ot27d/failed_aws_devops_engineer_certification/) | P4nt4rei | 4 |
+| [Best Docker Image for Django REST API + Nginx?](https://www.reddit.com/r/devops/comments/16oo1py/best_docker_image_for_django_rest_api_nginx/) | FrontendSchmacktend | 2 |
