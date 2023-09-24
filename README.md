@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [End of Terraform?](https://www.reddit.com/r/devops/comments/16pgfar/end_of_terraform/) | shubhamc2211 | 172 |
-| [First DevOps job help](https://www.reddit.com/r/devops/comments/16phd1w/first_devops_job_help/) | N0RTHW1ND1 | 35 |
-| [I can’t help but feel bad for a vendor who wasn’t chosen.](https://www.reddit.com/r/devops/comments/16pk1fm/i_cant_help_but_feel_bad_for_a_vendor_who_wasnt/) | GayInThePNW | 21 |
-| [OneUptime: Open Source StatusPage.io + UptimeRobot + PagerDuty alternative that you can self-host.](https://www.reddit.com/r/devops/comments/16p8xfq/oneuptime_open_source_statuspageio_uptimerobot/) | simlarsen | 14 |
-| [Resume critique needed - haven't gotten a single interview in 3 months.](https://www.reddit.com/r/devops/comments/16pxx05/resume_critique_needed_havent_gotten_a_single/) | ArabicDial | 8 |
-| [Does the AWS Well-Architected Framework DevOps Guidance provide a practical answer to "What is DevOps?"](https://www.reddit.com/r/devops/comments/16pgidn/does_the_aws_wellarchitected_framework_devops/) | mrhyndress | 7 |
-| [is my companies remote-desktop strategy weird?](https://www.reddit.com/r/devops/comments/16phaez/is_my_companies_remotedesktop_strategy_weird/) | anchoricex | 2 |
-| [Resume / Beat it up / I'm at my wits end](https://www.reddit.com/r/devops/comments/16plxdg/resume_beat_it_up_im_at_my_wits_end/) | dev-head | 2 |
-| [How do I approach a Data task as DevOps?](https://www.reddit.com/r/devops/comments/16pu5df/how_do_i_approach_a_data_task_as_devops/) | Jatalocks2 | 2 |
-| [Beachside Bytes](https://www.reddit.com/r/devops/comments/16peewq/beachside_bytes/) | Pomerium_CMo | 2 |
+| [Never ending secrets](https://www.reddit.com/r/devops/comments/16qbf14/never_ending_secrets/) | Dry-Profile8103 | 27 |
+| [350 Git, Jenkins, Docker and Kubernetes Objective Type Questions and Answers with Explanations (4 Online Exams)](https://www.reddit.com/r/devops/comments/16qo49c/350_git_jenkins_docker_and_kubernetes_objective/) | tim_joe1 | 25 |
+| [premium dns - which options are good?](https://www.reddit.com/r/devops/comments/16q7pc3/premium_dns_which_options_are_good/) | bytepursuits | 11 |
+| [Will you be moving from Terraform to OpenToFu?](https://www.reddit.com/r/devops/comments/16q9tu2/will_you_be_moving_from_terraform_to_opentofu/) | otisg | 6 |
+| [looking to get into devops. critique my roadmap?](https://www.reddit.com/r/devops/comments/16qg9b6/looking_to_get_into_devops_critique_my_roadmap/) | phorecast | 4 |
+| [CKA written material](https://www.reddit.com/r/devops/comments/16qv6pt/cka_written_material/) | Obamass_last_name | 2 |
+| [Needs help to deploy a front and back under the same domain](https://www.reddit.com/r/devops/comments/16qgljx/needs_help_to_deploy_a_front_and_back_under_the/) | Tixarer | 1 |
+| [Docker Bitnami/WordPress + WSL2 Ubuntu volume mount? (USD-T 50 for ne1 that can get me unstuck)](https://www.reddit.com/r/devops/comments/16qb307/docker_bitnamiwordpress_wsl2_ubuntu_volume_mount/) | BtcKing1111 | 1 |
+| [Connection timed out from client when connecting to Redis (docker-compose)](https://www.reddit.com/r/devops/comments/16qih6q/connection_timed_out_from_client_when_connecting/) | 0ptimuz | 1 |
+| [other entry level jobs similar to devops?](https://www.reddit.com/r/devops/comments/16quu1t/other_entry_level_jobs_similar_to_devops/) | SafeNet7733 | 0 |
