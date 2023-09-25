@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Never ending secrets](https://www.reddit.com/r/devops/comments/16qbf14/never_ending_secrets/) | Dry-Profile8103 | 27 |
-| [350 Git, Jenkins, Docker and Kubernetes Objective Type Questions and Answers with Explanations (4 Online Exams)](https://www.reddit.com/r/devops/comments/16qo49c/350_git_jenkins_docker_and_kubernetes_objective/) | tim_joe1 | 25 |
-| [premium dns - which options are good?](https://www.reddit.com/r/devops/comments/16q7pc3/premium_dns_which_options_are_good/) | bytepursuits | 11 |
-| [Will you be moving from Terraform to OpenToFu?](https://www.reddit.com/r/devops/comments/16q9tu2/will_you_be_moving_from_terraform_to_opentofu/) | otisg | 6 |
-| [looking to get into devops. critique my roadmap?](https://www.reddit.com/r/devops/comments/16qg9b6/looking_to_get_into_devops_critique_my_roadmap/) | phorecast | 4 |
-| [CKA written material](https://www.reddit.com/r/devops/comments/16qv6pt/cka_written_material/) | Obamass_last_name | 2 |
-| [Needs help to deploy a front and back under the same domain](https://www.reddit.com/r/devops/comments/16qgljx/needs_help_to_deploy_a_front_and_back_under_the/) | Tixarer | 1 |
-| [Docker Bitnami/WordPress + WSL2 Ubuntu volume mount? (USD-T 50 for ne1 that can get me unstuck)](https://www.reddit.com/r/devops/comments/16qb307/docker_bitnamiwordpress_wsl2_ubuntu_volume_mount/) | BtcKing1111 | 1 |
-| [Connection timed out from client when connecting to Redis (docker-compose)](https://www.reddit.com/r/devops/comments/16qih6q/connection_timed_out_from_client_when_connecting/) | 0ptimuz | 1 |
-| [other entry level jobs similar to devops?](https://www.reddit.com/r/devops/comments/16quu1t/other_entry_level_jobs_similar_to_devops/) | SafeNet7733 | 0 |
+| [Is Kubernetes Hard?](https://www.reddit.com/r/devops/comments/16rayhb/is_kubernetes_hard/) | ghostsquad4 | 49 |
+| [Best online paid resources to learn DevOps](https://www.reddit.com/r/devops/comments/16qwhkr/best_online_paid_resources_to_learn_devops/) | rahulok19 | 21 |
+| [Does someone know how to monitor API endpoints written in Go with Prometheus?](https://www.reddit.com/r/devops/comments/16rdepb/does_someone_know_how_to_monitor_api_endpoints/) | T0mAlexander | 4 |
+| [ridiculously many EOL errors when running build-pipeline, but not when run locally](https://www.reddit.com/r/devops/comments/16rq2t5/ridiculously_many_eol_errors_when_running/) | fisterdister | 1 |
+| [Will Terraform Associate (003) certification still be worth it?](https://www.reddit.com/r/devops/comments/16rpmk1/will_terraform_associate_003_certification_still/) | BoomBoy420 | 1 |
+| [Why is the Enrichment step in AWS EventBridge Pipes so weird](https://www.reddit.com/r/devops/comments/16ri743/why_is_the_enrichment_step_in_aws_eventbridge/) | Jatalocks2 | 1 |
+| [Pipeline variable and infra variable management?](https://www.reddit.com/r/devops/comments/16rayew/pipeline_variable_and_infra_variable_management/) | BozzLiteyeer | 1 |
+| [Visual Learning Tool for Kubernetes and GitOps: Introducing 🍯 Breakfast](https://www.reddit.com/r/devops/comments/16ra64o/visual_learning_tool_for_kubernetes_and_gitops/) | AmirrezaN | 0 |
+| [OpenTofu](https://www.reddit.com/r/devops/comments/16rlcx5/opentofu/) | Bhayank_Aatma | 0 |
+| [Exploring Non-Coding Career Paths in IT: What Are My Options?](https://www.reddit.com/r/devops/comments/16r354s/exploring_noncoding_career_paths_in_it_what_are/) | TheCyberSahil | 0 |
