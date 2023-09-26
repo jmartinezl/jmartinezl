@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is Kubernetes Hard?](https://www.reddit.com/r/devops/comments/16rayhb/is_kubernetes_hard/) | ghostsquad4 | 49 |
-| [Best online paid resources to learn DevOps](https://www.reddit.com/r/devops/comments/16qwhkr/best_online_paid_resources_to_learn_devops/) | rahulok19 | 21 |
-| [Does someone know how to monitor API endpoints written in Go with Prometheus?](https://www.reddit.com/r/devops/comments/16rdepb/does_someone_know_how_to_monitor_api_endpoints/) | T0mAlexander | 4 |
-| [ridiculously many EOL errors when running build-pipeline, but not when run locally](https://www.reddit.com/r/devops/comments/16rq2t5/ridiculously_many_eol_errors_when_running/) | fisterdister | 1 |
-| [Will Terraform Associate (003) certification still be worth it?](https://www.reddit.com/r/devops/comments/16rpmk1/will_terraform_associate_003_certification_still/) | BoomBoy420 | 1 |
-| [Why is the Enrichment step in AWS EventBridge Pipes so weird](https://www.reddit.com/r/devops/comments/16ri743/why_is_the_enrichment_step_in_aws_eventbridge/) | Jatalocks2 | 1 |
-| [Pipeline variable and infra variable management?](https://www.reddit.com/r/devops/comments/16rayew/pipeline_variable_and_infra_variable_management/) | BozzLiteyeer | 1 |
-| [Visual Learning Tool for Kubernetes and GitOps: Introducing 🍯 Breakfast](https://www.reddit.com/r/devops/comments/16ra64o/visual_learning_tool_for_kubernetes_and_gitops/) | AmirrezaN | 0 |
-| [OpenTofu](https://www.reddit.com/r/devops/comments/16rlcx5/opentofu/) | Bhayank_Aatma | 0 |
-| [Exploring Non-Coding Career Paths in IT: What Are My Options?](https://www.reddit.com/r/devops/comments/16r354s/exploring_noncoding_career_paths_in_it_what_are/) | TheCyberSahil | 0 |
+| [How do you keep track of your work notes?](https://www.reddit.com/r/devops/comments/16rtl19/how_do_you_keep_track_of_your_work_notes/) | rcderik | 66 |
+| [Release: Netmaker launches open source by switching to Apache -2.0](https://www.reddit.com/r/devops/comments/16rrnkk/release_netmaker_launches_open_source_by/) | pepermuntow | 33 |
+| [DevOps open source contributions. Are they worth it?](https://www.reddit.com/r/devops/comments/16rw201/devops_open_source_contributions_are_they_worth_it/) | LandADevOpsJob | 23 |
+| [Dead end devops job?](https://www.reddit.com/r/devops/comments/16rypxi/dead_end_devops_job/) | BabyLinuxAdmin | 10 |
+| [Nginx vs Cloudflare: Where to deploy "version flags"?](https://www.reddit.com/r/devops/comments/16rqnz9/nginx_vs_cloudflare_where_to_deploy_version_flags/) | FrontendSchmacktend | 7 |
+| [Is there any way to find out what in Prometheus is consuming so much memory?](https://www.reddit.com/r/devops/comments/16s7hmq/is_there_any_way_to_find_out_what_in_prometheus/) | chillysurfer | 5 |
+| [How to tag docker images in a monorepo?](https://www.reddit.com/r/devops/comments/16ryis2/how_to_tag_docker_images_in_a_monorepo/) | clued__init__ | 4 |
+| [How to land an entry-level job/internship with little to no experience?](https://www.reddit.com/r/devops/comments/16siycq/how_to_land_an_entrylevel_jobinternship_with/) | totallytwisteddd | 4 |
+| [cloud-concierge: Open source cloud codification, drift detection, and more](https://www.reddit.com/r/devops/comments/16s38pp/cloudconcierge_open_source_cloud_codification/) | jamisonv | 1 |
+| [Switching to OSS APM](https://www.reddit.com/r/devops/comments/16sl31d/switching_to_oss_apm/) | Al3xisB | 1 |
