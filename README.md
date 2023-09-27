@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you keep track of your work notes?](https://www.reddit.com/r/devops/comments/16rtl19/how_do_you_keep_track_of_your_work_notes/) | rcderik | 66 |
-| [Release: Netmaker launches open source by switching to Apache -2.0](https://www.reddit.com/r/devops/comments/16rrnkk/release_netmaker_launches_open_source_by/) | pepermuntow | 33 |
-| [DevOps open source contributions. Are they worth it?](https://www.reddit.com/r/devops/comments/16rw201/devops_open_source_contributions_are_they_worth_it/) | LandADevOpsJob | 23 |
-| [Dead end devops job?](https://www.reddit.com/r/devops/comments/16rypxi/dead_end_devops_job/) | BabyLinuxAdmin | 10 |
-| [Nginx vs Cloudflare: Where to deploy "version flags"?](https://www.reddit.com/r/devops/comments/16rqnz9/nginx_vs_cloudflare_where_to_deploy_version_flags/) | FrontendSchmacktend | 7 |
-| [Is there any way to find out what in Prometheus is consuming so much memory?](https://www.reddit.com/r/devops/comments/16s7hmq/is_there_any_way_to_find_out_what_in_prometheus/) | chillysurfer | 5 |
-| [How to tag docker images in a monorepo?](https://www.reddit.com/r/devops/comments/16ryis2/how_to_tag_docker_images_in_a_monorepo/) | clued__init__ | 4 |
-| [How to land an entry-level job/internship with little to no experience?](https://www.reddit.com/r/devops/comments/16siycq/how_to_land_an_entrylevel_jobinternship_with/) | totallytwisteddd | 4 |
-| [cloud-concierge: Open source cloud codification, drift detection, and more](https://www.reddit.com/r/devops/comments/16s38pp/cloudconcierge_open_source_cloud_codification/) | jamisonv | 1 |
-| [Switching to OSS APM](https://www.reddit.com/r/devops/comments/16sl31d/switching_to_oss_apm/) | Al3xisB | 1 |
+| [I feel like for 99% of recruiters its exactly the same just different salary ranges.](https://www.reddit.com/r/devops/comments/16tbgsn/i_feel_like_for_99_of_recruiters_its_exactly_the/) | pojzon_poe | 36 |
+| [Ok, you have deployed your EKS via Terraform. Now, how do you deploy your microservices? (Disaster recovery approach)](https://www.reddit.com/r/devops/comments/16syzqt/ok_you_have_deployed_your_eks_via_terraform_now/) | jmbravo | 32 |
+| [Reduction in Job postings for DevOps/SRE](https://www.reddit.com/r/devops/comments/16sqhur/reduction_in_job_postings_for_devopssre/) | EnoughAnalysis8586 | 21 |
+| [How long should I stay on ticket support?](https://www.reddit.com/r/devops/comments/16szt9u/how_long_should_i_stay_on_ticket_support/) | zesty_lemon45 | 4 |
+| [How do solve the Paradox of Decision tree for blocking IPs](https://www.reddit.com/r/devops/comments/16t6w3c/how_do_solve_the_paradox_of_decision_tree_for/) | Jatalocks2 | 4 |
+| [Cannot Distinguish the tasks of a DevOps form Sysadmin](https://www.reddit.com/r/devops/comments/16st779/cannot_distinguish_the_tasks_of_a_devops_form/) | pc_magas | 3 |
+| [vsphere CSI driver on windowns node](https://www.reddit.com/r/devops/comments/16temaz/vsphere_csi_driver_on_windowns_node/) | RandomPlayerOne | 2 |
+| [Newbie Question: How to deliver secrets to deployment server?](https://www.reddit.com/r/devops/comments/16swoeo/newbie_question_how_to_deliver_secrets_to/) | matheda72 | 2 |
+| [Unlock cost-efficiency: navigating Atlassian Cloud Migration](https://www.reddit.com/r/devops/comments/16stx1p/unlock_costefficiency_navigating_atlassian_cloud/) | e-Core_it | 1 |
+| [Share with me your DNS migration horror stories!](https://www.reddit.com/r/devops/comments/16srvw6/share_with_me_your_dns_migration_horror_stories/) | tdiddley420 | 1 |
