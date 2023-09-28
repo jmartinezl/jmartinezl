@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I feel like for 99% of recruiters its exactly the same just different salary ranges.](https://www.reddit.com/r/devops/comments/16tbgsn/i_feel_like_for_99_of_recruiters_its_exactly_the/) | pojzon_poe | 36 |
-| [Ok, you have deployed your EKS via Terraform. Now, how do you deploy your microservices? (Disaster recovery approach)](https://www.reddit.com/r/devops/comments/16syzqt/ok_you_have_deployed_your_eks_via_terraform_now/) | jmbravo | 32 |
-| [Reduction in Job postings for DevOps/SRE](https://www.reddit.com/r/devops/comments/16sqhur/reduction_in_job_postings_for_devopssre/) | EnoughAnalysis8586 | 21 |
-| [How long should I stay on ticket support?](https://www.reddit.com/r/devops/comments/16szt9u/how_long_should_i_stay_on_ticket_support/) | zesty_lemon45 | 4 |
-| [How do solve the Paradox of Decision tree for blocking IPs](https://www.reddit.com/r/devops/comments/16t6w3c/how_do_solve_the_paradox_of_decision_tree_for/) | Jatalocks2 | 4 |
-| [Cannot Distinguish the tasks of a DevOps form Sysadmin](https://www.reddit.com/r/devops/comments/16st779/cannot_distinguish_the_tasks_of_a_devops_form/) | pc_magas | 3 |
-| [vsphere CSI driver on windowns node](https://www.reddit.com/r/devops/comments/16temaz/vsphere_csi_driver_on_windowns_node/) | RandomPlayerOne | 2 |
-| [Newbie Question: How to deliver secrets to deployment server?](https://www.reddit.com/r/devops/comments/16swoeo/newbie_question_how_to_deliver_secrets_to/) | matheda72 | 2 |
-| [Unlock cost-efficiency: navigating Atlassian Cloud Migration](https://www.reddit.com/r/devops/comments/16stx1p/unlock_costefficiency_navigating_atlassian_cloud/) | e-Core_it | 1 |
-| [Share with me your DNS migration horror stories!](https://www.reddit.com/r/devops/comments/16srvw6/share_with_me_your_dns_migration_horror_stories/) | tdiddley420 | 1 |
+| [Getting flooded with Azure opportunities as an AWS person. All are underpaid.](https://www.reddit.com/r/devops/comments/16tnf9r/getting_flooded_with_azure_opportunities_as_an/) | IndieDiscovery | 80 |
+| [github CICD checks &amp; branch updating](https://www.reddit.com/r/devops/comments/16tn7oj/github_cicd_checks_branch_updating/) | chadams_bal | 5 |
+| [Recommendation on books on tools that you use, please?](https://www.reddit.com/r/devops/comments/16uccb6/recommendation_on_books_on_tools_that_you_use/) | ShalinWraith | 4 |
+| [Does anyone here use keycloak as their main IDP or another? If another which one?](https://www.reddit.com/r/devops/comments/16tmdat/does_anyone_here_use_keycloak_as_their_main_idp/) | ding115 | 3 |
+| ["clean code" for CICD pipelines?](https://www.reddit.com/r/devops/comments/16ua4of/clean_code_for_cicd_pipelines/) | NeedTheSpeed | 3 |
+| [Sentry fingerprint rules syntax with AND, OR](https://www.reddit.com/r/devops/comments/16tla5a/sentry_fingerprint_rules_syntax_with_and_or/) | duveral | 1 |
+| [Self signed certificate trust issues when migrating from Windows to Ubuntu](https://www.reddit.com/r/devops/comments/16tjfc0/self_signed_certificate_trust_issues_when/) | le_dod0 | 1 |
+| [Python Devcontainer Setup for VSCode](https://www.reddit.com/r/devops/comments/16u8xsd/python_devcontainer_setup_for_vscode/) | norsemanGrey | 1 |
+| [Need advice please on how to get a IT job as a graduate](https://www.reddit.com/r/devops/comments/16u8v14/need_advice_please_on_how_to_get_a_it_job_as_a/) | zesty_lemon45 | 1 |
+| [Managing rollbar tokens in terraform](https://www.reddit.com/r/devops/comments/16u9p1p/managing_rollbar_tokens_in_terraform/) | pppreddit | 1 |
