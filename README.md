@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Getting flooded with Azure opportunities as an AWS person. All are underpaid.](https://www.reddit.com/r/devops/comments/16tnf9r/getting_flooded_with_azure_opportunities_as_an/) | IndieDiscovery | 80 |
-| [github CICD checks &amp; branch updating](https://www.reddit.com/r/devops/comments/16tn7oj/github_cicd_checks_branch_updating/) | chadams_bal | 5 |
-| [Recommendation on books on tools that you use, please?](https://www.reddit.com/r/devops/comments/16uccb6/recommendation_on_books_on_tools_that_you_use/) | ShalinWraith | 4 |
-| [Does anyone here use keycloak as their main IDP or another? If another which one?](https://www.reddit.com/r/devops/comments/16tmdat/does_anyone_here_use_keycloak_as_their_main_idp/) | ding115 | 3 |
-| ["clean code" for CICD pipelines?](https://www.reddit.com/r/devops/comments/16ua4of/clean_code_for_cicd_pipelines/) | NeedTheSpeed | 3 |
-| [Sentry fingerprint rules syntax with AND, OR](https://www.reddit.com/r/devops/comments/16tla5a/sentry_fingerprint_rules_syntax_with_and_or/) | duveral | 1 |
-| [Self signed certificate trust issues when migrating from Windows to Ubuntu](https://www.reddit.com/r/devops/comments/16tjfc0/self_signed_certificate_trust_issues_when/) | le_dod0 | 1 |
-| [Python Devcontainer Setup for VSCode](https://www.reddit.com/r/devops/comments/16u8xsd/python_devcontainer_setup_for_vscode/) | norsemanGrey | 1 |
-| [Need advice please on how to get a IT job as a graduate](https://www.reddit.com/r/devops/comments/16u8v14/need_advice_please_on_how_to_get_a_it_job_as_a/) | zesty_lemon45 | 1 |
-| [Managing rollbar tokens in terraform](https://www.reddit.com/r/devops/comments/16u9p1p/managing_rollbar_tokens_in_terraform/) | pppreddit | 1 |
+| [My Single-File Python Script I Used to Replace Splunk in My Startup](https://www.reddit.com/r/devops/comments/16uvap8/my_singlefile_python_script_i_used_to_replace/) | dicklesworth | 59 |
+| [Cloud Benchmarker: See how fast your cloud instances are for real!](https://www.reddit.com/r/devops/comments/16uf1ye/cloud_benchmarker_see_how_fast_your_cloud/) | dicklesworth | 19 |
+| [Most affordable monitoring platform? Dynatrace is saying they want to charge $20,000 / yr MINIMUM to our client.](https://www.reddit.com/r/devops/comments/16umdhn/most_affordable_monitoring_platform_dynatrace_is/) | IridescentExplosion | 14 |
+| [Am I being quietly fired?](https://www.reddit.com/r/devops/comments/16v1xs7/am_i_being_quietly_fired/) | Mounstrodegalleta | 10 |
+| [r/EngineeringResumes Updated Wiki + Resume Templates](https://www.reddit.com/r/devops/comments/16v060y/rengineeringresumes_updated_wiki_resume_templates/) | rapsforlife647 | 2 |
+| [Recommend me a configuration management tool for a non-standard environment](https://www.reddit.com/r/devops/comments/16v9m82/recommend_me_a_configuration_management_tool_for/) | Akustic646 | 2 |
+| [Multi-Subscriber (Public Cloud) Deployment on Converged Architecture](https://www.reddit.com/r/devops/comments/16uqtya/multisubscriber_public_cloud_deployment_on/) | robertinoc | 1 |
+| [Learning during internship](https://www.reddit.com/r/devops/comments/16v39v5/learning_during_internship/) | flirtycheese | 1 |
+| [Kafka vs Celery+RabbitMQ for a Django event ingestion API endpoint](https://www.reddit.com/r/devops/comments/16uo59l/kafka_vs_celeryrabbitmq_for_a_django_event/) | Low_Adhesiveness_130 | 1 |
+| [How can you modify an existing CustomResource in Pulumi?](https://www.reddit.com/r/devops/comments/16v97ar/how_can_you_modify_an_existing_customresource_in/) | chillysurfer | 1 |
