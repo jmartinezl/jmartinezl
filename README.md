@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [My Single-File Python Script I Used to Replace Splunk in My Startup](https://www.reddit.com/r/devops/comments/16uvap8/my_singlefile_python_script_i_used_to_replace/) | dicklesworth | 59 |
-| [Cloud Benchmarker: See how fast your cloud instances are for real!](https://www.reddit.com/r/devops/comments/16uf1ye/cloud_benchmarker_see_how_fast_your_cloud/) | dicklesworth | 19 |
-| [Most affordable monitoring platform? Dynatrace is saying they want to charge $20,000 / yr MINIMUM to our client.](https://www.reddit.com/r/devops/comments/16umdhn/most_affordable_monitoring_platform_dynatrace_is/) | IridescentExplosion | 14 |
-| [Am I being quietly fired?](https://www.reddit.com/r/devops/comments/16v1xs7/am_i_being_quietly_fired/) | Mounstrodegalleta | 10 |
-| [r/EngineeringResumes Updated Wiki + Resume Templates](https://www.reddit.com/r/devops/comments/16v060y/rengineeringresumes_updated_wiki_resume_templates/) | rapsforlife647 | 2 |
-| [Recommend me a configuration management tool for a non-standard environment](https://www.reddit.com/r/devops/comments/16v9m82/recommend_me_a_configuration_management_tool_for/) | Akustic646 | 2 |
-| [Multi-Subscriber (Public Cloud) Deployment on Converged Architecture](https://www.reddit.com/r/devops/comments/16uqtya/multisubscriber_public_cloud_deployment_on/) | robertinoc | 1 |
-| [Learning during internship](https://www.reddit.com/r/devops/comments/16v39v5/learning_during_internship/) | flirtycheese | 1 |
-| [Kafka vs Celery+RabbitMQ for a Django event ingestion API endpoint](https://www.reddit.com/r/devops/comments/16uo59l/kafka_vs_celeryrabbitmq_for_a_django_event/) | Low_Adhesiveness_130 | 1 |
-| [How can you modify an existing CustomResource in Pulumi?](https://www.reddit.com/r/devops/comments/16v97ar/how_can_you_modify_an_existing_customresource_in/) | chillysurfer | 1 |
+| [What diagramming tool are you using?](https://www.reddit.com/r/devops/comments/16vcbs8/what_diagramming_tool_are_you_using/) | Pineapple_Expressed | 20 |
+| [AWS Certified Cloud Practitioner Certification - My Notes](https://www.reddit.com/r/devops/comments/16w1b97/aws_certified_cloud_practitioner_certification_my/) | furkangulsen | 12 |
+| [Manage OpenShift with Terraform](https://www.reddit.com/r/devops/comments/16vati2/manage_openshift_with_terraform/) | piotr_minkowski | 9 |
+| [Why does it take a MONTH or TWO for some companies to respond to my application??](https://www.reddit.com/r/devops/comments/16vhwis/why_does_it_take_a_month_or_two_for_some/) | Rockefeller_III | 5 |
+| [Recommend monitoring solution with data filtering](https://www.reddit.com/r/devops/comments/16vjax3/recommend_monitoring_solution_with_data_filtering/) | skinex11 | 3 |
+| [Is a Kubernetes certification a good approach to change into DevOps?](https://www.reddit.com/r/devops/comments/16vkmnq/is_a_kubernetes_certification_a_good_approach_to/) | pc_magas | 3 |
+| [Looking to replace kube-proxy with kube-router, any gotchas I need to look out for?](https://www.reddit.com/r/devops/comments/16vnteq/looking_to_replace_kubeproxy_with_kuberouter_any/) | BloodyIron | 0 |
+| [Anyone using wiz.io](https://www.reddit.com/r/devops/comments/16vk6ry/anyone_using_wizio/) | mixxor-1337 | 0 |
