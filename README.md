@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What diagramming tool are you using?](https://www.reddit.com/r/devops/comments/16vcbs8/what_diagramming_tool_are_you_using/) | Pineapple_Expressed | 20 |
-| [AWS Certified Cloud Practitioner Certification - My Notes](https://www.reddit.com/r/devops/comments/16w1b97/aws_certified_cloud_practitioner_certification_my/) | furkangulsen | 12 |
-| [Manage OpenShift with Terraform](https://www.reddit.com/r/devops/comments/16vati2/manage_openshift_with_terraform/) | piotr_minkowski | 9 |
-| [Why does it take a MONTH or TWO for some companies to respond to my application??](https://www.reddit.com/r/devops/comments/16vhwis/why_does_it_take_a_month_or_two_for_some/) | Rockefeller_III | 5 |
-| [Recommend monitoring solution with data filtering](https://www.reddit.com/r/devops/comments/16vjax3/recommend_monitoring_solution_with_data_filtering/) | skinex11 | 3 |
-| [Is a Kubernetes certification a good approach to change into DevOps?](https://www.reddit.com/r/devops/comments/16vkmnq/is_a_kubernetes_certification_a_good_approach_to/) | pc_magas | 3 |
-| [Looking to replace kube-proxy with kube-router, any gotchas I need to look out for?](https://www.reddit.com/r/devops/comments/16vnteq/looking_to_replace_kubeproxy_with_kuberouter_any/) | BloodyIron | 0 |
-| [Anyone using wiz.io](https://www.reddit.com/r/devops/comments/16vk6ry/anyone_using_wizio/) | mixxor-1337 | 0 |
+| [For your personal pc configuration do you use tools like YADM, chezmoi, stow, etc along with actual configuration managers like Ansible?](https://www.reddit.com/r/devops/comments/16wn3sd/for_your_personal_pc_configuration_do_you_use/) | PainfulPackages10 | 15 |
+| [Searching for the perfect CI tool for the job](https://www.reddit.com/r/devops/comments/16wikto/searching_for_the_perfect_ci_tool_for_the_job/) | Salamandar3500 | 7 |
+| [1.5 Years of Experience DevOps Engineer Seeking a New Challenge in DevOps/SRE - Seeking Advice](https://www.reddit.com/r/devops/comments/16wu03q/15_years_of_experience_devops_engineer_seeking_a/) | nimster9 | 2 |
+| [Without using Kubernetes or cloud services like Elastic Kurbenetes Service, Fargate, etc., how would you deploy a container in the cloud?](https://www.reddit.com/r/devops/comments/16wyo1f/without_using_kubernetes_or_cloud_services_like/) | User6RE001 | 1 |
+| [Transitioning into DevOps: My Journey, Current Tech Stack, and Seeking Guidance](https://www.reddit.com/r/devops/comments/16wz9cf/transitioning_into_devops_my_journey_current_tech/) | RealPride_ | 1 |
+| [Shells' UIs and what can be done about them](https://www.reddit.com/r/devops/comments/16wtmnf/shells_uis_and_what_can_be_done_about_them/) | ilyash | 0 |
+| [Job market is dead.. both EU and US](https://www.reddit.com/r/devops/comments/16wwiyw/job_market_is_dead_both_eu_and_us/) | Dubinko | 0 |
+| [Best comprehensive course](https://www.reddit.com/r/devops/comments/16wymb0/best_comprehensive_course/) | Optalgin1337 | 0 |
