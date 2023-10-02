@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [For your personal pc configuration do you use tools like YADM, chezmoi, stow, etc along with actual configuration managers like Ansible?](https://www.reddit.com/r/devops/comments/16wn3sd/for_your_personal_pc_configuration_do_you_use/) | PainfulPackages10 | 15 |
-| [Searching for the perfect CI tool for the job](https://www.reddit.com/r/devops/comments/16wikto/searching_for_the_perfect_ci_tool_for_the_job/) | Salamandar3500 | 7 |
-| [1.5 Years of Experience DevOps Engineer Seeking a New Challenge in DevOps/SRE - Seeking Advice](https://www.reddit.com/r/devops/comments/16wu03q/15_years_of_experience_devops_engineer_seeking_a/) | nimster9 | 2 |
-| [Without using Kubernetes or cloud services like Elastic Kurbenetes Service, Fargate, etc., how would you deploy a container in the cloud?](https://www.reddit.com/r/devops/comments/16wyo1f/without_using_kubernetes_or_cloud_services_like/) | User6RE001 | 1 |
-| [Transitioning into DevOps: My Journey, Current Tech Stack, and Seeking Guidance](https://www.reddit.com/r/devops/comments/16wz9cf/transitioning_into_devops_my_journey_current_tech/) | RealPride_ | 1 |
-| [Shells' UIs and what can be done about them](https://www.reddit.com/r/devops/comments/16wtmnf/shells_uis_and_what_can_be_done_about_them/) | ilyash | 0 |
-| [Job market is dead.. both EU and US](https://www.reddit.com/r/devops/comments/16wwiyw/job_market_is_dead_both_eu_and_us/) | Dubinko | 0 |
-| [Best comprehensive course](https://www.reddit.com/r/devops/comments/16wymb0/best_comprehensive_course/) | Optalgin1337 | 0 |
+| [What should be the scope of Terraform in our infrastructure?](https://www.reddit.com/r/devops/comments/16x92wj/what_should_be_the_scope_of_terraform_in_our/) | Alarming_Rest1557 | 24 |
+| [What do you do in a chaotic environment where all the Terraform IAC does not match with the current state of the company?](https://www.reddit.com/r/devops/comments/16xrwsw/what_do_you_do_in_a_chaotic_environment_where_all/) | waste2muchtime | 13 |
+| [Implentation of OWASP ZAP (or similar) into CI/CD](https://www.reddit.com/r/devops/comments/16x902r/implentation_of_owasp_zap_or_similar_into_cicd/) | _pand4 | 6 |
+| [What should I learn for data mapping and data migration effort towards Azure/Microsoft Ecosystem?](https://www.reddit.com/r/devops/comments/16x4qes/what_should_i_learn_for_data_mapping_and_data/) | Zabadabadoodles | 2 |
+| [Automating standups using GPT4 and Github APIs](https://www.reddit.com/r/devops/comments/16xrval/automating_standups_using_gpt4_and_github_apis/) | ChikaBtc | 2 |
+| [Introducing our new framework to make cloud computing simple. (Check comments)](https://www.reddit.com/r/devops/comments/16xsbrn/introducing_our_new_framework_to_make_cloud/) | akaam_s | 1 |
+| [How are you setting up automatic CI/CD?](https://www.reddit.com/r/devops/comments/16xu0vl/how_are_you_setting_up_automatic_cicd/) | JustAnAccountForMeee | 1 |
+| [Central UI backup tool for many servers running docker containers?](https://www.reddit.com/r/devops/comments/16xcbb0/central_ui_backup_tool_for_many_servers_running/) | miguste | 1 |
+| [SRE Story with Michael Hausenblas](https://www.reddit.com/r/devops/comments/16x4p0p/sre_story_with_michael_hausenblas/) | PrathameshSonpatki | 0 |
+| [Retry api calls in project / proxy](https://www.reddit.com/r/devops/comments/16x5v8p/retry_api_calls_in_project_proxy/) | rafipiccolo | 0 |
