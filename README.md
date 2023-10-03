@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What should be the scope of Terraform in our infrastructure?](https://www.reddit.com/r/devops/comments/16x92wj/what_should_be_the_scope_of_terraform_in_our/) | Alarming_Rest1557 | 24 |
-| [What do you do in a chaotic environment where all the Terraform IAC does not match with the current state of the company?](https://www.reddit.com/r/devops/comments/16xrwsw/what_do_you_do_in_a_chaotic_environment_where_all/) | waste2muchtime | 13 |
-| [Implentation of OWASP ZAP (or similar) into CI/CD](https://www.reddit.com/r/devops/comments/16x902r/implentation_of_owasp_zap_or_similar_into_cicd/) | _pand4 | 6 |
-| [What should I learn for data mapping and data migration effort towards Azure/Microsoft Ecosystem?](https://www.reddit.com/r/devops/comments/16x4qes/what_should_i_learn_for_data_mapping_and_data/) | Zabadabadoodles | 2 |
-| [Automating standups using GPT4 and Github APIs](https://www.reddit.com/r/devops/comments/16xrval/automating_standups_using_gpt4_and_github_apis/) | ChikaBtc | 2 |
-| [Introducing our new framework to make cloud computing simple. (Check comments)](https://www.reddit.com/r/devops/comments/16xsbrn/introducing_our_new_framework_to_make_cloud/) | akaam_s | 1 |
-| [How are you setting up automatic CI/CD?](https://www.reddit.com/r/devops/comments/16xu0vl/how_are_you_setting_up_automatic_cicd/) | JustAnAccountForMeee | 1 |
-| [Central UI backup tool for many servers running docker containers?](https://www.reddit.com/r/devops/comments/16xcbb0/central_ui_backup_tool_for_many_servers_running/) | miguste | 1 |
-| [SRE Story with Michael Hausenblas](https://www.reddit.com/r/devops/comments/16x4p0p/sre_story_with_michael_hausenblas/) | PrathameshSonpatki | 0 |
-| [Retry api calls in project / proxy](https://www.reddit.com/r/devops/comments/16x5v8p/retry_api_calls_in_project_proxy/) | rafipiccolo | 0 |
+| [How do you transform a team that has very few coding practices to one that has good coding practices without a bunch more meetings and ceremonies?](https://www.reddit.com/r/devops/comments/16xwwyb/how_do_you_transform_a_team_that_has_very_few/) | PartemConsilio | 38 |
+| [Switching from datadog -- it is worth it?](https://www.reddit.com/r/devops/comments/16ybz8g/switching_from_datadog_it_is_worth_it/) | wgfdark | 33 |
+| [Best companies to learn the true DevOps way](https://www.reddit.com/r/devops/comments/16y5u2j/best_companies_to_learn_the_true_devops_way/) | OverlyCivilXenomorph | 21 |
+| [What are Terraform CICD/DevSecOps code scanning best practices?](https://www.reddit.com/r/devops/comments/16xxoso/what_are_terraform_cicddevsecops_code_scanning/) | LandADevOpsJob | 8 |
+| [DORA Metrics - question about calculating change failure rate](https://www.reddit.com/r/devops/comments/16y6j5l/dora_metrics_question_about_calculating_change/) | Early-Evening-Soup | 6 |
+| [Rate for DevOps consulting job to rebuild an infrastructure](https://www.reddit.com/r/devops/comments/16yjhps/rate_for_devops_consulting_job_to_rebuild_an/) | Exam-Murky | 3 |
+| [Someone was hired to be my new manager so my organization obviously has a negative perception of my abilities. Not entirely sure it's my fault. What can I do?](https://www.reddit.com/r/devops/comments/16ypxwt/someone_was_hired_to_be_my_new_manager_so_my/) | nevercode | 2 |
+| [How do you find tests that are in the code but don't run in CI?](https://www.reddit.com/r/devops/comments/16xwe6b/how_do_you_find_tests_that_are_in_the_code_but/) | AemonQE | 2 |
+| [Containerized Development Environment Manager](https://www.reddit.com/r/devops/comments/16yp6sg/containerized_development_environment_manager/) | EmbeddedMagicX | 2 |
+| [Mind map highlighting fundamental topics required for AWS Cloud Practitioner certification.](https://www.reddit.com/r/devops/comments/16yjtv3/mind_map_highlighting_fundamental_topics_required/) | kanani_nirav | 1 |
