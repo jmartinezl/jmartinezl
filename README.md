@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you transform a team that has very few coding practices to one that has good coding practices without a bunch more meetings and ceremonies?](https://www.reddit.com/r/devops/comments/16xwwyb/how_do_you_transform_a_team_that_has_very_few/) | PartemConsilio | 38 |
-| [Switching from datadog -- it is worth it?](https://www.reddit.com/r/devops/comments/16ybz8g/switching_from_datadog_it_is_worth_it/) | wgfdark | 33 |
-| [Best companies to learn the true DevOps way](https://www.reddit.com/r/devops/comments/16y5u2j/best_companies_to_learn_the_true_devops_way/) | OverlyCivilXenomorph | 21 |
-| [What are Terraform CICD/DevSecOps code scanning best practices?](https://www.reddit.com/r/devops/comments/16xxoso/what_are_terraform_cicddevsecops_code_scanning/) | LandADevOpsJob | 8 |
-| [DORA Metrics - question about calculating change failure rate](https://www.reddit.com/r/devops/comments/16y6j5l/dora_metrics_question_about_calculating_change/) | Early-Evening-Soup | 6 |
-| [Rate for DevOps consulting job to rebuild an infrastructure](https://www.reddit.com/r/devops/comments/16yjhps/rate_for_devops_consulting_job_to_rebuild_an/) | Exam-Murky | 3 |
-| [Someone was hired to be my new manager so my organization obviously has a negative perception of my abilities. Not entirely sure it's my fault. What can I do?](https://www.reddit.com/r/devops/comments/16ypxwt/someone_was_hired_to_be_my_new_manager_so_my/) | nevercode | 2 |
-| [How do you find tests that are in the code but don't run in CI?](https://www.reddit.com/r/devops/comments/16xwe6b/how_do_you_find_tests_that_are_in_the_code_but/) | AemonQE | 2 |
-| [Containerized Development Environment Manager](https://www.reddit.com/r/devops/comments/16yp6sg/containerized_development_environment_manager/) | EmbeddedMagicX | 2 |
-| [Mind map highlighting fundamental topics required for AWS Cloud Practitioner certification.](https://www.reddit.com/r/devops/comments/16yjtv3/mind_map_highlighting_fundamental_topics_required/) | kanani_nirav | 1 |
+| [How are these DevOps resources surviving without knowing the fundamentals?](https://www.reddit.com/r/devops/comments/16z2enc/how_are_these_devops_resources_surviving_without/) | Telug0du | 205 |
+| [How do you find "easy" DevOps jobs these days?](https://www.reddit.com/r/devops/comments/16yx4mc/how_do_you_find_easy_devops_jobs_these_days/) | 240-braiseit | 50 |
+| [Hired as a recent DevSecOps engineer but getting dumped with DevOps and less Security work. Is this normal?](https://www.reddit.com/r/devops/comments/16yr1jp/hired_as_a_recent_devsecops_engineer_but_getting/) | IamOkei | 17 |
+| [Interviewing another Senior Dev. Ideas for good background questions?](https://www.reddit.com/r/devops/comments/16ytc9c/interviewing_another_senior_dev_ideas_for_good/) | _N_O_P_E_ | 15 |
+| [Netdata: query, explore and visualize SystemD Journals!](https://www.reddit.com/r/devops/comments/16yv7wf/netdata_query_explore_and_visualize_systemd/) | ktsaou | 14 |
+| [How to start a cloud consulting business?](https://www.reddit.com/r/devops/comments/16zg03u/how_to_start_a_cloud_consulting_business/) | Sleep_addict | 7 |
+| [GitOps breaks deploy visibility in ci/cd pipeline status, looking for recommendation to solve?](https://www.reddit.com/r/devops/comments/16z01tk/gitops_breaks_deploy_visibility_in_cicd_pipeline/) | sabienz | 6 |
+| [Blog Post: Building a "Cheaper" Kubernetes Cluster at Home](https://www.reddit.com/r/devops/comments/16yu8vh/blog_post_building_a_cheaper_kubernetes_cluster/) | Hdmoney | 5 |
+| [Best practices in creating a standby RabbitMQ cluster located in another Availability Zone?](https://www.reddit.com/r/devops/comments/16yq6b0/best_practices_in_creating_a_standby_rabbitmq/) | jumperabg | 3 |
+| [How do you collect DORA Metrics if you don't have any Continuous Deployment into Production?](https://www.reddit.com/r/devops/comments/16zgab2/how_do_you_collect_dora_metrics_if_you_dont_have/) | AemonQE | 2 |
