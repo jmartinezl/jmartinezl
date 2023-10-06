@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do you ever stop getting thrown in the deep end?](https://www.reddit.com/r/devops/comments/16zyhwf/do_you_ever_stop_getting_thrown_in_the_deep_end/) | Obj_Sea | 61 |
-| [CI/CD Post: GitLab CI/CD Best Practices I Recommend After 2 Years of Experience](https://www.reddit.com/r/devops/comments/16zyc1p/cicd_post_gitlab_cicd_best_practices_i_recommend/) | Tii111 | 26 |
-| [How often is it okay to switch jobs?](https://www.reddit.com/r/devops/comments/1701ngx/how_often_is_it_okay_to_switch_jobs/) | doku_tree | 18 |
-| [DevOps course for small companies and individuals](https://www.reddit.com/r/devops/comments/170cwfb/devops_course_for_small_companies_and_individuals/) | predmijat | 10 |
-| [Data engineering or devops?](https://www.reddit.com/r/devops/comments/1709gjj/data_engineering_or_devops/) | sailor_Moon_Pie | 8 |
-| [Do DevOps roles always require coding?](https://www.reddit.com/r/devops/comments/16zx0qa/do_devops_roles_always_require_coding/) | CannotStopMeOnReddit | 5 |
-| [Cloud Single Tenant Support](https://www.reddit.com/r/devops/comments/1702iow/cloud_single_tenant_support/) | whatswiththe | 4 |
-| [Are certificates important?](https://www.reddit.com/r/devops/comments/170ehyf/are_certificates_important/) | un1xmannn | 2 |
-| [DevSecOps best practices](https://www.reddit.com/r/devops/comments/1709tjp/devsecops_best_practices/) | rakkhi | 1 |
-| [AWS EKS: Using two EC2 worker nodes with different capacity](https://www.reddit.com/r/devops/comments/16znb16/aws_eks_using_two_ec2_worker_nodes_with_different/) | kasvith | 1 |
+| [Venting - my team just got handed our gitops stack and now we're getting auth. How do you think this is going to go?](https://www.reddit.com/r/devops/comments/170quxk/venting_my_team_just_got_handed_our_gitops_stack/) | 5olArchitect | 54 |
+| [RANT/VENT - Frustrated about "DevOps" as a job title](https://www.reddit.com/r/devops/comments/170n1zr/rantvent_frustrated_about_devops_as_a_job_title/) | prysmatik | 45 |
+| [Where do you draw the line between IaC and GitOps?](https://www.reddit.com/r/devops/comments/170nzmo/where_do_you_draw_the_line_between_iac_and_gitops/) | Nepoxx | 23 |
+| [Structuring a Micro-Service repo which has dependencies on Terraform created AWS resources](https://www.reddit.com/r/devops/comments/170l0rx/structuring_a_microservice_repo_which_has/) | maximillion_23 | 5 |
+| [Build your own (IPv6) cloud network with Linux and Wireguard](https://www.reddit.com/r/devops/comments/1716elx/build_your_own_ipv6_cloud_network_with_linux_and/) | erebe | 2 |
+| [Best Programming And Scripting Languages For DevOps Excellence](https://www.reddit.com/r/devops/comments/1718413/best_programming_and_scripting_languages_for/) | InvoZone | 2 |
+| [aws service connect and ECS Fargate](https://www.reddit.com/r/devops/comments/1713vla/aws_service_connect_and_ecs_fargate/) | Automatic_Bid8853 | 1 |
+| [Send an email if a bamboo plan takes too long](https://www.reddit.com/r/devops/comments/1719gu3/send_an_email_if_a_bamboo_plan_takes_too_long/) | inc00gnito | 1 |
+| [Reach Backend Container API from Frontend Container In Dockerized App](https://www.reddit.com/r/devops/comments/171a4fp/reach_backend_container_api_from_frontend/) | norsemanGrey | 1 |
+| [Kafka auth with Vault?](https://www.reddit.com/r/devops/comments/1717z57/kafka_auth_with_vault/) | kingindanord | 1 |
