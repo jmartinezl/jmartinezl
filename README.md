@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Venting - my team just got handed our gitops stack and now we're getting auth. How do you think this is going to go?](https://www.reddit.com/r/devops/comments/170quxk/venting_my_team_just_got_handed_our_gitops_stack/) | 5olArchitect | 54 |
-| [RANT/VENT - Frustrated about "DevOps" as a job title](https://www.reddit.com/r/devops/comments/170n1zr/rantvent_frustrated_about_devops_as_a_job_title/) | prysmatik | 45 |
-| [Where do you draw the line between IaC and GitOps?](https://www.reddit.com/r/devops/comments/170nzmo/where_do_you_draw_the_line_between_iac_and_gitops/) | Nepoxx | 23 |
-| [Structuring a Micro-Service repo which has dependencies on Terraform created AWS resources](https://www.reddit.com/r/devops/comments/170l0rx/structuring_a_microservice_repo_which_has/) | maximillion_23 | 5 |
-| [Build your own (IPv6) cloud network with Linux and Wireguard](https://www.reddit.com/r/devops/comments/1716elx/build_your_own_ipv6_cloud_network_with_linux_and/) | erebe | 2 |
-| [Best Programming And Scripting Languages For DevOps Excellence](https://www.reddit.com/r/devops/comments/1718413/best_programming_and_scripting_languages_for/) | InvoZone | 2 |
-| [aws service connect and ECS Fargate](https://www.reddit.com/r/devops/comments/1713vla/aws_service_connect_and_ecs_fargate/) | Automatic_Bid8853 | 1 |
-| [Send an email if a bamboo plan takes too long](https://www.reddit.com/r/devops/comments/1719gu3/send_an_email_if_a_bamboo_plan_takes_too_long/) | inc00gnito | 1 |
-| [Reach Backend Container API from Frontend Container In Dockerized App](https://www.reddit.com/r/devops/comments/171a4fp/reach_backend_container_api_from_frontend/) | norsemanGrey | 1 |
-| [Kafka auth with Vault?](https://www.reddit.com/r/devops/comments/1717z57/kafka_auth_with_vault/) | kingindanord | 1 |
+| [Most effective job boards](https://www.reddit.com/r/devops/comments/171n6np/most_effective_job_boards/) | namenotpicked | 37 |
+| [From devops to engineering manager ?](https://www.reddit.com/r/devops/comments/1720whz/from_devops_to_engineering_manager/) | h_djo | 11 |
+| [How does DevOps apply to standalone apps?](https://www.reddit.com/r/devops/comments/171we2e/how_does_devops_apply_to_standalone_apps/) | User6RE001 | 6 |
+| [Interested in taking the virtual stage at OSA CON 2023? Dive into the latest on open source and analytics discussion. The Call For Proposals is still open, submit your talk today!](https://www.reddit.com/r/devops/comments/171ukg1/interested_in_taking_the_virtual_stage_at_osa_con/) | RyhanSunny_Altinity | 3 |
+| [How do you package windows software?](https://www.reddit.com/r/devops/comments/171u4vt/how_do_you_package_windows_software/) | elasticweed | 3 |
+| [Gitlab pipeline tips?](https://www.reddit.com/r/devops/comments/171sgzy/gitlab_pipeline_tips/) | Stpstpstp | 3 |
+| [Difference between an AWS NAT gateway, and internet gateway?](https://www.reddit.com/r/devops/comments/1721jnd/difference_between_an_aws_nat_gateway_and/) | m477r1x | 3 |
+| [Where to look for a devops trainee job](https://www.reddit.com/r/devops/comments/1721r8t/where_to_look_for_a_devops_trainee_job/) | montaomrani | 1 |
+| [DevOps to Performance check assignment](https://www.reddit.com/r/devops/comments/171q0lk/devops_to_performance_check_assignment/) | Different_Ability618 | 1 |
+| [Testing with Cloudflare Tunnel and AWS Blue/Green](https://www.reddit.com/r/devops/comments/171c24q/testing_with_cloudflare_tunnel_and_aws_bluegreen/) | Bradghost | 0 |
