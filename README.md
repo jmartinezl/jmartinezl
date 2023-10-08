@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Most effective job boards](https://www.reddit.com/r/devops/comments/171n6np/most_effective_job_boards/) | namenotpicked | 37 |
-| [From devops to engineering manager ?](https://www.reddit.com/r/devops/comments/1720whz/from_devops_to_engineering_manager/) | h_djo | 11 |
-| [How does DevOps apply to standalone apps?](https://www.reddit.com/r/devops/comments/171we2e/how_does_devops_apply_to_standalone_apps/) | User6RE001 | 6 |
-| [Interested in taking the virtual stage at OSA CON 2023? Dive into the latest on open source and analytics discussion. The Call For Proposals is still open, submit your talk today!](https://www.reddit.com/r/devops/comments/171ukg1/interested_in_taking_the_virtual_stage_at_osa_con/) | RyhanSunny_Altinity | 3 |
-| [How do you package windows software?](https://www.reddit.com/r/devops/comments/171u4vt/how_do_you_package_windows_software/) | elasticweed | 3 |
-| [Gitlab pipeline tips?](https://www.reddit.com/r/devops/comments/171sgzy/gitlab_pipeline_tips/) | Stpstpstp | 3 |
-| [Difference between an AWS NAT gateway, and internet gateway?](https://www.reddit.com/r/devops/comments/1721jnd/difference_between_an_aws_nat_gateway_and/) | m477r1x | 3 |
-| [Where to look for a devops trainee job](https://www.reddit.com/r/devops/comments/1721r8t/where_to_look_for_a_devops_trainee_job/) | montaomrani | 1 |
-| [DevOps to Performance check assignment](https://www.reddit.com/r/devops/comments/171q0lk/devops_to_performance_check_assignment/) | Different_Ability618 | 1 |
-| [Testing with Cloudflare Tunnel and AWS Blue/Green](https://www.reddit.com/r/devops/comments/171c24q/testing_with_cloudflare_tunnel_and_aws_bluegreen/) | Bradghost | 0 |
+| [Ansible,Chef etc](https://www.reddit.com/r/devops/comments/172fc3p/ansiblechef_etc/) | andycol_500 | 37 |
+| [Hot takes or unpopular opinions that you want r/DevOps users to hear?](https://www.reddit.com/r/devops/comments/172woh0/hot_takes_or_unpopular_opinions_that_you_want/) | Physical_Ad_3028 | 11 |
+| [Career change to devops?](https://www.reddit.com/r/devops/comments/172615h/career_change_to_devops/) | MJuos_ | 5 |
+| [hikaru-model-28 package released, also included in updated hikaru meta-package (not a chess program)](https://www.reddit.com/r/devops/comments/1724wx4/hikarumodel28_package_released_also_included_in/) | hoover | 1 |
+| [Windows 11 imaging software with generalisation (NOT Sysprep)](https://www.reddit.com/r/devops/comments/17299p2/windows_11_imaging_software_with_generalisation/) | Vesalii | 0 |
+| [Thinking to switch from DevOps to Backend role](https://www.reddit.com/r/devops/comments/172wce2/thinking_to_switch_from_devops_to_backend_role/) | ReleaseFeeling9787 | 0 |
+| [Running MSSQL(SQL Server 2019) HA setup on K8s(EKS)](https://www.reddit.com/r/devops/comments/172vql2/running_mssqlsql_server_2019_ha_setup_on_k8seks/) | kasvith | 0 |
+| [Nucal](https://www.reddit.com/r/devops/comments/172db1h/nucal/) | mellowtones242 | 0 |
