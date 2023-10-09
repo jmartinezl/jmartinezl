@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Ansible,Chef etc](https://www.reddit.com/r/devops/comments/172fc3p/ansiblechef_etc/) | andycol_500 | 37 |
-| [Hot takes or unpopular opinions that you want r/DevOps users to hear?](https://www.reddit.com/r/devops/comments/172woh0/hot_takes_or_unpopular_opinions_that_you_want/) | Physical_Ad_3028 | 11 |
-| [Career change to devops?](https://www.reddit.com/r/devops/comments/172615h/career_change_to_devops/) | MJuos_ | 5 |
-| [hikaru-model-28 package released, also included in updated hikaru meta-package (not a chess program)](https://www.reddit.com/r/devops/comments/1724wx4/hikarumodel28_package_released_also_included_in/) | hoover | 1 |
-| [Windows 11 imaging software with generalisation (NOT Sysprep)](https://www.reddit.com/r/devops/comments/17299p2/windows_11_imaging_software_with_generalisation/) | Vesalii | 0 |
-| [Thinking to switch from DevOps to Backend role](https://www.reddit.com/r/devops/comments/172wce2/thinking_to_switch_from_devops_to_backend_role/) | ReleaseFeeling9787 | 0 |
-| [Running MSSQL(SQL Server 2019) HA setup on K8s(EKS)](https://www.reddit.com/r/devops/comments/172vql2/running_mssqlsql_server_2019_ha_setup_on_k8seks/) | kasvith | 0 |
-| [Nucal](https://www.reddit.com/r/devops/comments/172db1h/nucal/) | mellowtones242 | 0 |
+| [Has anyone made a career switch from QA to Devops?](https://www.reddit.com/r/devops/comments/1737f0r/has_anyone_made_a_career_switch_from_qa_to_devops/) | mahdy1991 | 24 |
+| [What separates a DevOps Engineer from a Senior DevOps Engineer?](https://www.reddit.com/r/devops/comments/173ij1q/what_separates_a_devops_engineer_from_a_senior/) | deadmoscow | 22 |
+| [Who’s responsible for managing the cloud bill in your company/place of work?](https://www.reddit.com/r/devops/comments/1737uzn/whos_responsible_for_managing_the_cloud_bill_in/) | Z-penguinDictator | 7 |
+| [DevOps without any information about the software being built](https://www.reddit.com/r/devops/comments/173n3jt/devops_without_any_information_about_the_software/) | NevekShadow | 3 |
+| [Automatic engineer access when supporting a 1am incident in prod?](https://www.reddit.com/r/devops/comments/173l8vz/automatic_engineer_access_when_supporting_a_1am/) | jonsonalfa | 2 |
+| [A MySQL architecture that i can scale down](https://www.reddit.com/r/devops/comments/173480v/a_mysql_architecture_that_i_can_scale_down/) | FinnaGetRichh | 2 |
+| [New spin for my professional career](https://www.reddit.com/r/devops/comments/172xpqa/new_spin_for_my_professional_career/) | therealmoshpit | 1 |
+| [Internship position , devops vs swe?](https://www.reddit.com/r/devops/comments/173p1in/internship_position_devops_vs_swe/) | Reception_Dependent | 1 |
+| [NEARCON : Hack the days and nights away for a chance to build on the BOS and win $180k+](https://www.reddit.com/r/devops/comments/1733gw2/nearcon_hack_the_days_and_nights_away_for_a/) | NEARMEME | 0 |
+| [Does anybody here have experience with mocking APIs?](https://www.reddit.com/r/devops/comments/173mo89/does_anybody_here_have_experience_with_mocking/) | domanpanda | 0 |
