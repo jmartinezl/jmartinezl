@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps/SREs are moving under my department umbrella next month. Advice on helping them feel welcome, not hate me and run as independently as possible?](https://www.reddit.com/r/devops/comments/173tzyg/devopssres_are_moving_under_my_department/) | ConcreteLitigation72 | 110 |
-| [Is "Prometheus: Up &amp; Running" good book for advanced Prometheus usage?](https://www.reddit.com/r/devops/comments/174gorg/is_prometheus_up_running_good_book_for_advanced/) | shpongled_lion | 7 |
-| [Need clarification on my understanding of devops](https://www.reddit.com/r/devops/comments/1747v7y/need_clarification_on_my_understanding_of_devops/) | pyjl12 | 6 |
-| [I've inherited a very large (~3Tb) Graphite Db that's got data going back about 5 years - and I need to plan for the future - any advice please?](https://www.reddit.com/r/devops/comments/174hmqz/ive_inherited_a_very_large_3tb_graphite_db_thats/) | extra_specticles | 3 |
-| [Why would you choose devops over dev or software engineer as career choice](https://www.reddit.com/r/devops/comments/1740hoe/why_would_you_choose_devops_over_dev_or_software/) | woke-wook | 2 |
-| [System design resources recommendations](https://www.reddit.com/r/devops/comments/173qczo/system_design_resources_recommendations/) | ashbeanluo | 2 |
-| [Kubernetes Operator for external app](https://www.reddit.com/r/devops/comments/1743paz/kubernetes_operator_for_external_app/) | Ok-Mine-6491 | 2 |
-| [Fastest VPS with the Fastest Internet...?](https://www.reddit.com/r/devops/comments/1748h24/fastest_vps_with_the_fastest_internet/) | ellosee | 2 |
-| [Do AWS cloud partner offerings really save costs without drawbacks?](https://www.reddit.com/r/devops/comments/174hhk0/do_aws_cloud_partner_offerings_really_save_costs/) | maniacal-yak | 2 |
-| [Wasted my time on a project and now I lack recent hands-on experience](https://www.reddit.com/r/devops/comments/174happ/wasted_my_time_on_a_project_and_now_i_lack_recent/) | ddiaconu21 | 1 |
+| [What is expected from a DevOps Engineer in 2023 (almost 2024)?](https://www.reddit.com/r/devops/comments/1750yj6/what_is_expected_from_a_devops_engineer_in_2023/) | DiegoConD | 38 |
+| [Does your Manager undertand the technology ?](https://www.reddit.com/r/devops/comments/174m33w/does_your_manager_undertand_the_technology/) | 47zombies | 33 |
+| [Why would you use a container for a full operating system?](https://www.reddit.com/r/devops/comments/174rqmw/why_would_you_use_a_container_for_a_full/) | NOLAblonde | 29 |
+| [Testing Pulumi's new IAC configuration management Tool - ESC](https://www.reddit.com/r/devops/comments/174ltul/testing_pulumis_new_iac_configuration_management/) | codius82 | 18 |
+| [Hacktoberfest invitation](https://www.reddit.com/r/devops/comments/174ush6/hacktoberfest_invitation/) | santafen | 3 |
+| [Google Kubernetes Engine ongoing incident since 9 days ago](https://www.reddit.com/r/devops/comments/17591gu/google_kubernetes_engine_ongoing_incident_since_9/) | rr-geil-j | 3 |
+| [Nomad or k3s](https://www.reddit.com/r/devops/comments/1757hpb/nomad_or_k3s/) | enongio | 2 |
+| [Just + parallel](https://www.reddit.com/r/devops/comments/174kkhr/just_parallel/) | amarao_san | 2 |
+| [How do you manage "Dotfiles" in your organization?](https://www.reddit.com/r/devops/comments/1757uy5/how_do_you_manage_dotfiles_in_your_organization/) | kingindanord | 2 |
+| [Power of Kubernetes and Container Orchestration](https://www.reddit.com/r/devops/comments/175bsxg/power_of_kubernetes_and_container_orchestration/) | nifelabs | 1 |
