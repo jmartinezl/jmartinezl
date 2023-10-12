@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What is expected from a DevOps Engineer in 2023 (almost 2024)?](https://www.reddit.com/r/devops/comments/1750yj6/what_is_expected_from_a_devops_engineer_in_2023/) | DiegoConD | 38 |
-| [Does your Manager undertand the technology ?](https://www.reddit.com/r/devops/comments/174m33w/does_your_manager_undertand_the_technology/) | 47zombies | 33 |
-| [Why would you use a container for a full operating system?](https://www.reddit.com/r/devops/comments/174rqmw/why_would_you_use_a_container_for_a_full/) | NOLAblonde | 29 |
-| [Testing Pulumi's new IAC configuration management Tool - ESC](https://www.reddit.com/r/devops/comments/174ltul/testing_pulumis_new_iac_configuration_management/) | codius82 | 18 |
-| [Hacktoberfest invitation](https://www.reddit.com/r/devops/comments/174ush6/hacktoberfest_invitation/) | santafen | 3 |
-| [Google Kubernetes Engine ongoing incident since 9 days ago](https://www.reddit.com/r/devops/comments/17591gu/google_kubernetes_engine_ongoing_incident_since_9/) | rr-geil-j | 3 |
-| [Nomad or k3s](https://www.reddit.com/r/devops/comments/1757hpb/nomad_or_k3s/) | enongio | 2 |
-| [Just + parallel](https://www.reddit.com/r/devops/comments/174kkhr/just_parallel/) | amarao_san | 2 |
-| [How do you manage "Dotfiles" in your organization?](https://www.reddit.com/r/devops/comments/1757uy5/how_do_you_manage_dotfiles_in_your_organization/) | kingindanord | 2 |
-| [Power of Kubernetes and Container Orchestration](https://www.reddit.com/r/devops/comments/175bsxg/power_of_kubernetes_and_container_orchestration/) | nifelabs | 1 |
+| [Incident Response Tooling Best Practices](https://www.reddit.com/r/devops/comments/17630y8/incident_response_tooling_best_practices/) | WarInional5037 | 40 |
+| [Tools for Platform Teams @ Pulumi](https://www.reddit.com/r/devops/comments/175mk2o/tools_for_platform_teams_pulumi/) | cobrazo | 13 |
+| [monitoring multiple datacenters with prometheus](https://www.reddit.com/r/devops/comments/175vr3b/monitoring_multiple_datacenters_with_prometheus/) | melbogia | 8 |
+| [Version control and releases, what would you do in this situation?](https://www.reddit.com/r/devops/comments/175kg2i/version_control_and_releases_what_would_you_do_in/) | colontragedy | 7 |
+| [Infrastructure Design Documents Framework](https://www.reddit.com/r/devops/comments/175fn4l/infrastructure_design_documents_framework/) | FedeRoach | 5 |
+| [Structure logs with GPT4 and it's so efficient. Also stupid easy to use.](https://www.reddit.com/r/devops/comments/175fem6/structure_logs_with_gpt4_and_its_so_efficient/) | yacl | 3 |
+| [Github Actions with Manual Approval without Github Enterprise](https://www.reddit.com/r/devops/comments/17646ts/github_actions_with_manual_approval_without/) | chucknoxis | 3 |
+| [Recommendations for Dependency Vulnerability Scanning Tool for Private GitHub Repositories](https://www.reddit.com/r/devops/comments/175ebbd/recommendations_for_dependency_vulnerability/) | AsparagusCorrect3116 | 2 |
+| [How to run automated End-to-end tests that need other repositories to run?](https://www.reddit.com/r/devops/comments/175kytr/how_to_run_automated_endtoend_tests_that_need/) | Vergiliogu | 2 |
+| [From ops to dev to DevOps or skip the dev part? (with some existing SWE skills)](https://www.reddit.com/r/devops/comments/1761ubv/from_ops_to_dev_to_devops_or_skip_the_dev_part/) | DaeVo1234 | 2 |
