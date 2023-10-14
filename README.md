@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How much coding does a Devops engineer really need to know?](https://www.reddit.com/r/devops/comments/176asfq/how_much_coding_does_a_devops_engineer_really/) | waste2muchtime | 46 |
-| [What would you do if you were the sole DevOps engineer of a company with less than 40 people?](https://www.reddit.com/r/devops/comments/1769rec/what_would_you_do_if_you_were_the_sole_devops/) | AemonQE | 37 |
-| [Guys, where do you guys get technology news?](https://www.reddit.com/r/devops/comments/176amos/guys_where_do_you_guys_get_technology_news/) | small_ataraxia | 24 |
-| [Hopeless and frustrated.](https://www.reddit.com/r/devops/comments/176kpef/hopeless_and_frustrated/) | IncidentPuzzled560 | 18 |
-| [Do you do 3-4 day planning sessions as part of your agile process.](https://www.reddit.com/r/devops/comments/1766apg/do_you_do_34_day_planning_sessions_as_part_of/) | txs2300 | 8 |
-| [How to enforce constraints across Git repositories?](https://www.reddit.com/r/devops/comments/176ujdz/how_to_enforce_constraints_across_git_repositories/) | muff10n | 3 |
-| [Looking for internal service which acts as publishing platform for product setups](https://www.reddit.com/r/devops/comments/176bkod/looking_for_internal_service_which_acts_as/) | Khaos-Coder | 2 |
-| [Junior Devops Engineer Doing Fullstack](https://www.reddit.com/r/devops/comments/17660pv/junior_devops_engineer_doing_fullstack/) | riskybiznuu | 2 |
-| [CI/CD pipeline, more secure way to update webserver than ssh?](https://www.reddit.com/r/devops/comments/176sq1v/cicd_pipeline_more_secure_way_to_update_webserver/) | Sel-en-ium | 2 |
-| [Best PaaS or Cloud Provider](https://www.reddit.com/r/devops/comments/176cec6/best_paas_or_cloud_provider/) | stmind | 2 |
+| [Unpopular opinion: Bash is just as much "code" as Python or Golang (or whatever else)](https://www.reddit.com/r/devops/comments/1770md5/unpopular_opinion_bash_is_just_as_much_code_as/) | poolpog | 205 |
+| [Only 3,5 years in IT, afraid of burning out](https://www.reddit.com/r/devops/comments/1779233/only_35_years_in_it_afraid_of_burning_out/) | mr-vercetti | 30 |
+| [What do you work on when code or tests take up to 40 minutes to compile and it's your only task currently in the pipeline?](https://www.reddit.com/r/devops/comments/1773zub/what_do_you_work_on_when_code_or_tests_take_up_to/) | IndieDiscovery | 21 |
+| [What does the ideal IAC pipeline look like to you?](https://www.reddit.com/r/devops/comments/1771zj3/what_does_the_ideal_iac_pipeline_look_like_to_you/) | They-Took-Our-Jerbs | 13 |
+| [I'm building an open-source tool for visually representing software systems](https://www.reddit.com/r/devops/comments/1772dml/im_building_an_opensource_tool_for_visually/) | markmanx | 8 |
+| [Certification Roadmap](https://www.reddit.com/r/devops/comments/176xv4j/certification_roadmap/) | LGBTrendy | 4 |
+| [AWS EKS: Mounting Secrets vs Calling Directly from AWS Secrets Manager](https://www.reddit.com/r/devops/comments/177ayg1/aws_eks_mounting_secrets_vs_calling_directly_from/) | Fulicious | 4 |
+| [Multi-repo development process consistency](https://www.reddit.com/r/devops/comments/17754um/multirepo_development_process_consistency/) | jfontoura | 3 |
+| [jenkinsci/blueocean to jenkins/jenkins migration issues](https://www.reddit.com/r/devops/comments/176y3ds/jenkinsciblueocean_to_jenkinsjenkins_migration/) | DASDFGASFDAHSDF | 2 |
+| [VSCode, Terraform and AWS profiles.](https://www.reddit.com/r/devops/comments/1777xvx/vscode_terraform_and_aws_profiles/) | rmaccKC | 2 |
