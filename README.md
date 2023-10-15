@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Unpopular opinion: Bash is just as much "code" as Python or Golang (or whatever else)](https://www.reddit.com/r/devops/comments/1770md5/unpopular_opinion_bash_is_just_as_much_code_as/) | poolpog | 205 |
-| [Only 3,5 years in IT, afraid of burning out](https://www.reddit.com/r/devops/comments/1779233/only_35_years_in_it_afraid_of_burning_out/) | mr-vercetti | 30 |
-| [What do you work on when code or tests take up to 40 minutes to compile and it's your only task currently in the pipeline?](https://www.reddit.com/r/devops/comments/1773zub/what_do_you_work_on_when_code_or_tests_take_up_to/) | IndieDiscovery | 21 |
-| [What does the ideal IAC pipeline look like to you?](https://www.reddit.com/r/devops/comments/1771zj3/what_does_the_ideal_iac_pipeline_look_like_to_you/) | They-Took-Our-Jerbs | 13 |
-| [I'm building an open-source tool for visually representing software systems](https://www.reddit.com/r/devops/comments/1772dml/im_building_an_opensource_tool_for_visually/) | markmanx | 8 |
-| [Certification Roadmap](https://www.reddit.com/r/devops/comments/176xv4j/certification_roadmap/) | LGBTrendy | 4 |
-| [AWS EKS: Mounting Secrets vs Calling Directly from AWS Secrets Manager](https://www.reddit.com/r/devops/comments/177ayg1/aws_eks_mounting_secrets_vs_calling_directly_from/) | Fulicious | 4 |
-| [Multi-repo development process consistency](https://www.reddit.com/r/devops/comments/17754um/multirepo_development_process_consistency/) | jfontoura | 3 |
-| [jenkinsci/blueocean to jenkins/jenkins migration issues](https://www.reddit.com/r/devops/comments/176y3ds/jenkinsciblueocean_to_jenkinsjenkins_migration/) | DASDFGASFDAHSDF | 2 |
-| [VSCode, Terraform and AWS profiles.](https://www.reddit.com/r/devops/comments/1777xvx/vscode_terraform_and_aws_profiles/) | rmaccKC | 2 |
+| [What tools have made your incident management easier?](https://www.reddit.com/r/devops/comments/177o94z/what_tools_have_made_your_incident_management/) | torspayorryum | 53 |
+| [Anyone using Infisical in production now?](https://www.reddit.com/r/devops/comments/17856pa/anyone_using_infisical_in_production_now/) | adelowo | 18 |
+| [upcoming SRE interview](https://www.reddit.com/r/devops/comments/177qhqc/upcoming_sre_interview/) | Different_Ability618 | 13 |
+| [Is there a modern replacement for supervisord?](https://www.reddit.com/r/devops/comments/177znld/is_there_a_modern_replacement_for_supervisord/) | mamimapr | 11 |
+| [Distribute ansible based deployement](https://www.reddit.com/r/devops/comments/177v9r1/distribute_ansible_based_deployement/) | equisetopsida | 6 |
+| [oncall.so: Responder-focused on-call that's actually nice to use](https://www.reddit.com/r/devops/comments/178d91z/oncallso_responderfocused_oncall_thats_actually/) | GodsGardener | 0 |
+| [Blockchain Developer Tools on the Near Protocol network! Beta version of Fast Auth SDK is now available! What are the benefits?](https://www.reddit.com/r/devops/comments/177tfix/blockchain_developer_tools_on_the_near_protocol/) | aplanasok | 0 |
