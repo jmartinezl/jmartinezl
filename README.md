@@ -44,11 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Visual Diagramming Tool that stays in Sync with Infra](https://www.reddit.com/r/devops/comments/178qp3c/visual_diagramming_tool_that_stays_in_sync_with/) | AdSuitable8102 | 27 |
-| [IDP - any good resources?](https://www.reddit.com/r/devops/comments/178ublj/idp_any_good_resources/) | jquinones1982 | 6 |
-| [[Giveaway] Ticket to KubeCon + CloudNativeCon North America](https://www.reddit.com/r/devops/comments/1791fpb/giveaway_ticket_to_kubecon_cloudnativecon_north/) | Klutzy-Arachnid7404 | 2 |
-| [Is the ZeroTrust working concept?](https://www.reddit.com/r/devops/comments/179450l/is_the_zerotrust_working_concept/) | icha1 | 1 |
-| [Is it possible to use DroneCI with external repositories without exposing it to internet?](https://www.reddit.com/r/devops/comments/1790hei/is_it_possible_to_use_droneci_with_external/) | domanpanda | 1 |
-| [Writing up a contract](https://www.reddit.com/r/devops/comments/17931r0/writing_up_a_contract/) | skinney6 | 0 |
-| [Share your devops theory notes](https://www.reddit.com/r/devops/comments/17942mv/share_your_devops_theory_notes/) | artificialMuse | 0 |
-| [How do you monitor event-driven systems (uptime and performance)?](https://www.reddit.com/r/devops/comments/1790vnv/how_do_you_monitor_eventdriven_systems_uptime_and/) | joshghent | 0 |
+| [Devops that are not from a dev background, what do you think about CDK?](https://www.reddit.com/r/devops/comments/179f54x/devops_that_are_not_from_a_dev_background_what_do/) | TheKober | 30 |
+| [Does vagrant is used in the real world ?](https://www.reddit.com/r/devops/comments/17979f6/does_vagrant_is_used_in_the_real_world/) | TopPerspective8217 | 10 |
+| [Differences between DevOps roles aka what am I](https://www.reddit.com/r/devops/comments/179ai60/differences_between_devops_roles_aka_what_am_i/) | DigBig3448 | 8 |
+| [How do I detect crypto-mining in a cloud instance (EC2)?](https://www.reddit.com/r/devops/comments/1799ztl/how_do_i_detect_cryptomining_in_a_cloud_instance/) | Jatalocks2 | 5 |
+| [Should Postgresql Schemas be included in the app's migration process?](https://www.reddit.com/r/devops/comments/179b16w/should_postgresql_schemas_be_included_in_the_apps/) | mikeeltiburon | 3 |
+| [How many incidents you have and how big is your company?](https://www.reddit.com/r/devops/comments/179e397/how_many_incidents_you_have_and_how_big_is_your/) | -abracadabra-- | 3 |
+| [Weird managed to deploy my pods but stuck at `ContainerCreating`.](https://www.reddit.com/r/devops/comments/179cmkp/weird_managed_to_deploy_my_pods_but_stuck_at/) | pc_magas | 2 |
+| [Tracking environmental changes](https://www.reddit.com/r/devops/comments/179hcs1/tracking_environmental_changes/) | _zmuss_ | 2 |
+| [power app/azure ai chatbot?](https://www.reddit.com/r/devops/comments/179dhuh/power_appazure_ai_chatbot/) | imdjay | 1 |
+| [What role gives you the most power over creating devops ecosystems?](https://www.reddit.com/r/devops/comments/179eez5/what_role_gives_you_the_most_power_over_creating/) | PartemConsilio | 1 |
