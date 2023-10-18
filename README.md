@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Devops that are not from a dev background, what do you think about CDK?](https://www.reddit.com/r/devops/comments/179f54x/devops_that_are_not_from_a_dev_background_what_do/) | TheKober | 30 |
-| [Does vagrant is used in the real world ?](https://www.reddit.com/r/devops/comments/17979f6/does_vagrant_is_used_in_the_real_world/) | TopPerspective8217 | 10 |
-| [Differences between DevOps roles aka what am I](https://www.reddit.com/r/devops/comments/179ai60/differences_between_devops_roles_aka_what_am_i/) | DigBig3448 | 8 |
-| [How do I detect crypto-mining in a cloud instance (EC2)?](https://www.reddit.com/r/devops/comments/1799ztl/how_do_i_detect_cryptomining_in_a_cloud_instance/) | Jatalocks2 | 5 |
-| [Should Postgresql Schemas be included in the app's migration process?](https://www.reddit.com/r/devops/comments/179b16w/should_postgresql_schemas_be_included_in_the_apps/) | mikeeltiburon | 3 |
-| [How many incidents you have and how big is your company?](https://www.reddit.com/r/devops/comments/179e397/how_many_incidents_you_have_and_how_big_is_your/) | -abracadabra-- | 3 |
-| [Weird managed to deploy my pods but stuck at `ContainerCreating`.](https://www.reddit.com/r/devops/comments/179cmkp/weird_managed_to_deploy_my_pods_but_stuck_at/) | pc_magas | 2 |
-| [Tracking environmental changes](https://www.reddit.com/r/devops/comments/179hcs1/tracking_environmental_changes/) | _zmuss_ | 2 |
-| [power app/azure ai chatbot?](https://www.reddit.com/r/devops/comments/179dhuh/power_appazure_ai_chatbot/) | imdjay | 1 |
-| [What role gives you the most power over creating devops ecosystems?](https://www.reddit.com/r/devops/comments/179eez5/what_role_gives_you_the_most_power_over_creating/) | PartemConsilio | 1 |
+| [No activity on LinkedIn](https://www.reddit.com/r/devops/comments/17aezvh/no_activity_on_linkedin/) | pppreddit | 29 |
+| [Dashboard efficiency](https://www.reddit.com/r/devops/comments/179xdsh/dashboard_efficiency/) | amarao_san | 16 |
+| [How exactly does Gitlab making money?](https://www.reddit.com/r/devops/comments/17ahsqa/how_exactly_does_gitlab_making_money/) | jchnxu | 12 |
+| [Why did Cilium win over Istio for number choice fo service mesh?](https://www.reddit.com/r/devops/comments/17a0808/why_did_cilium_win_over_istio_for_number_choice/) | IamOkei | 11 |
+| [In 2022, 10 million secrets were exposed on Github 🫨](https://www.reddit.com/r/devops/comments/17a4cxt/in_2022_10_million_secrets_were_exposed_on_github/) | mrinalwahal | 9 |
+| [New Role as a Cloud/DevOps Engineer in a Pioneer Team – Your Tips and Recommendations?](https://www.reddit.com/r/devops/comments/17ah4mv/new_role_as_a_clouddevops_engineer_in_a_pioneer/) | bwljohannes | 5 |
+| [What should I be considering given my setup here? (Azure/Next.js)](https://www.reddit.com/r/devops/comments/17ab1zc/what_should_i_be_considering_given_my_setup_here/) | maxiedaniels | 3 |
+| [What is the one aspect of incident management tools that you adore and simply cannot live without? What, on the other hand, do you find most difficult or annoying about these tools?](https://www.reddit.com/r/devops/comments/17a4vv9/what_is_the_one_aspect_of_incident_management/) | Zumcddo | 3 |
+| [What is the current market salary for a 4-5 years experience in Canada now?](https://www.reddit.com/r/devops/comments/17ahxrh/what_is_the_current_market_salary_for_a_45_years/) | TrainingSignature164 | 3 |
+| [Soft Releasing the Webmesh CNI](https://www.reddit.com/r/devops/comments/179wz1t/soft_releasing_the_webmesh_cni/) | jews4beer | 2 |
