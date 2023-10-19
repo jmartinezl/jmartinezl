@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [No activity on LinkedIn](https://www.reddit.com/r/devops/comments/17aezvh/no_activity_on_linkedin/) | pppreddit | 29 |
-| [Dashboard efficiency](https://www.reddit.com/r/devops/comments/179xdsh/dashboard_efficiency/) | amarao_san | 16 |
-| [How exactly does Gitlab making money?](https://www.reddit.com/r/devops/comments/17ahsqa/how_exactly_does_gitlab_making_money/) | jchnxu | 12 |
-| [Why did Cilium win over Istio for number choice fo service mesh?](https://www.reddit.com/r/devops/comments/17a0808/why_did_cilium_win_over_istio_for_number_choice/) | IamOkei | 11 |
-| [In 2022, 10 million secrets were exposed on Github 🫨](https://www.reddit.com/r/devops/comments/17a4cxt/in_2022_10_million_secrets_were_exposed_on_github/) | mrinalwahal | 9 |
-| [New Role as a Cloud/DevOps Engineer in a Pioneer Team – Your Tips and Recommendations?](https://www.reddit.com/r/devops/comments/17ah4mv/new_role_as_a_clouddevops_engineer_in_a_pioneer/) | bwljohannes | 5 |
-| [What should I be considering given my setup here? (Azure/Next.js)](https://www.reddit.com/r/devops/comments/17ab1zc/what_should_i_be_considering_given_my_setup_here/) | maxiedaniels | 3 |
-| [What is the one aspect of incident management tools that you adore and simply cannot live without? What, on the other hand, do you find most difficult or annoying about these tools?](https://www.reddit.com/r/devops/comments/17a4vv9/what_is_the_one_aspect_of_incident_management/) | Zumcddo | 3 |
-| [What is the current market salary for a 4-5 years experience in Canada now?](https://www.reddit.com/r/devops/comments/17ahxrh/what_is_the_current_market_salary_for_a_45_years/) | TrainingSignature164 | 3 |
-| [Soft Releasing the Webmesh CNI](https://www.reddit.com/r/devops/comments/179wz1t/soft_releasing_the_webmesh_cni/) | jews4beer | 2 |
+| [More modern alternative to Ansible](https://www.reddit.com/r/devops/comments/17ayinx/more_modern_alternative_to_ansible/) | ArtisticHamster | 60 |
+| [Upskilling from Senior Engineer -&gt; Staff Engineer](https://www.reddit.com/r/devops/comments/17az605/upskilling_from_senior_engineer_staff_engineer/) | Svprvsr | 32 |
+| [Are your jobs like mine? (Not sure if this is normal or if I’m soft)](https://www.reddit.com/r/devops/comments/17avjv7/are_your_jobs_like_mine_not_sure_if_this_is/) | Troglodyte_Techie | 22 |
+| [Hub and spoke model for CICD pipelines?](https://www.reddit.com/r/devops/comments/17asj4a/hub_and_spoke_model_for_cicd_pipelines/) | IndieDiscovery | 9 |
+| [Secret rotation and app env files](https://www.reddit.com/r/devops/comments/17b1d0u/secret_rotation_and_app_env_files/) | nilocg | 3 |
+| [Do you use SemVer for your Docker tags?](https://www.reddit.com/r/devops/comments/17apia7/do_you_use_semver_for_your_docker_tags/) | kingindanord | 3 |
+| [Start new career path as DevOps-Engineer?](https://www.reddit.com/r/devops/comments/17bh6u4/start_new_career_path_as_devopsengineer/) | Mkay_93 | 2 |
+| [Securely use next.js with azure functions?](https://www.reddit.com/r/devops/comments/17atemt/securely_use_nextjs_with_azure_functions/) | maxiedaniels | 2 |
+| [Resource suggestions](https://www.reddit.com/r/devops/comments/17aw9d5/resource_suggestions/) | madhu_86 | 2 |
+| [PSWindowsUpdate - Packer](https://www.reddit.com/r/devops/comments/17bcufm/pswindowsupdate_packer/) | meatpak | 2 |
