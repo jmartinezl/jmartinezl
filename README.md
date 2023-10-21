@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Warning: Netlify bans users for VPN use (?) regardless of company association](https://www.reddit.com/r/devops/comments/17bl986/warning_netlify_bans_users_for_vpn_use_regardless/) | dr-yd | 72 |
-| [Some advice I'd give to a junior DevOps Engineer](https://www.reddit.com/r/devops/comments/17bqupr/some_advice_id_give_to_a_junior_devops_engineer/) | oschvr | 44 |
-| [Atlassian have jumped on the Internal Developer Portal bandwagon](https://www.reddit.com/r/devops/comments/17bhr7s/atlassian_have_jumped_on_the_internal_developer/) | Observability-Guy | 24 |
-| [Spending hours every day just generating code ... is this normal for big projects?](https://www.reddit.com/r/devops/comments/17c5bcl/spending_hours_every_day_just_generating_code_is/) | charge_attack | 11 |
-| [Best stack for 500M monthly analytics ingest](https://www.reddit.com/r/devops/comments/17bu1ks/best_stack_for_500m_monthly_analytics_ingest/) | giugiugiugiugigugoug | 11 |
-| [Learning from building the tech stacks of 5 startups and giving back to the community (1/17)](https://www.reddit.com/r/devops/comments/17bp95j/learning_from_building_the_tech_stacks_of_5/) | jojomtx | 8 |
-| [Github Actions next steps, bye bash](https://www.reddit.com/r/devops/comments/17btzmw/github_actions_next_steps_bye_bash/) | Professional_Gene_63 | 6 |
-| [Idea about testing pipelines](https://www.reddit.com/r/devops/comments/17bo6bw/idea_about_testing_pipelines/) | CardiologistEarly483 | 5 |
-| [How to Spend 40 Hours Paid Time &amp; 5k of Professional Development by Dec. 31st?](https://www.reddit.com/r/devops/comments/17bq7r1/how_to_spend_40_hours_paid_time_5k_of/) | basketballah21 | 5 |
-| [Opinions needed: CI/CD Pipeline setup](https://www.reddit.com/r/devops/comments/17c4wca/opinions_needed_cicd_pipeline_setup/) | zeuthunder | 4 |
+| ["Have I Been Pwned" for API keys &amp; secrets?](https://www.reddit.com/r/devops/comments/17cd18h/have_i_been_pwned_for_api_keys_secrets/) | z_ghalleb | 68 |
+| [Overwhelmed](https://www.reddit.com/r/devops/comments/17caxtk/overwhelmed/) | fire-d-guy | 56 |
+| [Are all managed Kubernetes clusters created equally?](https://www.reddit.com/r/devops/comments/17cvyxm/are_all_managed_kubernetes_clusters_created/) | shikaluva | 11 |
+| [Take an offer or believe my company's promises](https://www.reddit.com/r/devops/comments/17cf0ck/take_an_offer_or_believe_my_companys_promises/) | Live-Box-5048 | 6 |
+| [How do you promote container images from dev to production](https://www.reddit.com/r/devops/comments/17cs6v3/how_do_you_promote_container_images_from_dev_to/) | hadeandusk | 6 |
+| [I got an offer for SRE in another organization.](https://www.reddit.com/r/devops/comments/17cgavo/i_got_an_offer_for_sre_in_another_organization/) | kalomanxe | 5 |
+| [Suggestions on good projects to setup/run for a DevOps Portfolio?](https://www.reddit.com/r/devops/comments/17cikep/suggestions_on_good_projects_to_setuprun_for_a/) | Apex-Hades | 4 |
+| [Coding prep for DevOps &amp; SRE Interviews - Request Guidance](https://www.reddit.com/r/devops/comments/17cg15i/coding_prep_for_devops_sre_interviews_request/) | Infj-a- | 4 |
+| [ci/cd as code?](https://www.reddit.com/r/devops/comments/17ceqvr/cicd_as_code/) | questioner45 | 3 |
+| [.env file, using with Container Apps?](https://www.reddit.com/r/devops/comments/17cl3bq/env_file_using_with_container_apps/) | maxiedaniels | 3 |
