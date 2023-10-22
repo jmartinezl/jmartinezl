@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| ["Have I Been Pwned" for API keys &amp; secrets?](https://www.reddit.com/r/devops/comments/17cd18h/have_i_been_pwned_for_api_keys_secrets/) | z_ghalleb | 68 |
-| [Overwhelmed](https://www.reddit.com/r/devops/comments/17caxtk/overwhelmed/) | fire-d-guy | 56 |
-| [Are all managed Kubernetes clusters created equally?](https://www.reddit.com/r/devops/comments/17cvyxm/are_all_managed_kubernetes_clusters_created/) | shikaluva | 11 |
-| [Take an offer or believe my company's promises](https://www.reddit.com/r/devops/comments/17cf0ck/take_an_offer_or_believe_my_companys_promises/) | Live-Box-5048 | 6 |
-| [How do you promote container images from dev to production](https://www.reddit.com/r/devops/comments/17cs6v3/how_do_you_promote_container_images_from_dev_to/) | hadeandusk | 6 |
-| [I got an offer for SRE in another organization.](https://www.reddit.com/r/devops/comments/17cgavo/i_got_an_offer_for_sre_in_another_organization/) | kalomanxe | 5 |
-| [Suggestions on good projects to setup/run for a DevOps Portfolio?](https://www.reddit.com/r/devops/comments/17cikep/suggestions_on_good_projects_to_setuprun_for_a/) | Apex-Hades | 4 |
-| [Coding prep for DevOps &amp; SRE Interviews - Request Guidance](https://www.reddit.com/r/devops/comments/17cg15i/coding_prep_for_devops_sre_interviews_request/) | Infj-a- | 4 |
-| [ci/cd as code?](https://www.reddit.com/r/devops/comments/17ceqvr/cicd_as_code/) | questioner45 | 3 |
-| [.env file, using with Container Apps?](https://www.reddit.com/r/devops/comments/17cl3bq/env_file_using_with_container_apps/) | maxiedaniels | 3 |
+| [What is your successful job search strategy?](https://www.reddit.com/r/devops/comments/17d2qbv/what_is_your_successful_job_search_strategy/) | SeeTheUntruth_Ad7178 | 19 |
+| [How necessary is AWS certificates](https://www.reddit.com/r/devops/comments/17dmblv/how_necessary_is_aws_certificates/) | nothingtocommit | 16 |
+| [Moving goal post fallacy with tickets and the importance of proper sprint planning.](https://www.reddit.com/r/devops/comments/17d1uge/moving_goal_post_fallacy_with_tickets_and_the/) | IndieDiscovery | 6 |
+| [Docker compose: how to properly utilize secrets with postgress databases?](https://www.reddit.com/r/devops/comments/17dqzkb/docker_compose_how_to_properly_utilize_secrets/) | domanpanda | 2 |
+| [fiverr for support](https://www.reddit.com/r/devops/comments/17dbl7g/fiverr_for_support/) | gamb1t9 | 0 |
+| [What kind of work environment it ll be?](https://www.reddit.com/r/devops/comments/17d2gis/what_kind_of_work_environment_it_ll_be/) | Felix1178 | 0 |
+| [How do you enumerate GCP permissions for a custom role?](https://www.reddit.com/r/devops/comments/17ddwzg/how_do_you_enumerate_gcp_permissions_for_a_custom/) | xakepnz | 0 |
+| [HZN1: Empowering Web3 Founders](https://www.reddit.com/r/devops/comments/17drc96/hzn1_empowering_web3_founders/) | NEARMEME | 0 |
+| [Editing multiple YAML files on bastion host using VS Code GUI on local machine](https://www.reddit.com/r/devops/comments/17dpd32/editing_multiple_yaml_files_on_bastion_host_using/) | Organic_Guidance6814 | 0 |
