@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What is your successful job search strategy?](https://www.reddit.com/r/devops/comments/17d2qbv/what_is_your_successful_job_search_strategy/) | SeeTheUntruth_Ad7178 | 19 |
-| [How necessary is AWS certificates](https://www.reddit.com/r/devops/comments/17dmblv/how_necessary_is_aws_certificates/) | nothingtocommit | 16 |
-| [Moving goal post fallacy with tickets and the importance of proper sprint planning.](https://www.reddit.com/r/devops/comments/17d1uge/moving_goal_post_fallacy_with_tickets_and_the/) | IndieDiscovery | 6 |
-| [Docker compose: how to properly utilize secrets with postgress databases?](https://www.reddit.com/r/devops/comments/17dqzkb/docker_compose_how_to_properly_utilize_secrets/) | domanpanda | 2 |
-| [fiverr for support](https://www.reddit.com/r/devops/comments/17dbl7g/fiverr_for_support/) | gamb1t9 | 0 |
-| [What kind of work environment it ll be?](https://www.reddit.com/r/devops/comments/17d2gis/what_kind_of_work_environment_it_ll_be/) | Felix1178 | 0 |
-| [How do you enumerate GCP permissions for a custom role?](https://www.reddit.com/r/devops/comments/17ddwzg/how_do_you_enumerate_gcp_permissions_for_a_custom/) | xakepnz | 0 |
-| [HZN1: Empowering Web3 Founders](https://www.reddit.com/r/devops/comments/17drc96/hzn1_empowering_web3_founders/) | NEARMEME | 0 |
-| [Editing multiple YAML files on bastion host using VS Code GUI on local machine](https://www.reddit.com/r/devops/comments/17dpd32/editing_multiple_yaml_files_on_bastion_host_using/) | Organic_Guidance6814 | 0 |
+| [Platform for learning Kubernetes](https://www.reddit.com/r/devops/comments/17dv91z/platform_for_learning_kubernetes/) | suprafortix | 60 |
+| [How do you design IaC modules and automations?](https://www.reddit.com/r/devops/comments/17dsfx6/how_do_you_design_iac_modules_and_automations/) | Morkelon | 18 |
+| [OpenAPI configs - how to manage between Terraform and continuous API development](https://www.reddit.com/r/devops/comments/17ds4kr/openapi_configs_how_to_manage_between_terraform/) | Mertasaca | 6 |
+| [50% CPU Utilization = Problems?](https://www.reddit.com/r/devops/comments/17eg14g/50_cpu_utilization_problems/) | Vontellor | 6 |
+| [Using PagerDuty + Automation Actions + New Relic in an Azure Cloud environment?](https://www.reddit.com/r/devops/comments/17dxq2q/using_pagerduty_automation_actions_new_relic_in/) | Own_Kale5934 | 3 |
+| [Tooling around updating AWS secret manager secrets](https://www.reddit.com/r/devops/comments/17eglv7/tooling_around_updating_aws_secret_manager_secrets/) | vgopher8 | 1 |
+| [What's your organisation's monthly Observability costs?](https://www.reddit.com/r/devops/comments/17ebs6z/whats_your_organisations_monthly_observability/) | adelowo | 0 |
+| [UX/UI Designer- project collab](https://www.reddit.com/r/devops/comments/17dy9d0/uxui_designer_project_collab/) | Admirable_Pirate5498 | 0 |
+| [Sapling](https://www.reddit.com/r/devops/comments/17e206i/sapling/) | BurgaGalti | 0 |
+| [Looking for business ideas...can you think of any devops tasks that could do with an innovative/automated solution.](https://www.reddit.com/r/devops/comments/17e2er9/looking_for_business_ideascan_you_think_of_any/) | Affectionate_Pen_623 | 0 |
