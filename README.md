@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Platform for learning Kubernetes](https://www.reddit.com/r/devops/comments/17dv91z/platform_for_learning_kubernetes/) | suprafortix | 60 |
-| [How do you design IaC modules and automations?](https://www.reddit.com/r/devops/comments/17dsfx6/how_do_you_design_iac_modules_and_automations/) | Morkelon | 18 |
-| [OpenAPI configs - how to manage between Terraform and continuous API development](https://www.reddit.com/r/devops/comments/17ds4kr/openapi_configs_how_to_manage_between_terraform/) | Mertasaca | 6 |
-| [50% CPU Utilization = Problems?](https://www.reddit.com/r/devops/comments/17eg14g/50_cpu_utilization_problems/) | Vontellor | 6 |
-| [Using PagerDuty + Automation Actions + New Relic in an Azure Cloud environment?](https://www.reddit.com/r/devops/comments/17dxq2q/using_pagerduty_automation_actions_new_relic_in/) | Own_Kale5934 | 3 |
-| [Tooling around updating AWS secret manager secrets](https://www.reddit.com/r/devops/comments/17eglv7/tooling_around_updating_aws_secret_manager_secrets/) | vgopher8 | 1 |
-| [What's your organisation's monthly Observability costs?](https://www.reddit.com/r/devops/comments/17ebs6z/whats_your_organisations_monthly_observability/) | adelowo | 0 |
-| [UX/UI Designer- project collab](https://www.reddit.com/r/devops/comments/17dy9d0/uxui_designer_project_collab/) | Admirable_Pirate5498 | 0 |
-| [Sapling](https://www.reddit.com/r/devops/comments/17e206i/sapling/) | BurgaGalti | 0 |
-| [Looking for business ideas...can you think of any devops tasks that could do with an innovative/automated solution.](https://www.reddit.com/r/devops/comments/17e2er9/looking_for_business_ideascan_you_think_of_any/) | Affectionate_Pen_623 | 0 |
+| [Options for measuring SRE/ops performance without freaking the team out?](https://www.reddit.com/r/devops/comments/17emrde/options_for_measuring_sreops_performance_without/) | breezyalligator24 | 67 |
+| [Should we migrate out from Gitlab?](https://www.reddit.com/r/devops/comments/17ev26t/should_we_migrate_out_from_gitlab/) | freeroamer90 | 18 |
+| [Why use Vercel when you can go direct AWS ? especially for small projects](https://www.reddit.com/r/devops/comments/17encvx/why_use_vercel_when_you_can_go_direct_aws/) | hadiazzouni | 7 |
+| [Should end users of a platform access Azure cloud storage directly or should it be proxied by an app?](https://www.reddit.com/r/devops/comments/17f6lg0/should_end_users_of_a_platform_access_azure_cloud/) | Emergency-Crab-354 | 7 |
+| [HELP - Linux Course Suggestion](https://www.reddit.com/r/devops/comments/17esowr/help_linux_course_suggestion/) | hukkemaaru | 6 |
+| [What open-source tools are you using to test external API servers from your application in testing environments?](https://www.reddit.com/r/devops/comments/17esy6e/what_opensource_tools_are_you_using_to_test/) | whiletrue111 | 5 |
+| [(4/17) Terraforming GCP projects (host &amp; service)](https://www.reddit.com/r/devops/comments/17esosx/417_terraforming_gcp_projects_host_service/) | jojomtx | 5 |
+| [My authorization is terrible](https://www.reddit.com/r/devops/comments/17f9jfg/my_authorization_is_terrible/) | imdbnurnot | 4 |
+| [Difference between VM and containner](https://www.reddit.com/r/devops/comments/17el46f/difference_between_vm_and_containner/) | AlpacaEstilosa | 3 |
+| [Help](https://www.reddit.com/r/devops/comments/17ewv1y/help/) | Kixsian | 2 |
