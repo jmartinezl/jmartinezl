@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Options for measuring SRE/ops performance without freaking the team out?](https://www.reddit.com/r/devops/comments/17emrde/options_for_measuring_sreops_performance_without/) | breezyalligator24 | 67 |
-| [Should we migrate out from Gitlab?](https://www.reddit.com/r/devops/comments/17ev26t/should_we_migrate_out_from_gitlab/) | freeroamer90 | 18 |
-| [Why use Vercel when you can go direct AWS ? especially for small projects](https://www.reddit.com/r/devops/comments/17encvx/why_use_vercel_when_you_can_go_direct_aws/) | hadiazzouni | 7 |
-| [Should end users of a platform access Azure cloud storage directly or should it be proxied by an app?](https://www.reddit.com/r/devops/comments/17f6lg0/should_end_users_of_a_platform_access_azure_cloud/) | Emergency-Crab-354 | 7 |
-| [HELP - Linux Course Suggestion](https://www.reddit.com/r/devops/comments/17esowr/help_linux_course_suggestion/) | hukkemaaru | 6 |
-| [What open-source tools are you using to test external API servers from your application in testing environments?](https://www.reddit.com/r/devops/comments/17esy6e/what_opensource_tools_are_you_using_to_test/) | whiletrue111 | 5 |
-| [(4/17) Terraforming GCP projects (host &amp; service)](https://www.reddit.com/r/devops/comments/17esosx/417_terraforming_gcp_projects_host_service/) | jojomtx | 5 |
-| [My authorization is terrible](https://www.reddit.com/r/devops/comments/17f9jfg/my_authorization_is_terrible/) | imdbnurnot | 4 |
-| [Difference between VM and containner](https://www.reddit.com/r/devops/comments/17el46f/difference_between_vm_and_containner/) | AlpacaEstilosa | 3 |
-| [Help](https://www.reddit.com/r/devops/comments/17ewv1y/help/) | Kixsian | 2 |
+| [Anyone else only getting recruitment messages for people looking for Azure experience as of late?](https://www.reddit.com/r/devops/comments/17fi4st/anyone_else_only_getting_recruitment_messages_for/) | 240-braiseit | 36 |
+| [What’s your experience with how closely DevOps are integrated with other development teams?](https://www.reddit.com/r/devops/comments/17fjz0w/whats_your_experience_with_how_closely_devops_are/) | cassie70007 | 31 |
+| [Implementing DevOps](https://www.reddit.com/r/devops/comments/17fm86f/implementing_devops/) | Fit-Tale8074 | 16 |
+| [From Chaos to Cohesion: Architecting Your Own Monorepo](https://www.reddit.com/r/devops/comments/17fgc47/from_chaos_to_cohesion_architecting_your_own/) | Firfi | 11 |
+| [Brute force to make things work](https://www.reddit.com/r/devops/comments/17fyjit/brute_force_to_make_things_work/) | goodfriedchicken | 11 |
+| [Is there a way to create your own basic core CI/CD and infra?](https://www.reddit.com/r/devops/comments/17ff0wg/is_there_a_way_to_create_your_own_basic_core_cicd/) | lucidguppy | 10 |
+| [Bare Metal vs Virtualization](https://www.reddit.com/r/devops/comments/17fmxjl/bare_metal_vs_virtualization/) | tangerinine | 6 |
+| [Certificate Ripper v2.2.0 released - tool to extract server certificates](https://www.reddit.com/r/devops/comments/17fkd13/certificate_ripper_v220_released_tool_to_extract/) | Hakky54 | 5 |
+| [What has been the difficult part in setting up cost reports in AWS?](https://www.reddit.com/r/devops/comments/17fn3j2/what_has_been_the_difficult_part_in_setting_up/) | Z-penguinDictator | 2 |
+| [NEARCON: How to Win Prizes and Succeed in the NEAR Ecosystem](https://www.reddit.com/r/devops/comments/17fxdmg/nearcon_how_to_win_prizes_and_succeed_in_the_near/) | NEARMEME | 1 |
