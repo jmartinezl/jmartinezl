@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Anyone else only getting recruitment messages for people looking for Azure experience as of late?](https://www.reddit.com/r/devops/comments/17fi4st/anyone_else_only_getting_recruitment_messages_for/) | 240-braiseit | 36 |
-| [What’s your experience with how closely DevOps are integrated with other development teams?](https://www.reddit.com/r/devops/comments/17fjz0w/whats_your_experience_with_how_closely_devops_are/) | cassie70007 | 31 |
-| [Implementing DevOps](https://www.reddit.com/r/devops/comments/17fm86f/implementing_devops/) | Fit-Tale8074 | 16 |
-| [From Chaos to Cohesion: Architecting Your Own Monorepo](https://www.reddit.com/r/devops/comments/17fgc47/from_chaos_to_cohesion_architecting_your_own/) | Firfi | 11 |
-| [Brute force to make things work](https://www.reddit.com/r/devops/comments/17fyjit/brute_force_to_make_things_work/) | goodfriedchicken | 11 |
-| [Is there a way to create your own basic core CI/CD and infra?](https://www.reddit.com/r/devops/comments/17ff0wg/is_there_a_way_to_create_your_own_basic_core_cicd/) | lucidguppy | 10 |
-| [Bare Metal vs Virtualization](https://www.reddit.com/r/devops/comments/17fmxjl/bare_metal_vs_virtualization/) | tangerinine | 6 |
-| [Certificate Ripper v2.2.0 released - tool to extract server certificates](https://www.reddit.com/r/devops/comments/17fkd13/certificate_ripper_v220_released_tool_to_extract/) | Hakky54 | 5 |
-| [What has been the difficult part in setting up cost reports in AWS?](https://www.reddit.com/r/devops/comments/17fn3j2/what_has_been_the_difficult_part_in_setting_up/) | Z-penguinDictator | 2 |
-| [NEARCON: How to Win Prizes and Succeed in the NEAR Ecosystem](https://www.reddit.com/r/devops/comments/17fxdmg/nearcon_how_to_win_prizes_and_succeed_in_the_near/) | NEARMEME | 1 |
+| [Does entry level DevOps exist?](https://www.reddit.com/r/devops/comments/17god2l/does_entry_level_devops_exist/) | Mercman1994 | 25 |
+| [Personal project ideas](https://www.reddit.com/r/devops/comments/17g8rgu/personal_project_ideas/) | slydewd | 7 |
+| [Oracle DB on Azure](https://www.reddit.com/r/devops/comments/17g55v5/oracle_db_on_azure/) | Different_Ability618 | 3 |
+| [Mimir to send alerts to an external alert manager](https://www.reddit.com/r/devops/comments/17gon9p/mimir_to_send_alerts_to_an_external_alert_manager/) | Hiu58 | 3 |
+| [Proxy thats able to IAM authenticate clients](https://www.reddit.com/r/devops/comments/17gc1ia/proxy_thats_able_to_iam_authenticate_clients/) | scissorsoffbeat1 | 2 |
+| [Docker for Angular development](https://www.reddit.com/r/devops/comments/17ghhnl/docker_for_angular_development/) | cpplinting | 2 |
+| [Bandwidth limiting per domain?](https://www.reddit.com/r/devops/comments/17gjy33/bandwidth_limiting_per_domain/) | nejnej25 | 2 |
+| ["tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead" when trying to "docker push" image](https://www.reddit.com/r/devops/comments/17g4yr2/tls_failed_to_verify_certificate_x509_certificate/) | 0dayguy | 2 |
+| [Which branches typically trigger continuous deployment for UAT and prod environments?](https://www.reddit.com/r/devops/comments/17grxh8/which_branches_typically_trigger_continuous/) | JamieTartTuX5 | 1 |
+| [Hosted git/CI/CD failover?](https://www.reddit.com/r/devops/comments/17g9b6c/hosted_gitcicd_failover/) | Gluaisrothar | 1 |
