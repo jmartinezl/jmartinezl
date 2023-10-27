@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does entry level DevOps exist?](https://www.reddit.com/r/devops/comments/17god2l/does_entry_level_devops_exist/) | Mercman1994 | 25 |
-| [Personal project ideas](https://www.reddit.com/r/devops/comments/17g8rgu/personal_project_ideas/) | slydewd | 7 |
-| [Oracle DB on Azure](https://www.reddit.com/r/devops/comments/17g55v5/oracle_db_on_azure/) | Different_Ability618 | 3 |
-| [Mimir to send alerts to an external alert manager](https://www.reddit.com/r/devops/comments/17gon9p/mimir_to_send_alerts_to_an_external_alert_manager/) | Hiu58 | 3 |
-| [Proxy thats able to IAM authenticate clients](https://www.reddit.com/r/devops/comments/17gc1ia/proxy_thats_able_to_iam_authenticate_clients/) | scissorsoffbeat1 | 2 |
-| [Docker for Angular development](https://www.reddit.com/r/devops/comments/17ghhnl/docker_for_angular_development/) | cpplinting | 2 |
-| [Bandwidth limiting per domain?](https://www.reddit.com/r/devops/comments/17gjy33/bandwidth_limiting_per_domain/) | nejnej25 | 2 |
-| ["tls: failed to verify certificate: x509: certificate relies on legacy Common Name field, use SANs instead" when trying to "docker push" image](https://www.reddit.com/r/devops/comments/17g4yr2/tls_failed_to_verify_certificate_x509_certificate/) | 0dayguy | 2 |
-| [Which branches typically trigger continuous deployment for UAT and prod environments?](https://www.reddit.com/r/devops/comments/17grxh8/which_branches_typically_trigger_continuous/) | JamieTartTuX5 | 1 |
-| [Hosted git/CI/CD failover?](https://www.reddit.com/r/devops/comments/17g9b6c/hosted_gitcicd_failover/) | Gluaisrothar | 1 |
+| [Do you guys really feel like this??](https://www.reddit.com/r/devops/comments/17gxlyl/do_you_guys_really_feel_like_this/) | cas__94 | 63 |
+| [Systems that support WAY more revenue than they should](https://www.reddit.com/r/devops/comments/17hdh3i/systems_that_support_way_more_revenue_than_they/) | kaen_ | 60 |
+| [How do I justify the existence of network security to managment?](https://www.reddit.com/r/devops/comments/17gx4fp/how_do_i_justify_the_existence_of_network/) | Jatalocks2 | 22 |
+| [baremetal management in 2023](https://www.reddit.com/r/devops/comments/17gwbh9/baremetal_management_in_2023/) | defcon54321 | 9 |
+| [looking for sub suggestions for small-mid production set ups](https://www.reddit.com/r/devops/comments/17gve5r/looking_for_sub_suggestions_for_smallmid/) | rcderik | 6 |
+| [What is the CI setup at your company?](https://www.reddit.com/r/devops/comments/17h2c7p/what_is_the_ci_setup_at_your_company/) | mikicz | 5 |
+| [Is an AWS certificate from Amazon good.](https://www.reddit.com/r/devops/comments/17h5zja/is_an_aws_certificate_from_amazon_good/) | ImaginationOld8392 | 5 |
+| [Infinitely scalable read and write](https://www.reddit.com/r/devops/comments/17h854q/infinitely_scalable_read_and_write/) | cpplinting | 4 |
+| [Gitlab CI/CD getting logs using a container in gitlab runner.](https://www.reddit.com/r/devops/comments/17hchv9/gitlab_cicd_getting_logs_using_a_container_in/) | patawa0811 | 4 |
+| [Can I use multiple versions of the same provider in Crossplane and specify which version I want to use when deploying resources?](https://www.reddit.com/r/devops/comments/17guztf/can_i_use_multiple_versions_of_the_same_provider/) | unistirin | 4 |
