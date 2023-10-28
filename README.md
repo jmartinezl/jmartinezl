@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do you guys really feel like this??](https://www.reddit.com/r/devops/comments/17gxlyl/do_you_guys_really_feel_like_this/) | cas__94 | 63 |
-| [Systems that support WAY more revenue than they should](https://www.reddit.com/r/devops/comments/17hdh3i/systems_that_support_way_more_revenue_than_they/) | kaen_ | 60 |
-| [How do I justify the existence of network security to managment?](https://www.reddit.com/r/devops/comments/17gx4fp/how_do_i_justify_the_existence_of_network/) | Jatalocks2 | 22 |
-| [baremetal management in 2023](https://www.reddit.com/r/devops/comments/17gwbh9/baremetal_management_in_2023/) | defcon54321 | 9 |
-| [looking for sub suggestions for small-mid production set ups](https://www.reddit.com/r/devops/comments/17gve5r/looking_for_sub_suggestions_for_smallmid/) | rcderik | 6 |
-| [What is the CI setup at your company?](https://www.reddit.com/r/devops/comments/17h2c7p/what_is_the_ci_setup_at_your_company/) | mikicz | 5 |
-| [Is an AWS certificate from Amazon good.](https://www.reddit.com/r/devops/comments/17h5zja/is_an_aws_certificate_from_amazon_good/) | ImaginationOld8392 | 5 |
-| [Infinitely scalable read and write](https://www.reddit.com/r/devops/comments/17h854q/infinitely_scalable_read_and_write/) | cpplinting | 4 |
-| [Gitlab CI/CD getting logs using a container in gitlab runner.](https://www.reddit.com/r/devops/comments/17hchv9/gitlab_cicd_getting_logs_using_a_container_in/) | patawa0811 | 4 |
-| [Can I use multiple versions of the same provider in Crossplane and specify which version I want to use when deploying resources?](https://www.reddit.com/r/devops/comments/17guztf/can_i_use_multiple_versions_of_the_same_provider/) | unistirin | 4 |
+| [Team Topology Idea: Mothership and Pods](https://www.reddit.com/r/devops/comments/17hnu08/team_topology_idea_mothership_and_pods/) | SatoriSlu | 13 |
+| [Key findings from the 2023 State of DevOps Report with Nathen Harvey podcast](https://www.reddit.com/r/devops/comments/17hossf/key_findings_from_the_2023_state_of_devops_report/) | tcotter | 11 |
+| [How are your soft skills?](https://www.reddit.com/r/devops/comments/17i9hpg/how_are_your_soft_skills/) | equisetopsida | 10 |
+| [Is it worth it to get a kubernetes administration certificate (CKA)?](https://www.reddit.com/r/devops/comments/17hqgne/is_it_worth_it_to_get_a_kubernetes_administration/) | Adventurous-Road4750 | 9 |
+| [K8s SAST dilemma HELP!](https://www.reddit.com/r/devops/comments/17hsqbe/k8s_sast_dilemma_help/) | illttyl | 7 |
+| [Adding Testcases to Backlog Parent View](https://www.reddit.com/r/devops/comments/17i0r3n/adding_testcases_to_backlog_parent_view/) | rage2021 | 6 |
+| [What would be the best way to create one docker image but for multiple Environments](https://www.reddit.com/r/devops/comments/17homgj/what_would_be_the_best_way_to_create_one_docker/) | didzas | 5 |
+| [I'm gonna need some help here](https://www.reddit.com/r/devops/comments/17hrqtj/im_gonna_need_some_help_here/) | KotomaLion | 3 |
+| [How would you compare a devops person to a pure sysadmin or cloud engineer today ?](https://www.reddit.com/r/devops/comments/17ibpr1/how_would_you_compare_a_devops_person_to_a_pure/) | Dereference_operator | 2 |
+| [Setting up Argo CD with Helm, updated post](https://www.reddit.com/r/devops/comments/17hm34a/setting_up_argo_cd_with_helm_updated_post/) | Ok-Professor6334 | 1 |
