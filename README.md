@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Team Topology Idea: Mothership and Pods](https://www.reddit.com/r/devops/comments/17hnu08/team_topology_idea_mothership_and_pods/) | SatoriSlu | 13 |
-| [Key findings from the 2023 State of DevOps Report with Nathen Harvey podcast](https://www.reddit.com/r/devops/comments/17hossf/key_findings_from_the_2023_state_of_devops_report/) | tcotter | 11 |
-| [How are your soft skills?](https://www.reddit.com/r/devops/comments/17i9hpg/how_are_your_soft_skills/) | equisetopsida | 10 |
-| [Is it worth it to get a kubernetes administration certificate (CKA)?](https://www.reddit.com/r/devops/comments/17hqgne/is_it_worth_it_to_get_a_kubernetes_administration/) | Adventurous-Road4750 | 9 |
-| [K8s SAST dilemma HELP!](https://www.reddit.com/r/devops/comments/17hsqbe/k8s_sast_dilemma_help/) | illttyl | 7 |
-| [Adding Testcases to Backlog Parent View](https://www.reddit.com/r/devops/comments/17i0r3n/adding_testcases_to_backlog_parent_view/) | rage2021 | 6 |
-| [What would be the best way to create one docker image but for multiple Environments](https://www.reddit.com/r/devops/comments/17homgj/what_would_be_the_best_way_to_create_one_docker/) | didzas | 5 |
-| [I'm gonna need some help here](https://www.reddit.com/r/devops/comments/17hrqtj/im_gonna_need_some_help_here/) | KotomaLion | 3 |
-| [How would you compare a devops person to a pure sysadmin or cloud engineer today ?](https://www.reddit.com/r/devops/comments/17ibpr1/how_would_you_compare_a_devops_person_to_a_pure/) | Dereference_operator | 2 |
-| [Setting up Argo CD with Helm, updated post](https://www.reddit.com/r/devops/comments/17hm34a/setting_up_argo_cd_with_helm_updated_post/) | Ok-Professor6334 | 1 |
+| [Scripting with NATS.io support](https://www.reddit.com/r/devops/comments/17itew1/scripting_with_natsio_support/) | Rich-Engineer2670 | 5 |
+| [Chromebook](https://www.reddit.com/r/devops/comments/17icrz6/chromebook/) | serverhorror | 5 |
+| [Keycloak or Ory stack](https://www.reddit.com/r/devops/comments/17izuna/keycloak_or_ory_stack/) | _noctera_ | 3 |
+| [Help: ISO Load application configuration at runtime](https://www.reddit.com/r/devops/comments/17ivj57/help_iso_load_application_configuration_at_runtime/) | EffectiveLong | 2 |
+| [Is devops a good carrier for me?](https://www.reddit.com/r/devops/comments/17ixumo/is_devops_a_good_carrier_for_me/) | NoBodyDroid | 0 |
+| [How to manage env variables](https://www.reddit.com/r/devops/comments/17ik1m2/how_to_manage_env_variables/) | fahad_venom | 0 |
