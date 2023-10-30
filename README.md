@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Scripting with NATS.io support](https://www.reddit.com/r/devops/comments/17itew1/scripting_with_natsio_support/) | Rich-Engineer2670 | 5 |
-| [Chromebook](https://www.reddit.com/r/devops/comments/17icrz6/chromebook/) | serverhorror | 5 |
-| [Keycloak or Ory stack](https://www.reddit.com/r/devops/comments/17izuna/keycloak_or_ory_stack/) | _noctera_ | 3 |
-| [Help: ISO Load application configuration at runtime](https://www.reddit.com/r/devops/comments/17ivj57/help_iso_load_application_configuration_at_runtime/) | EffectiveLong | 2 |
-| [Is devops a good carrier for me?](https://www.reddit.com/r/devops/comments/17ixumo/is_devops_a_good_carrier_for_me/) | NoBodyDroid | 0 |
-| [How to manage env variables](https://www.reddit.com/r/devops/comments/17ik1m2/how_to_manage_env_variables/) | fahad_venom | 0 |
+| [Side Gigs?](https://www.reddit.com/r/devops/comments/17j3nl5/side_gigs/) | wooof359 | 49 |
+| [Which newsletters do you subscribe to?](https://www.reddit.com/r/devops/comments/17jdwvs/which_newsletters_do_you_subscribe_to/) | rcderik | 18 |
+| [What incident management app do you use? Are you satisfied with it?](https://www.reddit.com/r/devops/comments/17jmxao/what_incident_management_app_do_you_use_are_you/) | thomsterm | 1 |
+| [Shell - daily driver](https://www.reddit.com/r/devops/comments/17j2dn0/shell_daily_driver/) | rcderik | 1 |
+| [Currently at IT Help Desk, Want to Move Forward, is DevOps for Me?](https://www.reddit.com/r/devops/comments/17jh1dd/currently_at_it_help_desk_want_to_move_forward_is/) | Xngears | 1 |
+| [Devops and MS Store](https://www.reddit.com/r/devops/comments/17jpj31/devops_and_ms_store/) | Bifrost003 | 0 |
