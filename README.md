@@ -44,9 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Side Gigs?](https://www.reddit.com/r/devops/comments/17j3nl5/side_gigs/) | wooof359 | 49 |
-| [Which newsletters do you subscribe to?](https://www.reddit.com/r/devops/comments/17jdwvs/which_newsletters_do_you_subscribe_to/) | rcderik | 18 |
-| [What incident management app do you use? Are you satisfied with it?](https://www.reddit.com/r/devops/comments/17jmxao/what_incident_management_app_do_you_use_are_you/) | thomsterm | 1 |
-| [Shell - daily driver](https://www.reddit.com/r/devops/comments/17j2dn0/shell_daily_driver/) | rcderik | 1 |
-| [Currently at IT Help Desk, Want to Move Forward, is DevOps for Me?](https://www.reddit.com/r/devops/comments/17jh1dd/currently_at_it_help_desk_want_to_move_forward_is/) | Xngears | 1 |
-| [Devops and MS Store](https://www.reddit.com/r/devops/comments/17jpj31/devops_and_ms_store/) | Bifrost003 | 0 |
+| [An AI chatbot for AWS documentation](https://www.reddit.com/r/devops/comments/17jvess/an_ai_chatbot_for_aws_documentation/) | jgbbrd | 30 |
+| [What are some useful engineering metrics you track in your org?](https://www.reddit.com/r/devops/comments/17k7hqq/what_are_some_useful_engineering_metrics_you/) | surya_oruganti | 12 |
+| [What types of unit tests are you writing against your aws cdk code?](https://www.reddit.com/r/devops/comments/17k9rt1/what_types_of_unit_tests_are_you_writing_against/) | lucidguppy | 8 |
+| [What is the ideal release strategy that worked for you?](https://www.reddit.com/r/devops/comments/17kh3ko/what_is_the_ideal_release_strategy_that_worked/) | kasvith | 7 |
+| [Prometheus storage architecture explained: from basics to advanced](https://www.reddit.com/r/devops/comments/17khx7k/prometheus_storage_architecture_explained_from/) | dshurupov | 7 |
+| [How to be more supportive for the team if “you dont know”?](https://www.reddit.com/r/devops/comments/17k3h5o/how_to_be_more_supportive_for_the_team_if_you/) | pojzon_poe | 7 |
+| [Thoughts on platforms](https://www.reddit.com/r/devops/comments/17jy003/thoughts_on_platforms/) | pneRock | 4 |
+| [Auth0 outage](https://www.reddit.com/r/devops/comments/17k2i4k/auth0_outage/) | Kritnc | 4 |
+| [Passing dynamic values into FluxCD from IaC](https://www.reddit.com/r/devops/comments/17juoc9/passing_dynamic_values_into_fluxcd_from_iac/) | Varantha | 3 |
+| [PKI in the cloud versus regulatory compliance](https://www.reddit.com/r/devops/comments/17jxo68/pki_in_the_cloud_versus_regulatory_compliance/) | Speeddymon | 3 |
