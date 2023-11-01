@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [An AI chatbot for AWS documentation](https://www.reddit.com/r/devops/comments/17jvess/an_ai_chatbot_for_aws_documentation/) | jgbbrd | 30 |
-| [What are some useful engineering metrics you track in your org?](https://www.reddit.com/r/devops/comments/17k7hqq/what_are_some_useful_engineering_metrics_you/) | surya_oruganti | 12 |
-| [What types of unit tests are you writing against your aws cdk code?](https://www.reddit.com/r/devops/comments/17k9rt1/what_types_of_unit_tests_are_you_writing_against/) | lucidguppy | 8 |
-| [What is the ideal release strategy that worked for you?](https://www.reddit.com/r/devops/comments/17kh3ko/what_is_the_ideal_release_strategy_that_worked/) | kasvith | 7 |
-| [Prometheus storage architecture explained: from basics to advanced](https://www.reddit.com/r/devops/comments/17khx7k/prometheus_storage_architecture_explained_from/) | dshurupov | 7 |
-| [How to be more supportive for the team if “you dont know”?](https://www.reddit.com/r/devops/comments/17k3h5o/how_to_be_more_supportive_for_the_team_if_you/) | pojzon_poe | 7 |
-| [Thoughts on platforms](https://www.reddit.com/r/devops/comments/17jy003/thoughts_on_platforms/) | pneRock | 4 |
-| [Auth0 outage](https://www.reddit.com/r/devops/comments/17k2i4k/auth0_outage/) | Kritnc | 4 |
-| [Passing dynamic values into FluxCD from IaC](https://www.reddit.com/r/devops/comments/17juoc9/passing_dynamic_values_into_fluxcd_from_iac/) | Varantha | 3 |
-| [PKI in the cloud versus regulatory compliance](https://www.reddit.com/r/devops/comments/17jxo68/pki_in_the_cloud_versus_regulatory_compliance/) | Speeddymon | 3 |
+| [Is it worth learning service mesh?](https://www.reddit.com/r/devops/comments/17l3jw4/is_it_worth_learning_service_mesh/) | RubixKuber | 17 |
+| [FluxCD vs ArgoCD](https://www.reddit.com/r/devops/comments/17kjlgg/fluxcd_vs_argocd/) | 0x4732562 | 12 |
+| [How are you integrating the IaC ci/cd and the app ci/cd pipelines?](https://www.reddit.com/r/devops/comments/17kl0ge/how_are_you_integrating_the_iac_cicd_and_the_app/) | lucidguppy | 9 |
+| [New DevSecOps App ! Analyze your Dev environment with surgical precision](https://www.reddit.com/r/devops/comments/17l7rw6/new_devsecops_app_analyze_your_dev_environment/) | Matbabs1 | 6 |
+| [Must-haves for getting to continuous deployment? Master -&gt; production](https://www.reddit.com/r/devops/comments/17l04lu/musthaves_for_getting_to_continuous_deployment/) | SadAd9828 | 5 |
+| [Do you have a go to sample app?](https://www.reddit.com/r/devops/comments/17knj4z/do_you_have_a_go_to_sample_app/) | nipaellafunk | 3 |
+| [A New Paradigm for Cloud Native Configuration and Policy Management](https://www.reddit.com/r/devops/comments/17l500x/a_new_paradigm_for_cloud_native_configuration_and/) | Peefy- | 2 |
+| [Pagerduty overrides via Slack](https://www.reddit.com/r/devops/comments/17l1ixz/pagerduty_overrides_via_slack/) | Stpstpstp | 1 |
+| [Looking for an instructor](https://www.reddit.com/r/devops/comments/17l8m3v/looking_for_an_instructor/) | raidingBear | 1 |
+| [DevOps procedure for a novice: Nginx, Gunicorn, Django, PostgreSQL on AWS EC2 &amp; AWS RDS](https://www.reddit.com/r/devops/comments/17l9ti1/devops_procedure_for_a_novice_nginx_gunicorn/) | DmitryBorisoglebsky | 1 |
