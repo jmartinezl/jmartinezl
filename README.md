@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is it worth learning service mesh?](https://www.reddit.com/r/devops/comments/17l3jw4/is_it_worth_learning_service_mesh/) | RubixKuber | 17 |
-| [FluxCD vs ArgoCD](https://www.reddit.com/r/devops/comments/17kjlgg/fluxcd_vs_argocd/) | 0x4732562 | 12 |
-| [How are you integrating the IaC ci/cd and the app ci/cd pipelines?](https://www.reddit.com/r/devops/comments/17kl0ge/how_are_you_integrating_the_iac_cicd_and_the_app/) | lucidguppy | 9 |
-| [New DevSecOps App ! Analyze your Dev environment with surgical precision](https://www.reddit.com/r/devops/comments/17l7rw6/new_devsecops_app_analyze_your_dev_environment/) | Matbabs1 | 6 |
-| [Must-haves for getting to continuous deployment? Master -&gt; production](https://www.reddit.com/r/devops/comments/17l04lu/musthaves_for_getting_to_continuous_deployment/) | SadAd9828 | 5 |
-| [Do you have a go to sample app?](https://www.reddit.com/r/devops/comments/17knj4z/do_you_have_a_go_to_sample_app/) | nipaellafunk | 3 |
-| [A New Paradigm for Cloud Native Configuration and Policy Management](https://www.reddit.com/r/devops/comments/17l500x/a_new_paradigm_for_cloud_native_configuration_and/) | Peefy- | 2 |
-| [Pagerduty overrides via Slack](https://www.reddit.com/r/devops/comments/17l1ixz/pagerduty_overrides_via_slack/) | Stpstpstp | 1 |
-| [Looking for an instructor](https://www.reddit.com/r/devops/comments/17l8m3v/looking_for_an_instructor/) | raidingBear | 1 |
-| [DevOps procedure for a novice: Nginx, Gunicorn, Django, PostgreSQL on AWS EC2 &amp; AWS RDS](https://www.reddit.com/r/devops/comments/17l9ti1/devops_procedure_for_a_novice_nginx_gunicorn/) | DmitryBorisoglebsky | 1 |
+| [GitHub announces future Arm64 support for GitHub Actions](https://www.reddit.com/r/devops/comments/17lgfrz/github_announces_future_arm64_support_for_github/) | otterley | 55 |
+| [I'm expected to do a CodeSignal assessment for a devops engineer interview???](https://www.reddit.com/r/devops/comments/17lij2s/im_expected_to_do_a_codesignal_assessment_for_a/) | JoshBasho | 23 |
+| [DevOps vs Platform engineering - I still struggle to understand the difference](https://www.reddit.com/r/devops/comments/17lz167/devops_vs_platform_engineering_i_still_struggle/) | hadiazzouni | 10 |
+| [It’s part of the job!](https://www.reddit.com/r/devops/comments/17lb3cf/its_part_of_the_job/) | Jazzlike_Syllabub_91 | 8 |
+| [Sharing useful shell functions.](https://www.reddit.com/r/devops/comments/17lt2rm/sharing_useful_shell_functions/) | mraza007 | 5 |
+| [Case sensitivity, manifests, does it still happen to you?](https://www.reddit.com/r/devops/comments/17lfk9r/case_sensitivity_manifests_does_it_still_happen/) | BloodyIron | 5 |
+| [Terraforming shared VPC (host &amp; services), NAT, GCP private service access and firewall rules (5/17)](https://www.reddit.com/r/devops/comments/17lcu7h/terraforming_shared_vpc_host_services_nat_gcp/) | jojomtx | 2 |
+| [S3 object storage based in Europe](https://www.reddit.com/r/devops/comments/17lzkwg/s3_object_storage_based_in_europe/) | sandro992 | 2 |
+| [Devops roadmap](https://www.reddit.com/r/devops/comments/17lrinl/devops_roadmap/) | Decision-Afraid | 2 |
+| [hypothetical question about ansible.](https://www.reddit.com/r/devops/comments/17lenwv/hypothetical_question_about_ansible/) | nulgatu | 1 |
