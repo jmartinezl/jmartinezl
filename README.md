@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [GitHub announces future Arm64 support for GitHub Actions](https://www.reddit.com/r/devops/comments/17lgfrz/github_announces_future_arm64_support_for_github/) | otterley | 55 |
-| [I'm expected to do a CodeSignal assessment for a devops engineer interview???](https://www.reddit.com/r/devops/comments/17lij2s/im_expected_to_do_a_codesignal_assessment_for_a/) | JoshBasho | 23 |
-| [DevOps vs Platform engineering - I still struggle to understand the difference](https://www.reddit.com/r/devops/comments/17lz167/devops_vs_platform_engineering_i_still_struggle/) | hadiazzouni | 10 |
-| [It’s part of the job!](https://www.reddit.com/r/devops/comments/17lb3cf/its_part_of_the_job/) | Jazzlike_Syllabub_91 | 8 |
-| [Sharing useful shell functions.](https://www.reddit.com/r/devops/comments/17lt2rm/sharing_useful_shell_functions/) | mraza007 | 5 |
-| [Case sensitivity, manifests, does it still happen to you?](https://www.reddit.com/r/devops/comments/17lfk9r/case_sensitivity_manifests_does_it_still_happen/) | BloodyIron | 5 |
-| [Terraforming shared VPC (host &amp; services), NAT, GCP private service access and firewall rules (5/17)](https://www.reddit.com/r/devops/comments/17lcu7h/terraforming_shared_vpc_host_services_nat_gcp/) | jojomtx | 2 |
-| [S3 object storage based in Europe](https://www.reddit.com/r/devops/comments/17lzkwg/s3_object_storage_based_in_europe/) | sandro992 | 2 |
-| [Devops roadmap](https://www.reddit.com/r/devops/comments/17lrinl/devops_roadmap/) | Decision-Afraid | 2 |
-| [hypothetical question about ansible.](https://www.reddit.com/r/devops/comments/17lenwv/hypothetical_question_about_ansible/) | nulgatu | 1 |
+| [Don't forget that much of what defines "DevOps Best Practice" is methods and strategies that are really only for huge web SaaS platforms at global scale.](https://www.reddit.com/r/devops/comments/17m63nj/dont_forget_that_much_of_what_defines_devops_best/) | jedi_tarzan | 154 |
+| [DevOps = burnout express(?)](https://www.reddit.com/r/devops/comments/17mp67m/devops_burnout_express/) | oxDi | 56 |
+| [Having never used Kubetnetes, is CKA a good place to start?](https://www.reddit.com/r/devops/comments/17m4d4y/having_never_used_kubetnetes_is_cka_a_good_place/) | exact-approximate | 5 |
+| [Lessons Learned: Career Growth](https://www.reddit.com/r/devops/comments/17mdfv4/lessons_learned_career_growth/) | lachlanwhite | 4 |
+| [In medium and large companies, what is really hard about using AWS?](https://www.reddit.com/r/devops/comments/17msl17/in_medium_and_large_companies_what_is_really_hard/) | hadiazzouni | 4 |
+| [Any Open Source recommendations for server "check-out / check-in" tool?](https://www.reddit.com/r/devops/comments/17mdxn7/any_open_source_recommendations_for_server/) | Sakred | 3 |
+| [TalkingSecurity.nl podcast - New DevSecOps series announcement (Ep. 1: The Developer workplace)](https://www.reddit.com/r/devops/comments/17mb2jl/talkingsecuritynl_podcast_new_devsecops_series/) | sander1095 | 2 |
+| [Is it redundant to create a separate folder for Terraform modules that will use modules from the Terraform Public Registry?](https://www.reddit.com/r/devops/comments/17ml9n1/is_it_redundant_to_create_a_separate_folder_for/) | EssayDistinct | 2 |
+| [How do I understand the relationship between my server logs and APM metrics?](https://www.reddit.com/r/devops/comments/17mfsmv/how_do_i_understand_the_relationship_between_my/) | Dependent-Bunch7505 | 2 |
+| [Gaining hands on experience - Seeking feedback](https://www.reddit.com/r/devops/comments/17mcszk/gaining_hands_on_experience_seeking_feedback/) | nipaellafunk | 2 |
