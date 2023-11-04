@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Don't forget that much of what defines "DevOps Best Practice" is methods and strategies that are really only for huge web SaaS platforms at global scale.](https://www.reddit.com/r/devops/comments/17m63nj/dont_forget_that_much_of_what_defines_devops_best/) | jedi_tarzan | 154 |
-| [DevOps = burnout express(?)](https://www.reddit.com/r/devops/comments/17mp67m/devops_burnout_express/) | oxDi | 56 |
-| [Having never used Kubetnetes, is CKA a good place to start?](https://www.reddit.com/r/devops/comments/17m4d4y/having_never_used_kubetnetes_is_cka_a_good_place/) | exact-approximate | 5 |
-| [Lessons Learned: Career Growth](https://www.reddit.com/r/devops/comments/17mdfv4/lessons_learned_career_growth/) | lachlanwhite | 4 |
-| [In medium and large companies, what is really hard about using AWS?](https://www.reddit.com/r/devops/comments/17msl17/in_medium_and_large_companies_what_is_really_hard/) | hadiazzouni | 4 |
-| [Any Open Source recommendations for server "check-out / check-in" tool?](https://www.reddit.com/r/devops/comments/17mdxn7/any_open_source_recommendations_for_server/) | Sakred | 3 |
-| [TalkingSecurity.nl podcast - New DevSecOps series announcement (Ep. 1: The Developer workplace)](https://www.reddit.com/r/devops/comments/17mb2jl/talkingsecuritynl_podcast_new_devsecops_series/) | sander1095 | 2 |
-| [Is it redundant to create a separate folder for Terraform modules that will use modules from the Terraform Public Registry?](https://www.reddit.com/r/devops/comments/17ml9n1/is_it_redundant_to_create_a_separate_folder_for/) | EssayDistinct | 2 |
-| [How do I understand the relationship between my server logs and APM metrics?](https://www.reddit.com/r/devops/comments/17mfsmv/how_do_i_understand_the_relationship_between_my/) | Dependent-Bunch7505 | 2 |
-| [Gaining hands on experience - Seeking feedback](https://www.reddit.com/r/devops/comments/17mcszk/gaining_hands_on_experience_seeking_feedback/) | nipaellafunk | 2 |
+| [Does anyone here actually pay Docker?](https://www.reddit.com/r/devops/comments/17myzl5/does_anyone_here_actually_pay_docker/) | Unlikely_Ad1578 | 83 |
+| [What is the appeal of K8s?](https://www.reddit.com/r/devops/comments/17n96ck/what_is_the_appeal_of_k8s/) | mmhawk576 | 72 |
+| [Any advice to reduce the length of your days?](https://www.reddit.com/r/devops/comments/17n385m/any_advice_to_reduce_the_length_of_your_days/) | HowYouDoin112233 | 18 |
+| [Is there a devOps equivalent of "Cracking the coding interview" ?](https://www.reddit.com/r/devops/comments/17n7fw8/is_there_a_devops_equivalent_of_cracking_the/) | PapoPiPopA | 12 |
+| [How difficult is it for other types of engineers to get into devops?](https://www.reddit.com/r/devops/comments/17mtua5/how_difficult_is_it_for_other_types_of_engineers/) | level_126_programmer | 8 |
+| [Cloudflare Recent Incidents &amp; Outages](https://www.reddit.com/r/devops/comments/17nhgvy/cloudflare_recent_incidents_outages/) | AdrianTeri | 7 |
+| [Jenkins on AWS EC2 for Personal Projects](https://www.reddit.com/r/devops/comments/17n566w/jenkins_on_aws_ec2_for_personal_projects/) | imsexc | 4 |
+| [On-Call and Religious Exemption](https://www.reddit.com/r/devops/comments/17n6dln/oncall_and_religious_exemption/) | LogisticsAreKey | 2 |
+| [Effortless Kubernetes Monitoring and Bottleneck Detection using eBPF 🐝](https://www.reddit.com/r/devops/comments/17mw9ru/effortless_kubernetes_monitoring_and_bottleneck/) | fatihbaltaci | 2 |
+| [Documentation as Code for Cloud - Using the C4 model and Structurizr DSL](https://www.reddit.com/r/devops/comments/17mthuq/documentation_as_code_for_cloud_using_the_c4/) | cyneox | 2 |
