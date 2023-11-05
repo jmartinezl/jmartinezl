@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Does anyone here actually pay Docker?](https://www.reddit.com/r/devops/comments/17myzl5/does_anyone_here_actually_pay_docker/) | Unlikely_Ad1578 | 83 |
-| [What is the appeal of K8s?](https://www.reddit.com/r/devops/comments/17n96ck/what_is_the_appeal_of_k8s/) | mmhawk576 | 72 |
-| [Any advice to reduce the length of your days?](https://www.reddit.com/r/devops/comments/17n385m/any_advice_to_reduce_the_length_of_your_days/) | HowYouDoin112233 | 18 |
-| [Is there a devOps equivalent of "Cracking the coding interview" ?](https://www.reddit.com/r/devops/comments/17n7fw8/is_there_a_devops_equivalent_of_cracking_the/) | PapoPiPopA | 12 |
-| [How difficult is it for other types of engineers to get into devops?](https://www.reddit.com/r/devops/comments/17mtua5/how_difficult_is_it_for_other_types_of_engineers/) | level_126_programmer | 8 |
-| [Cloudflare Recent Incidents &amp; Outages](https://www.reddit.com/r/devops/comments/17nhgvy/cloudflare_recent_incidents_outages/) | AdrianTeri | 7 |
-| [Jenkins on AWS EC2 for Personal Projects](https://www.reddit.com/r/devops/comments/17n566w/jenkins_on_aws_ec2_for_personal_projects/) | imsexc | 4 |
-| [On-Call and Religious Exemption](https://www.reddit.com/r/devops/comments/17n6dln/oncall_and_religious_exemption/) | LogisticsAreKey | 2 |
-| [Effortless Kubernetes Monitoring and Bottleneck Detection using eBPF 🐝](https://www.reddit.com/r/devops/comments/17mw9ru/effortless_kubernetes_monitoring_and_bottleneck/) | fatihbaltaci | 2 |
-| [Documentation as Code for Cloud - Using the C4 model and Structurizr DSL](https://www.reddit.com/r/devops/comments/17mthuq/documentation_as_code_for_cloud_using_the_c4/) | cyneox | 2 |
+| [Should I learn DSA(Data Structures And Algorithms) If I'm learning Devops?](https://www.reddit.com/r/devops/comments/17o4prz/should_i_learn_dsadata_structures_and_algorithms/) | Gloomy-Nectarine6962 | 10 |
+| [Opentelemetry help/ideas/suggestions](https://www.reddit.com/r/devops/comments/17nklm8/opentelemetry_helpideassuggestions/) | Sade52899 | 2 |
+| [Gitlab CI Capacity/Cost Analysis](https://www.reddit.com/r/devops/comments/17nwwj9/gitlab_ci_capacitycost_analysis/) | vortexman100 | 1 |
+| [Argo Workflow split list parameter on delimiter](https://www.reddit.com/r/devops/comments/17oa3pd/argo_workflow_split_list_parameter_on_delimiter/) | Beinish | 1 |
+| [Host application on Laptop](https://www.reddit.com/r/devops/comments/17nm06w/host_application_on_laptop/) | Impressive_Ad_1352 | 0 |
+| [Deploying a web application on a single server with Kamal](https://www.reddit.com/r/devops/comments/17o9ff0/deploying_a_web_application_on_a_single_server/) | strzibny | 0 |
