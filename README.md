@@ -44,9 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Should I learn DSA(Data Structures And Algorithms) If I'm learning Devops?](https://www.reddit.com/r/devops/comments/17o4prz/should_i_learn_dsadata_structures_and_algorithms/) | Gloomy-Nectarine6962 | 10 |
-| [Opentelemetry help/ideas/suggestions](https://www.reddit.com/r/devops/comments/17nklm8/opentelemetry_helpideassuggestions/) | Sade52899 | 2 |
-| [Gitlab CI Capacity/Cost Analysis](https://www.reddit.com/r/devops/comments/17nwwj9/gitlab_ci_capacitycost_analysis/) | vortexman100 | 1 |
-| [Argo Workflow split list parameter on delimiter](https://www.reddit.com/r/devops/comments/17oa3pd/argo_workflow_split_list_parameter_on_delimiter/) | Beinish | 1 |
-| [Host application on Laptop](https://www.reddit.com/r/devops/comments/17nm06w/host_application_on_laptop/) | Impressive_Ad_1352 | 0 |
-| [Deploying a web application on a single server with Kamal](https://www.reddit.com/r/devops/comments/17o9ff0/deploying_a_web_application_on_a_single_server/) | strzibny | 0 |
+| [Anyone transitioned away from DevOps?](https://www.reddit.com/r/devops/comments/17omuy1/anyone_transitioned_away_from_devops/) | oxDi | 64 |
+| [How to survive in this situation?](https://www.reddit.com/r/devops/comments/17ofq0h/how_to_survive_in_this_situation/) | DarkRaiden72 | 21 |
+| [How do you handle database incompatible version deployment?](https://www.reddit.com/r/devops/comments/17ogfsi/how_do_you_handle_database_incompatible_version/) | rkh4n | 7 |
+| [How to prepare for System Development Engineer 1 (L4) interview at Amazon](https://www.reddit.com/r/devops/comments/17oom1d/how_to_prepare_for_system_development_engineer_1/) | BrilliantJelly | 5 |
+| [Why does a certain EKS AMI (BottleRocket) worsen container memory utilization?](https://www.reddit.com/r/devops/comments/17ochn8/why_does_a_certain_eks_ami_bottlerocket_worsen/) | Jatalocks2 | 3 |
+| [Spotting Silent Pod Failures in Kubernetes with Grafana](https://www.reddit.com/r/devops/comments/17odvys/spotting_silent_pod_failures_in_kubernetes_with/) | brbee07 | 3 |
+| [I am building a visual node system to create and manage GitHub workflows](https://www.reddit.com/r/devops/comments/17ogakj/i_am_building_a_visual_node_system_to_create_and/) | sebastian_io | 2 |
+| [Measure Deployment frequency with Bitbucket Cloud?](https://www.reddit.com/r/devops/comments/17oicbo/measure_deployment_frequency_with_bitbucket_cloud/) | Dry_Act8966 | 1 |
+| [Apache Kafka on Kubernetes with Strimzi](https://www.reddit.com/r/devops/comments/17oyldr/apache_kafka_on_kubernetes_with_strimzi/) | piotr_minkowski | 1 |
+| [Would you make the transition](https://www.reddit.com/r/devops/comments/17owgp4/would_you_make_the_transition/) | Charming_Prompt6949 | 0 |
