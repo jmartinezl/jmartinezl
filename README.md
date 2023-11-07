@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Anyone transitioned away from DevOps?](https://www.reddit.com/r/devops/comments/17omuy1/anyone_transitioned_away_from_devops/) | oxDi | 64 |
-| [How to survive in this situation?](https://www.reddit.com/r/devops/comments/17ofq0h/how_to_survive_in_this_situation/) | DarkRaiden72 | 21 |
-| [How do you handle database incompatible version deployment?](https://www.reddit.com/r/devops/comments/17ogfsi/how_do_you_handle_database_incompatible_version/) | rkh4n | 7 |
-| [How to prepare for System Development Engineer 1 (L4) interview at Amazon](https://www.reddit.com/r/devops/comments/17oom1d/how_to_prepare_for_system_development_engineer_1/) | BrilliantJelly | 5 |
-| [Why does a certain EKS AMI (BottleRocket) worsen container memory utilization?](https://www.reddit.com/r/devops/comments/17ochn8/why_does_a_certain_eks_ami_bottlerocket_worsen/) | Jatalocks2 | 3 |
-| [Spotting Silent Pod Failures in Kubernetes with Grafana](https://www.reddit.com/r/devops/comments/17odvys/spotting_silent_pod_failures_in_kubernetes_with/) | brbee07 | 3 |
-| [I am building a visual node system to create and manage GitHub workflows](https://www.reddit.com/r/devops/comments/17ogakj/i_am_building_a_visual_node_system_to_create_and/) | sebastian_io | 2 |
-| [Measure Deployment frequency with Bitbucket Cloud?](https://www.reddit.com/r/devops/comments/17oicbo/measure_deployment_frequency_with_bitbucket_cloud/) | Dry_Act8966 | 1 |
-| [Apache Kafka on Kubernetes with Strimzi](https://www.reddit.com/r/devops/comments/17oyldr/apache_kafka_on_kubernetes_with_strimzi/) | piotr_minkowski | 1 |
-| [Would you make the transition](https://www.reddit.com/r/devops/comments/17owgp4/would_you_make_the_transition/) | Charming_Prompt6949 | 0 |
+| [Calculating a company's required DevOps Capacity](https://www.reddit.com/r/devops/comments/17p403p/calculating_a_companys_required_devops_capacity/) | BuzzingGunman | 146 |
+| [Kubernetes the Harder Way, on a Mac](https://www.reddit.com/r/devops/comments/17p6tac/kubernetes_the_harder_way_on_a_mac/) | rjghik | 34 |
+| [Terraforming DNS, IAP and OAuth configurations (no VPN needed!) (6/17)](https://www.reddit.com/r/devops/comments/17p319h/terraforming_dns_iap_and_oauth_configurations_no/) | jojomtx | 9 |
+| [Open Source AWS Account Factory + TUI](https://www.reddit.com/r/devops/comments/17pauqz/open_source_aws_account_factory_tui/) | whatswiththe | 6 |
+| [Software developer to DevOps (UK)](https://www.reddit.com/r/devops/comments/17pgex3/software_developer_to_devops_uk/) | mysticplayer888 | 5 |
+| [Keep repo clean from accidentaly uploading credentials](https://www.reddit.com/r/devops/comments/17pqk82/keep_repo_clean_from_accidentaly_uploading/) | Cloud--Man | 3 |
+| [Automating galaxy.yml Version Updates in Ansible Galaxy Collections with Semantic-Release &amp; GitLab CI/CD](https://www.reddit.com/r/devops/comments/17p2sjw/automating_galaxyyml_version_updates_in_ansible/) | kingindanord | 3 |
+| [🚀Want to be among the first to test K8Studio?🚀](https://www.reddit.com/r/devops/comments/17panzo/want_to_be_among_the_first_to_test_k8studio/) | gquiman | 2 |
+| [How do you perform docker cache proxy to avoid Dockerhub rate limit?](https://www.reddit.com/r/devops/comments/17ps8lu/how_do_you_perform_docker_cache_proxy_to_avoid/) | IamOkei | 2 |
+| [AKeyless Vault Platform - How do you like it and what would you improve?](https://www.reddit.com/r/devops/comments/17pez78/akeyless_vault_platform_how_do_you_like_it_and/) | that_dapper_llama | 2 |
