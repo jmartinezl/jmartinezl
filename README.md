@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is DevOps the king of consulting now?](https://www.reddit.com/r/devops/comments/17pvsrp/is_devops_the_king_of_consulting_now/) | Prestigious_Squash81 | 135 |
-| [Next big thing in DevOps?](https://www.reddit.com/r/devops/comments/17q5fpi/next_big_thing_in_devops/) | Aremon1234 | 75 |
-| [Best certifications for entering devops/cloud jobs](https://www.reddit.com/r/devops/comments/17pw0e9/best_certifications_for_entering_devopscloud_jobs/) | khaloudkhaloud | 6 |
-| [Why is CNCF issuing more cert exams that are mcq exams only? No hands-on test](https://www.reddit.com/r/devops/comments/17qix3p/why_is_cncf_issuing_more_cert_exams_that_are_mcq/) | IamOkei | 2 |
-| [Slim Docker Images for Java](https://www.reddit.com/r/devops/comments/17q51ws/slim_docker_images_for_java/) | piotr_minkowski | 2 |
-| [Seeking Advice for Managing Kubernetes Resources More Efficiently with ArgoCD](https://www.reddit.com/r/devops/comments/17py46d/seeking_advice_for_managing_kubernetes_resources/) | haliliceylan | 1 |
-| [Recommendations for interactive diagram software](https://www.reddit.com/r/devops/comments/17pwolb/recommendations_for_interactive_diagram_software/) | fnordonk | 1 |
-| [Need Advice on Creating a Custom Deployment Tactic with ArgoCD and Gitlab CI/CD](https://www.reddit.com/r/devops/comments/17py7qu/need_advice_on_creating_a_custom_deployment/) | haliliceylan | 1 |
-| [Best method to deploy Prometheus and Alertmanager to lots of servers?](https://www.reddit.com/r/devops/comments/17pxrdg/best_method_to_deploy_prometheus_and_alertmanager/) | zyzzogeton | 1 |
-| [B2B SaaS multi-tenant website, single-tenant database](https://www.reddit.com/r/devops/comments/17ptzzj/b2b_saas_multitenant_website_singletenant_database/) | xtreampb | 1 |
+| [Struggling as a DevOps Apprentice](https://www.reddit.com/r/devops/comments/17qkgr4/struggling_as_a_devops_apprentice/) | Medical-Pickle9886 | 42 |
+| [[Resume Review] Been applying for 1 year, can't even get an interview](https://www.reddit.com/r/devops/comments/17rachu/resume_review_been_applying_for_1_year_cant_even/) | NigoDuppy | 6 |
+| [Depending on non-standing tools?](https://www.reddit.com/r/devops/comments/17qr7y9/depending_on_nonstanding_tools/) | wellwhatdofromhere | 5 |
+| [Should CI/CD change my code?](https://www.reddit.com/r/devops/comments/17qqcnv/should_cicd_change_my_code/) | Unusual_Anything3264 | 4 |
+| [Outside of fig terminal is there other tools that help you create dotfile configs using a gui and access within remote environments ?](https://www.reddit.com/r/devops/comments/17qsot2/outside_of_fig_terminal_is_there_other_tools_that/) | techsparrowlionpie | 3 |
+| [How to test infrastructure scripts in CI?](https://www.reddit.com/r/devops/comments/17qosqs/how_to_test_infrastructure_scripts_in_ci/) | barash-616 | 3 |
+| [With what should I use ansbile?](https://www.reddit.com/r/devops/comments/17r8sv7/with_what_should_i_use_ansbile/) | No_Faithlessness214 | 1 |
+| [GitHub Actions to Azure or AWS [Question]](https://www.reddit.com/r/devops/comments/17qw080/github_actions_to_azure_or_aws_question/) | davy_crockett_slayer | 1 |
+| [Easily resettable environment for app installation development?](https://www.reddit.com/r/devops/comments/17r77m4/easily_resettable_environment_for_app/) | addictzz | 1 |
+| [Closing websocket in a CI/CD container](https://www.reddit.com/r/devops/comments/17qtxrd/closing_websocket_in_a_cicd_container/) | calibrono | 1 |
