@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Struggling as a DevOps Apprentice](https://www.reddit.com/r/devops/comments/17qkgr4/struggling_as_a_devops_apprentice/) | Medical-Pickle9886 | 42 |
-| [[Resume Review] Been applying for 1 year, can't even get an interview](https://www.reddit.com/r/devops/comments/17rachu/resume_review_been_applying_for_1_year_cant_even/) | NigoDuppy | 6 |
-| [Depending on non-standing tools?](https://www.reddit.com/r/devops/comments/17qr7y9/depending_on_nonstanding_tools/) | wellwhatdofromhere | 5 |
-| [Should CI/CD change my code?](https://www.reddit.com/r/devops/comments/17qqcnv/should_cicd_change_my_code/) | Unusual_Anything3264 | 4 |
-| [Outside of fig terminal is there other tools that help you create dotfile configs using a gui and access within remote environments ?](https://www.reddit.com/r/devops/comments/17qsot2/outside_of_fig_terminal_is_there_other_tools_that/) | techsparrowlionpie | 3 |
-| [How to test infrastructure scripts in CI?](https://www.reddit.com/r/devops/comments/17qosqs/how_to_test_infrastructure_scripts_in_ci/) | barash-616 | 3 |
-| [With what should I use ansbile?](https://www.reddit.com/r/devops/comments/17r8sv7/with_what_should_i_use_ansbile/) | No_Faithlessness214 | 1 |
-| [GitHub Actions to Azure or AWS [Question]](https://www.reddit.com/r/devops/comments/17qw080/github_actions_to_azure_or_aws_question/) | davy_crockett_slayer | 1 |
-| [Easily resettable environment for app installation development?](https://www.reddit.com/r/devops/comments/17r77m4/easily_resettable_environment_for_app/) | addictzz | 1 |
-| [Closing websocket in a CI/CD container](https://www.reddit.com/r/devops/comments/17qtxrd/closing_websocket_in_a_cicd_container/) | calibrono | 1 |
+| [Finally got a "true" devops job](https://www.reddit.com/r/devops/comments/17shjia/finally_got_a_true_devops_job/) | PepeTheMule | 59 |
+| [Choosing the Next Step: Docker Swarm or Kubernetes After Mastering Docker?](https://www.reddit.com/r/devops/comments/17s5reg/choosing_the_next_step_docker_swarm_or_kubernetes/) | Mean_Ice8261 | 18 |
+| [How to learn python?](https://www.reddit.com/r/devops/comments/17s813q/how_to_learn_python/) | ak17hg | 17 |
+| [What does Serverless mean? Using AWS lambda function == Serverless?](https://www.reddit.com/r/devops/comments/17sms58/what_does_serverless_mean_using_aws_lambda/) | IamOkei | 11 |
+| [How to manage dynamic environments for developers that want to test integrations?](https://www.reddit.com/r/devops/comments/17s8xwf/how_to_manage_dynamic_environments_for_developers/) | platypus_plumba | 6 |
+| [What's the use case of something like a single over AWS SSM?](https://www.reddit.com/r/devops/comments/17s3ka3/whats_the_use_case_of_something_like_a_single/) | lostmymainagain123 | 5 |
+| [Looking for a job - on a time hook!](https://www.reddit.com/r/devops/comments/17sku2q/looking_for_a_job_on_a_time_hook/) | SkoobyDoobyDo | 5 |
+| [Understanding CDN, API gateways, JWT auth and API keys](https://www.reddit.com/r/devops/comments/17sodpq/understanding_cdn_api_gateways_jwt_auth_and_api/) | DeliberatingManager | 4 |
+| [Anyone have an opinion about helm charts being in a repo separate from the values?](https://www.reddit.com/r/devops/comments/17sdc34/anyone_have_an_opinion_about_helm_charts_being_in/) | databasehead | 4 |
+| [Proper way to adopt cloud secret managers](https://www.reddit.com/r/devops/comments/17s6fsl/proper_way_to_adopt_cloud_secret_managers/) | adohe-zz | 2 |
