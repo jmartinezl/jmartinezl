@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Finally got a "true" devops job](https://www.reddit.com/r/devops/comments/17shjia/finally_got_a_true_devops_job/) | PepeTheMule | 59 |
-| [Choosing the Next Step: Docker Swarm or Kubernetes After Mastering Docker?](https://www.reddit.com/r/devops/comments/17s5reg/choosing_the_next_step_docker_swarm_or_kubernetes/) | Mean_Ice8261 | 18 |
-| [How to learn python?](https://www.reddit.com/r/devops/comments/17s813q/how_to_learn_python/) | ak17hg | 17 |
-| [What does Serverless mean? Using AWS lambda function == Serverless?](https://www.reddit.com/r/devops/comments/17sms58/what_does_serverless_mean_using_aws_lambda/) | IamOkei | 11 |
-| [How to manage dynamic environments for developers that want to test integrations?](https://www.reddit.com/r/devops/comments/17s8xwf/how_to_manage_dynamic_environments_for_developers/) | platypus_plumba | 6 |
-| [What's the use case of something like a single over AWS SSM?](https://www.reddit.com/r/devops/comments/17s3ka3/whats_the_use_case_of_something_like_a_single/) | lostmymainagain123 | 5 |
-| [Looking for a job - on a time hook!](https://www.reddit.com/r/devops/comments/17sku2q/looking_for_a_job_on_a_time_hook/) | SkoobyDoobyDo | 5 |
-| [Understanding CDN, API gateways, JWT auth and API keys](https://www.reddit.com/r/devops/comments/17sodpq/understanding_cdn_api_gateways_jwt_auth_and_api/) | DeliberatingManager | 4 |
-| [Anyone have an opinion about helm charts being in a repo separate from the values?](https://www.reddit.com/r/devops/comments/17sdc34/anyone_have_an_opinion_about_helm_charts_being_in/) | databasehead | 4 |
-| [Proper way to adopt cloud secret managers](https://www.reddit.com/r/devops/comments/17s6fsl/proper_way_to_adopt_cloud_secret_managers/) | adohe-zz | 2 |
+| [What makes a good Senior Engineer?](https://www.reddit.com/r/devops/comments/17sw0ao/what_makes_a_good_senior_engineer/) | mildburn | 71 |
+| [What are you spending your learning budget on?](https://www.reddit.com/r/devops/comments/17sxnet/what_are_you_spending_your_learning_budget_on/) | harlsbarkley1 | 32 |
+| [Alerts creation automation](https://www.reddit.com/r/devops/comments/17sz2a6/alerts_creation_automation/) | J4ckR3aper | 10 |
+| [WebApp or ..?](https://www.reddit.com/r/devops/comments/17st37y/webapp_or/) | MikkelR1 | 5 |
+| [How do you architect multi-tenant applications?](https://www.reddit.com/r/devops/comments/17t6r8p/how_do_you_architect_multitenant_applications/) | CaligulaVsTheSea | 5 |
+| [open source SDLC process template](https://www.reddit.com/r/devops/comments/17thyof/open_source_sdlc_process_template/) | DodeYoke | 2 |
+| [What's the future of services infrastructure and hosting?](https://www.reddit.com/r/devops/comments/17t9wo0/whats_the_future_of_services_infrastructure_and/) | Dizzy_Surprise | 1 |
+| [ADO Pipeline Schedule](https://www.reddit.com/r/devops/comments/17t0ulg/ado_pipeline_schedule/) | Superfluxus | 1 |
+| [Simple DevOps Project for beginners](https://www.reddit.com/r/devops/comments/17syy72/simple_devops_project_for_beginners/) | mani1soni | 0 |
+| [Getting into DevOps](https://www.reddit.com/r/devops/comments/17tbq1e/getting_into_devops/) | Saad14z | 0 |
