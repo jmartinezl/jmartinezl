@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What makes a good Senior Engineer?](https://www.reddit.com/r/devops/comments/17sw0ao/what_makes_a_good_senior_engineer/) | mildburn | 71 |
-| [What are you spending your learning budget on?](https://www.reddit.com/r/devops/comments/17sxnet/what_are_you_spending_your_learning_budget_on/) | harlsbarkley1 | 32 |
-| [Alerts creation automation](https://www.reddit.com/r/devops/comments/17sz2a6/alerts_creation_automation/) | J4ckR3aper | 10 |
-| [WebApp or ..?](https://www.reddit.com/r/devops/comments/17st37y/webapp_or/) | MikkelR1 | 5 |
-| [How do you architect multi-tenant applications?](https://www.reddit.com/r/devops/comments/17t6r8p/how_do_you_architect_multitenant_applications/) | CaligulaVsTheSea | 5 |
-| [open source SDLC process template](https://www.reddit.com/r/devops/comments/17thyof/open_source_sdlc_process_template/) | DodeYoke | 2 |
-| [What's the future of services infrastructure and hosting?](https://www.reddit.com/r/devops/comments/17t9wo0/whats_the_future_of_services_infrastructure_and/) | Dizzy_Surprise | 1 |
-| [ADO Pipeline Schedule](https://www.reddit.com/r/devops/comments/17t0ulg/ado_pipeline_schedule/) | Superfluxus | 1 |
-| [Simple DevOps Project for beginners](https://www.reddit.com/r/devops/comments/17syy72/simple_devops_project_for_beginners/) | mani1soni | 0 |
-| [Getting into DevOps](https://www.reddit.com/r/devops/comments/17tbq1e/getting_into_devops/) | Saad14z | 0 |
+| [Complexity in Modern DevOps](https://www.reddit.com/r/devops/comments/17tlqjl/complexity_in_modern_devops/) | ikariusrb | 118 |
+| [In the current market, what skill sets are a must have for an upcoming DevOps engineer?](https://www.reddit.com/r/devops/comments/17tv7w8/in_the_current_market_what_skill_sets_are_a_must/) | mahdy1991 | 22 |
+| [Survived my first experience of layoffs - burnout](https://www.reddit.com/r/devops/comments/17tmba7/survived_my_first_experience_of_layoffs_burnout/) | 1whatabeautifulday | 18 |
+| [Purpose of Internal Developer Portal?](https://www.reddit.com/r/devops/comments/17u6tmv/purpose_of_internal_developer_portal/) | AMGraduate564 | 3 |
+| [Need an Internal Developer Portal that is OSS, is there any besides Backstage?](https://www.reddit.com/r/devops/comments/17u8d5v/need_an_internal_developer_portal_that_is_oss_is/) | AMGraduate564 | 2 |
+| [What should I learn about ?](https://www.reddit.com/r/devops/comments/17to9uk/what_should_i_learn_about/) | nagisa0 | 0 |
+| [Transitioning to DevOps](https://www.reddit.com/r/devops/comments/17tjkar/transitioning_to_devops/) | smilingball | 0 |
+| [Exploring the OpenTelemetry Collector](https://www.reddit.com/r/devops/comments/17tp24v/exploring_the_opentelemetry_collector/) | nfrankel | 0 |
+| [Drunk at my workplace](https://www.reddit.com/r/devops/comments/17tlogb/drunk_at_my_workplace/) | sexualy-deprived | 0 |
+| [Dev ops as a service vendor](https://www.reddit.com/r/devops/comments/17u0xwd/dev_ops_as_a_service_vendor/) | notanticlaymatic | 0 |
