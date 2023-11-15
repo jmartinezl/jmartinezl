@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Kubernetes Real-world Challenges Platform](https://www.reddit.com/r/devops/comments/17udmfh/kubernetes_realworld_challenges_platform/) | AsterYujano | 98 |
-| [For peeps wanting to get into “DevOps”](https://www.reddit.com/r/devops/comments/17ur3c3/for_peeps_wanting_to_get_into_devops/) | ahaller1993 | 43 |
-| [How do you deploy monitoring agents in your infra?](https://www.reddit.com/r/devops/comments/17uhncx/how_do_you_deploy_monitoring_agents_in_your_infra/) | otisg | 16 |
-| [How do I know when I'm ready to be a tech lead or manager?](https://www.reddit.com/r/devops/comments/17ujidz/how_do_i_know_when_im_ready_to_be_a_tech_lead_or/) | PartemConsilio | 13 |
-| [Deploy infra stack using self-managed ArgoCD with Cert Manager, ExternalDNS, External Secrets Op, Ingress-Nginx, Keycloak and RabbitMQ (8/17)](https://www.reddit.com/r/devops/comments/17u9bjh/deploy_infra_stack_using_selfmanaged_argocd_with/) | jojomtx | 9 |
-| [How can i learn/practice terraform and openshift ?](https://www.reddit.com/r/devops/comments/17uwx5o/how_can_i_learnpractice_terraform_and_openshift/) | FrostNovaIceLance | 7 |
-| [Common ground between KISS and DRY?](https://www.reddit.com/r/devops/comments/17ujibv/common_ground_between_kiss_and_dry/) | Kapelzor | 6 |
-| [Is there anyway to avoid rebuilding the same images after a pull request?](https://www.reddit.com/r/devops/comments/17uzkhd/is_there_anyway_to_avoid_rebuilding_the_same/) | No_Pain_1586 | 2 |
-| [Has learning about Operating Systems helped in your linux career?](https://www.reddit.com/r/devops/comments/17v0ji1/has_learning_about_operating_systems_helped_in/) | Hefty-Entrance-2706 | 2 |
-| [Do you guys follow the traditional SCRUM method at work?](https://www.reddit.com/r/devops/comments/17uh8vl/do_you_guys_follow_the_traditional_scrum_method/) | Large-Translator-759 | 2 |
+| [Is the title Devops attracting a lot of get-rich-quick people?](https://www.reddit.com/r/devops/comments/17vlic1/is_the_title_devops_attracting_a_lot_of/) | nwmcsween | 39 |
+| [Contractors, where do you get your gigs?](https://www.reddit.com/r/devops/comments/17v23at/contractors_where_do_you_get_your_gigs/) | Pocpoc-tam | 12 |
+| [Kodekloud Subscription worth it for a beginner in Devops?](https://www.reddit.com/r/devops/comments/17vo00y/kodekloud_subscription_worth_it_for_a_beginner_in/) | _theocdguy_ | 6 |
+| [Datadog help](https://www.reddit.com/r/devops/comments/17vdwyn/datadog_help/) | 99Nmendez | 5 |
+| [Grafana ObservabilityCon 2023](https://www.reddit.com/r/devops/comments/17veppb/grafana_observabilitycon_2023/) | Observability-Guy | 3 |
+| [New Azure CLI release, fixing CVE-2023-36052](https://www.reddit.com/r/devops/comments/17vbn63/new_azure_cli_release_fixing_cve202336052/) | Hefty_Knowledge_7449 | 2 |
+| [Managing large number of CICD pipelines](https://www.reddit.com/r/devops/comments/17v47pn/managing_large_number_of_cicd_pipelines/) | tes1390 | 2 |
+| [Wordpress on AWS](https://www.reddit.com/r/devops/comments/17vlrg2/wordpress_on_aws/) | Aggressive_Ad3517 | 1 |
+| [Separate terraform module for each environment?](https://www.reddit.com/r/devops/comments/17vq133/separate_terraform_module_for_each_environment/) | brajandzesika | 1 |
+| [Is learning Oracle database administration worth it](https://www.reddit.com/r/devops/comments/17vnnmj/is_learning_oracle_database_administration_worth/) | DarkS00l | 1 |
