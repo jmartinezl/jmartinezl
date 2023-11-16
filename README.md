@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Is the title Devops attracting a lot of get-rich-quick people?](https://www.reddit.com/r/devops/comments/17vlic1/is_the_title_devops_attracting_a_lot_of/) | nwmcsween | 39 |
-| [Contractors, where do you get your gigs?](https://www.reddit.com/r/devops/comments/17v23at/contractors_where_do_you_get_your_gigs/) | Pocpoc-tam | 12 |
-| [Kodekloud Subscription worth it for a beginner in Devops?](https://www.reddit.com/r/devops/comments/17vo00y/kodekloud_subscription_worth_it_for_a_beginner_in/) | _theocdguy_ | 6 |
-| [Datadog help](https://www.reddit.com/r/devops/comments/17vdwyn/datadog_help/) | 99Nmendez | 5 |
-| [Grafana ObservabilityCon 2023](https://www.reddit.com/r/devops/comments/17veppb/grafana_observabilitycon_2023/) | Observability-Guy | 3 |
-| [New Azure CLI release, fixing CVE-2023-36052](https://www.reddit.com/r/devops/comments/17vbn63/new_azure_cli_release_fixing_cve202336052/) | Hefty_Knowledge_7449 | 2 |
-| [Managing large number of CICD pipelines](https://www.reddit.com/r/devops/comments/17v47pn/managing_large_number_of_cicd_pipelines/) | tes1390 | 2 |
-| [Wordpress on AWS](https://www.reddit.com/r/devops/comments/17vlrg2/wordpress_on_aws/) | Aggressive_Ad3517 | 1 |
-| [Separate terraform module for each environment?](https://www.reddit.com/r/devops/comments/17vq133/separate_terraform_module_for_each_environment/) | brajandzesika | 1 |
-| [Is learning Oracle database administration worth it](https://www.reddit.com/r/devops/comments/17vnnmj/is_learning_oracle_database_administration_worth/) | DarkS00l | 1 |
+| [Kubernetes the Harder Way, on a local Mac or Linux](https://www.reddit.com/r/devops/comments/17vy6xp/kubernetes_the_harder_way_on_a_local_mac_or_linux/) | rjghik | 118 |
+| [Setup deployment Terraform modules via GitHub?](https://www.reddit.com/r/devops/comments/17vx8j9/setup_deployment_terraform_modules_via_github/) | Mountain_Ad_1548 | 7 |
+| [Escape Confluence: Better Tooling (OSS) for Internal Operator Docs](https://www.reddit.com/r/devops/comments/17vwui0/escape_confluence_better_tooling_oss_for_internal/) | sourishkrout | 7 |
+| [DNS setup](https://www.reddit.com/r/devops/comments/17vt40a/dns_setup/) | aladante | 5 |
+| [Which Service Discovery architecture should i use?](https://www.reddit.com/r/devops/comments/17wg3v5/which_service_discovery_architecture_should_i_use/) | flyingpighong | 4 |
+| [Documentation for Infrastructure as Code](https://www.reddit.com/r/devops/comments/17wcoao/documentation_for_infrastructure_as_code/) | aurallyskilled | 4 |
+| [Hangar DX: Off-the-record with Tara Hernandez, VP Developer Productivity at MongoDB](https://www.reddit.com/r/devops/comments/17w3111/hangar_dx_offtherecord_with_tara_hernandez_vp/) | efunction | 2 |
+| [Azure Devops Study Group](https://www.reddit.com/r/devops/comments/17vxbhc/azure_devops_study_group/) | introvert7080 | 1 |
+| [As a native English speaker, how do you pronounce the DevOps tool 'Kusion', a variation of the word 'Fusion'](https://www.reddit.com/r/devops/comments/17wiz3h/as_a_native_english_speaker_how_do_you_pronounce/) | SparkYuan | 0 |
