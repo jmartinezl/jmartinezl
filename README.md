@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Kubernetes the Harder Way, on a local Mac or Linux](https://www.reddit.com/r/devops/comments/17vy6xp/kubernetes_the_harder_way_on_a_local_mac_or_linux/) | rjghik | 118 |
-| [Setup deployment Terraform modules via GitHub?](https://www.reddit.com/r/devops/comments/17vx8j9/setup_deployment_terraform_modules_via_github/) | Mountain_Ad_1548 | 7 |
-| [Escape Confluence: Better Tooling (OSS) for Internal Operator Docs](https://www.reddit.com/r/devops/comments/17vwui0/escape_confluence_better_tooling_oss_for_internal/) | sourishkrout | 7 |
-| [DNS setup](https://www.reddit.com/r/devops/comments/17vt40a/dns_setup/) | aladante | 5 |
-| [Which Service Discovery architecture should i use?](https://www.reddit.com/r/devops/comments/17wg3v5/which_service_discovery_architecture_should_i_use/) | flyingpighong | 4 |
-| [Documentation for Infrastructure as Code](https://www.reddit.com/r/devops/comments/17wcoao/documentation_for_infrastructure_as_code/) | aurallyskilled | 4 |
-| [Hangar DX: Off-the-record with Tara Hernandez, VP Developer Productivity at MongoDB](https://www.reddit.com/r/devops/comments/17w3111/hangar_dx_offtherecord_with_tara_hernandez_vp/) | efunction | 2 |
-| [Azure Devops Study Group](https://www.reddit.com/r/devops/comments/17vxbhc/azure_devops_study_group/) | introvert7080 | 1 |
-| [As a native English speaker, how do you pronounce the DevOps tool 'Kusion', a variation of the word 'Fusion'](https://www.reddit.com/r/devops/comments/17wiz3h/as_a_native_english_speaker_how_do_you_pronounce/) | SparkYuan | 0 |
+| [Trying to break into £100k salary](https://www.reddit.com/r/devops/comments/17wptuu/trying_to_break_into_100k_salary/) | 1whatabeautifulday | 64 |
+| [ClickOps still a thing ?](https://www.reddit.com/r/devops/comments/17wlcmx/clickops_still_a_thing/) | testybeast | 15 |
+| [How would you rate DevOps in terms of stress, on a scale of 1 to 5?](https://www.reddit.com/r/devops/comments/17x1jkd/how_would_you_rate_devops_in_terms_of_stress_on_a/) | Large-Translator-759 | 7 |
+| [How to manage DBs for highly parallelized test suite?](https://www.reddit.com/r/devops/comments/17wv4n6/how_to_manage_dbs_for_highly_parallelized_test/) | ReverseBrindle | 7 |
+| [The Essence of DevOps - Managing Complexity](https://www.reddit.com/r/devops/comments/17wv370/the_essence_of_devops_managing_complexity/) | SatoriSlu | 6 |
+| [What are the downsides or problems you face within cloud developer environments](https://www.reddit.com/r/devops/comments/17wuvd6/what_are_the_downsides_or_problems_you_face/) | techsparrowlionpie | 4 |
+| [Job offer, Same Pay, moving from remote Silicon Valley work to living in Cupertino](https://www.reddit.com/r/devops/comments/17x6mqg/job_offer_same_pay_moving_from_remote_silicon/) | semhouse | 4 |
+| [CDKTF vs. Pulumi - Or Something Else?](https://www.reddit.com/r/devops/comments/17x5bfg/cdktf_vs_pulumi_or_something_else/) | Kickass_Wizard | 4 |
+| [Saving configuration for a deployment](https://www.reddit.com/r/devops/comments/17wmyzd/saving_configuration_for_a_deployment/) | Aztreix | 3 |
+| [LeetCode](https://www.reddit.com/r/devops/comments/17xdgm5/leetcode/) | Drama_princess909 | 3 |
