@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Trying to break into £100k salary](https://www.reddit.com/r/devops/comments/17wptuu/trying_to_break_into_100k_salary/) | 1whatabeautifulday | 64 |
-| [ClickOps still a thing ?](https://www.reddit.com/r/devops/comments/17wlcmx/clickops_still_a_thing/) | testybeast | 15 |
-| [How would you rate DevOps in terms of stress, on a scale of 1 to 5?](https://www.reddit.com/r/devops/comments/17x1jkd/how_would_you_rate_devops_in_terms_of_stress_on_a/) | Large-Translator-759 | 7 |
-| [How to manage DBs for highly parallelized test suite?](https://www.reddit.com/r/devops/comments/17wv4n6/how_to_manage_dbs_for_highly_parallelized_test/) | ReverseBrindle | 7 |
-| [The Essence of DevOps - Managing Complexity](https://www.reddit.com/r/devops/comments/17wv370/the_essence_of_devops_managing_complexity/) | SatoriSlu | 6 |
-| [What are the downsides or problems you face within cloud developer environments](https://www.reddit.com/r/devops/comments/17wuvd6/what_are_the_downsides_or_problems_you_face/) | techsparrowlionpie | 4 |
-| [Job offer, Same Pay, moving from remote Silicon Valley work to living in Cupertino](https://www.reddit.com/r/devops/comments/17x6mqg/job_offer_same_pay_moving_from_remote_silicon/) | semhouse | 4 |
-| [CDKTF vs. Pulumi - Or Something Else?](https://www.reddit.com/r/devops/comments/17x5bfg/cdktf_vs_pulumi_or_something_else/) | Kickass_Wizard | 4 |
-| [Saving configuration for a deployment](https://www.reddit.com/r/devops/comments/17wmyzd/saving_configuration_for_a_deployment/) | Aztreix | 3 |
-| [LeetCode](https://www.reddit.com/r/devops/comments/17xdgm5/leetcode/) | Drama_princess909 | 3 |
+| [Bombing an interview](https://www.reddit.com/r/devops/comments/17xl4kp/bombing_an_interview/) | jennywinguyenrr | 58 |
+| [Streamline AWS Secret Management using Shielded-Secrets.](https://www.reddit.com/r/devops/comments/17y0bpq/streamline_aws_secret_management_using/) | vgopher8 | 6 |
+| [Any former SaaS platform devs make the switch to a DevOps role?](https://www.reddit.com/r/devops/comments/17xoue6/any_former_saas_platform_devs_make_the_switch_to/) | goatkisser | 5 |
+| [How do you trigger deploy to production](https://www.reddit.com/r/devops/comments/17xmknz/how_do_you_trigger_deploy_to_production/) | nedo_medo | 4 |
+| [Buildex taking forever](https://www.reddit.com/r/devops/comments/17xfgru/buildex_taking_forever/) | kingindanord | 4 |
+| [Web dev of 4 years trying to move to devops](https://www.reddit.com/r/devops/comments/17xmcj2/web_dev_of_4_years_trying_to_move_to_devops/) | Mecamaru | 3 |
+| [I have two github accounts, how should I move forward with things](https://www.reddit.com/r/devops/comments/17xqvmg/i_have_two_github_accounts_how_should_i_move/) | catrone3 | 3 |
+| [Backstage Bitbucket Cloud Pipelines](https://www.reddit.com/r/devops/comments/17xn0hx/backstage_bitbucket_cloud_pipelines/) | Apprehensive-One-860 | 3 |
+| [With Distrobox you can run GUI apps inside Linux containers](https://www.reddit.com/r/devops/comments/17xgli0/with_distrobox_you_can_run_gui_apps_inside_linux/) | nmariusp | 2 |
+| [Is porting your dotfile configs to different environments - remote and other local machines a paint point for you ?](https://www.reddit.com/r/devops/comments/17xq9vg/is_porting_your_dotfile_configs_to_different/) | techsparrowlionpie | 2 |
