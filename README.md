@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Terramate vs Terragrunt](https://www.reddit.com/r/devops/comments/17y91ib/terramate_vs_terragrunt/) | jemag | 25 |
-| [SWE/SRE/DevOps contractor roles](https://www.reddit.com/r/devops/comments/17ylcvq/swesredevops_contractor_roles/) | sootedaces77 | 9 |
-| [Exploring On-Premises Servers for Staging Environments: Cost Analysis and Considerations](https://www.reddit.com/r/devops/comments/17ypr1s/exploring_onpremises_servers_for_staging/) | vgopher8 | 3 |
-| [terraform project structure](https://www.reddit.com/r/devops/comments/17yvfr0/terraform_project_structure/) | J4ckR3aper | 2 |
-| [difference between sysdig secure vs sysdig insight vs sysdig CNAPP](https://www.reddit.com/r/devops/comments/17ylfam/difference_between_sysdig_secure_vs_sysdig/) | ryancan16 | 2 |
-| [CI - automatic github release and docker push worflows](https://www.reddit.com/r/devops/comments/17yt4x8/ci_automatic_github_release_and_docker_push/) | Ok_Entrepreneur8980 | 2 |
-| [Cake v4.0.0 released](https://www.reddit.com/r/devops/comments/17ysfw9/cake_v400_released/) | devlead | 1 |
-| [Backend storage migration from Postgres to Raft without causing downtime.](https://www.reddit.com/r/devops/comments/17ytuft/backend_storage_migration_from_postgres_to_raft/) | unistirin | 1 |
-| [Places to learn Devops with low budget](https://www.reddit.com/r/devops/comments/17y9628/places_to_learn_devops_with_low_budget/) | Lakshmireddys | 0 |
-| [Can I Create an HTTPS dotnet cert In a GitHub Action?](https://www.reddit.com/r/devops/comments/17yprld/can_i_create_an_https_dotnet_cert_in_a_github/) | wesdevpro | 0 |
+| [What's DevOps/SRE like in huge A companies](https://www.reddit.com/r/devops/comments/17z70ny/whats_devopssre_like_in_huge_a_companies/) | Juloblairot | 64 |
+| [When to tell boss I'm pregnant in a new role?](https://www.reddit.com/r/devops/comments/17yyzi1/when_to_tell_boss_im_pregnant_in_a_new_role/) | therealimposterhere | 11 |
+| [The Ultimate Docker Cheat Sheet](https://www.reddit.com/r/devops/comments/17zlc1c/the_ultimate_docker_cheat_sheet/) | Mr_LA | 5 |
+| [Gitlab merge request management](https://www.reddit.com/r/devops/comments/17zbgvk/gitlab_merge_request_management/) | DigBig3448 | 3 |
+| [[MWD] - Introducing My Week In DevOps](https://www.reddit.com/r/devops/comments/17zmtkm/mwd_introducing_my_week_in_devops/) | shadycuz | 2 |
+| [Block downstream jenkins job when upstream is running in Jenkins Declarative multi module project](https://www.reddit.com/r/devops/comments/17zmulu/block_downstream_jenkins_job_when_upstream_is/) | Maleficent-Pain2765 | 2 |
+| [Aws key rotation](https://www.reddit.com/r/devops/comments/17z7472/aws_key_rotation/) | SinkComfortable3795 | 2 |
+| [Access to git hub repo best practice](https://www.reddit.com/r/devops/comments/17zkswh/access_to_git_hub_repo_best_practice/) | Honest_Bench7832 | 1 |
+| [Why we need a DSL to describe configurations? Is YAML OK?](https://www.reddit.com/r/devops/comments/17zflef/why_we_need_a_dsl_to_describe_configurations_is/) | KK-Brokkoli | 0 |
+| [What are some closed source toolings you wished were open or had an open alternative?](https://www.reddit.com/r/devops/comments/17zcqun/what_are_some_closed_source_toolings_you_wished/) | adelowo | 0 |
