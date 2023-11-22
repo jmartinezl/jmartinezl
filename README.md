@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What incident management system do you all use? Need to have one up and running in December.](https://www.reddit.com/r/devops/comments/17zujcv/what_incident_management_system_do_you_all_use/) | Whole-Magician1608 | 105 |
-| [Germany &amp; Switzerland IT Job Market Report: 12,500 Surveys, 6,300 Tech Salaries](https://www.reddit.com/r/devops/comments/17zvfj7/germany_switzerland_it_job_market_report_12500/) | Sad-Construction-948 | 37 |
-| [Blackfriday deals](https://www.reddit.com/r/devops/comments/1801vqo/blackfriday_deals/) | Adam314315 | 13 |
-| [Moving from DevOps to Sales Engineering](https://www.reddit.com/r/devops/comments/18015wp/moving_from_devops_to_sales_engineering/) | phazer193 | 10 |
-| [Approvals from DevOps team for production deployments](https://www.reddit.com/r/devops/comments/180ebuu/approvals_from_devops_team_for_production/) | CardiologistEarly483 | 7 |
-| [Running K8S on Spot Instances In Production](https://www.reddit.com/r/devops/comments/180e9xt/running_k8s_on_spot_instances_in_production/) | Observability-Guy | 5 |
-| [Code management software](https://www.reddit.com/r/devops/comments/1802dqm/code_management_software/) | versiondefect | 5 |
-| [Tools for generating documentation?](https://www.reddit.com/r/devops/comments/17zs0ci/tools_for_generating_documentation/) | InstinctiveDoubt | 4 |
-| [Black Friday sale on DevOps training course/platform!](https://www.reddit.com/r/devops/comments/1809dzq/black_friday_sale_on_devops_training/) | Tsunami02 | 4 |
-| [Requirements Formulation](https://www.reddit.com/r/devops/comments/17zn9kt/requirements_formulation/) | chris_redz | 3 |
+| [What is one thing you wished your technical leadership understood better about DevOps?](https://www.reddit.com/r/devops/comments/180rz7r/what_is_one_thing_you_wished_your_technical/) | PartemConsilio | 58 |
+| [DevOps vendors are cringe](https://www.reddit.com/r/devops/comments/1812i82/devops_vendors_are_cringe/) | icewatercoffee | 25 |
+| [What Cloud Native solutions would you recommend for stable hosting of 500 websites?](https://www.reddit.com/r/devops/comments/180sa2r/what_cloud_native_solutions_would_you_recommend/) | nakemu | 5 |
+| [Is is possible to use YubiKey as the sole authentication for Secrets Engine on HS Vault?](https://www.reddit.com/r/devops/comments/180vlj3/is_is_possible_to_use_yubikey_as_the_sole/) | eddy-safety-scissors | 5 |
+| [Usage of Jenkins among Azure Cloud Engineers.](https://www.reddit.com/r/devops/comments/180k1un/usage_of_jenkins_among_azure_cloud_engineers/) | WiseUnderstanding669 | 3 |
+| [The Ticking Supply Chain Attack Bomb of Exposed Kubernetes Secrets](https://www.reddit.com/r/devops/comments/180gvev/the_ticking_supply_chain_attack_bomb_of_exposed/) | Pale_Fly_2673 | 2 |
+| [IAM Permission Scope Creep on CD accounts (AWS Specific, but I imagine applies to Azure as well)](https://www.reddit.com/r/devops/comments/180s0kd/iam_permission_scope_creep_on_cd_accounts_aws/) | BCCMNV | 2 |
+| [What is Monorepo and what are the best practices we need to keep in mind while building there CI/CD?](https://www.reddit.com/r/devops/comments/1815x7i/what_is_monorepo_and_what_are_the_best_practices/) | mani1soni | 1 |
+| [Want to Know About, Open Source Intelligence(OSINT) Tool, Check out this Blog Post.](https://www.reddit.com/r/devops/comments/180kid4/want_to_know_about_open_source_intelligenceosint/) | techlatest_net | 1 |
+| [Mid/Senior portfolio ideas](https://www.reddit.com/r/devops/comments/180llh0/midsenior_portfolio_ideas/) | RexCommander501 | 1 |
