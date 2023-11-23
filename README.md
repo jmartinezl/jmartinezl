@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What is one thing you wished your technical leadership understood better about DevOps?](https://www.reddit.com/r/devops/comments/180rz7r/what_is_one_thing_you_wished_your_technical/) | PartemConsilio | 58 |
-| [DevOps vendors are cringe](https://www.reddit.com/r/devops/comments/1812i82/devops_vendors_are_cringe/) | icewatercoffee | 25 |
-| [What Cloud Native solutions would you recommend for stable hosting of 500 websites?](https://www.reddit.com/r/devops/comments/180sa2r/what_cloud_native_solutions_would_you_recommend/) | nakemu | 5 |
-| [Is is possible to use YubiKey as the sole authentication for Secrets Engine on HS Vault?](https://www.reddit.com/r/devops/comments/180vlj3/is_is_possible_to_use_yubikey_as_the_sole/) | eddy-safety-scissors | 5 |
-| [Usage of Jenkins among Azure Cloud Engineers.](https://www.reddit.com/r/devops/comments/180k1un/usage_of_jenkins_among_azure_cloud_engineers/) | WiseUnderstanding669 | 3 |
-| [The Ticking Supply Chain Attack Bomb of Exposed Kubernetes Secrets](https://www.reddit.com/r/devops/comments/180gvev/the_ticking_supply_chain_attack_bomb_of_exposed/) | Pale_Fly_2673 | 2 |
-| [IAM Permission Scope Creep on CD accounts (AWS Specific, but I imagine applies to Azure as well)](https://www.reddit.com/r/devops/comments/180s0kd/iam_permission_scope_creep_on_cd_accounts_aws/) | BCCMNV | 2 |
-| [What is Monorepo and what are the best practices we need to keep in mind while building there CI/CD?](https://www.reddit.com/r/devops/comments/1815x7i/what_is_monorepo_and_what_are_the_best_practices/) | mani1soni | 1 |
-| [Want to Know About, Open Source Intelligence(OSINT) Tool, Check out this Blog Post.](https://www.reddit.com/r/devops/comments/180kid4/want_to_know_about_open_source_intelligenceosint/) | techlatest_net | 1 |
-| [Mid/Senior portfolio ideas](https://www.reddit.com/r/devops/comments/180llh0/midsenior_portfolio_ideas/) | RexCommander501 | 1 |
+| [Do you use “non” standard tools in your daily basis?](https://www.reddit.com/r/devops/comments/181is6d/do_you_use_non_standard_tools_in_your_daily_basis/) | esturniolo | 27 |
+| [What's your fastest way to deploy some nodes to practice something on?](https://www.reddit.com/r/devops/comments/181dgf2/whats_your_fastest_way_to_deploy_some_nodes_to/) | canismajores | 7 |
+| [Deployment/Release Dashboards?](https://www.reddit.com/r/devops/comments/181qdt9/deploymentrelease_dashboards/) | ghostsquad4 | 7 |
+| [The Inner Loop #11 is all about the new Cloud Native developer desktop, Bluefin; and Kubernetes everywhere, even Chick-fil-a](https://www.reddit.com/r/devops/comments/1819qkz/the_inner_loop_11_is_all_about_the_new_cloud/) | tao_at_garden | 6 |
+| [Mastering Helm: A DevOps Cheat Sheet for Essential Commands! 🚀](https://www.reddit.com/r/devops/comments/181zlpf/mastering_helm_a_devops_cheat_sheet_for_essential/) | suhasadhav | 4 |
+| [KCL Biweekly Newsletter | Cloud-Native Modules, Language, and Toolchain Update Express!](https://www.reddit.com/r/devops/comments/181yyjf/kcl_biweekly_newsletter_cloudnative_modules/) | Peefy- | 2 |
+| [Alertmanager and the deadmanswitch](https://www.reddit.com/r/devops/comments/181g90c/alertmanager_and_the_deadmanswitch/) | melbogia | 2 |
+| [A DevOps Turkey-Day Poem](https://www.reddit.com/r/devops/comments/181cpct/a_devops_turkeyday_poem/) | rpxzenthunder | 2 |
+| [Looking for some advice on careers](https://www.reddit.com/r/devops/comments/181lhyf/looking_for_some_advice_on_careers/) | rain4472 | 1 |
+| [monitoring tool (zabbix/VictoriaMetrics or others?)](https://www.reddit.com/r/devops/comments/181w7ju/monitoring_tool_zabbixvictoriametrics_or_others/) | DeepB1338 | 0 |
