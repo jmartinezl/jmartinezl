@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Do you use “non” standard tools in your daily basis?](https://www.reddit.com/r/devops/comments/181is6d/do_you_use_non_standard_tools_in_your_daily_basis/) | esturniolo | 27 |
-| [What's your fastest way to deploy some nodes to practice something on?](https://www.reddit.com/r/devops/comments/181dgf2/whats_your_fastest_way_to_deploy_some_nodes_to/) | canismajores | 7 |
-| [Deployment/Release Dashboards?](https://www.reddit.com/r/devops/comments/181qdt9/deploymentrelease_dashboards/) | ghostsquad4 | 7 |
-| [The Inner Loop #11 is all about the new Cloud Native developer desktop, Bluefin; and Kubernetes everywhere, even Chick-fil-a](https://www.reddit.com/r/devops/comments/1819qkz/the_inner_loop_11_is_all_about_the_new_cloud/) | tao_at_garden | 6 |
-| [Mastering Helm: A DevOps Cheat Sheet for Essential Commands! 🚀](https://www.reddit.com/r/devops/comments/181zlpf/mastering_helm_a_devops_cheat_sheet_for_essential/) | suhasadhav | 4 |
-| [KCL Biweekly Newsletter | Cloud-Native Modules, Language, and Toolchain Update Express!](https://www.reddit.com/r/devops/comments/181yyjf/kcl_biweekly_newsletter_cloudnative_modules/) | Peefy- | 2 |
-| [Alertmanager and the deadmanswitch](https://www.reddit.com/r/devops/comments/181g90c/alertmanager_and_the_deadmanswitch/) | melbogia | 2 |
-| [A DevOps Turkey-Day Poem](https://www.reddit.com/r/devops/comments/181cpct/a_devops_turkeyday_poem/) | rpxzenthunder | 2 |
-| [Looking for some advice on careers](https://www.reddit.com/r/devops/comments/181lhyf/looking_for_some_advice_on_careers/) | rain4472 | 1 |
-| [monitoring tool (zabbix/VictoriaMetrics or others?)](https://www.reddit.com/r/devops/comments/181w7ju/monitoring_tool_zabbixvictoriametrics_or_others/) | DeepB1338 | 0 |
+| [PSA: Most of what you do won't be greenfield work.](https://www.reddit.com/r/devops/comments/1828pr3/psa_most_of_what_you_do_wont_be_greenfield_work/) | akulbe | 125 |
+| [Wife Life?](https://www.reddit.com/r/devops/comments/1824x0w/wife_life/) | LittleBiggle | 105 |
+| [Follow up to my post about vendors being cringe](https://www.reddit.com/r/devops/comments/182hph5/follow_up_to_my_post_about_vendors_being_cringe/) | icewatercoffee | 33 |
+| [Interviewers love to ask about GitHub accounts: what are some relevant side projects you’d recommend?](https://www.reddit.com/r/devops/comments/1829c29/interviewers_love_to_ask_about_github_accounts/) | braaaptorr | 17 |
+| [Eksctl vs pulumi](https://www.reddit.com/r/devops/comments/18270mu/eksctl_vs_pulumi/) | 1NobodyPeople | 7 |
+| [What's a good reason to secure budget for automated deployments and other improvements?](https://www.reddit.com/r/devops/comments/1829m6s/whats_a_good_reason_to_secure_budget_for/) | CreativeRing4 | 6 |
+| [Platform Engineering for Executives](https://www.reddit.com/r/devops/comments/182jp7k/platform_engineering_for_executives/) | anjuls | 6 |
+| [How do you handle helm charts for different dev teams?](https://www.reddit.com/r/devops/comments/1823nj8/how_do_you_handle_helm_charts_for_different_dev/) | allwritesri | 6 |
+| [Help with resume.](https://www.reddit.com/r/devops/comments/182di1d/help_with_resume/) | JediAhsokaTano | 5 |
+| [How is it possible that I can't get a job offer in any start up or medium size tech company but got TWO offers from big banks?](https://www.reddit.com/r/devops/comments/182qgpp/how_is_it_possible_that_i_cant_get_a_job_offer_in/) | Adventurous-Road4750 | 2 |
