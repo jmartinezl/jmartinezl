@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [PSA: Most of what you do won't be greenfield work.](https://www.reddit.com/r/devops/comments/1828pr3/psa_most_of_what_you_do_wont_be_greenfield_work/) | akulbe | 125 |
-| [Wife Life?](https://www.reddit.com/r/devops/comments/1824x0w/wife_life/) | LittleBiggle | 105 |
-| [Follow up to my post about vendors being cringe](https://www.reddit.com/r/devops/comments/182hph5/follow_up_to_my_post_about_vendors_being_cringe/) | icewatercoffee | 33 |
-| [Interviewers love to ask about GitHub accounts: what are some relevant side projects you’d recommend?](https://www.reddit.com/r/devops/comments/1829c29/interviewers_love_to_ask_about_github_accounts/) | braaaptorr | 17 |
-| [Eksctl vs pulumi](https://www.reddit.com/r/devops/comments/18270mu/eksctl_vs_pulumi/) | 1NobodyPeople | 7 |
-| [What's a good reason to secure budget for automated deployments and other improvements?](https://www.reddit.com/r/devops/comments/1829m6s/whats_a_good_reason_to_secure_budget_for/) | CreativeRing4 | 6 |
-| [Platform Engineering for Executives](https://www.reddit.com/r/devops/comments/182jp7k/platform_engineering_for_executives/) | anjuls | 6 |
-| [How do you handle helm charts for different dev teams?](https://www.reddit.com/r/devops/comments/1823nj8/how_do_you_handle_helm_charts_for_different_dev/) | allwritesri | 6 |
-| [Help with resume.](https://www.reddit.com/r/devops/comments/182di1d/help_with_resume/) | JediAhsokaTano | 5 |
-| [How is it possible that I can't get a job offer in any start up or medium size tech company but got TWO offers from big banks?](https://www.reddit.com/r/devops/comments/182qgpp/how_is_it_possible_that_i_cant_get_a_job_offer_in/) | Adventurous-Road4750 | 2 |
+| [Cringe LinkedIn posts](https://www.reddit.com/r/devops/comments/1832qyj/cringe_linkedin_posts/) | Sure-Ad-9581 | 90 |
+| [Transitioning from DevOps to Golang Developer](https://www.reddit.com/r/devops/comments/182t3hr/transitioning_from_devops_to_golang_developer/) | MrNetNerd | 13 |
+| [Developing a python app with the best build practices](https://www.reddit.com/r/devops/comments/183137m/developing_a_python_app_with_the_best_build/) | lellis999 | 8 |
+| [🚀 How to Setup K8Studio | Our Kubernetes IDE 🚀](https://www.reddit.com/r/devops/comments/18342io/how_to_setup_k8studio_our_kubernetes_ide/) | gquiman | 3 |
+| [Splitting CI and CD into two different tools](https://www.reddit.com/r/devops/comments/182sdvj/splitting_ci_and_cd_into_two_different_tools/) | jblaaa | 1 |
+| [Pipelight - Self-hosted automation (CICD) pipelines.](https://www.reddit.com/r/devops/comments/183f44i/pipelight_selfhosted_automation_cicd_pipelines/) | poulain_ght | 1 |
+| [[HELP] Running a .NET Project with Jenkins, Git, and Docker](https://www.reddit.com/r/devops/comments/183298y/help_running_a_net_project_with_jenkins_git_and/) | V1t4m1n4r | 0 |
+| [Internships and work in Tunisia(EY, Sofrecom)](https://www.reddit.com/r/devops/comments/182r92y/internships_and_work_in_tunisiaey_sofrecom/) | Critical_Park_2638 | 0 |
+| [Company withhold my unpaid vacation days](https://www.reddit.com/r/devops/comments/182u2lj/company_withhold_my_unpaid_vacation_days/) | Felix1178 | 0 |
+| [Black Friday and Cyber Monday: Unveiling the Ultimate Tech Deals!](https://www.reddit.com/r/devops/comments/183djqw/black_friday_and_cyber_monday_unveiling_the/) | Miriamnl | 0 |
