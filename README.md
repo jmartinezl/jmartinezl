@@ -44,13 +44,10 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Cringe LinkedIn posts](https://www.reddit.com/r/devops/comments/1832qyj/cringe_linkedin_posts/) | Sure-Ad-9581 | 90 |
-| [Transitioning from DevOps to Golang Developer](https://www.reddit.com/r/devops/comments/182t3hr/transitioning_from_devops_to_golang_developer/) | MrNetNerd | 13 |
-| [Developing a python app with the best build practices](https://www.reddit.com/r/devops/comments/183137m/developing_a_python_app_with_the_best_build/) | lellis999 | 8 |
-| [🚀 How to Setup K8Studio | Our Kubernetes IDE 🚀](https://www.reddit.com/r/devops/comments/18342io/how_to_setup_k8studio_our_kubernetes_ide/) | gquiman | 3 |
-| [Splitting CI and CD into two different tools](https://www.reddit.com/r/devops/comments/182sdvj/splitting_ci_and_cd_into_two_different_tools/) | jblaaa | 1 |
-| [Pipelight - Self-hosted automation (CICD) pipelines.](https://www.reddit.com/r/devops/comments/183f44i/pipelight_selfhosted_automation_cicd_pipelines/) | poulain_ght | 1 |
-| [[HELP] Running a .NET Project with Jenkins, Git, and Docker](https://www.reddit.com/r/devops/comments/183298y/help_running_a_net_project_with_jenkins_git_and/) | V1t4m1n4r | 0 |
-| [Internships and work in Tunisia(EY, Sofrecom)](https://www.reddit.com/r/devops/comments/182r92y/internships_and_work_in_tunisiaey_sofrecom/) | Critical_Park_2638 | 0 |
-| [Company withhold my unpaid vacation days](https://www.reddit.com/r/devops/comments/182u2lj/company_withhold_my_unpaid_vacation_days/) | Felix1178 | 0 |
-| [Black Friday and Cyber Monday: Unveiling the Ultimate Tech Deals!](https://www.reddit.com/r/devops/comments/183djqw/black_friday_and_cyber_monday_unveiling_the/) | Miriamnl | 0 |
+| [How do you grow in this DevOps field?](https://www.reddit.com/r/devops/comments/1841eit/how_do_you_grow_in_this_devops_field/) | Mammoth_Cache | 33 |
+| [Possible DevOps practices to incorporate for Labview/Matlab-style visual programming](https://www.reddit.com/r/devops/comments/183ig75/possible_devops_practices_to_incorporate_for/) | klytboy | 5 |
+| [Connect my on-premise network to Google Cloud through HA VPN](https://www.reddit.com/r/devops/comments/183jvhk/connect_my_onpremise_network_to_google_cloud/) | RP_m_13 | 3 |
+| [aCloudguru or something else?](https://www.reddit.com/r/devops/comments/183mwui/acloudguru_or_something_else/) | Mindless_Rice_3109 | 1 |
+| [DevOps Leads/Hiring Managers](https://www.reddit.com/r/devops/comments/1841mnx/devops_leadshiring_managers/) | Aggressive_Ad3517 | 1 |
+| [Please guide me, I wanna be a devops engineer. What certs would you suggest and where can I prepare for them.](https://www.reddit.com/r/devops/comments/183xm0p/please_guide_me_i_wanna_be_a_devops_engineer_what/) | Themotionalman | 0 |
+| [Azure AI Cloud Skills Challenge](https://www.reddit.com/r/devops/comments/183k8k4/azure_ai_cloud_skills_challenge/) | Code-Squad | 0 |
