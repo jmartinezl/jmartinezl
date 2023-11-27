@@ -44,10 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How do you grow in this DevOps field?](https://www.reddit.com/r/devops/comments/1841eit/how_do_you_grow_in_this_devops_field/) | Mammoth_Cache | 33 |
-| [Possible DevOps practices to incorporate for Labview/Matlab-style visual programming](https://www.reddit.com/r/devops/comments/183ig75/possible_devops_practices_to_incorporate_for/) | klytboy | 5 |
-| [Connect my on-premise network to Google Cloud through HA VPN](https://www.reddit.com/r/devops/comments/183jvhk/connect_my_onpremise_network_to_google_cloud/) | RP_m_13 | 3 |
-| [aCloudguru or something else?](https://www.reddit.com/r/devops/comments/183mwui/acloudguru_or_something_else/) | Mindless_Rice_3109 | 1 |
-| [DevOps Leads/Hiring Managers](https://www.reddit.com/r/devops/comments/1841mnx/devops_leadshiring_managers/) | Aggressive_Ad3517 | 1 |
-| [Please guide me, I wanna be a devops engineer. What certs would you suggest and where can I prepare for them.](https://www.reddit.com/r/devops/comments/183xm0p/please_guide_me_i_wanna_be_a_devops_engineer_what/) | Themotionalman | 0 |
-| [Azure AI Cloud Skills Challenge](https://www.reddit.com/r/devops/comments/183k8k4/azure_ai_cloud_skills_challenge/) | Code-Squad | 0 |
+| [I'm bored. How difficult is it to go full dev?](https://www.reddit.com/r/devops/comments/184et6c/im_bored_how_difficult_is_it_to_go_full_dev/) | LowMoistureCheese | 49 |
+| [5 learnings from 5 years in DevOps](https://www.reddit.com/r/devops/comments/184w22f/5_learnings_from_5_years_in_devops/) | Stash40 | 42 |
+| [Ex sysadmins of r/devops, how did you successfully migrated from sysadmin to devops?](https://www.reddit.com/r/devops/comments/184chdn/ex_sysadmins_of_rdevops_how_did_you_successfully/) | Hefty-Entrance-2706 | 26 |
+| [Terraform Self-Service platform / Internal Developer Platform solutions](https://www.reddit.com/r/devops/comments/184m4ya/terraform_selfservice_platform_internal_developer/) | divad1196 | 6 |
+| [How do you debug infrastructure?](https://www.reddit.com/r/devops/comments/184ywiw/how_do_you_debug_infrastructure/) | Prestigious_Squash81 | 6 |
+| [What are the 5 best tools for static code analysis in your opinion?](https://www.reddit.com/r/devops/comments/184afps/what_are_the_5_best_tools_for_static_code/) | EnaGrimm | 5 |
+| [Regarding Kubernetes proficiency for an entry-level DevOps engineer](https://www.reddit.com/r/devops/comments/184cgw3/regarding_kubernetes_proficiency_for_an/) | WiseUnderstanding669 | 4 |
+| [DIY Runbook Automation Platforms?](https://www.reddit.com/r/devops/comments/184q6bv/diy_runbook_automation_platforms/) | falcon2001 | 4 |
+| [How to improve engineering skills](https://www.reddit.com/r/devops/comments/184as9d/how_to_improve_engineering_skills/) | ricolopes86 | 3 |
+| [cadvisor metrics - direct usage vs otel-collector kubeletstats receiver](https://www.reddit.com/r/devops/comments/184uc61/cadvisor_metrics_direct_usage_vs_otelcollector/) | the_ml_guy | 1 |
