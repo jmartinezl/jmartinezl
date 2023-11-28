@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [I'm bored. How difficult is it to go full dev?](https://www.reddit.com/r/devops/comments/184et6c/im_bored_how_difficult_is_it_to_go_full_dev/) | LowMoistureCheese | 49 |
-| [5 learnings from 5 years in DevOps](https://www.reddit.com/r/devops/comments/184w22f/5_learnings_from_5_years_in_devops/) | Stash40 | 42 |
-| [Ex sysadmins of r/devops, how did you successfully migrated from sysadmin to devops?](https://www.reddit.com/r/devops/comments/184chdn/ex_sysadmins_of_rdevops_how_did_you_successfully/) | Hefty-Entrance-2706 | 26 |
-| [Terraform Self-Service platform / Internal Developer Platform solutions](https://www.reddit.com/r/devops/comments/184m4ya/terraform_selfservice_platform_internal_developer/) | divad1196 | 6 |
-| [How do you debug infrastructure?](https://www.reddit.com/r/devops/comments/184ywiw/how_do_you_debug_infrastructure/) | Prestigious_Squash81 | 6 |
-| [What are the 5 best tools for static code analysis in your opinion?](https://www.reddit.com/r/devops/comments/184afps/what_are_the_5_best_tools_for_static_code/) | EnaGrimm | 5 |
-| [Regarding Kubernetes proficiency for an entry-level DevOps engineer](https://www.reddit.com/r/devops/comments/184cgw3/regarding_kubernetes_proficiency_for_an/) | WiseUnderstanding669 | 4 |
-| [DIY Runbook Automation Platforms?](https://www.reddit.com/r/devops/comments/184q6bv/diy_runbook_automation_platforms/) | falcon2001 | 4 |
-| [How to improve engineering skills](https://www.reddit.com/r/devops/comments/184as9d/how_to_improve_engineering_skills/) | ricolopes86 | 3 |
-| [cadvisor metrics - direct usage vs otel-collector kubeletstats receiver](https://www.reddit.com/r/devops/comments/184uc61/cadvisor_metrics_direct_usage_vs_otelcollector/) | the_ml_guy | 1 |
+| [Are daily commits to trunk really a requirement in trunk based development?](https://www.reddit.com/r/devops/comments/185aqac/are_daily_commits_to_trunk_really_a_requirement/) | BuriedStPatrick | 51 |
+| [How would you make your job sound sexy?](https://www.reddit.com/r/devops/comments/185gwyd/how_would_you_make_your_job_sound_sexy/) | 115v | 14 |
+| [Are quota limits in managed cloud firewalls intentional?](https://www.reddit.com/r/devops/comments/185btnc/are_quota_limits_in_managed_cloud_firewalls/) | Jatalocks2 | 7 |
+| [Experience with dagger engine](https://www.reddit.com/r/devops/comments/185h88c/experience_with_dagger_engine/) | ArtisticHamster | 5 |
+| [What's your experience with Dagger?](https://www.reddit.com/r/devops/comments/185tey1/whats_your_experience_with_dagger/) | ToddGergey | 3 |
+| [TUI app for Hashi Vault](https://www.reddit.com/r/devops/comments/185g51f/tui_app_for_hashi_vault/) | Jaybird_s | 1 |
+| [Simultaneous Change on Autoscaling EC2's](https://www.reddit.com/r/devops/comments/185ryjp/simultaneous_change_on_autoscaling_ec2s/) | autodevops | 1 |
+| [SQS + Lambda to manage rate limits for OpenAI API](https://www.reddit.com/r/devops/comments/185fudo/sqs_lambda_to_manage_rate_limits_for_openai_api/) | archhelp1 | 1 |
+| [Looking for help](https://www.reddit.com/r/devops/comments/185h9k2/looking_for_help/) | Glittering_Tart51 | 1 |
+| [Learning devops](https://www.reddit.com/r/devops/comments/185ppq3/learning_devops/) | giridhargp | 1 |
