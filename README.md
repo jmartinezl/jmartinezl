@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Are daily commits to trunk really a requirement in trunk based development?](https://www.reddit.com/r/devops/comments/185aqac/are_daily_commits_to_trunk_really_a_requirement/) | BuriedStPatrick | 51 |
-| [How would you make your job sound sexy?](https://www.reddit.com/r/devops/comments/185gwyd/how_would_you_make_your_job_sound_sexy/) | 115v | 14 |
-| [Are quota limits in managed cloud firewalls intentional?](https://www.reddit.com/r/devops/comments/185btnc/are_quota_limits_in_managed_cloud_firewalls/) | Jatalocks2 | 7 |
-| [Experience with dagger engine](https://www.reddit.com/r/devops/comments/185h88c/experience_with_dagger_engine/) | ArtisticHamster | 5 |
-| [What's your experience with Dagger?](https://www.reddit.com/r/devops/comments/185tey1/whats_your_experience_with_dagger/) | ToddGergey | 3 |
-| [TUI app for Hashi Vault](https://www.reddit.com/r/devops/comments/185g51f/tui_app_for_hashi_vault/) | Jaybird_s | 1 |
-| [Simultaneous Change on Autoscaling EC2's](https://www.reddit.com/r/devops/comments/185ryjp/simultaneous_change_on_autoscaling_ec2s/) | autodevops | 1 |
-| [SQS + Lambda to manage rate limits for OpenAI API](https://www.reddit.com/r/devops/comments/185fudo/sqs_lambda_to_manage_rate_limits_for_openai_api/) | archhelp1 | 1 |
-| [Looking for help](https://www.reddit.com/r/devops/comments/185h9k2/looking_for_help/) | Glittering_Tart51 | 1 |
-| [Learning devops](https://www.reddit.com/r/devops/comments/185ppq3/learning_devops/) | giridhargp | 1 |
+| [hardest thing to find in a DevOps hire](https://www.reddit.com/r/devops/comments/185vros/hardest_thing_to_find_in_a_devops_hire/) | Flabbaghosted | 158 |
+| [Being made redundant, but the company wants me to stay on for another 9 months.](https://www.reddit.com/r/devops/comments/186dsqg/being_made_redundant_but_the_company_wants_me_to/) | butter_nipples | 39 |
+| [What level of hand-holding do you expect as necessary for your junior devops engineers?](https://www.reddit.com/r/devops/comments/18605sy/what_level_of_handholding_do_you_expect_as/) | PartemConsilio | 30 |
+| [Is every team allergic to documentation or have I just had bad luck?](https://www.reddit.com/r/devops/comments/185zsnd/is_every_team_allergic_to_documentation_or_have_i/) | dj_daly | 28 |
+| [The Alpine Packages Problem](https://www.reddit.com/r/devops/comments/185w8z1/the_alpine_packages_problem/) | botscripter-io | 4 |
+| [Using Packer to build Windows 2022 AMIs in AWS? Care to share notes?](https://www.reddit.com/r/devops/comments/1869hgl/using_packer_to_build_windows_2022_amis_in_aws/) | rayray5884 | 3 |
+| [Stop Paying $3.5/million requests for AWS API Gateway v1 or v2. Use Lambda Function URL instead](https://www.reddit.com/r/devops/comments/186g9mf/stop_paying_35million_requests_for_aws_api/) | trungpv | 2 |
+| [PCI Compliant devops](https://www.reddit.com/r/devops/comments/186hwny/pci_compliant_devops/) | PsyTech | 2 |
+| [Looking for tips/a general roadmap on getting into Devops at the company I currently work for.](https://www.reddit.com/r/devops/comments/186bray/looking_for_tipsa_general_roadmap_on_getting_into/) | NightOnFuckMountain | 2 |
+| [Khaos: a Kubernetes operator for Chaos Engineering](https://www.reddit.com/r/devops/comments/186li6y/khaos_a_kubernetes_operator_for_chaos_engineering/) | 0111001101110010 | 2 |
