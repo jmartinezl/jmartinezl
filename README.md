@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [hardest thing to find in a DevOps hire](https://www.reddit.com/r/devops/comments/185vros/hardest_thing_to_find_in_a_devops_hire/) | Flabbaghosted | 158 |
-| [Being made redundant, but the company wants me to stay on for another 9 months.](https://www.reddit.com/r/devops/comments/186dsqg/being_made_redundant_but_the_company_wants_me_to/) | butter_nipples | 39 |
-| [What level of hand-holding do you expect as necessary for your junior devops engineers?](https://www.reddit.com/r/devops/comments/18605sy/what_level_of_handholding_do_you_expect_as/) | PartemConsilio | 30 |
-| [Is every team allergic to documentation or have I just had bad luck?](https://www.reddit.com/r/devops/comments/185zsnd/is_every_team_allergic_to_documentation_or_have_i/) | dj_daly | 28 |
-| [The Alpine Packages Problem](https://www.reddit.com/r/devops/comments/185w8z1/the_alpine_packages_problem/) | botscripter-io | 4 |
-| [Using Packer to build Windows 2022 AMIs in AWS? Care to share notes?](https://www.reddit.com/r/devops/comments/1869hgl/using_packer_to_build_windows_2022_amis_in_aws/) | rayray5884 | 3 |
-| [Stop Paying $3.5/million requests for AWS API Gateway v1 or v2. Use Lambda Function URL instead](https://www.reddit.com/r/devops/comments/186g9mf/stop_paying_35million_requests_for_aws_api/) | trungpv | 2 |
-| [PCI Compliant devops](https://www.reddit.com/r/devops/comments/186hwny/pci_compliant_devops/) | PsyTech | 2 |
-| [Looking for tips/a general roadmap on getting into Devops at the company I currently work for.](https://www.reddit.com/r/devops/comments/186bray/looking_for_tipsa_general_roadmap_on_getting_into/) | NightOnFuckMountain | 2 |
-| [Khaos: a Kubernetes operator for Chaos Engineering](https://www.reddit.com/r/devops/comments/186li6y/khaos_a_kubernetes_operator_for_chaos_engineering/) | 0111001101110010 | 2 |
+| [My PM is getting on my nerves](https://www.reddit.com/r/devops/comments/186wm3s/my_pm_is_getting_on_my_nerves/) | riskybiznuu | 48 |
+| [Not growing in DevOps role!](https://www.reddit.com/r/devops/comments/186p0l4/not_growing_in_devops_role/) | Acrobatic-Warthog-65 | 42 |
+| [Tools to inspect/audit Postgres DBs](https://www.reddit.com/r/devops/comments/186zpxd/tools_to_inspectaudit_postgres_dbs/) | k2718 | 24 |
+| [Is being a Brent a good or bad thing ?](https://www.reddit.com/r/devops/comments/186tot0/is_being_a_brent_a_good_or_bad_thing/) | pojzon_poe | 9 |
+| [Resume Review](https://www.reddit.com/r/devops/comments/186xc0w/resume_review/) | sapzero | 8 |
+| [Why are there little Platform Engineering tutorials](https://www.reddit.com/r/devops/comments/186ptum/why_are_there_little_platform_engineering/) | alwaysdefied | 7 |
+| [How to organize a small man dev team](https://www.reddit.com/r/devops/comments/186v9x0/how_to_organize_a_small_man_dev_team/) | Amekaze | 7 |
+| [Individual contributors, you should be aware of DORA metrics](https://www.reddit.com/r/devops/comments/186yuce/individual_contributors_you_should_be_aware_of/) | baristaGeek | 5 |
+| [Maintaining vulnerability database](https://www.reddit.com/r/devops/comments/1876ykj/maintaining_vulnerability_database/) | dustyroseinsand | 3 |
+| [Is there any DevOps related internships anyone could recommend?](https://www.reddit.com/r/devops/comments/186ziek/is_there_any_devops_related_internships_anyone/) | Professional_Dish332 | 2 |
