@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [My PM is getting on my nerves](https://www.reddit.com/r/devops/comments/186wm3s/my_pm_is_getting_on_my_nerves/) | riskybiznuu | 48 |
-| [Not growing in DevOps role!](https://www.reddit.com/r/devops/comments/186p0l4/not_growing_in_devops_role/) | Acrobatic-Warthog-65 | 42 |
-| [Tools to inspect/audit Postgres DBs](https://www.reddit.com/r/devops/comments/186zpxd/tools_to_inspectaudit_postgres_dbs/) | k2718 | 24 |
-| [Is being a Brent a good or bad thing ?](https://www.reddit.com/r/devops/comments/186tot0/is_being_a_brent_a_good_or_bad_thing/) | pojzon_poe | 9 |
-| [Resume Review](https://www.reddit.com/r/devops/comments/186xc0w/resume_review/) | sapzero | 8 |
-| [Why are there little Platform Engineering tutorials](https://www.reddit.com/r/devops/comments/186ptum/why_are_there_little_platform_engineering/) | alwaysdefied | 7 |
-| [How to organize a small man dev team](https://www.reddit.com/r/devops/comments/186v9x0/how_to_organize_a_small_man_dev_team/) | Amekaze | 7 |
-| [Individual contributors, you should be aware of DORA metrics](https://www.reddit.com/r/devops/comments/186yuce/individual_contributors_you_should_be_aware_of/) | baristaGeek | 5 |
-| [Maintaining vulnerability database](https://www.reddit.com/r/devops/comments/1876ykj/maintaining_vulnerability_database/) | dustyroseinsand | 3 |
-| [Is there any DevOps related internships anyone could recommend?](https://www.reddit.com/r/devops/comments/186ziek/is_there_any_devops_related_internships_anyone/) | Professional_Dish332 | 2 |
+| [CKS or Linux Cert](https://www.reddit.com/r/devops/comments/187mibo/cks_or_linux_cert/) | bigbird0525 | 22 |
+| [Should I give private subnets a bigger range than public subnets and even more than database subnets?](https://www.reddit.com/r/devops/comments/1881cj1/should_i_give_private_subnets_a_bigger_range_than/) | No_Pain_1586 | 16 |
+| [How to add basic monitoring to resources only reachable through a VPN?](https://www.reddit.com/r/devops/comments/187jhsx/how_to_add_basic_monitoring_to_resources_only/) | Vanthian | 15 |
+| [Solutions for tunnel vision and meetings?](https://www.reddit.com/r/devops/comments/187orrf/solutions_for_tunnel_vision_and_meetings/) | hrdcorbassfishin | 9 |
+| [OneUptime: Open Source StatusPage.io + UptimeRobot + PagerDuty alternative that you can self-host on Kubernetes and Helm](https://www.reddit.com/r/devops/comments/187p1y8/oneuptime_open_source_statuspageio_uptimerobot/) | OuPeaNut | 5 |
+| [Rawkode and Rawkode Academy](https://www.reddit.com/r/devops/comments/187kidg/rawkode_and_rawkode_academy/) | santafen | 3 |
+| [KCL v0.7 Released! More Comprehensive Modules, Language, and Tools for DevOps.](https://www.reddit.com/r/devops/comments/18884lm/kcl_v07_released_more_comprehensive_modules/) | Peefy- | 3 |
+| [Kubernetes Cluster Monitoring as a Whole](https://www.reddit.com/r/devops/comments/187m391/kubernetes_cluster_monitoring_as_a_whole/) | ak17hg | 2 |
+| [cdk8s pass argument](https://www.reddit.com/r/devops/comments/187i92u/cdk8s_pass_argument/) | sophroni | 1 |
+| [Ugly Devops Christmas Sweater](https://www.reddit.com/r/devops/comments/187v1ww/ugly_devops_christmas_sweater/) | giienabfitbs | 1 |
