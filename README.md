@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [CKS or Linux Cert](https://www.reddit.com/r/devops/comments/187mibo/cks_or_linux_cert/) | bigbird0525 | 22 |
-| [Should I give private subnets a bigger range than public subnets and even more than database subnets?](https://www.reddit.com/r/devops/comments/1881cj1/should_i_give_private_subnets_a_bigger_range_than/) | No_Pain_1586 | 16 |
-| [How to add basic monitoring to resources only reachable through a VPN?](https://www.reddit.com/r/devops/comments/187jhsx/how_to_add_basic_monitoring_to_resources_only/) | Vanthian | 15 |
-| [Solutions for tunnel vision and meetings?](https://www.reddit.com/r/devops/comments/187orrf/solutions_for_tunnel_vision_and_meetings/) | hrdcorbassfishin | 9 |
-| [OneUptime: Open Source StatusPage.io + UptimeRobot + PagerDuty alternative that you can self-host on Kubernetes and Helm](https://www.reddit.com/r/devops/comments/187p1y8/oneuptime_open_source_statuspageio_uptimerobot/) | OuPeaNut | 5 |
-| [Rawkode and Rawkode Academy](https://www.reddit.com/r/devops/comments/187kidg/rawkode_and_rawkode_academy/) | santafen | 3 |
-| [KCL v0.7 Released! More Comprehensive Modules, Language, and Tools for DevOps.](https://www.reddit.com/r/devops/comments/18884lm/kcl_v07_released_more_comprehensive_modules/) | Peefy- | 3 |
-| [Kubernetes Cluster Monitoring as a Whole](https://www.reddit.com/r/devops/comments/187m391/kubernetes_cluster_monitoring_as_a_whole/) | ak17hg | 2 |
-| [cdk8s pass argument](https://www.reddit.com/r/devops/comments/187i92u/cdk8s_pass_argument/) | sophroni | 1 |
-| [Ugly Devops Christmas Sweater](https://www.reddit.com/r/devops/comments/187v1ww/ugly_devops_christmas_sweater/) | giienabfitbs | 1 |
+| [VMware acquisition](https://www.reddit.com/r/devops/comments/188lora/vmware_acquisition/) | Felix1178 | 30 |
+| [Thinking in Systems: A Sociotechnical Approach to DevOps](https://www.reddit.com/r/devops/comments/188bvhd/thinking_in_systems_a_sociotechnical_approach_to/) | worldofgeese | 29 |
+| [How to stay afloat of constant tasks /Requests?](https://www.reddit.com/r/devops/comments/188m2lc/how_to_stay_afloat_of_constant_tasks_requests/) | floater293 | 28 |
+| [Bubble bursted](https://www.reddit.com/r/devops/comments/188ra3m/bubble_bursted/) | frankrice | 18 |
+| [Looking for guidance and internships](https://www.reddit.com/r/devops/comments/188wi6n/looking_for_guidance_and_internships/) | HandDazzling2014 | 4 |
+| [Building Logs to Metrics pipelines with Vector](https://www.reddit.com/r/devops/comments/188cpkk/building_logs_to_metrics_pipelines_with_vector/) | PrathameshSonpatki | 3 |
+| [AWS Lambda and Vault integration](https://www.reddit.com/r/devops/comments/188qblh/aws_lambda_and_vault_integration/) | LinweZ | 3 |
+| [Alert if AWS resources are missing required tags](https://www.reddit.com/r/devops/comments/188bhjo/alert_if_aws_resources_are_missing_required_tags/) | pppreddit | 2 |
+| [CKAD without KCNA? Prerequisites?](https://www.reddit.com/r/devops/comments/188o0zk/ckad_without_kcna_prerequisites/) | up--Yours | 1 |
+| [Revolutionize localization with LangSync](https://www.reddit.com/r/devops/comments/188bzqa/revolutionize_localization_with_langsync/) | Difficult_County6599 | 0 |
