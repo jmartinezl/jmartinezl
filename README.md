@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [VMware acquisition](https://www.reddit.com/r/devops/comments/188lora/vmware_acquisition/) | Felix1178 | 30 |
-| [Thinking in Systems: A Sociotechnical Approach to DevOps](https://www.reddit.com/r/devops/comments/188bvhd/thinking_in_systems_a_sociotechnical_approach_to/) | worldofgeese | 29 |
-| [How to stay afloat of constant tasks /Requests?](https://www.reddit.com/r/devops/comments/188m2lc/how_to_stay_afloat_of_constant_tasks_requests/) | floater293 | 28 |
-| [Bubble bursted](https://www.reddit.com/r/devops/comments/188ra3m/bubble_bursted/) | frankrice | 18 |
-| [Looking for guidance and internships](https://www.reddit.com/r/devops/comments/188wi6n/looking_for_guidance_and_internships/) | HandDazzling2014 | 4 |
-| [Building Logs to Metrics pipelines with Vector](https://www.reddit.com/r/devops/comments/188cpkk/building_logs_to_metrics_pipelines_with_vector/) | PrathameshSonpatki | 3 |
-| [AWS Lambda and Vault integration](https://www.reddit.com/r/devops/comments/188qblh/aws_lambda_and_vault_integration/) | LinweZ | 3 |
-| [Alert if AWS resources are missing required tags](https://www.reddit.com/r/devops/comments/188bhjo/alert_if_aws_resources_are_missing_required_tags/) | pppreddit | 2 |
-| [CKAD without KCNA? Prerequisites?](https://www.reddit.com/r/devops/comments/188o0zk/ckad_without_kcna_prerequisites/) | up--Yours | 1 |
-| [Revolutionize localization with LangSync](https://www.reddit.com/r/devops/comments/188bzqa/revolutionize_localization_with_langsync/) | Difficult_County6599 | 0 |
+| [How you guys transitioned to a DevOps position?](https://www.reddit.com/r/devops/comments/189fk4w/how_you_guys_transitioned_to_a_devops_position/) | informate11 | 34 |
+| [Migration from MySQL On-premise to AWS RDS](https://www.reddit.com/r/devops/comments/1892oje/migration_from_mysql_onpremise_to_aws_rds/) | Rareness_ | 25 |
+| [Advice for the only devops in a company?](https://www.reddit.com/r/devops/comments/189owd8/advice_for_the_only_devops_in_a_company/) | zodiac-azrael | 8 |
+| [Solo Startup Founder with cloud hosting](https://www.reddit.com/r/devops/comments/1899ump/solo_startup_founder_with_cloud_hosting/) | SirLagsABot | 7 |
+| [Helm and image ids](https://www.reddit.com/r/devops/comments/1898iyb/helm_and_image_ids/) | gamb1t9 | 6 |
+| [[Storage] Promising numbers!](https://www.reddit.com/r/devops/comments/1897uq7/storage_promising_numbers/) | clcikerinjo | 3 |
+| [Experience with GitLab on AWS EKS](https://www.reddit.com/r/devops/comments/189mu17/experience_with_gitlab_on_aws_eks/) | No_Entertainment8093 | 3 |
+| [Looking For A SaaS For Internal Apps](https://www.reddit.com/r/devops/comments/189ms8g/looking_for_a_saas_for_internal_apps/) | Specific_Arm_1494 | 2 |
+| [Looking to dynamically filter by label in PromQL](https://www.reddit.com/r/devops/comments/189qviw/looking_to_dynamically_filter_by_label_in_promql/) | TheSayAnime | 1 |
+| [Pathway to become a Devops Engineer along with Software Developer](https://www.reddit.com/r/devops/comments/1894ku5/pathway_to_become_a_devops_engineer_along_with/) | chronofy1 | 0 |
