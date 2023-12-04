@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [How you guys transitioned to a DevOps position?](https://www.reddit.com/r/devops/comments/189fk4w/how_you_guys_transitioned_to_a_devops_position/) | informate11 | 34 |
-| [Migration from MySQL On-premise to AWS RDS](https://www.reddit.com/r/devops/comments/1892oje/migration_from_mysql_onpremise_to_aws_rds/) | Rareness_ | 25 |
-| [Advice for the only devops in a company?](https://www.reddit.com/r/devops/comments/189owd8/advice_for_the_only_devops_in_a_company/) | zodiac-azrael | 8 |
-| [Solo Startup Founder with cloud hosting](https://www.reddit.com/r/devops/comments/1899ump/solo_startup_founder_with_cloud_hosting/) | SirLagsABot | 7 |
-| [Helm and image ids](https://www.reddit.com/r/devops/comments/1898iyb/helm_and_image_ids/) | gamb1t9 | 6 |
-| [[Storage] Promising numbers!](https://www.reddit.com/r/devops/comments/1897uq7/storage_promising_numbers/) | clcikerinjo | 3 |
-| [Experience with GitLab on AWS EKS](https://www.reddit.com/r/devops/comments/189mu17/experience_with_gitlab_on_aws_eks/) | No_Entertainment8093 | 3 |
-| [Looking For A SaaS For Internal Apps](https://www.reddit.com/r/devops/comments/189ms8g/looking_for_a_saas_for_internal_apps/) | Specific_Arm_1494 | 2 |
-| [Looking to dynamically filter by label in PromQL](https://www.reddit.com/r/devops/comments/189qviw/looking_to_dynamically_filter_by_label_in_promql/) | TheSayAnime | 1 |
-| [Pathway to become a Devops Engineer along with Software Developer](https://www.reddit.com/r/devops/comments/1894ku5/pathway_to_become_a_devops_engineer_along_with/) | chronofy1 | 0 |
+| [Visual infrastructure building tool](https://www.reddit.com/r/devops/comments/189y6qj/visual_infrastructure_building_tool/) | neifn | 48 |
+| [What are some of your weeks wins?](https://www.reddit.com/r/devops/comments/18a2kfn/what_are_some_of_your_weeks_wins/) | Jazzlike_Syllabub_91 | 17 |
+| [Management asked my team to learn Devops for transition](https://www.reddit.com/r/devops/comments/18a0yzw/management_asked_my_team_to_learn_devops_for/) | shadow_clone_7 | 16 |
+| [What type of issues you get to debug in jenkins pipeline](https://www.reddit.com/r/devops/comments/189u4nf/what_type_of_issues_you_get_to_debug_in_jenkins/) | bankrupt-baldy | 11 |
+| [Canary releases with Apache APISIX](https://www.reddit.com/r/devops/comments/189xyp5/canary_releases_with_apache_apisix/) | nfrankel | 3 |
+| [Private API using Serverless](https://www.reddit.com/r/devops/comments/18a7ayw/private_api_using_serverless/) | quiet0n3 | 2 |
+| [Do you use all Aritfactory features?](https://www.reddit.com/r/devops/comments/18aen8e/do_you_use_all_aritfactory_features/) | Jamsy100 | 2 |
+| [Best Practices for Integrating DevOps Files with Application File Structure?](https://www.reddit.com/r/devops/comments/18agysz/best_practices_for_integrating_devops_files_with/) | Lanky-Ad4698 | 2 |
+| [The Dawn of Cyber Challenges in Healthcare Security | Prophaze](https://www.reddit.com/r/devops/comments/18adroq/the_dawn_of_cyber_challenges_in_healthcare/) | deep_meditation | 0 |
+| [Can someone help me?](https://www.reddit.com/r/devops/comments/189uuj0/can_someone_help_me/) | CaioCrivelari | 0 |
