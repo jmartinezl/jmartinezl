@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Visual infrastructure building tool](https://www.reddit.com/r/devops/comments/189y6qj/visual_infrastructure_building_tool/) | neifn | 48 |
-| [What are some of your weeks wins?](https://www.reddit.com/r/devops/comments/18a2kfn/what_are_some_of_your_weeks_wins/) | Jazzlike_Syllabub_91 | 17 |
-| [Management asked my team to learn Devops for transition](https://www.reddit.com/r/devops/comments/18a0yzw/management_asked_my_team_to_learn_devops_for/) | shadow_clone_7 | 16 |
-| [What type of issues you get to debug in jenkins pipeline](https://www.reddit.com/r/devops/comments/189u4nf/what_type_of_issues_you_get_to_debug_in_jenkins/) | bankrupt-baldy | 11 |
-| [Canary releases with Apache APISIX](https://www.reddit.com/r/devops/comments/189xyp5/canary_releases_with_apache_apisix/) | nfrankel | 3 |
-| [Private API using Serverless](https://www.reddit.com/r/devops/comments/18a7ayw/private_api_using_serverless/) | quiet0n3 | 2 |
-| [Do you use all Aritfactory features?](https://www.reddit.com/r/devops/comments/18aen8e/do_you_use_all_aritfactory_features/) | Jamsy100 | 2 |
-| [Best Practices for Integrating DevOps Files with Application File Structure?](https://www.reddit.com/r/devops/comments/18agysz/best_practices_for_integrating_devops_files_with/) | Lanky-Ad4698 | 2 |
-| [The Dawn of Cyber Challenges in Healthcare Security | Prophaze](https://www.reddit.com/r/devops/comments/18adroq/the_dawn_of_cyber_challenges_in_healthcare/) | deep_meditation | 0 |
-| [Can someone help me?](https://www.reddit.com/r/devops/comments/189uuj0/can_someone_help_me/) | CaioCrivelari | 0 |
+| [DevOps salaries down at the moment?](https://www.reddit.com/r/devops/comments/18axr66/devops_salaries_down_at_the_moment/) | CosmicMixer2120 | 71 |
+| [Company considering moving on prem, and off cloud](https://www.reddit.com/r/devops/comments/18awgos/company_considering_moving_on_prem_and_off_cloud/) | UpgrayeddShepard | 47 |
+| [I have a DevOps Interview tomorrow. Can someone give me some tips?](https://www.reddit.com/r/devops/comments/18at6m6/i_have_a_devops_interview_tomorrow_can_someone/) | carefree_dude | 15 |
+| [Separate Gitlab instances](https://www.reddit.com/r/devops/comments/18arb8y/separate_gitlab_instances/) | maln0ir | 12 |
+| [Peoplecert: What’s your take on this?](https://www.reddit.com/r/devops/comments/18b0rpp/peoplecert_whats_your_take_on_this/) | AcediaAlice | 4 |
+| [OCI Images and the GPL](https://www.reddit.com/r/devops/comments/18aoj5z/oci_images_and_the_gpl/) | Scary_Engineering868 | 4 |
+| [how to test the devops part?](https://www.reddit.com/r/devops/comments/18ap9a6/how_to_test_the_devops_part/) | MOXPAC | 3 |
+| [PR merge automation ?](https://www.reddit.com/r/devops/comments/18asyql/pr_merge_automation/) | BigNose1995 | 3 |
+| [Oss licence compliance](https://www.reddit.com/r/devops/comments/18avfuu/oss_licence_compliance/) | largeade | 3 |
+| [Toolbox Web UI](https://www.reddit.com/r/devops/comments/18b2n81/toolbox_web_ui/) | xamboozi | 1 |
