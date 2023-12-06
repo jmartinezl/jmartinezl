@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [DevOps salaries down at the moment?](https://www.reddit.com/r/devops/comments/18axr66/devops_salaries_down_at_the_moment/) | CosmicMixer2120 | 71 |
-| [Company considering moving on prem, and off cloud](https://www.reddit.com/r/devops/comments/18awgos/company_considering_moving_on_prem_and_off_cloud/) | UpgrayeddShepard | 47 |
-| [I have a DevOps Interview tomorrow. Can someone give me some tips?](https://www.reddit.com/r/devops/comments/18at6m6/i_have_a_devops_interview_tomorrow_can_someone/) | carefree_dude | 15 |
-| [Separate Gitlab instances](https://www.reddit.com/r/devops/comments/18arb8y/separate_gitlab_instances/) | maln0ir | 12 |
-| [Peoplecert: What’s your take on this?](https://www.reddit.com/r/devops/comments/18b0rpp/peoplecert_whats_your_take_on_this/) | AcediaAlice | 4 |
-| [OCI Images and the GPL](https://www.reddit.com/r/devops/comments/18aoj5z/oci_images_and_the_gpl/) | Scary_Engineering868 | 4 |
-| [how to test the devops part?](https://www.reddit.com/r/devops/comments/18ap9a6/how_to_test_the_devops_part/) | MOXPAC | 3 |
-| [PR merge automation ?](https://www.reddit.com/r/devops/comments/18asyql/pr_merge_automation/) | BigNose1995 | 3 |
-| [Oss licence compliance](https://www.reddit.com/r/devops/comments/18avfuu/oss_licence_compliance/) | largeade | 3 |
-| [Toolbox Web UI](https://www.reddit.com/r/devops/comments/18b2n81/toolbox_web_ui/) | xamboozi | 1 |
+| [What’s with DevOps engineers using `make` of all things?](https://www.reddit.com/r/devops/comments/18bsodf/whats_with_devops_engineers_using_make_of_all/) | Pebaz | 62 |
+| [What skillset along with DevOps is deadly?](https://www.reddit.com/r/devops/comments/18bi6g1/what_skillset_along_with_devops_is_deadly/) | Ok_Donut2966 | 62 |
+| [Datadog harassing](https://www.reddit.com/r/devops/comments/18bs7p1/datadog_harassing/) | y_karakai | 39 |
+| [How Infra Re-Orgs Happen (and fail)](https://www.reddit.com/r/devops/comments/18bgiwv/how_infra_reorgs_happen_and_fail/) | SharpEndss | 14 |
+| [ERP DevOps part of Devops?](https://www.reddit.com/r/devops/comments/18bzgde/erp_devops_part_of_devops/) | Master_Chan01 | 3 |
+| [Any picks for managed time series/metrics services?](https://www.reddit.com/r/devops/comments/18bij9g/any_picks_for_managed_time_seriesmetrics_services/) | Alf_InPogForm | 3 |
+| [GitLab kubernetes runner - docker compose tests](https://www.reddit.com/r/devops/comments/18c2b0d/gitlab_kubernetes_runner_docker_compose_tests/) | ZL0J | 2 |
+| [Feedback: would you use a cloud offering that only offered spot instances (no on-demand or reserved?)](https://www.reddit.com/r/devops/comments/18blngm/feedback_would_you_use_a_cloud_offering_that_only/) | sirishkr | 2 |
+| [Encrypt credentials in Bash Scripts](https://www.reddit.com/r/devops/comments/18bl0oe/encrypt_credentials_in_bash_scripts/) | kiko7653 | 2 |
+| [Do you get compensated in any way for being on call ?](https://www.reddit.com/r/devops/comments/18brjqp/do_you_get_compensated_in_any_way_for_being_on/) | xCaptainNutz | 2 |
