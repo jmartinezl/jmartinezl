@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What’s with DevOps engineers using `make` of all things?](https://www.reddit.com/r/devops/comments/18bsodf/whats_with_devops_engineers_using_make_of_all/) | Pebaz | 62 |
-| [What skillset along with DevOps is deadly?](https://www.reddit.com/r/devops/comments/18bi6g1/what_skillset_along_with_devops_is_deadly/) | Ok_Donut2966 | 62 |
-| [Datadog harassing](https://www.reddit.com/r/devops/comments/18bs7p1/datadog_harassing/) | y_karakai | 39 |
-| [How Infra Re-Orgs Happen (and fail)](https://www.reddit.com/r/devops/comments/18bgiwv/how_infra_reorgs_happen_and_fail/) | SharpEndss | 14 |
-| [ERP DevOps part of Devops?](https://www.reddit.com/r/devops/comments/18bzgde/erp_devops_part_of_devops/) | Master_Chan01 | 3 |
-| [Any picks for managed time series/metrics services?](https://www.reddit.com/r/devops/comments/18bij9g/any_picks_for_managed_time_seriesmetrics_services/) | Alf_InPogForm | 3 |
-| [GitLab kubernetes runner - docker compose tests](https://www.reddit.com/r/devops/comments/18c2b0d/gitlab_kubernetes_runner_docker_compose_tests/) | ZL0J | 2 |
-| [Feedback: would you use a cloud offering that only offered spot instances (no on-demand or reserved?)](https://www.reddit.com/r/devops/comments/18blngm/feedback_would_you_use_a_cloud_offering_that_only/) | sirishkr | 2 |
-| [Encrypt credentials in Bash Scripts](https://www.reddit.com/r/devops/comments/18bl0oe/encrypt_credentials_in_bash_scripts/) | kiko7653 | 2 |
-| [Do you get compensated in any way for being on call ?](https://www.reddit.com/r/devops/comments/18brjqp/do_you_get_compensated_in_any_way_for_being_on/) | xCaptainNutz | 2 |
+| [What is an appropriate way to install debian packages in a completely air-gapped environment?](https://www.reddit.com/r/devops/comments/18c8zl5/what_is_an_appropriate_way_to_install_debian/) | dugindeep | 23 |
+| [What reporting tools to report on Deployments](https://www.reddit.com/r/devops/comments/18ckne9/what_reporting_tools_to_report_on_deployments/) | _OPlopO_ | 20 |
+| [the bad server - for testing](https://www.reddit.com/r/devops/comments/18cd5oj/the_bad_server_for_testing/) | dominjaniec | 12 |
+| [How to make visualization more effective for DevOps/SRE teams?](https://www.reddit.com/r/devops/comments/18cmdgb/how_to_make_visualization_more_effective_for/) | shailendra-mechcloud | 5 |
+| [Using ECR as a mirror to transparently proxy docker-hub when rate limited](https://www.reddit.com/r/devops/comments/18cb152/using_ecr_as_a_mirror_to_transparently_proxy/) | surya_oruganti | 4 |
+| [Dynatrace - Custom metrics - filter, group by characteristics of a field](https://www.reddit.com/r/devops/comments/18cbwn0/dynatrace_custom_metrics_filter_group_by/) | dcole66 | 3 |
+| [Easy installation nginx ingress controller](https://www.reddit.com/r/devops/comments/18c3b9y/easy_installation_nginx_ingress_controller/) | ncubez | 2 |
+| [Anyone Else Using Terraform in Their Data Engineering Work?](https://www.reddit.com/r/devops/comments/18ctz2d/anyone_else_using_terraform_in_their_data/) | xDarkOne | 2 |
+| [What is your company using for on-call notification?](https://www.reddit.com/r/devops/comments/18cstmh/what_is_your_company_using_for_oncall_notification/) | webstackbuilder | 1 |
+| [Terramate Cloud - anyone used it?](https://www.reddit.com/r/devops/comments/18cepp2/terramate_cloud_anyone_used_it/) | du_keule | 1 |
