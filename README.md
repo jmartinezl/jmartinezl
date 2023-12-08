@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What is an appropriate way to install debian packages in a completely air-gapped environment?](https://www.reddit.com/r/devops/comments/18c8zl5/what_is_an_appropriate_way_to_install_debian/) | dugindeep | 23 |
-| [What reporting tools to report on Deployments](https://www.reddit.com/r/devops/comments/18ckne9/what_reporting_tools_to_report_on_deployments/) | _OPlopO_ | 20 |
-| [the bad server - for testing](https://www.reddit.com/r/devops/comments/18cd5oj/the_bad_server_for_testing/) | dominjaniec | 12 |
-| [How to make visualization more effective for DevOps/SRE teams?](https://www.reddit.com/r/devops/comments/18cmdgb/how_to_make_visualization_more_effective_for/) | shailendra-mechcloud | 5 |
-| [Using ECR as a mirror to transparently proxy docker-hub when rate limited](https://www.reddit.com/r/devops/comments/18cb152/using_ecr_as_a_mirror_to_transparently_proxy/) | surya_oruganti | 4 |
-| [Dynatrace - Custom metrics - filter, group by characteristics of a field](https://www.reddit.com/r/devops/comments/18cbwn0/dynatrace_custom_metrics_filter_group_by/) | dcole66 | 3 |
-| [Easy installation nginx ingress controller](https://www.reddit.com/r/devops/comments/18c3b9y/easy_installation_nginx_ingress_controller/) | ncubez | 2 |
-| [Anyone Else Using Terraform in Their Data Engineering Work?](https://www.reddit.com/r/devops/comments/18ctz2d/anyone_else_using_terraform_in_their_data/) | xDarkOne | 2 |
-| [What is your company using for on-call notification?](https://www.reddit.com/r/devops/comments/18cstmh/what_is_your_company_using_for_oncall_notification/) | webstackbuilder | 1 |
-| [Terramate Cloud - anyone used it?](https://www.reddit.com/r/devops/comments/18cepp2/terramate_cloud_anyone_used_it/) | du_keule | 1 |
+| [Helm-like templating tool for docker-compose written in Rust](https://www.reddit.com/r/devops/comments/18d6pvq/helmlike_templating_tool_for_dockercompose/) | LumbridgeDesigns | 22 |
+| [Devops/Dev-themed "yo mama" jokes](https://www.reddit.com/r/devops/comments/18d8h7t/devopsdevthemed_yo_mama_jokes/) | TurbonegroFan | 14 |
+| [Help to breakthrough in devops jobs](https://www.reddit.com/r/devops/comments/18czikm/help_to_breakthrough_in_devops_jobs/) | SephBsann | 4 |
+| [Advice on IaC overhaul options](https://www.reddit.com/r/devops/comments/18d4zhs/advice_on_iac_overhaul_options/) | almightyfoon | 4 |
+| [Is it good idea to use AWS Network Load Balancer behind AWS Global Accelerator to reduce latency??](https://www.reddit.com/r/devops/comments/18dhkjv/is_it_good_idea_to_use_aws_network_load_balancer/) | DCGMechanics | 2 |
+| [How to setup Ansible for different network zones?](https://www.reddit.com/r/devops/comments/18db18y/how_to_setup_ansible_for_different_network_zones/) | Spirited_Arm_5179 | 2 |
+| [Discussion: Which QCaaS is most affordable for spatial data analysis?](https://www.reddit.com/r/devops/comments/18dhm5p/discussion_which_qcaas_is_most_affordable_for/) | OCDBrahmachari | 2 |
+| [Using commits instead of tags for our releases](https://www.reddit.com/r/devops/comments/18dkqhd/using_commits_instead_of_tags_for_our_releases/) | CardiologistEarly483 | 1 |
+| [Jenkins - Using a bash script in which variables are created and then use them in another stage](https://www.reddit.com/r/devops/comments/18d04wh/jenkins_using_a_bash_script_in_which_variables/) | Agachack | 1 |
+| [🔥 Exciting career opportunities alert at Social Discovery Group! 🔥](https://www.reddit.com/r/devops/comments/18dj4ei/exciting_career_opportunities_alert_at_social/) | SocialDiscovery3 | 0 |
