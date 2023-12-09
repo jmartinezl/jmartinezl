@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Helm-like templating tool for docker-compose written in Rust](https://www.reddit.com/r/devops/comments/18d6pvq/helmlike_templating_tool_for_dockercompose/) | LumbridgeDesigns | 22 |
-| [Devops/Dev-themed "yo mama" jokes](https://www.reddit.com/r/devops/comments/18d8h7t/devopsdevthemed_yo_mama_jokes/) | TurbonegroFan | 14 |
-| [Help to breakthrough in devops jobs](https://www.reddit.com/r/devops/comments/18czikm/help_to_breakthrough_in_devops_jobs/) | SephBsann | 4 |
-| [Advice on IaC overhaul options](https://www.reddit.com/r/devops/comments/18d4zhs/advice_on_iac_overhaul_options/) | almightyfoon | 4 |
-| [Is it good idea to use AWS Network Load Balancer behind AWS Global Accelerator to reduce latency??](https://www.reddit.com/r/devops/comments/18dhkjv/is_it_good_idea_to_use_aws_network_load_balancer/) | DCGMechanics | 2 |
-| [How to setup Ansible for different network zones?](https://www.reddit.com/r/devops/comments/18db18y/how_to_setup_ansible_for_different_network_zones/) | Spirited_Arm_5179 | 2 |
-| [Discussion: Which QCaaS is most affordable for spatial data analysis?](https://www.reddit.com/r/devops/comments/18dhm5p/discussion_which_qcaas_is_most_affordable_for/) | OCDBrahmachari | 2 |
-| [Using commits instead of tags for our releases](https://www.reddit.com/r/devops/comments/18dkqhd/using_commits_instead_of_tags_for_our_releases/) | CardiologistEarly483 | 1 |
-| [Jenkins - Using a bash script in which variables are created and then use them in another stage](https://www.reddit.com/r/devops/comments/18d04wh/jenkins_using_a_bash_script_in_which_variables/) | Agachack | 1 |
-| [🔥 Exciting career opportunities alert at Social Discovery Group! 🔥](https://www.reddit.com/r/devops/comments/18dj4ei/exciting_career_opportunities_alert_at_social/) | SocialDiscovery3 | 0 |
+| [What does a $130k devops engineer actually do for a job?](https://www.reddit.com/r/devops/comments/18du2zi/what_does_a_130k_devops_engineer_actually_do_for/) | No_Virus_1416 | 223 |
+| [OpenTofu's Beta Debut: Homebrew-Inspired Registry](https://www.reddit.com/r/devops/comments/18ds986/opentofus_beta_debut_homebrewinspired_registry/) | AmokMind | 38 |
+| [What's so hard in Kubernetes?](https://www.reddit.com/r/devops/comments/18e4nuw/whats_so_hard_in_kubernetes/) | marioagario123 | 23 |
+| [How do you avoid/handle alert fatigue?](https://www.reddit.com/r/devops/comments/18dte7p/how_do_you_avoidhandle_alert_fatigue/) | tibozaurus | 13 |
+| [How are people managing env vars for Static Applications?](https://www.reddit.com/r/devops/comments/18duo87/how_are_people_managing_env_vars_for_static/) | ipromiseimcool | 10 |
+| [Working On Overhaul Of Complete App &amp; It's Infrastructure](https://www.reddit.com/r/devops/comments/18e07qi/working_on_overhaul_of_complete_app_its/) | DCGMechanics | 3 |
+| [Pipeline features](https://www.reddit.com/r/devops/comments/18dx6i6/pipeline_features/) | Ok-Dingo-9988 | 3 |
+| [How can github afford CI/CD?](https://www.reddit.com/r/devops/comments/18ebpsh/how_can_github_afford_cicd/) | Chillseashells | 3 |
+| [How To Turn My Python Script Into An AWS Dockerized Lambda Function?](https://www.reddit.com/r/devops/comments/18e3ugf/how_to_turn_my_python_script_into_an_aws/) | sublimme | 3 |
+| [using slack slash commands for devops'y things](https://www.reddit.com/r/devops/comments/18dmmfl/using_slack_slash_commands_for_devopsy_things/) | pppreddit | 2 |
