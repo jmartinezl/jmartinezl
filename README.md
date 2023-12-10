@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [What does a $130k devops engineer actually do for a job?](https://www.reddit.com/r/devops/comments/18du2zi/what_does_a_130k_devops_engineer_actually_do_for/) | No_Virus_1416 | 223 |
-| [OpenTofu's Beta Debut: Homebrew-Inspired Registry](https://www.reddit.com/r/devops/comments/18ds986/opentofus_beta_debut_homebrewinspired_registry/) | AmokMind | 38 |
-| [What's so hard in Kubernetes?](https://www.reddit.com/r/devops/comments/18e4nuw/whats_so_hard_in_kubernetes/) | marioagario123 | 23 |
-| [How do you avoid/handle alert fatigue?](https://www.reddit.com/r/devops/comments/18dte7p/how_do_you_avoidhandle_alert_fatigue/) | tibozaurus | 13 |
-| [How are people managing env vars for Static Applications?](https://www.reddit.com/r/devops/comments/18duo87/how_are_people_managing_env_vars_for_static/) | ipromiseimcool | 10 |
-| [Working On Overhaul Of Complete App &amp; It's Infrastructure](https://www.reddit.com/r/devops/comments/18e07qi/working_on_overhaul_of_complete_app_its/) | DCGMechanics | 3 |
-| [Pipeline features](https://www.reddit.com/r/devops/comments/18dx6i6/pipeline_features/) | Ok-Dingo-9988 | 3 |
-| [How can github afford CI/CD?](https://www.reddit.com/r/devops/comments/18ebpsh/how_can_github_afford_cicd/) | Chillseashells | 3 |
-| [How To Turn My Python Script Into An AWS Dockerized Lambda Function?](https://www.reddit.com/r/devops/comments/18e3ugf/how_to_turn_my_python_script_into_an_aws/) | sublimme | 3 |
-| [using slack slash commands for devops'y things](https://www.reddit.com/r/devops/comments/18dmmfl/using_slack_slash_commands_for_devopsy_things/) | pppreddit | 2 |
+| [Am I the weird one for thinking being on-call is normal?](https://www.reddit.com/r/devops/comments/18epgsy/am_i_the_weird_one_for_thinking_being_oncall_is/) | PartemConsilio | 61 |
+| [How do you handle CI/CD for multiple repos that are dependent on each other](https://www.reddit.com/r/devops/comments/18eo4g5/how_do_you_handle_cicd_for_multiple_repos_that/) | mike_testing | 27 |
+| [Salary Sharing Thread Dec 2023](https://www.reddit.com/r/devops/comments/18eotve/salary_sharing_thread_dec_2023/) | notechmajor | 13 |
+| [Resume Update](https://www.reddit.com/r/devops/comments/18ep67a/resume_update/) | JediAhsokaTano | 6 |
+| [Where to now? FAANG or contract?](https://www.reddit.com/r/devops/comments/18ewz55/where_to_now_faang_or_contract/) | Mindless_Rice_3109 | 5 |
+| [DevOps as a service](https://www.reddit.com/r/devops/comments/18f0umq/devops_as_a_service/) | happykeyboardwarrior | 3 |
+| [Using Vault in Gitlab CI?](https://www.reddit.com/r/devops/comments/18f14ac/using_vault_in_gitlab_ci/) | Bailey-96 | 2 |
+| [Seeking Advice: Best CI/CD Tool to Learn for Azure Integration as a Beginner?](https://www.reddit.com/r/devops/comments/18egay5/seeking_advice_best_cicd_tool_to_learn_for_azure/) | WiseUnderstanding669 | 1 |
+| [Looking for resources on Kubernetes / OpenShift](https://www.reddit.com/r/devops/comments/18f0n16/looking_for_resources_on_kubernetes_openshift/) | NoWayItzJess | 1 |
+| [I just created a DevOps channel on YouTube.](https://www.reddit.com/r/devops/comments/18eh4f5/i_just_created_a_devops_channel_on_youtube/) | UncommonDevopsWisdom | 0 |
