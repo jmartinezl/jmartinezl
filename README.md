@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Am I the weird one for thinking being on-call is normal?](https://www.reddit.com/r/devops/comments/18epgsy/am_i_the_weird_one_for_thinking_being_oncall_is/) | PartemConsilio | 61 |
-| [How do you handle CI/CD for multiple repos that are dependent on each other](https://www.reddit.com/r/devops/comments/18eo4g5/how_do_you_handle_cicd_for_multiple_repos_that/) | mike_testing | 27 |
-| [Salary Sharing Thread Dec 2023](https://www.reddit.com/r/devops/comments/18eotve/salary_sharing_thread_dec_2023/) | notechmajor | 13 |
-| [Resume Update](https://www.reddit.com/r/devops/comments/18ep67a/resume_update/) | JediAhsokaTano | 6 |
-| [Where to now? FAANG or contract?](https://www.reddit.com/r/devops/comments/18ewz55/where_to_now_faang_or_contract/) | Mindless_Rice_3109 | 5 |
-| [DevOps as a service](https://www.reddit.com/r/devops/comments/18f0umq/devops_as_a_service/) | happykeyboardwarrior | 3 |
-| [Using Vault in Gitlab CI?](https://www.reddit.com/r/devops/comments/18f14ac/using_vault_in_gitlab_ci/) | Bailey-96 | 2 |
-| [Seeking Advice: Best CI/CD Tool to Learn for Azure Integration as a Beginner?](https://www.reddit.com/r/devops/comments/18egay5/seeking_advice_best_cicd_tool_to_learn_for_azure/) | WiseUnderstanding669 | 1 |
-| [Looking for resources on Kubernetes / OpenShift](https://www.reddit.com/r/devops/comments/18f0n16/looking_for_resources_on_kubernetes_openshift/) | NoWayItzJess | 1 |
-| [I just created a DevOps channel on YouTube.](https://www.reddit.com/r/devops/comments/18eh4f5/i_just_created_a_devops_channel_on_youtube/) | UncommonDevopsWisdom | 0 |
+| [Those who work in Fintech in the US, would you recommend it?](https://www.reddit.com/r/devops/comments/18fbbsp/those_who_work_in_fintech_in_the_us_would_you/) | ebinsugewa | 20 |
+| [Imagine the best Kubernetes Dashboard. What does it have?](https://www.reddit.com/r/devops/comments/18faguy/imagine_the_best_kubernetes_dashboard_what_does/) | userocetta | 19 |
+| [Thoughts on leveraging competing offer?](https://www.reddit.com/r/devops/comments/18f70lr/thoughts_on_leveraging_competing_offer/) | BrokenKage | 16 |
+| [Apache APISIX plugin priority, a leaky abstraction?](https://www.reddit.com/r/devops/comments/18fc9jp/apache_apisix_plugin_priority_a_leaky_abstraction/) | nfrankel | 10 |
+| [What would you tell a jr. software dev to focus on if they wanted to eventually move towards DevOps and had a week to just learn whatever?](https://www.reddit.com/r/devops/comments/18fmskz/what_would_you_tell_a_jr_software_dev_to_focus_on/) | Crabiolo | 9 |
+| [Platform engineering hype](https://www.reddit.com/r/devops/comments/18fshs8/platform_engineering_hype/) | No-Leather6291 | 4 |
+| [Ops to DevOps: roast my resume](https://www.reddit.com/r/devops/comments/18fiiha/ops_to_devops_roast_my_resume/) | Apprehensive-Flight4 | 4 |
+| [Is the Backstage-path worth taking?](https://www.reddit.com/r/devops/comments/18f2t2s/is_the_backstagepath_worth_taking/) | fisterdister | 2 |
+| [[2 YOE] Resume Review](https://www.reddit.com/r/devops/comments/18frdfz/2_yoe_resume_review/) | Horikoshi | 1 |
+| [Infinite PXE boot loop](https://www.reddit.com/r/devops/comments/18fq49m/infinite_pxe_boot_loop/) | Lueton | 1 |
