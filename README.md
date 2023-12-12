@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 | Title | Author | Score |
 |:---|:---|:---|
-| [Those who work in Fintech in the US, would you recommend it?](https://www.reddit.com/r/devops/comments/18fbbsp/those_who_work_in_fintech_in_the_us_would_you/) | ebinsugewa | 20 |
-| [Imagine the best Kubernetes Dashboard. What does it have?](https://www.reddit.com/r/devops/comments/18faguy/imagine_the_best_kubernetes_dashboard_what_does/) | userocetta | 19 |
-| [Thoughts on leveraging competing offer?](https://www.reddit.com/r/devops/comments/18f70lr/thoughts_on_leveraging_competing_offer/) | BrokenKage | 16 |
-| [Apache APISIX plugin priority, a leaky abstraction?](https://www.reddit.com/r/devops/comments/18fc9jp/apache_apisix_plugin_priority_a_leaky_abstraction/) | nfrankel | 10 |
-| [What would you tell a jr. software dev to focus on if they wanted to eventually move towards DevOps and had a week to just learn whatever?](https://www.reddit.com/r/devops/comments/18fmskz/what_would_you_tell_a_jr_software_dev_to_focus_on/) | Crabiolo | 9 |
-| [Platform engineering hype](https://www.reddit.com/r/devops/comments/18fshs8/platform_engineering_hype/) | No-Leather6291 | 4 |
-| [Ops to DevOps: roast my resume](https://www.reddit.com/r/devops/comments/18fiiha/ops_to_devops_roast_my_resume/) | Apprehensive-Flight4 | 4 |
-| [Is the Backstage-path worth taking?](https://www.reddit.com/r/devops/comments/18f2t2s/is_the_backstagepath_worth_taking/) | fisterdister | 2 |
-| [[2 YOE] Resume Review](https://www.reddit.com/r/devops/comments/18frdfz/2_yoe_resume_review/) | Horikoshi | 1 |
-| [Infinite PXE boot loop](https://www.reddit.com/r/devops/comments/18fq49m/infinite_pxe_boot_loop/) | Lueton | 1 |
+| [Anti-Patterns in DevOps](https://www.reddit.com/r/devops/comments/18g148s/antipatterns_in_devops/) | Born_Memory5575 | 77 |
+| [Is there such a thing as 'DevOps from scratch'?](https://www.reddit.com/r/devops/comments/18fzvbf/is_there_such_a_thing_as_devops_from_scratch/) | Silent_Background453 | 20 |
+| [Are there DevOps public sector roles?](https://www.reddit.com/r/devops/comments/18fxm15/are_there_devops_public_sector_roles/) | Unusual_Impression_8 | 8 |
+| [How do cloud database providers deal with the network?](https://www.reddit.com/r/devops/comments/18gjb98/how_do_cloud_database_providers_deal_with_the/) | OstapBregin | 4 |
+| [Trouble with Traefik and Docker Setup: DNS Address Issue](https://www.reddit.com/r/devops/comments/18fwx3q/trouble_with_traefik_and_docker_setup_dns_address/) | True_Perception2731 | 3 |
+| [Looking for alternatives to StrongDM](https://www.reddit.com/r/devops/comments/18gg1s4/looking_for_alternatives_to_strongdm/) | alexfoot420 | 3 |
+| [Easy way secure Docker Rootless](https://www.reddit.com/r/devops/comments/18ggkve/easy_way_secure_docker_rootless/) | kiagamj | 1 |
+| [Does anyone have any good pipeline references for COTS applications?](https://www.reddit.com/r/devops/comments/18fvsoi/does_anyone_have_any_good_pipeline_references_for/) | jona187bx | 1 |
+| [🚀 Exciting Announcement: New Course Launch! 🚀 🔍 Course Name: Automation with Ansible and AWX](https://www.reddit.com/r/devops/comments/18fvhzw/exciting_announcement_new_course_launch_course/) | techlatest_net | 0 |
+| [People who run Prometheus, VictoriaMetrics, Mimir, Thanos and such systems.](https://www.reddit.com/r/devops/comments/18g4j6p/people_who_run_prometheus_victoriametrics_mimir/) | meson10 | 0 |
