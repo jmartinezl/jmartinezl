@@ -2,7 +2,7 @@ name: Profile Updater
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -10,20 +10,14 @@ jobs:
 
     steps:
       
-      - uses: actions/checkout@v2
-
-      - uses: actions/cache@v2
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+      - uses: actions/checkout@v3
 
       - name: Setting up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
-          python-version: "3.9"
+          python-version: "3.12"
           architecture: "x64"
+          cache: "pip"
 
       - name: Running Scripts
         run: |
@@ -32,5 +26,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Updated profile."
+          git commit -m "Update Profile"
           git push
