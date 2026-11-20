@@ -30,13 +30,17 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Collect outputs
-        run: mv profile-3d-contrib dist/
+        run: |
+          mkdir -p public
+          cp -r dist/. public/
+          cp -r profile-3d-contrib public/
+          ls -R public
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: public
           jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
