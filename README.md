@@ -22,16 +22,10 @@
 
 ---
 
-### 📊 Contributions
+### 🎮 Break the stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmartinezl/jmartinezl/output/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmartinezl/jmartinezl/output/profile-3d-contrib/profile-green-animate.svg">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/jmartinezl/jmartinezl/output/profile-3d-contrib/profile-green-animate.svg">
-</picture>
+<a href="https://jmartinezl.github.io/jmartinezl/">
+  <img src="assets/breakout.svg" alt="Brick breaker animation: breaking a wall of platform tools" width="100%">
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmartinezl/jmartinezl/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmartinezl/jmartinezl/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/jmartinezl/jmartinezl/output/github-snake.svg">
-</picture>
+<p align="center"><a href="https://jmartinezl.github.io/jmartinezl/"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20it-3fb950?style=for-the-badge" alt="Play it"></a></p>

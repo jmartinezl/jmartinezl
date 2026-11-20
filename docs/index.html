@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Platform Breakout</title>
+<style>
+  :root { --bg: #0d1117; --panel: #161b22; --border: #30363d; --text: #c9d1d9; --muted: #8b949e; --accent: #3fb950; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text);
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  body { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 16px; gap: 12px; }
+  .window { width: 100%; max-width: 800px; border: 1px solid var(--border); border-radius: 12px; overflow: hidden; background: var(--bg); }
+  .bar { display: flex; align-items: center; gap: 8px; padding: 8px 14px; border-bottom: 1px solid var(--border); font-size: 13px; }
+  .dot { width: 12px; height: 12px; border-radius: 50%; }
+  .bar .cmd { color: var(--muted); margin-left: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar .cmd b { color: var(--text); font-weight: 400; }
+  .bar .stats { margin-left: auto; color: var(--accent); white-space: nowrap; }
+  canvas { display: block; width: 100%; height: auto; touch-action: none; cursor: none; }
+  .help { color: var(--muted); font-size: 12px; text-align: center; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="window">
+  <div class="bar">
+    <span class="dot" style="background:#ff5f57"></span><span class="dot" style="background:#febc2e"></span><span class="dot" style="background:#28c840"></span>
+    <span class="cmd">jmartinezl@platform:~$ <b>./deploy --mode=breakout</b></span>
+    <span class="stats" id="stats"></span>
+  </div>
+  <canvas id="game" width="800" height="420"></canvas>
+</div>
+<p class="help">Mouse / touch / ← → to move · click, tap or space to launch · <a href="https://github.com/jmartinezl">back to profile</a></p>
+<script>
+const W = 800, H = 420;
+const COLS = 8, BRICK_W = 90, BRICK_H = 24, GAP = 6, TOP = 50, ROW_STEP = 30;
+const MARGIN = (W - COLS * BRICK_W - (COLS - 1) * GAP) / 2;
+const BALL_R = 6, PADDLE_W = 110, PADDLE_H = 10, PADDLE_Y = 395, MAX_ANGLE = Math.PI / 3;
+const ROWS = [
+  [["Claude", "MCP", "Agents", "LLMs"], "#D97757", "#fff"],
+  [["Python", "Node.js", "Bash"], "#3776AB", "#fff"],
+  [["AWS", "EKS", "Docker", "Helm"], "#FF9900", "#111"],
+  [["Actions", "GitLab CI", "Spinnaker"], "#2088FF", "#fff"],
+  [["Datadog", "Prometheus", "Grafana"], "#632CA6", "#fff"],
+  [["WAF", "Cloudflare"], "#DD344C", "#fff"],
+];
+
+const canvas = document.getElementById("game");
+const ctx = canvas.getContext("2d");
+const statsEl = document.getElementById("stats");
+const dpr = window.devicePixelRatio || 1;
+canvas.width = W * dpr;
+canvas.height = H * dpr;
+ctx.scale(dpr, dpr);
+
+let bricks, ball, paddleX, lives, score, level, state, keys = {};
+
+function makeBricks() {
+  const list = [];
+  ROWS.forEach(([labels, fill, text], r) => {
+    for (let c = 0; c < COLS; c++) {
+      list.push({ x: MARGIN + c * (BRICK_W + GAP), y: TOP + r * ROW_STEP,
+        label: labels[(c + r) % labels.length], fill, text, alive: true });
+    }
+  });
+  return list;
+}
+
+function speed() { return 380 + (level - 1) * 60; }
+
+function resetBall() {
+  ball = { x: paddleX + PADDLE_W / 2, y: PADDLE_Y - BALL_R, vx: 0, vy: 0 };
+  state = "ready";
+}
+
+function newGame() {
+  level = 1; lives = 3; score = 0;
+  bricks = makeBricks();
+  paddleX = (W - PADDLE_W) / 2;
+  resetBall();
+}
+
+function launch() {
+  if (state === "over" || state === "won") { newGame(); return; }
+  if (state !== "ready") return;
+  const angle = (Math.random() - 0.5) * MAX_ANGLE;
+  ball.vx = speed() * Math.sin(angle);
+  ball.vy = -speed() * Math.cos(angle);
+  state = "playing";
+}
+
+function movePaddleTo(clientX) {
+  const rect = canvas.getBoundingClientRect();
+  const x = (clientX - rect.left) / rect.width * W;
+  paddleX = Math.max(0, Math.min(W - PADDLE_W, x - PADDLE_W / 2));
+}
+
+canvas.addEventListener("mousemove", e => movePaddleTo(e.clientX));
+canvas.addEventListener("click", launch);
+canvas.addEventListener("touchstart", e => { movePaddleTo(e.touches[0].clientX); launch(); e.preventDefault(); }, { passive: false });
+canvas.addEventListener("touchmove", e => { movePaddleTo(e.touches[0].clientX); e.preventDefault(); }, { passive: false });
+window.addEventListener("keydown", e => {
+  keys[e.key] = true;
+  if (e.key === " ") { launch(); e.preventDefault(); }
+});
+window.addEventListener("keyup", e => { keys[e.key] = false; });
+
+function step(dt) {
+  if (keys.ArrowLeft) paddleX = Math.max(0, paddleX - 600 * dt);
+  if (keys.ArrowRight) paddleX = Math.min(W - PADDLE_W, paddleX + 600 * dt);
+  if (state === "ready") { ball.x = paddleX + PADDLE_W / 2; return; }
+  if (state !== "playing") return;
+
+  const px = ball.x, py = ball.y;
+  ball.x += ball.vx * dt;
+  ball.y += ball.vy * dt;
+
+  if (ball.x < BALL_R || ball.x > W - BALL_R) {
+    ball.x = Math.min(Math.max(ball.x, BALL_R), W - BALL_R);
+    ball.vx = -ball.vx;
+  }
+  if (ball.y < BALL_R) { ball.y = BALL_R; ball.vy = -ball.vy; }
+
+  for (const b of bricks) {
+    if (!b.alive) continue;
+    const x0 = b.x - BALL_R, x1 = b.x + BRICK_W + BALL_R, y0 = b.y - BALL_R, y1 = b.y + BRICK_H + BALL_R;
+    if (ball.x >= x0 && ball.x <= x1 && ball.y >= y0 && ball.y <= y1) {
+      b.alive = false;
+      score += 10 * level;
+      if (px < x0 || px > x1) { ball.vx = -ball.vx; ball.x = px; } else { ball.vy = -ball.vy; ball.y = py; }
+      break;
+    }
+  }
+
+  if (ball.vy > 0 && ball.y >= PADDLE_Y - BALL_R && py < PADDLE_Y - BALL_R + 1 &&
+      ball.x >= paddleX - BALL_R && ball.x <= paddleX + PADDLE_W + BALL_R) {
+    const offset = Math.max(-1, Math.min(1, (ball.x - paddleX - PADDLE_W / 2) / (PADDLE_W / 2)));
+    ball.y = PADDLE_Y - BALL_R;
+    ball.vx = speed() * Math.sin(offset * MAX_ANGLE);
+    ball.vy = -speed() * Math.cos(offset * MAX_ANGLE);
+  }
+
+  if (ball.y > H + BALL_R) {
+    lives -= 1;
+    if (lives <= 0) state = "over"; else resetBall();
+  }
+
+  if (bricks.every(b => !b.alive)) {
+    if (level >= 3) { state = "won"; return; }
+    level += 1;
+    bricks = makeBricks();
+    resetBall();
+  }
+}
+
+function roundRect(x, y, w, h, r, fill) {
+  ctx.fillStyle = fill;
+  ctx.beginPath();
+  ctx.roundRect(x, y, w, h, r);
+  ctx.fill();
+}
+
+function message(text, sub) {
+  ctx.textAlign = "center";
+  ctx.fillStyle = "#3fb950";
+  ctx.font = "700 22px ui-monospace, Menlo, monospace";
+  ctx.fillText(text, W / 2, H / 2 + 40);
+  ctx.fillStyle = "#8b949e";
+  ctx.font = "13px ui-monospace, Menlo, monospace";
+  ctx.fillText(sub, W / 2, H / 2 + 66);
+}
+
+function draw() {
+  ctx.fillStyle = "#0d1117";
+  ctx.fillRect(0, 0, W, H);
+  ctx.textAlign = "center";
+  ctx.font = "600 11px ui-monospace, Menlo, monospace";
+  for (const b of bricks) {
+    if (!b.alive) continue;
+    roundRect(b.x, b.y, BRICK_W, BRICK_H, 4, b.fill);
+    ctx.fillStyle = b.text;
+    ctx.fillText(b.label, b.x + BRICK_W / 2, b.y + 16);
+  }
+  roundRect(paddleX, PADDLE_Y, PADDLE_W, PADDLE_H, 5, "#3fb950");
+  if (state === "ready" || state === "playing") {
+    ctx.fillStyle = "#f0f6fc";
+    ctx.beginPath();
+    ctx.arc(ball.x, ball.y, BALL_R, 0, Math.PI * 2);
+    ctx.fill();
+  }
+  if (state === "ready") message(`level ${level}: ready to deploy`, "click, tap or press space to launch");
+  if (state === "over") message("✗ deploy failed: out of retries", "click, tap or press space to roll back and retry");
+  if (state === "won") message("✓ all systems operational", "click, tap or press space to play again");
+  statsEl.textContent = `lvl ${level} · ${"♥".repeat(Math.max(lives, 0))} · ${score}`;
+}
+
+let last = performance.now();
+function loop(now) {
+  let dt = Math.min((now - last) / 1000, 0.05);
+  last = now;
+  while (dt > 0) {
+    const sub = Math.min(dt, 1 / 240);
+    step(sub);
+    dt -= sub;
+  }
+  draw();
+  requestAnimationFrame(loop);
+}
+
+newGame();
+requestAnimationFrame(loop);
+</script>
+</body>
+</html>
